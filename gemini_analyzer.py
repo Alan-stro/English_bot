@@ -1,9 +1,7 @@
-import json
 import os
-from topic_picker import get_topic, get_difficulty
-from youtube_fetcher import search_videos
-from gemini_analyzer import analyze_video
-from email_sender import send_daily_email
+import re
+from google import genai
+from utils import is_within_duration, parse_duration_seconds
 
 HISTORY_FILE = "history.json"
 MAX_VIDEOS = 2
