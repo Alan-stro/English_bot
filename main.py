@@ -59,7 +59,7 @@ def main():
 
     # 邮件发送失败不影响 history 更新
     try:
-        send_daily_email(topic, analyses)
+        send_daily_email(topic, difficulty, analyses)
     except Exception as e:
         print(f"[主流程] 邮件发送失败：{e}")
         raise
