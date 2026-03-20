@@ -1,16 +1,14 @@
 import json
 import os
-import google.generativeai as genai
+from google import genai
+
 
 def get_topic() -> str:
-
-    # 优先级 1：workflow_dispatch 传入的环境变量
     manual = os.environ.get("MANUAL_TOPIC", "").strip()
     if manual:
         print(f"[话题] 来自 Actions 参数：{manual}")
         return manual
 
-    # 优先级 2：config.json 手动指定
     try:
         with open("config.json", "r") as f:
             config = json.load(f)
@@ -24,15 +22,13 @@ def get_topic() -> str:
     except Exception as e:
         print(f"[话题] 读取 config.json 失败：{e}")
 
-    # 优先级 3：Gemini 自由生成
     return _gemini_pick_topic()
 
 
 def _gemini_pick_topic() -> str:
     recent = _load_recent_topics()
 
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel("gemini-2.5-flash")
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
     prompt = f"""你是一个英语学习内容策划人。
 
@@ -47,7 +43,10 @@ def _gemini_pick_topic() -> str:
 只输出话题本身，中英文均可，不要任何解释或标点。"""
 
     try:
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+        )
         topic = response.text.strip()
         print(f"[话题] Gemini 生成：{topic}")
         return topic
