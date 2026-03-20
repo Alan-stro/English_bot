@@ -61,10 +61,13 @@ def analyze_video(video_id: str, title: str) -> dict | None:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=[
-                {"role": "user", "parts": [
-                    {"file_data": {"mime_type": "video/youtube", "file_uri": url}},
-                    PROMPT,
-                ]}
+                genai.types.Part(
+                    file_data=genai.types.FileData(
+                        mime_type="video/youtube",
+                        file_uri=url,
+                    )
+                ),
+                PROMPT,
             ],
         )
         raw = response.text.strip()
@@ -137,7 +140,7 @@ def _clean_cards(text: str) -> str:
     blocks = [b.strip() for b in text.split("\n\n") if b.strip()]
     fixed = []
     for block in blocks:
-        lines = [l.rstrip() for l in block.splitlines() if l.strip()]
+        lines = [ln.rstrip() for ln in block.splitlines() if ln.strip()]
         if not lines:
             continue
         if "---" not in lines and len(lines) >= 2:
