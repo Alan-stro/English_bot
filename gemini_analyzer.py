@@ -4,12 +4,22 @@ from google import genai
 from utils import is_within_duration, parse_duration_seconds
 
 
-def build_prompt(difficulty: str) -> str:
+def build_prompt(difficulty: str, check_difficulty_mismatch: bool = False) -> str:
+    mismatch_block = ""
+    if check_difficulty_mismatch:
+        mismatch_block = f"""
+
+---DIFFICULTY_MISMATCH---
+判断这个视频是否明显超出 {difficulty} 水平。
+综合考虑语速、词汇密度、话题专业度。
+如果整体难度明显高于 {difficulty}（例如目标是 B2 但视频是快速金融播报或高密度学术讨论），输出 true，否则输出 false。
+只输出 true 或 false，不要其他内容。"""
+
     return f"""请分析这个视频，完成以下步骤：
 
 第一步：判断视频主要语言。
 如果主要语言不是英语，只输出一行：NOT_ENGLISH
-然后停止，不要输出任何其他内容。
+然后停止，不要输出任何其他内容。{mismatch_block}
 
 第二步：评估视频整体英语难度等级（A2 / B1 / B2 / C1 / C2）。
 
@@ -51,7 +61,7 @@ def build_prompt(difficulty: str) -> str:
 """
 
 
-def analyze_video(video_id: str, title: str, difficulty: str = "B2") -> dict | None:
+def analyze_video(video_id: str, title: str, difficulty: str = "B2", check_difficulty_mismatch: bool = False) -> dict | None:
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     url = f"https://www.youtube.com/watch?v={video_id}"
 
@@ -65,7 +75,7 @@ def analyze_video(video_id: str, title: str, difficulty: str = "B2") -> dict | N
                         file_uri=url,
                     )
                 ),
-                build_prompt(difficulty),
+                build_prompt(difficulty, check_difficulty_mismatch),
             ],
         )
         raw = response.text.strip()
@@ -83,19 +93,21 @@ def analyze_video(video_id: str, title: str, difficulty: str = "B2") -> dict | N
 
 def _parse(raw: str, video_id: str, title: str, difficulty: str) -> dict:
     result = {
-        "video_id":      video_id,
-        "title":         title,
-        "url":           f"https://www.youtube.com/watch?v={video_id}",
-        "target_level":  difficulty,
-        "actual_level":  "",
-        "cards":         "",
-        "pronunciation": [],
-        "summary":       "",
-        "sentences":     [],
-        "grammar":       [],
+        "video_id":            video_id,
+        "title":               title,
+        "url":                 f"https://www.youtube.com/watch?v={video_id}",
+        "target_level":        difficulty,
+        "actual_level":        "",
+        "difficulty_mismatch": False,
+        "cards":               "",
+        "pronunciation":       [],
+        "summary":             "",
+        "sentences":           [],
+        "grammar":             [],
     }
 
     markers = [
+        "---DIFFICULTY_MISMATCH---",
         "---LEVEL---",
         "---CARDS---",
         "---PRONUNCIATION---",
@@ -103,7 +115,7 @@ def _parse(raw: str, video_id: str, title: str, difficulty: str) -> dict:
         "---SENTENCES---",
         "---GRAMMAR---",
     ]
-    keys = ["level", "cards", "pronunciation", "summary", "sentences", "grammar"]
+    keys = ["mismatch", "level", "cards", "pronunciation", "summary", "sentences", "grammar"]
 
     blocks = {}
     for i, marker in enumerate(markers):
@@ -114,6 +126,8 @@ def _parse(raw: str, video_id: str, title: str, difficulty: str) -> dict:
         end = raw.find(markers[i + 1]) if i + 1 < len(markers) else len(raw)
         blocks[keys[i]] = raw[start:end].strip()
 
+    mismatch_val = blocks.get("mismatch", "false").strip().lower()
+    result["difficulty_mismatch"] = (mismatch_val == "true")
     result["actual_level"] = blocks.get("level", "").strip().upper()
     result["cards"]        = _clean_cards(blocks.get("cards", ""))
     result["summary"]      = blocks.get("summary", "")
