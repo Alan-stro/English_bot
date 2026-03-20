@@ -36,23 +36,23 @@ def get_difficulty() -> str:
         print(f"[难度] 来自 Actions 参数：{manual}")
         return manual
 
-    # 优先级 2：config.json 手动指定
+    # Actions 反馈（比 config.json 更实时）
+    actions_feedback = os.environ.get("MANUAL_FEEDBACK", "").strip().lower()
+
     try:
         with open("config.json", "r") as f:
             config = json.load(f)
 
-        # 读取反馈，用完清空
-        feedback = config.get("feedback", "").strip().lower()
+        # Actions 反馈优先，其次 config.json 反馈
+        feedback = actions_feedback or config.get("feedback", "").strip().lower()
         if feedback:
             config["feedback"] = ""
             with open("config.json", "w") as f:
                 json.dump(config, f, ensure_ascii=False, indent=2)
             print(f"[难度] 收到反馈：{feedback}")
 
-        # 手动指定难度
         manual_diff = config.get("difficulty", "").strip().upper()
         if manual_diff in DIFFICULTY_LEVELS:
-            # 有反馈时根据反馈调整并回写
             adjusted = _adjust_by_feedback(manual_diff, feedback)
             if adjusted != manual_diff:
                 config["difficulty"] = adjusted
@@ -66,7 +66,6 @@ def get_difficulty() -> str:
     except Exception as e:
         print(f"[难度] 读取 config.json 失败：{e}")
 
-    # 优先级 3：AI 根据历史动态判断
     return _gemini_pick_difficulty()
 
 
