@@ -6,9 +6,22 @@ on:
   workflow_dispatch:
     inputs:
       topic:
-        description: '手动指定今日话题（留空则 AI 自动选）'
+        description: '手动指定话题（留空则 AI 自动选）'
         required: false
         default: ''
+      difficulty:
+        description: '手动指定难度（留空则 AI 自动，可填 A2/B1/B2/C1/C2）'
+        required: false
+        default: ''
+      feedback:
+        description: '对昨天视频的反馈'
+        required: false
+        default: ''
+        type: choice
+        options:
+          - ''
+          - too_easy
+          - too_hard
 
 jobs:
   run:
@@ -35,7 +48,7 @@ jobs:
           QQ_MAIL_PASSWORD: ${{ secrets.QQ_MAIL_PASSWORD }}
           TO_EMAIL:         ${{ secrets.TO_EMAIL }}
           MANUAL_TOPIC:     ${{ github.event.inputs.topic }}
-
+          MANUAL_FEEDBACK:  ${{ github.event.inputs.feedback }}
       - name: Save history
         run: |
           git config user.name "github-actions[bot]"
