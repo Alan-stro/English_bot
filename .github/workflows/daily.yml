@@ -2,7 +2,7 @@ name: Daily English Bot
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
   workflow_dispatch:
     inputs:
       topic:
@@ -42,17 +42,19 @@ jobs:
       - name: Run bot
         run: python main.py
         env:
-          GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
-          YOUTUBE_API_KEY:  ${{ secrets.YOUTUBE_API_KEY }}
-          QQ_MAIL_USER:     ${{ secrets.QQ_MAIL_USER }}
-          QQ_MAIL_PASSWORD: ${{ secrets.QQ_MAIL_PASSWORD }}
-          TO_EMAIL:         ${{ secrets.TO_EMAIL }}
-          MANUAL_TOPIC:     ${{ github.event.inputs.topic }}
-          MANUAL_FEEDBACK:  ${{ github.event.inputs.feedback }}
+          GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_API_KEY:   ${{ secrets.YOUTUBE_API_KEY }}
+          QQ_MAIL_USER:      ${{ secrets.QQ_MAIL_USER }}
+          QQ_MAIL_PASSWORD:  ${{ secrets.QQ_MAIL_PASSWORD }}
+          TO_EMAIL:          ${{ secrets.TO_EMAIL }}
+          MANUAL_TOPIC:      ${{ github.event.inputs.topic }}
+          MANUAL_DIFFICULTY: ${{ github.event.inputs.difficulty }}
+          MANUAL_FEEDBACK:   ${{ github.event.inputs.feedback }}
+
       - name: Save history
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add history.json config.json
+          git add history.json config.json records.json
           git diff --staged --quiet || git commit -m "chore: update history $(date +%Y-%m-%d)"
           git push
