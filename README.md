@@ -1,204 +1,157 @@
-# 🎧 English Bot
+# LingoPost 📬
+### 语言邮差 · 每天准时投递一份英语学习包
 
-> **每天自动推送 2 个精选英语视频，由 Gemini AI 分析内容，生成词汇卡片 + 摘要 + 句型 + 语法，发送到你的邮箱。**
+> 每天早上八点，一封英语学习邮件准时投进你的收件箱。
 
-&nbsp;
+LingoPost 是一个运行在 GitHub Actions 上的个人英语学习机器人。它每天自动从 YouTube 挑选英语视频，用 Gemini AI 分析内容，提取单词卡、语法亮点和地道句型，以精美的 HTML 邮件发送给你——同时把所有历史记录沉淀到一个静态看板，构成你专属的英语学习档案。
 
-```
-GitHub Actions 定时触发
-       ↓
-Gemini AI 自由选题（或你手动指定）
-       ↓
-YouTube Data API 搜索最热门英语视频
-       ↓
-Gemini 直接分析视频内容（无需下载字幕）
-       ↓
-生成词汇卡片 + 摘要 + 句型 + 语法亮点
-       ↓
-每天 08:00 发送到你的邮箱 📬
-```
-
-&nbsp;
-
-## ✨ 功能特点
-
-- **零维护** — 部署一次，每天自动运行，无需服务器
-- **AI 自由选题** — Gemini 根据历史记录自动选择不重复的话题，或你随时手动指定
-- **智能筛选视频** — 按播放量、点赞量综合评分排序，过滤非英美口音，精选 20 分钟内的视频
-- **非英语自动跳过** — Gemini 判断语言，非英语视频自动补位，保证每天 2 个
-- **原生视频理解** — Gemini 直接读取 YouTube URL，理解语气和语境，无需字幕
-- **墨墨记忆卡兼容** — 词汇卡片以附件形式发送，可直接导入墨墨 App
-
-&nbsp;
-
-## 📬 每日邮件内容
-
-每封邮件包含 **2 个视频** 的分析，以及 **2 个 `.txt` 附件**：
-
-| 邮件正文 | 附件 |
-|---|---|
-| 视频缩略图 + 跳转链接 | `markji_YYYY-MM-DD_video1.txt` |
-| 📝 视频摘要（3-4句） | `markji_YYYY-MM-DD_video2.txt` |
-| 💬 实用句型（3-5条） | 墨墨格式，可直接导入 |
-| 🔤 语法亮点（1-2条） | |
-| 📖 词汇卡片在附件中 | |
-
-**词汇卡片格式（墨墨兼容）：**
-
-```
-pitch in
 ---
-共同出力；凑钱帮忙
-Everyone pitched in to get the boss a birthday gift.
-大家一起凑钱给老板买了生日礼物。
 
-nail it
+## 功能概览
+
+### 📺 智能选片
+- 用 Gemini AI 自动生成今日话题（也可手动指定），确保话题多样、贴近真实英语语境
+- 支持**频道白名单**：收藏喜欢的 YouTube 频道，每天优先从中推送一个视频
+- 全网搜索兜底：白名单找不到合适内容时自动切换，保证每天稳定推送两个视频
+- 视频去重、时长过滤（4–20 分钟）、英美口音过滤、热度排序
+
+### 🤖 AI 深度分析
+每个视频由 Gemini 2.5 Flash 生成：
+
+| 内容 | 说明 |
+|------|------|
+| 单词卡片 | 5–8 个符合当日难度的词汇，含释义、例句、中文翻译 |
+| 发音指南 | 音标 + 中国人易读错的发音说明 |
+| 视频摘要 | 3–4 句中文概括 |
+| 地道句型 | 3–5 个口语句型，含中文解释 |
+| 语法亮点 | 1–2 个语法点，含视频原句示例 |
+
+### 📊 难度自适应
+- 支持 A2 / B1 / B2 / C1 / C2 五级
+- 根据你的反馈（太简单 / 太难）自动调整下次难度
+- 白名单视频额外经过难度匹配检测，避免推送远超当前水平的内容
+
+### 🗂️ 学习看板
+所有历史推送记录自动生成静态看板，托管在 GitHub Pages：
+- 搜索标题、话题、单词、语法点全文
+- 按话题、难度等级、来源（白名单 / 全网）筛选
+- 展开每条记录查看完整单词卡和分析内容
+
 ---
-完美完成；做得很棒
-She totally nailed the presentation today.
-她今天的演讲做得非常出色。
-```
 
-&nbsp;
-
-## 🗂️ 项目结构
+## 项目结构
 
 ```
-english_bot/
-├── .github/
-│   └── workflows/
-│       └── daily.yml          # GitHub Actions 定时任务
-├── main.py                    # 入口，串联所有模块
-├── topic_picker.py            # 话题选择（AI 自动 / 手动指定）
-├── youtube_fetcher.py         # YouTube 搜索 + 评分排序
-├── gemini_analyzer.py         # Gemini 视频分析 + 内容解析
-├── email_sender.py            # 邮件构建 + QQ SMTP 发送
-├── config.json                # 手动指定话题写这里
-├── history.json               # 已推送视频和话题记录（自动维护）
-└── requirements.txt           # Python 依赖
+LingoPost/
+├── main.py              # 主流程
+├── topic_picker.py      # 话题 & 难度选择（含中文自动翻译）
+├── youtube_fetcher.py   # YouTube 搜索 & 白名单频道搜索
+├── gemini_analyzer.py   # Gemini AI 视频分析
+├── email_sender.py      # HTML 邮件发送
+├── utils.py             # 工具函数
+├── channels.json        # 频道白名单配置
+├── config.json          # 手动话题 / 难度配置
+├── history.json         # 推送历史（自动维护）
+├── records.json         # 完整分析记录，供看板使用（自动维护）
+├── index.html           # Web 看板页面
+└── .github/
+    └── workflows/
+        └── daily.yml    # GitHub Actions 定时任务
 ```
 
-&nbsp;
+---
 
-## 🚀 部署教程
+## 快速开始
 
-### 第一步：准备 API Keys
+### 1. Fork 本仓库
 
-| Key | 获取地址 |
-|---|---|
-| `GEMINI_API_KEY` | [aistudio.google.com](https://aistudio.google.com) → Get API Key |
-| `YOUTUBE_API_KEY` | [console.cloud.google.com](https://console.cloud.google.com) → 启用 YouTube Data API v3 → 凭据 → 创建 API 密钥 |
-| `QQ_MAIL_PASSWORD` | QQ 邮箱网页版 → 设置 → 账户 → 开启 SMTP → 生成授权码（16位，非登录密码） |
+点击右上角 **Fork**，将项目复制到你自己的 GitHub 账号下。
 
-### 第二步：Fork 或克隆本仓库
+### 2. 配置 Secrets
 
-```bash
-git clone https://github.com/你的用户名/english_bot.git
-cd english_bot
-```
+进入仓库 **Settings → Secrets and variables → Actions**，添加以下五个 Secret：
 
-### 第三步：添加 GitHub Secrets
+| Secret 名称 | 说明 |
+|-------------|------|
+| `GEMINI_API_KEY` | [Google AI Studio](https://aistudio.google.com/) 申请，免费额度足够日常使用 |
+| `YOUTUBE_API_KEY` | [Google Cloud Console](https://console.cloud.google.com/) 启用 YouTube Data API v3 |
+| `QQ_MAIL_USER` | 你的 QQ 邮箱地址 |
+| `QQ_MAIL_PASSWORD` | QQ 邮箱**授权码**（非登录密码，在邮箱设置中生成） |
+| `TO_EMAIL` | 接收邮件的邮箱地址 |
 
-进入仓库 → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**
+### 3. 配置频道白名单（可选）
 
-添加以下 5 个 Secret：
-
-```
-GEMINI_API_KEY       你的 Gemini API Key
-YOUTUBE_API_KEY      你的 YouTube Data API Key
-QQ_MAIL_USER         你的QQ邮箱，如 123456@qq.com
-QQ_MAIL_PASSWORD     QQ 邮箱 16 位授权码
-TO_EMAIL             接收邮件的地址（可以是同一个 QQ 邮箱）
-```
-
-### 第四步：开启 Actions 写权限
-
-仓库 → **Settings** → **Actions** → **General** → **Workflow permissions** → 选 **Read and write permissions** → Save
-
-### 第五步：手动触发测试
-
-仓库 → **Actions** → **Daily English Bot** → **Run workflow**
-
-可以在 topic 输入框填入话题（如 `咖啡店点单`）测试，留空则 AI 自动选题。
-
-等待约 1 分钟，检查邮箱是否收到邮件 ✅
-
-&nbsp;
-
-## ⚙️ 话题控制
-
-### 方式一：让 AI 自动选题（默认）
-
-什么都不做，Gemini 每天根据历史记录自由生成一个新话题，保证不重复。
-
-### 方式二：手动修改 `config.json`
-
-编辑仓库里的 `config.json`：
+编辑 `channels.json`，填入你喜欢的 YouTube 频道 ID：
 
 ```json
 {
-  "topic": "在美国租房谈合同"
+  "enabled": true,
+  "fallback_to_search": true,
+  "channels": [
+    { "name": "The Economist", "channel_id": "UC0p5jTq6Xx_DosDFxVXnWaQ" },
+    { "name": "English Podd",  "channel_id": "UCWhX9SjClPqpgnfOqnzLyGQ" }
+  ]
 }
 ```
 
-下次运行会使用这个话题，用完自动清空，之后恢复 AI 自动选题。
+> 获取频道 ID：在 YouTube 频道页面右键「查看页面源码」，搜索 `channelId` 即可找到 `UCxxxxxx` 格式的 ID。
 
-### 方式三：触发 Actions 时传参数
+### 4. 开启 GitHub Pages（看板）
 
-仓库 → Actions → Daily English Bot → Run workflow → 在 topic 输入框填入话题
+进入仓库 **Settings → Pages**，Source 选择 `Deploy from a branch`，Branch 选 `main`，目录选 `/ (root)`，保存后稍等一分钟，即可通过 `https://你的用户名.github.io/LingoPost/` 访问学习看板。
 
-优先级：`Actions 参数` > `config.json` > `AI 自动`
+### 5. 触发第一次运行
 
-&nbsp;
+进入仓库 **Actions → Daily English Bot → Run workflow**，点击 **Run workflow** 手动触发一次，验证配置是否正确。
 
-## 💰 费用估算
+---
 
-| 服务 | 费用 |
-|---|---|
-| Gemini 2.5 Flash | 约 ¥0.02 / 天（每月 < ¥1） |
-| YouTube Data API | 免费（每日配额足够） |
-| GitHub Actions | 免费（每月 2000 分钟，每天用不到 2 分钟） |
-| QQ 邮件 SMTP | 免费 |
-| **合计** | **每月 < ¥1** |
+## 手动控制
 
-> Gemini API 有免费层，初期完全免费，稳定后再考虑是否付费。
+在 Actions 页面手动触发时，可以填写以下参数：
 
-&nbsp;
+| 参数 | 说明 | 示例 |
+|------|------|------|
+| `topic` | 指定今日话题，支持中文（自动翻译为英文） | `旅行` 或 `travel tips` |
+| `difficulty` | 指定难度等级 | `B1` / `B2` / `C1` |
+| `feedback` | 对昨天内容的反馈，影响下次难度 | `too_easy` / `too_hard` |
 
-## 🛠️ 本地运行
+留空则全部由 AI 自动决定。
 
-```bash
-# 安装依赖
-pip install -r requirements.txt
+---
 
-# 设置环境变量
-export GEMINI_API_KEY=你的key
-export YOUTUBE_API_KEY=你的key
-export QQ_MAIL_USER=你的邮箱
-export QQ_MAIL_PASSWORD=你的授权码
-export TO_EMAIL=接收邮箱
+## 运行时间
 
-# 手动指定话题（可选）
-export MANUAL_TOPIC=咖啡店点单
+默认每天 **UTC 00:00**（北京时间 08:00）自动运行。
 
-# 运行
-python main.py
+如需修改，编辑 `.github/workflows/daily.yml` 中的 cron 表达式：
+
+```yaml
+- cron: '0 0 * * *'  # UTC 时间，0 0 = 00:00
 ```
 
-&nbsp;
+---
 
-## 📦 依赖
+## 技术栈
 
-```
-google-genai
-google-api-python-client
-requests
-```
+- **运行环境**：GitHub Actions（完全免费）
+- **AI 分析**：Google Gemini 2.5 Flash
+- **视频来源**：YouTube Data API v3
+- **邮件发送**：Python `smtplib` + QQ 邮箱 SMTP
+- **看板托管**：GitHub Pages（纯静态，无需服务器）
 
-Python 3.11+
+---
 
-&nbsp;
+## 常见问题
 
-## 📄 License
+**Q：Gemini / YouTube API 免费额度够用吗？**
+每天运行一次，分析两个视频，Gemini 免费额度完全足够。YouTube Data API 每日免费配额为 10,000 单位，每次运行消耗约 100 单位，也绰绰有余。
 
-MIT © 2026 Alan-stro
+**Q：为什么有时候只推送了一个视频？**
+YouTube 搜索结果经过时长、口音、去重多重过滤后，有时候合格的候选视频不足两个。这是正常现象，不影响整体使用。
+
+**Q：看板数据什么时候更新？**
+每次 Actions 运行完成后，`records.json` 会自动 commit 回仓库，GitHub Pages 随即刷新，通常延迟不超过 2 分钟。
+
+**Q：手动输入中文话题可以吗？**
+可以。`topic_picker.py` 会自动检测中文并调用 Gemini 翻译成适合 YouTube 搜索的英文关键词。
