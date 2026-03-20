@@ -2,7 +2,7 @@ import os
 import json
 import math
 import requests
-from gemini_analyzer import is_within_duration
+from utils import is_within_duration
 
 PREFERRED_REGIONS = {"en", "en-US", "en-GB", "en-AU", "en-CA"}
 
