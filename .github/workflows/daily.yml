@@ -1,0 +1,65 @@
+name: Daily English Bot
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: '手动指定今日话题（留空则 AI 自动选）'
+        required: false
+        default: ''
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行 Bot
+        run: python main.py
+        env:
+          GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_API_KEY:   ${{ secrets.YOUTUBE_API_KEY }}
+          QQ_MAIL_USER:      ${{ secrets.QQ_MAIL_USER }}
+          QQ_MAIL_PASSWORD:  ${{ secrets.QQ_MAIL_PASSWORD }}
+          TO_EMAIL:          ${{ secrets.TO_EMAIL }}
+          MANUAL_TOPIC:      ${{ github.event.inputs.topic }}
+
+      - name: 写回 history.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json config.json
+          git diff --staged --quiet || git commit -m "chore: update history $(date +%Y-%m-%d)"
+          git push
+```
+
+---
+
+## 部署步骤（一次性操作）
+
+**1. 创建 GitHub 仓库**
+
+去 GitHub 新建一个 **Private** 仓库，名字比如 `english-bot`，然后把所有文件上传：
+```
+english-bot/
+├── .github/workflows/daily.yml
+├── main.py
+├── topic_picker.py
+├── youtube_fetcher.py
+├── gemini_analyzer.py
+├── email_sender.py
+├── config.json
+├── history.json
+└── requirements.txt
