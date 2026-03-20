@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "fallback_to_search": true,
+  "channels": [
+    {
+      "name": "The Economist",
+      "channel_id": "UC0p5jTq6Xx_DosDFxVXnWaQ"
+    },
+    {
+      "name": "English Podd",
+      "channel_id": "UCWhX9SjClPqpgnfOqnzLyGQ"
+    },
+    {
+      "name": "Life of Riza",
+      "channel_id": "UCRZ1OquIwGiUjJS7SXW4Fdg"
+    },
+    {
+      "name": "CNBC",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA"
+    }
+  ]
+}
