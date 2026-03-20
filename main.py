@@ -1,12 +1,14 @@
 import json
 import os
 import time
+from datetime import date
 from topic_picker import get_topic, get_difficulty
 from youtube_fetcher import search_videos, search_videos_from_channel
 from gemini_analyzer import analyze_video
 from email_sender import send_daily_email
 
 HISTORY_FILE = "history.json"
+RECORDS_FILE = "records.json"
 MAX_VIDEOS = 2
 
 
@@ -39,6 +41,43 @@ def save_history(new_video_ids: list, topic: str, difficulty: str, feedback: str
 
     with open(HISTORY_FILE, "w") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
+
+
+def save_records(topic: str, difficulty: str, analyses: list, whitelist_video_id: str | None):
+    """把本次完整分析结果追加写入 records.json，供 Web 看板使用。"""
+    try:
+        with open(RECORDS_FILE, "r") as f:
+            records = json.load(f)
+    except Exception:
+        records = []
+
+    videos = []
+    for a in analyses:
+        videos.append({
+            "video_id":      a["video_id"],
+            "title":         a["title"],
+            "url":           a["url"],
+            "target_level":  a["target_level"],
+            "actual_level":  a["actual_level"],
+            "from_whitelist": a["video_id"] == whitelist_video_id,
+            "summary":       a.get("summary", ""),
+            "cards":         a.get("cards", ""),
+            "pronunciation": a.get("pronunciation", []),
+            "sentences":     a.get("sentences", []),
+            "grammar":       a.get("grammar", []),
+        })
+
+    records.append({
+        "date":       date.today().isoformat(),
+        "topic":      topic,
+        "difficulty": difficulty,
+        "videos":     videos,
+    })
+
+    with open(RECORDS_FILE, "w") as f:
+        json.dump(records, f, ensure_ascii=False, indent=2)
+
+    print(f"[记录] 已写入 {RECORDS_FILE}，当前共 {len(records)} 条记录")
 
 
 def main():
@@ -119,6 +158,12 @@ def main():
         difficulty,
         feedback,
         last_channel_id=used_channel_id,
+    )
+    save_records(
+        topic,
+        difficulty,
+        analyses,
+        whitelist_video_id=channel_video["video_id"] if channel_video else None,
     )
     print(f"=== 完成，共推送 {len(analyses)} 个视频 ===")
 
