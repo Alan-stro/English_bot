@@ -2,6 +2,7 @@ import os
 import json
 import math
 import requests
+from gemini_analyzer import is_within_duration
 
 PREFERRED_REGIONS = {"en", "en-US", "en-GB", "en-AU", "en-CA"}
 
@@ -80,10 +81,10 @@ def _enrich(candidates: list) -> list:
         detail = stats_map.get(vid, {})
         stats = detail.get("statistics", {})
         v["_stats"] = {
-            "views":    int(stats.get("viewCount",    0)),
-            "likes":    int(stats.get("likeCount",    0)),
-            "favorites":int(stats.get("favoriteCount",0)),
-            "comments": int(stats.get("commentCount", 0)),
+            "views":     int(stats.get("viewCount",     0)),
+            "likes":     int(stats.get("likeCount",     0)),
+            "favorites": int(stats.get("favoriteCount", 0)),
+            "comments":  int(stats.get("commentCount",  0)),
         }
         v["_duration"] = detail.get("contentDetails", {}).get("duration", "")
         v["_region"]   = detail.get("snippet", {}).get("defaultAudioLanguage", "")
@@ -92,16 +93,13 @@ def _enrich(candidates: list) -> list:
 
 
 def _filter_and_rank(videos: list) -> list:
-    from gemini_analyzer import is_within_duration
     scored = []
     for v in videos:
-        # 时长过滤：20 分钟以内
         duration = v.get("_duration", "")
         if duration and not is_within_duration(duration, max_minutes=20):
             print(f"[过滤] 超时：{v['snippet']['title'][:40]}")
             continue
 
-        # 口音过滤
         region = v.get("_region", "")
         if region and region not in PREFERRED_REGIONS:
             print(f"[过滤] 非英美口音：{v['snippet']['title'][:40]}")
@@ -109,10 +107,10 @@ def _filter_and_rank(videos: list) -> list:
 
         stats = v.get("_stats", {})
         score = (
-            math.log1p(stats.get("views",    0)) * 1.0 +
-            math.log1p(stats.get("likes",    0)) * 1.5 +
-            math.log1p(stats.get("favorites",0)) * 1.2 +
-            math.log1p(stats.get("comments", 0)) * 1.0
+            math.log1p(stats.get("views",     0)) * 1.0 +
+            math.log1p(stats.get("likes",     0)) * 1.5 +
+            math.log1p(stats.get("favorites", 0)) * 1.2 +
+            math.log1p(stats.get("comments",  0)) * 1.0
         )
         v["_score"] = score
         scored.append(v)
