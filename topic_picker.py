@@ -5,12 +5,40 @@ from google import genai
 DIFFICULTY_LEVELS = ["A2", "B1", "B2", "C1", "C2"]
 
 
+def _has_chinese(text: str) -> bool:
+    return any('\u4e00' <= ch <= '\u9fff' for ch in text)
+
+
+def _ensure_english(topic: str) -> str:
+    """如果话题包含中文，调用 Gemini 翻译成适合 YouTube 搜索的英文关键词。"""
+    if not _has_chinese(topic):
+        return topic
+
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    prompt = f"""请把下面的话题翻译成适合在 YouTube 搜索的英文关键词（2-5 个词），
+不要加任何解释或标点，只输出英文关键词本身。
+
+话题：{topic}"""
+
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+        )
+        translated = response.text.strip()
+        print(f"[话题] 中文话题已翻译：{topic} → {translated}")
+        return translated
+    except Exception as e:
+        print(f"[话题] 翻译失败，保留原始话题：{e}")
+        return topic
+
+
 def get_topic() -> str:
 
     manual = os.environ.get("MANUAL_TOPIC", "").strip()
     if manual:
         print(f"[话题] 来自 Actions 参数：{manual}")
-        return manual
+        return _ensure_english(manual)
 
     try:
         with open("config.json", "r") as f:
@@ -21,7 +49,7 @@ def get_topic() -> str:
             config["topic"] = ""
             with open("config.json", "w") as f:
                 json.dump(config, f, ensure_ascii=False, indent=2)
-            return topic
+            return _ensure_english(topic)
     except Exception as e:
         print(f"[话题] 读取 config.json 失败：{e}")
 
@@ -36,14 +64,13 @@ def get_difficulty() -> str:
         print(f"[难度] 来自 Actions 参数：{manual}")
         return manual
 
-    # Actions 反馈（比 config.json 更实时）
+    # Actions 反馈
     actions_feedback = os.environ.get("MANUAL_FEEDBACK", "").strip().lower()
 
     try:
         with open("config.json", "r") as f:
             config = json.load(f)
 
-        # Actions 反馈优先，其次 config.json 反馈
         feedback = actions_feedback or config.get("feedback", "").strip().lower()
         if feedback:
             config["feedback"] = ""
@@ -70,7 +97,6 @@ def get_difficulty() -> str:
 
 
 def _adjust_by_feedback(current: str, feedback: str) -> str:
-    """根据反馈上调或下调一级"""
     idx = DIFFICULTY_LEVELS.index(current)
     if feedback == "too_easy" and idx < len(DIFFICULTY_LEVELS) - 1:
         return DIFFICULTY_LEVELS[idx + 1]
@@ -113,7 +139,7 @@ def _gemini_pick_difficulty() -> str:
     except Exception as e:
         print(f"[难度] Gemini 判断失败：{e}")
 
-    return "B2"  # fallback
+    return "B2"
 
 
 def _gemini_pick_topic() -> str:
@@ -126,11 +152,12 @@ def _gemini_pick_topic() -> str:
 - 贴近英语母语者的真实日常，适合学英语口语
 - 话题可以是任何领域、任何粒度，越具体越好
 - 不要和下面最近已推送过的话题重复或太相似
+- 必须用英文输出，2-5 个词，适合直接用于 YouTube 搜索
 
 最近推过的话题：
 {json.dumps(recent, ensure_ascii=False, indent=2) if recent else "（暂无记录）"}
 
-只输出话题本身，中英文均可，不要任何解释或标点。"""
+只输出英文话题本身，不要任何解释或标点。"""
 
     try:
         response = client.models.generate_content(
