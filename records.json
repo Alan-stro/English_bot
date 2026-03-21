@@ -323,5 +323,98 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-21",
+    "topic": "Grocery shopping haul",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "83KHLurHKXQ",
+        "title": "1 WEEK&#39;S GROCERY HAUL | locking in... (kind of)",
+        "url": "https://www.youtube.com/watch?v=83KHLurHKXQ",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频记录了主人公在超市购物的经历，她展示了自己分类清晰的购物清单，并分享了选购食物的一些习惯和心得，如坚持在超市外围区域购物以减少诱惑、先吃饭再购物等。她还幽默地分享了对一些食物的看法（如口感“糟糕透顶”的瘦肉和“脆爽的空无一物”的生菜），并在家补充介绍了她平时使用的蛋白粉和电解质饮品。",
+        "cards": "Nourish up\n---\n--\n中文核心释义：补充营养；摄取食物\n英文例句：So, let's nourish up.\n中文例句：那么，我们来补充营养吧。\n\n--\n---\nStick to the perimeter\n--\n中文核心释义：待在周边；坚持原则\n英文例句：Very important to always stick to the perimeter as that's where they limit the temptations.\n中文例句：始终坚持在超市外围区域非常重要，因为那里能限制你的诱惑。\n\n--\n---\nTemptations\n--\n中文核心释义：诱惑\n英文例句：Therefore, the temptations... This is tempting even just visually.\n中文例句：因此，这些诱惑……光是看着就让人想买了。\n\n--\n---\nSuss\n--\n中文核心释义：可疑的；值得怀疑的（俚语，来源于 suspicious）\n英文例句：This chicken looks kinda suss.\n中文例句：这鸡肉看起来有点可疑。\n\n--\n---\nAtrocious\n--\n中文核心释义：极坏的；令人憎恶的\n英文例句：99% lean, which I know is just gonna be atrocious.\n中文例句：99%瘦肉，我知道那口感一定会非常糟糕。\n\n--\n---\nResort to\n--\n中文核心释义：诉诸；求助于；依靠\n英文例句：So I'm gonna have to resort to buying it packaged, which I'm not thrilled about.\n中文例句：所以我不得不选择买包装好的（生菜），对此我并不太高兴。\n\n--\n---\nBare minimum\n--\n中文核心释义：最低限度\n英文例句：Not even eating enough protein, which for me is the bare minimum.\n中文例句：甚至连足够的蛋白质都没摄入，这对我来说是最低限度了。\n\n--\n---\nNo-questions-asked\n--\n中文核心释义：无条件退款（或指没有任何疑问的）\n英文例句：They have a no-questions-asked refund policy.\n中文例句：他们提供无条件退款政策。",
+        "pronunciation": [
+          {
+            "word": "Nourish up",
+            "phonetic": "/ˈnɜːrɪʃ ʌp/",
+            "description": "“nourish”中的‘ou’发作/ɜː/，‘sh’是清晰的/ʃ/。"
+          },
+          {
+            "word": "Stick to the perimeter",
+            "phonetic": "/stɪk tuː ðə pəˈrɪmɪtər/",
+            "description": "“perimeter”重音在第二个音节。"
+          },
+          {
+            "word": "Temptations",
+            "phonetic": "/tempˈteɪʃənz/",
+            "description": "重音在第二个音节“ta”。"
+          },
+          {
+            "word": "Suss",
+            "phonetic": "/sʌs/",
+            "description": "‘u’发作短促的/ʌ/音。"
+          },
+          {
+            "word": "Atrocious",
+            "phonetic": "/əˈtroʊʃəs/",
+            "description": "重音在第二个音节“tro”，‘sh’是清晰的/ʃ/。"
+          },
+          {
+            "word": "Resort to",
+            "phonetic": "/rɪˈzɔːrt tuː/",
+            "description": "“resort”的‘t’与“to”的‘t’在此可自然连读。"
+          },
+          {
+            "word": "Bare minimum",
+            "phonetic": "/bɛr ˈmɪnɪməm/",
+            "description": "“bare”中的‘are’发作/ɛr/音。"
+          },
+          {
+            "word": "No-questions-asked",
+            "phonetic": "/noʊ ˈkwɛstʃənz ɑːskt/",
+            "description": "“questions”的‘s’在连读时通常不明显，整体语流要自然。"
+          }
+        ],
+        "sentences": [
+          [
+            "So, let's nourish up.",
+            "那么，我们来补充营养吧。"
+          ],
+          [
+            "It tastes like crisp nothingness, which is basically how much nutrition they apparently have.",
+            "它尝起来就像清脆的虚无，这基本上就是它们看起来有多少营养。"
+          ],
+          [
+            "It literally gave me really bad gut issues.",
+            "它真的给我带来了非常糟糕的肠胃问题。"
+          ],
+          [
+            "If you know the feeling, you know the feeling.",
+            "如果你懂那种感觉，你就懂了。"
+          ],
+          [
+            "If you're having difficulty getting in your protein, for example...",
+            "比如说，如果你摄入蛋白质有困难的话……"
+          ]
+        ],
+        "grammar": [
+          [
+            "Discourse Markers",
+            "解释：在口语中，“like”常作为语篇标记使用，通常不具有实际意义，用于填充停顿、引导或强调说话内容，使其听起来更自然、更随意。",
+            "视频例子：This chicken looks kinda suss. (0:46)；I don't know what happened with that, but it hurt me. Like it physically gave me really bad gut issues. (10:25)"
+          ],
+          [
+            "Phrasal Verbs",
+            "解释：动词短语由一个动词和一个或多个小品词（如介词或副词）组成，其整体意义往往不同于单词意义的总和。它们在日常英语口语中非常常见。",
+            "视频例子：Nourish up (0:13), Stick to (0:56), Resort to (6:46), Getting in (12:03)"
+          ]
+        ]
+      }
+    ]
   }
 ]
