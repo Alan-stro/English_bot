@@ -2,7 +2,7 @@ name: Daily English Bot
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
+    - cron: '23 0 * * *'  # UTC 00:00 = 北京时间 08:00
   workflow_dispatch:
     inputs:
       topic:
