@@ -151,5 +151,177 @@
         "grammar": []
       }
     ]
+  },
+  {
+    "date": "2026-03-21",
+    "topic": "Social Media Explained\nSocial Media Tips\nSocial Media Marketing\nSocial Media Trends\nSocial Media Strategy",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "P6FORpg0KVo",
+        "title": "How to Make Learning as Addictive as Social Media | Duolingo&#39;s Luis Von Ahn | TED",
+        "url": "https://www.youtube.com/watch?v=P6FORpg0KVo",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这位演讲者首先幽默地介绍了自己的家乡危地马拉，并强调教育在消除社会不平等方面的重要性。他分享了自己通过母亲的付出获得良好教育的经历，并因此决定为所有人提供平等的教育机会。接着，他介绍了自己共同创立的语言学习应用Duolingo，解释了为何选择从外语教学开始，以及如何利用智能手机的便利性和游戏化的心理学技巧（如“打卡连胜”和被动攻击性通知）来吸引和保持用户的学习积极性，实现富人付费支持穷人免费学习的“财富再分配”模式。",
+        "cards": "public service announcement\n---\n--\n公共服务公告\n英文例句：This is a public service announcement that is where Guatemala is.\n中文例句：这是一条公共服务公告，那就是危地马拉的位置。\n\nlet (something) sink in\n---\n--\n让（某事）被完全理解/消化\n英文例句：For the Americans in the audience, and let this sink in because it really applies in most ways.\n中文例句：对于在座的美国听众，请让这一点被好好理解，因为它在很多方面都适用。\n\nincome potential\n---\n--\n收入潜力\n英文例句：In most countries in the world, knowledge of English can significantly increase your income potential.\n中文例句：在世界上大多数国家，英语知识能显著增加你的收入潜力。\n\nfreemium model\n---\n--\n免费增值模式（免费提供基础服务，增值服务收费）\n英文例句：To truly be accessible to everyone, rich and poor, Duolingo uses a freemium model to support itself.\n中文例句：为了真正让所有人，无论贫富，都能使用，Duolingo 采用了免费增值模式来维持运营。\n\nhumongous\n---\n--\n巨大的，庞大的（非正式）\n英文例句：If you're trying to deliver education with a smartphone, you run into a humongous problem.\n中文例句：如果你想通过智能手机提供教育，你会遇到一个巨大的问题。\n\ncome equipped with\n---\n--\n配备有，带有\n英文例句：Smartphones come equipped with some of the most addictive drugs that humanity has ever engineered.\n中文例句：智能手机配备了人类有史以来设计出的最令人上瘾的“毒品”。\n\ngamify\n---\n--\n游戏化（将游戏元素应用于非游戏环境）\n英文例句：Most things that you can learn through repetition, you can actually gamify.\n中文例句：大多数可以通过重复学习的知识，你实际上都可以游戏化。\n\npassive aggressive\n---\n--\n被动攻击性的\n英文例句：Passive aggressive works for my mother, works for Duolingo.\n中文例句：被动攻击式的方法对我妈妈管用，对Duolingo也管用。",
+        "pronunciation": [
+          {
+            "word": "public service announcement",
+            "phonetic": "/ˈpʌblɪk ˈsɜːrvɪs əˈnaʊnsmənt/",
+            "description": "注意 service 中的 /s/ 和 announcement 中的 /aʊ/。"
+          },
+          {
+            "word": "let (something) sink in",
+            "phonetic": "/lɛt (ˈsʌmθɪŋ) sɪŋk ɪn/",
+            "description": "sink 中的 /ɪŋk/ 音。"
+          },
+          {
+            "word": "income potential",
+            "phonetic": "/ˈɪnkʌm pəˈtɛnʃəl/",
+            "description": "potential 中的 /ʃəl/ 音。"
+          },
+          {
+            "word": "freemium model",
+            "phonetic": "/ˈfriːmiəm ˈmɒdl/",
+            "description": "freemium 中的 /iː/ 和 model 中的 /ɒ/ (英式) 或 /ɑː/ (美式)。"
+          },
+          {
+            "word": "humongous",
+            "phonetic": "/hjuːˈmʌŋɡəs/",
+            "description": "humongous 中的 /ʌ/ 音。"
+          },
+          {
+            "word": "come equipped with",
+            "phonetic": "/kʌm ɪˈkwɪpt wɪð/",
+            "description": "equipped 中的 /ɪk/ 和 /pt/ 连读。"
+          },
+          {
+            "word": "gamify",
+            "phonetic": "/ˈɡæmɪfaɪ/",
+            "description": "gamify 中的 /aɪ/ 音。"
+          },
+          {
+            "word": "passive aggressive",
+            "phonetic": "/ˈpæsɪv əˈɡrɛsɪv/",
+            "description": "passive 中的 /æ/ 和 aggressive 中的重音在第二个音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "This is a public service announcement that is where Guatemala is.",
+            "这是一条公共服务公告，危地马拉就在那里。"
+          ],
+          [
+            "Let this sink in because it really applies in most ways.",
+            "让这一点被好好理解，因为它在很多方面都适用。"
+          ],
+          [
+            "The way my brain works, all of education is just too general of a problem.",
+            "以我的思维方式来看，所有的教育都是一个太宽泛的问题。"
+          ],
+          [
+            "What that means is that you can learn as much as you want without ever having to pay.",
+            "这意味着你可以想学多少就学多少，而无需支付任何费用。"
+          ],
+          [
+            "So, I think it's actually okay if your educational product is only 80 or 90% as engaging as something like TikTok.",
+            "所以，我认为如果你的教育产品只有TikTok等应用80%或90%的吸引力，那也完全可以。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Too + 形容词 + (of a) + 名词",
+            "表示“太……的（一个）……”，强调程度过高。在非正式语境中，`(of a)` 结构常用于修饰名词，通常与不可数名词连用或在形容词后。"
+          ],
+          [
+            "as...as 比较结构",
+            "用于比较两个事物在某个形容词或副词上的相似程度。"
+          ]
+        ]
+      },
+      {
+        "video_id": "RmwI_QqcPQc",
+        "title": "How To Market Your Business On Social Media",
+        "url": "https://www.youtube.com/watch?v=RmwI_QqcPQc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "本视频由Marley Jaxx主讲，探讨了如何在社交媒体上有效推广业务。她强调了社交媒体营销的三个主要目标：引导生成、引导培育和引导转化。Marley建议企业主带着目的性制作内容，通过建立品牌认同、讲述引人入胜的故事以及使用明确的行动号召来培养潜在客户，最终实现转化。她还提出了80/20法则，即大部分内容应提供价值，少部分用于行动号召，以建立观众的“认识、喜欢、信任”关系，从而提升品牌忠诚度和销售额。",
+        "cards": "let you in on a big secret\n---\n--\n告诉你一个大秘密\nThere's one thing I want to let you in on a big secret.\n我想告诉你一个大秘密。\n\nhamster wheel\n---\n--\n永无止境的重复性工作；仓鼠跑轮\nYou're going to keep running on this hamster wheel and you and your business deserve way more than that.\n你将一直在这种重复性工作中打转，而你和你的生意值得拥有更多。\n\nfor the sake of\n---\n--\n为了…；由于…\nWe are not here to create content for the sake of content.\n我们不是为了创造内容而创造内容。\n\nreturn on investment (ROI)\n---\n--\n投资回报率\nWe want to be creating something that is going to give us an ROI, a return on investment, a return on energy, a return on the money that we invest, a return on the time that we invest.\n我们希望创造出能给我们带来投资回报率的东西，包括精力、金钱和时间上的回报。\n\npivotal moments\n---\n--\n关键时刻；转折点\nWhat are the pivotal moments along the way that taught you lessons or shaped you into who you are today?\n在你的成长过程中，有哪些关键时刻教导了你或塑造了你成为今天的样子？\n\nbrain dump\n---\n--\n倾倒想法；（在纸上）快速记下所有想法\nI would actually recommend having a Google Doc or a huge notebook where you just brain dump all of your stories.\n我实际上会建议你准备一个Google文档或一本大笔记本，把你的所有故事都快速记录下来。\n\nno-brainer\n---\n--\n不费脑筋的事；显而易见的决定\nSo that when you do have that call to action, it's a no-brainer because they know you, they like you, they trust you.\n这样当你真的发出行动号召时，（对他们来说）这就是一个显而易见的决定，因为他们认识你，喜欢你，信任你。",
+        "pronunciation": [
+          {
+            "word": "let you in on a big secret",
+            "phonetic": "/lɛt ju ɪn ɑn ə bɪɡ ˈsiːkrɪt/",
+            "description": "注意 in on 的连读。"
+          },
+          {
+            "word": "hamster wheel",
+            "phonetic": "/ˈhæmstər wiːl/",
+            "description": "'hamster'中的'h'和'wheel'中的'w'要发音清晰。"
+          },
+          {
+            "word": "for the sake of",
+            "phonetic": "/fɔːr ðə seɪk əv/",
+            "description": "'sake' /seɪk/ 的元音要饱满，'sake of'的连读。'for'常弱读。"
+          },
+          {
+            "word": "return on investment (ROI)",
+            "phonetic": "/rɪˈtɜːrn ɑn ɪnˈvestmənt/",
+            "description": "'return'重音在后，'investment'重音在第二个音节。"
+          },
+          {
+            "word": "pivotal moments",
+            "phonetic": "/ˈpɪvətəl ˈmoʊmənts/",
+            "description": "'pivotal' /pɪvətəl/ 的't'在元音间发/d/音，末尾的'l'发音清晰。"
+          },
+          {
+            "word": "brain dump",
+            "phonetic": "/breɪn dʌmp/",
+            "description": "'brain'发/breɪn/，'dump'发/dʌmp/。"
+          },
+          {
+            "word": "no-brainer",
+            "phonetic": "/ˈnoʊ ˌbreɪnər/",
+            "description": "重音在'no'和'brain'。"
+          }
+        ],
+        "sentences": [
+          [
+            "If you want more eyes on your business and more sales in your bank account, social media marketing is the way to go.",
+            "如果你想让更多人关注你的生意并增加银行账户的销售额，社交媒体营销是必经之路。"
+          ],
+          [
+            "If you don't have this, then your strategy is broken.",
+            "如果你没有这个，那么你的策略就是失败的。"
+          ],
+          [
+            "We are not here to create content for the sake of content.",
+            "我们不是为了创造内容而创造内容。"
+          ],
+          [
+            "Stories stand the test of time.",
+            "故事经得起时间的考验。"
+          ],
+          [
+            "You have to give them a reason to act.",
+            "你必须给他们一个行动的理由。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**1. 习语 \"the way to go\" 的用法**",
+            "**解释**: \"The way to go\" 是一个常用习语，表示“最好的选择”、“最明智的做法”或“最有效的方法”。它通常用于推荐某事或某行为。",
+            "**视频例子**: \"social media marketing is **the way to go**.\" (社交媒体营销是最好的方法。)"
+          ],
+          [
+            "**2. 第一类条件句 (First Conditional) 用于表达策略和结果**",
+            "**解释**: 第一类条件句描述真实或可能发生的情况及其结果，结构通常是 \"If + 一般现在时, then + 一般现在时/将来时/情态动词\"。视频中多用 \"If + 一般现在时, then + 一般现在时\" 来强调某种策略的必然结果。",
+            "**视频例子**: \"And if you don't have this, then your strategy is broken.\" (如果你没有这个，那么你的策略就是失败的。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
