@@ -416,5 +416,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "topic": "Dealing with noisy neighbors",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "lNvsutQUMMU",
+        "title": "Judge Judy Premiere Show 1996: Neighbor’s Noisy Radio | Part 1",
+        "url": "https://www.youtube.com/watch?v=lNvsutQUMMU",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频展示了《朱迪法官》节目的一个片段。原告埃德加·博耶夫妇起诉被告米娅·洛德，称其夜间大声播放广播和汽车警报声，严重扰民。米娅·洛德承认自己播放噪音，但她辩称这是为了抗议邻居维巴特先生制造的“撞击噪音”，她希望通过自己的噪音来引起其他邻居的注意，共同施压维巴特先生。法官朱迪表示不认同这种以牙还牙的做法，并指出洛德女士自己也已向维巴特先生提起了诉讼。",
+        "cards": "get on one's back\n---\n--\n纠缠/烦扰某人\nYour playing this noise to make everybody else in the neighborhood suffer a little bit so that they'll all get on his back.\n你播放噪音是为了让街坊邻居都跟着受点罪，这样他们就会去烦扰他。\n\nblast (one's radio)\n---\n--\n大声播放（广播等）\nAll night long she blasts her radio.\n她整晚都大声播放她的广播。\n\nsuffer through\n---\n--\n忍受，经历\nUnfortunately, your honor, she's making us suffer and we've been suffering for a number of years.\n很不幸，法官大人，她让我们受苦，我们已经受了好多年的苦了。\n\nperpetrator\n---\n--\n作恶者，肇事者\nWhy don't you take some action against the real perpetrator, who is Mr. Vibot?\n你为什么不对真正的肇事者，也就是维巴特先生，采取行动呢？\n\ncode violation\n---\n--\n违反法规\nHe purposely bought the house knowing that there was a code violation.\n他明知有违反法规的情况，却故意买下了那栋房子。\n\npurposely\n---\n--\n故意地，有意地\nMr. Vibot wasn't do this purposefully, he does it because there were...\n维巴特先生并非故意这样做，他这样做是因为有……\n\ndidn't occur to me\n---\n--\n没想到，没考虑到\nIt didn't occur to me. I was trying everything else, believe me.\n我没想到。相信我，我尝试了所有其他办法。",
+        "pronunciation": [
+          {
+            "word": "get on one's back",
+            "phonetic": "ˈɡɛt ɒn wʌnz bæk",
+            "description": "注意连读，\"on\"和\"one's\"中的/ɒn/与后面的元音/ʌ/连接。"
+          },
+          {
+            "word": "blast (one's radio)",
+            "phonetic": "blæst (wʌnz ˈreɪdioʊ)",
+            "description": "\"blast\"中的/æ/音，嘴巴张大，舌头放平。"
+          },
+          {
+            "word": "suffer through",
+            "phonetic": "ˈsʌfər θruː",
+            "description": "\"through\"中的/θ/是舌尖抵住上齿轻微发出的气流声，中国人常发成/s/或/f/。"
+          },
+          {
+            "word": "perpetrator",
+            "phonetic": "ˈpɜːrpəˌtreɪtər",
+            "description": "注意重音在第二个音节，\"er\"是卷舌音。"
+          },
+          {
+            "word": "code violation",
+            "phonetic": "koʊd ˌvaɪəˈleɪʃən",
+            "description": "\"violation\"的重音在第三个音节，/oʊ/是双元音。"
+          },
+          {
+            "word": "purposely",
+            "phonetic": "ˈpɜːrpəsli",
+            "description": "注意重音在第一个音节，\"er\"是卷舌音。"
+          },
+          {
+            "word": "didn't occur to me",
+            "phonetic": "ˈdɪdnt əˈkɜːr tu miː",
+            "description": "\"occur\"重音在第二个音节，\"r\"是卷舌音，\"to\"常弱读成/tə/。"
+          }
+        ],
+        "sentences": [
+          [
+            "So let me see if I got it right.",
+            "那么我看看我是否理解对了。"
+          ],
+          [
+            "I'll ask you one more time, and I want the truth.",
+            "我会再问你一次，我要真相。"
+          ],
+          [
+            "This is my courtroom. I ask the questions.",
+            "这是我的法庭。我来提问。"
+          ],
+          [
+            "You don't deny that you play this noise?",
+            "你不否认你播放了这种噪音？"
+          ],
+          [
+            "That doesn't mean she's right. That just means that I understand it.",
+            "那不代表她是正确的。那只是代表我理解了它。"
+          ]
+        ],
+        "grammar": [
+          [
+            "从句作宾语",
+            "很多动词后面可以接由“that”引导的宾语从句，用于陈述事实或表达观点。",
+            "You don't deny that you play this noise?"
+          ],
+          [
+            "介词短语作状语",
+            "介词短语可以修饰动词、形容词或副词，表示时间、地点、方式、原因等。",
+            "I am awakened all night by bangs down by the Vibats."
+          ]
+        ]
+      },
+      {
+        "video_id": "UoVIw0IlT2E",
+        "title": "How to Soundproof a SOLID Wall From Noisy Neighbours!",
+        "url": "https://www.youtube.com/watch?v=UoVIw0IlT2E",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频主要讲解了如何在不拆除现有石膏板的情况下，为实心墙进行隔音。主要方法包括增加一层5/8英寸厚的石膏板、使用隔音密封剂密封电源插座缝隙，并可考虑使用地毯胶作为更便宜的声学化合物替代品。此外，如果窗户是主要的噪音源，建议先处理窗户的隔音问题，例如使用三层隔音窗帘或更换为隔音窗。",
+        "cards": "rip out\n---\n--\n拆除，扯掉\nYou don't really want to go out and rip out the drywall.\n你不会真的想去拆掉石膏板。\n\nslap a few\n---\n--\n随便贴一些，草草弄几个（口语）\nYou can't really slap a few acoustic foam panels on the wall and think that it will actually do anything.\n你不能只是随便在墙上贴几块吸音泡沫板，然后就觉得它能起到任何作用。\n\na fraction of the cost\n---\n--\n一小部分成本，极低的成本\nThere's something that you should use that is completely different from that and is actually a fraction of the cost of green glue.\n有一种你应该使用的东西与此完全不同，而且实际上只是绿色胶水的一小部分成本。\n\ngo a step further\n---\n--\n更进一步\nYou could go a step further and buy a more soundproofing drywall.\n你可以更进一步，购买更隔音的石膏板。\n\nacoustical sealant\n---\n--\n隔音密封剂\nYou should go and get some acoustical sealant.\n你应该去买一些隔音密封剂。\n\nmass loaded vinyl\n---\n--\n重型隔音乙烯（一种隔音材料）\nYou could go a step further and use mass loaded vinyl.\n你可以更进一步，使用重型隔音乙烯。\n\ndefeats the purpose\n---\n--\n失去了意义，适得其反\nSo it kind of defeats the purpose really.\n所以这实际上有点适得其反。\n\ngo overkill\n---\n--\n做得过头，过度投入\nSometimes you don't need to go overkill with your soundproofing if the noise isn't that bad.\n有时如果噪音不是那么严重，你的隔音措施就不必做得过头。",
+        "pronunciation": [
+          {
+            "word": "rip out",
+            "phonetic": "/rɪp aʊt/",
+            "description": "注意“rip”中的短i音，与“reap”不同。"
+          },
+          {
+            "word": "slap a few",
+            "phonetic": "/slæp ə fjuː/",
+            "description": "“slap”中的a发“æ”音，发音时嘴巴张开较大。"
+          },
+          {
+            "word": "a fraction of the cost",
+            "phonetic": "/ə ˈfrækʃən ɒv ðə kɒst/",
+            "description": "“fraction”中的a发“æ”音，“of”通常弱读为/əv/。"
+          },
+          {
+            "word": "go a step further",
+            "phonetic": "/ɡoʊ ə stɛp ˈfɜːrðər/",
+            "description": "“further”中的er发“ɜːr”音，舌尖不要抵住上颚。"
+          },
+          {
+            "word": "acoustical sealant",
+            "phonetic": "/əˈkuːstɪkəl ˈsiːlənt/",
+            "description": "“acoustical”重音在/kuː/，“sealant”重音在/siː/，注意音节的划分。"
+          },
+          {
+            "word": "mass loaded vinyl",
+            "phonetic": "/mæs ˈloʊdɪd ˈvaɪnəl/",
+            "description": "“mass”中的a发“æ”音，注意“vinyl”的/vaɪ/音，不是/viː/。"
+          },
+          {
+            "word": "defeats the purpose",
+            "phonetic": "/dɪˈfiːts ðə ˈpɜːrpəs/",
+            "description": "“defeats”中的ea发长/iː/音，“purpose”中的ur发“ɜːr”音。"
+          },
+          {
+            "word": "go overkill",
+            "phonetic": "/ɡoʊ ˈoʊvərˌkɪl/",
+            "description": "“overkill”重音在第一个音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "You can't really slap a few acoustic foam panels on the wall and think that it will actually do anything in terms of soundproofing.",
+            "你不能只是随便在墙上贴几块吸音泡沫板，然后就觉得它能起到任何隔音作用。"
+          ],
+          [
+            "It's a good practice to also use them around electrical outlets.",
+            "在电源插座周围使用它们也是一个好习惯。"
+          ],
+          [
+            "But really, if you already have really good windows, updated windows, and the noise isn't really coming through the window.",
+            "但实际上，如果你已经有很好的、更新的窗户，并且噪音并不是通过窗户传进来的。"
+          ],
+          [
+            "It kind of defeats the purpose really.",
+            "这实际上有点适得其反。"
+          ],
+          [
+            "Sometimes you don't need to go overkill with your soundproofing if the noise isn't that bad.",
+            "有时如果噪音不是那么严重，你的隔音措施就不必做得过头。"
+          ]
+        ],
+        "grammar": [
+          [
+            "条件句",
+            "解释: 视频中多次使用条件句 (if...then...) 来描述不同隔音措施的效果，即使有时省略了“then”。这有助于表达因果关系和假设情况。",
+            "视频例子: \"If you don't have any help, then maybe buy smaller amounts.\" (0:00:55)"
+          ],
+          [
+            "动词短语",
+            "解释: 视频使用了许多地道的动词短语，如“rip out”（拆除）、“slap on”（迅速放置/贴上）、“go about”（着手处理）。这些短语在日常口语中非常常见，能使表达更生动自然。",
+            "视频例子: \"You don't really want to go out and rip out the drywall.\" (0:00:07)"
+          ]
+        ]
+      }
+    ]
   }
 ]
