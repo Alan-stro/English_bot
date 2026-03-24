@@ -590,5 +590,173 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-24",
+    "topic": "My morning routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "e_ACUluskzw",
+        "title": "My Daughter&#39;s Epic SUMMER MORNING ROUTINE! *Instagram Q&amp;A*",
+        "url": "https://www.youtube.com/watch?v=e_ACUluskzw",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频展示了一个名叫Salish的女孩在暑假期间的早晨日常。她从早上7点开始，依次完成了叫醒爸爸、去咖啡店买Chai茶、喂狗狗、整理床铺、健身、洗澡、护肤和造型头发、准备早餐等一系列活动。视频中还穿插了她回答粉丝问题的环节，比如她是否喜欢Nidal，以及她对未来四年的规划。最后，她还和爸爸开了一个化浓妆的玩笑。",
+        "cards": "run on something\n---\n--\n（靠...维生/维持精力）\nI basically run on chai now.\n我现在基本上就是靠Chai茶来维持精力了。\n\ngrosses someone out\n---\n--\n（让某人感到恶心/作呕）\nHis food grosses me out.\n他的食物让我感到恶心。\n\na little stretch\n---\n--\n（有点夸张/言过其实）\nI was trying to be quiet this whole time just watch you make your bed, but that's a little stretch.\n我一直想保持安静，就看着你整理床铺，但这有点言过其实了。\n\nstick around\n---\n--\n（留下/待着）\nI'm gonna answer that a little later, so stick around!\n我晚点再回答这个问题，所以请大家继续关注！\n\nbuild-up\n---\n--\n（堆积物/积聚）\nIt makes my hair like removes the build-up.\n它能让我的头发去除堆积物。\n\ndetangle\n---\n--\n（解开（缠结的头发或线））\nThis helps detangle my hair.\n这有助于解开我头发上的结。",
+        "pronunciation": [
+          {
+            "word": "run on something",
+            "phonetic": "rʌn ɒn ˈsʌmθɪŋ",
+            "description": "\"run\"的/r/音要卷舌，\"on\"和\"something\"的/ʌ/音要发好。"
+          },
+          {
+            "word": "grosses someone out",
+            "phonetic": "ˈɡroʊsɪz ˈsʌmˌwʌn aʊt",
+            "description": "\"grosses\"的/oʊ/音和/z/音，\"out\"的/aʊ/音要发准。"
+          },
+          {
+            "word": "a little stretch",
+            "phonetic": "ə ˈlɪtl strɛtʃ",
+            "description": "\"little\"的/t/音可能发成闪音（flap t），\"stretch\"的/str/音群要连贯。"
+          },
+          {
+            "word": "stick around",
+            "phonetic": "stɪk əˈraʊnd",
+            "description": "\"stick\"的/ɪ/音和\"around\"的/aʊ/音，/r/音要发准。"
+          },
+          {
+            "word": "build-up",
+            "phonetic": "ˈbɪld ʌp",
+            "description": "\"build\"的/ɪ/音和/d/音，\"up\"的/ʌ/音。注意连读。"
+          },
+          {
+            "word": "detangle",
+            "phonetic": "diˈtæŋɡl",
+            "description": "\"de\"的/di/音，\"tangle\"的/æ/音和/ŋɡl/音群。"
+          }
+        ],
+        "sentences": [
+          [
+            "I basically run on chai now.",
+            "我现在基本上就是靠Chai茶来维持精力了。"
+          ],
+          [
+            "His food grosses me out.",
+            "他的食物让我感到恶心。"
+          ],
+          [
+            "I was trying to be quiet this whole time just watch you make your bed, but that's a little stretch.",
+            "我一直想保持安静，就看着你整理床铺，但这有点言过其实了。"
+          ],
+          [
+            "I'm gonna answer that a little later, so stick around!",
+            "我晚点再回答这个问题，所以请大家继续关注！"
+          ],
+          [
+            "It makes my hair like removes the build-up.",
+            "它能让我的头发去除堆积物。"
+          ],
+          [
+            "This helps detangle my hair.",
+            "这有助于解开我头发上的结。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Phrasal Verbs",
+            "动词短语在口语中非常常见，它们由动词加介词或副词构成，意思往往与原动词不同。",
+            "\"I basically run on chai now.\" (0:38), \"His food grosses me out.\" (2:19), \"So stick around!\" (4:19)"
+          ],
+          [
+            "Cause + Object + Base Verb",
+            "表示“使某人/物做某事”。",
+            "\"This ring light makes my skin look so young.\" (6:49)"
+          ]
+        ]
+      },
+      {
+        "video_id": "Lu1kSopcfNw",
+        "title": "First Day Of School MORNING ROUTINE",
+        "url": "https://www.youtube.com/watch?v=Lu1kSopcfNw",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位父亲挑战女儿在30分钟内完成她所有的返校早晨例行公事，以证明她不需要两个小时来准备。女儿需要完成10个步骤，包括铺床、刷牙、遛狗、护肤、整理发型、穿衣、吃早餐、锻炼、准备午餐和化妆。如果她成功按时赶上校车，车上有一个惊喜等着她。尽管过程充满挑战和一些小插曲，女儿最终还是在规定时间内赶上了校车，并收到了父亲送的项链作为奖励。",
+        "cards": "back-to-school morning routine\n---\n--\n返校晨间例行活动\nToday she has to complete her new back-to-school morning routine in only 30 minutes.\n今天她必须在30分钟内完成她的新返校早晨例行活动。\n\ntotally exhausted\n---\n--\n筋疲力尽\nShe's totally exhausted by the end of the day.\n到一天结束时她会筋疲力尽。\n\nmotivate her\n---\n--\n激励她\nTo motivate her, there is a big surprise waiting for her on the bus.\n为了激励她，公交车上有一个大惊喜等着她。\n\ncatch it on time\n---\n--\n准时赶上\nThere is a huge surprise waiting for her on the bus if she's able to catch it on time.\n如果她能准时赶上公交车，车上会有一个大惊喜等着她。\n\njoking around\n---\n--\n开玩笑，打闹\nI was actually joking around, but seriously, it does feel like yesterday.\n我其实是在开玩笑，但说真的，感觉就像昨天一样。\n\nfreaks me out\n---\n--\n让我很紧张/害怕（非正式）\nNext year is high school, that freaks me out actually, really.\n明年就上高中了，那真的让我很紧张。\n\npick up your pacing\n---\n--\n加快速度，加快节奏\nYou might wanna pick up your pacing on the breakfast.\n你可能得加快做早餐的速度。",
+        "pronunciation": [
+          {
+            "word": "back-to-school morning routine",
+            "phonetic": "bæk-tə-skuːl mɔːr-nɪŋ ruː-tiːn",
+            "description": "“back”发音与“bag”不同，“morning”的r发音要清晰，“routine”重音在后。"
+          },
+          {
+            "word": "totally exhausted",
+            "phonetic": "ˈtoʊtəli ɪɡˈzɔːstɪd",
+            "description": "“totally”的t发音可以很轻，\"exhausted\"的ex发音是/ɪɡz/，s发/s/而不是/z/。"
+          },
+          {
+            "word": "motivate her",
+            "phonetic": "ˈmoʊtəveɪt hɜːr",
+            "description": "\"motivate\"重音在第一音节，/t/发音可以像轻微的/d/。"
+          },
+          {
+            "word": "catch it on time",
+            "phonetic": "kætʃ ɪt ɑːn taɪm",
+            "description": "\"catch it\"连读，\"on\"发/ɑːn/（美式）或/ɒn/（英式）。"
+          },
+          {
+            "word": "joking around",
+            "phonetic": "ˈdʒoʊkɪŋ əˈraʊnd",
+            "description": "\"joking\"的o发/oʊ/，\"around\"重音在后。"
+          },
+          {
+            "word": "freaks me out",
+            "phonetic": "friːks miː aʊt",
+            "description": "\"freaks\"的s发音清晰，\"out\"发/aʊt/。"
+          },
+          {
+            "word": "pick up your pacing",
+            "phonetic": "pɪk ʌp jʊər ˈpeɪsɪŋ",
+            "description": "\"pick up\"连读，\"your\"在快语速中常简化。"
+          }
+        ],
+        "sentences": [
+          [
+            "My daughter Salish just started 8th grade.",
+            "我女儿Salish刚上八年级。"
+          ],
+          [
+            "If she completes all 10 steps and catches the bus on time, there is a huge surprise waiting for her on the bus.",
+            "如果她能完成所有10个步骤并准时赶上公交车，车上会有一个巨大的惊喜等着她。"
+          ],
+          [
+            "First time I've ever transported a present for a student.",
+            "我是第一次给学生送礼物。"
+          ],
+          [
+            "This is the worst day to do this challenge because it's picture day today.",
+            "今天是进行这项挑战最糟糕的一天，因为今天是拍照日。"
+          ],
+          [
+            "I need to get to the bus on time, please hurry up.",
+            "我得准时赶上公交车，请快点。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Present Perfect (just started)",
+            "用于描述最近发生或刚刚完成的动作。",
+            "\"My daughter Salish **just started** 8th grade.\""
+          ],
+          [
+            "Conditional Sentence Type 1 (If she completes... there is...)",
+            "用于描述真实或可能发生的情况及其结果。",
+            "\"**If she completes** all 10 steps and catches the bus on time, **there is** a huge surprise waiting for her on the bus.\""
+          ]
+        ]
+      }
+    ]
   }
 ]
