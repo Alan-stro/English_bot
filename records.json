@@ -758,5 +758,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-25",
+    "topic": "Booking a doctor's appointment",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "gXXmVqS3tLk",
+        "title": "Doctor&#39;s Office | Virtual Field Trip | KidVision Pre-K",
+        "url": "https://www.youtube.com/watch?v=gXXmVqS3tLk",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频展示了孩子们在儿科诊所进行健康检查的完整流程。首先，他们在前台签到，然后护士为他们测量体重和身高，记录他们成长的数据。接着，孩子们进入检查室，护士检查了他们的脉搏、体温和血压。最后，儿科医生使用听诊器检查心肺，用检眼镜和耳镜检查眼睛、耳朵、鼻子和喉咙，并用叩诊锤检查肌肉反射，确认孩子们都非常健康。",
+        "cards": "pediatrician\n---\n--\n儿科医生\nI'm Dr. Packer and I'm a children's doctor, and I'm called a pediatrician.\n我是帕克医生，我是一名儿童医生，我被称为儿科医生。\n\nwellness check\n---\n--\n健康检查\nWe're here today to find out what happens at a pediatrician's when they do a wellness check.\n我们今天来这里是为了了解儿科医生进行健康检查时会发生什么。\n\nsign in\n---\n--\n签到，登记\nAll you have to do is have a seat and you can sign in.\n你只需要坐下并签到即可。\n\nstep on up\n---\n--\n走上前，站上去（指示性动词短语）\nStep on up for me.\n请你站上来。\n\npulse\n---\n--\n脉搏\nThis is going to check to see how fast your heart beats.\n这是为了检查你的心跳有多快。\n\nstadiometer\n---\n--\n身高测量器\nAnd then we use the stadiometer to see how tall you are.\n然后我们使用身高测量器来测量你的身高。\n\nstethoscope\n---\n--\n听诊器\nFirst, I'm going to use this and this is called a stethoscope.\n首先，我要用这个，它叫做听诊器。\n\nreflex hammer\n---\n--\n叩诊锤\nThis is what I use to test your muscles to make sure they're good and strong. We call this a reflex hammer.\n我用这个来检查你的肌肉，确保它们强健有力。我们称之为叩诊锤。",
+        "pronunciation": [
+          {
+            "word": "pediatrician",
+            "phonetic": "/ˌpiːdiəˈtrɪʃən/",
+            "description": "重音在\"tri\"音节，注意\"pedia\"发音，不是“屁滴”，是“皮迪”"
+          },
+          {
+            "word": "wellness check",
+            "phonetic": "/ˈwɛlnɪs tʃɛk/",
+            "description": "“wellness”的“w”是圆唇音，避免发成“v”音；“check”的“ch”发音清晰"
+          },
+          {
+            "word": "sign in",
+            "phonetic": "/saɪn ɪn/",
+            "description": "“sign”中的“g”不发音，“in”要与“sign”连读"
+          },
+          {
+            "word": "step on up",
+            "phonetic": "/stɛp ɒn ʌp/",
+            "description": "“on”中的“o”发音饱满，“up”中的“u”是短元音，避免发成“啊”"
+          },
+          {
+            "word": "pulse",
+            "phonetic": "/pʌls/",
+            "description": "“u”发“ʌ”音，不是“u”音，结尾有“s”的清辅音"
+          },
+          {
+            "word": "stadiometer",
+            "phonetic": "/ˌsteɪdiˈɒmɪtər/",
+            "description": "重音在“om”音节，“a”发“ei”长元音，“o”发“ɒ”音"
+          },
+          {
+            "word": "stethoscope",
+            "phonetic": "/ˈstɛθəskoʊp/",
+            "description": "重音在第一个“ste”，“th”发清辅音/θ/，不是“s”或“z”"
+          },
+          {
+            "word": "reflex hammer",
+            "phonetic": "/ˈriːflɛks ˈhæmər/",
+            "description": "“reflex”重音在第一个“re”，“hammer”的“a”发“æ”音"
+          }
+        ],
+        "sentences": [
+          [
+            "We're here today to find out what happens at a pediatrician's when they do a wellness check.",
+            "我们今天来这里是为了了解儿科医生进行健康检查时会发生什么。"
+          ],
+          [
+            "All you have to do is have a seat and you can sign in.",
+            "你只需要坐下并签到即可。"
+          ],
+          [
+            "That way the next time we come, we can see if we gained weight and if we got taller.",
+            "这样下次我们来的时候，就能看到我们是否增重和长高了。"
+          ],
+          [
+            "A check-up is to see how healthy you are and if you're growing.",
+            "检查是为了看你有多健康以及是否在成长。"
+          ],
+          [
+            "Now, we know how tall we are and how much we weigh, and the next time we come they'll do the same thing and they can see if you're growing strong.",
+            "现在我们知道自己有多高、体重多少，下次来的时候他们会做同样的事情，看看我们是否在健康成长。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Present Simple for routine actions",
+            "用于描述习惯性动作或例行事件。",
+            "We're here today to find out what happens at a pediatrician's when they do a wellness check."
+          ],
+          [
+            "Phrasal verbs",
+            "动词和介词/副词组合，通常意义与原始动词不同。",
+            "All you have to do is have a seat and you can **sign in**."
+          ],
+          [
+            "Compound nouns",
+            "由两个或更多个词组成的复合名词。",
+            "We check your **blood pressure**."
+          ]
+        ]
+      },
+      {
+        "video_id": "bwx2Z69S0YA",
+        "title": "Doctor Checkup for Kids - Types of Doctors - Social Studies | Kids Academy",
+        "url": "https://www.youtube.com/watch?v=bwx2Z69S0YA",
+        "target_level": "B2",
+        "actual_level": "B1",
+        "from_whitelist": false,
+        "summary": "这段视频介绍了看医生时会发生什么，包括医生如何进行体检，以及可能需要哪些治疗。视频还介绍了护士的角色，以及不同类型的医生，例如眼科医生和兽医。最后，视频强调了保持健康的重要性。",
+        "cards": "check-up\n---\n--\n身体检查\n英文例句：The doctor will give you a check-up.\n中文例句：医生会给你做一个身体检查。\n\nstethoscope\n---\n--\n听诊器\n英文例句：They may use special tools, like a stethoscope.\n中文例句：他们可能会使用特殊的工具，比如听诊器。\n\noptometrist\n---\n--\n验光师\n英文例句：This is an optometrist, or an eye doctor.\n中文例句：这是一位验光师，或者说是一位眼科医生。\n\nveterinarian\n---\n--\n兽医\n英文例句：You'll have to take him to a veterinarian.\n中文例句：你得把他带去看兽医。\n\nfind out\n---\n--\n发现；查明\n英文例句：Let's find out what happens when you go to the doctor.\n中文例句：让我们来看看你去看医生时会发生什么。\n\nmake sure\n---\n--\n确保；确定\n英文例句：A check-up is when the doctor makes sure that your body is healthy.\n中文例句：体检是医生确保你身体健康。\n\ntake care of\n---\n--\n照顾；照料\n英文例句：The doctor will check to make sure that you are growing well and taking care of your body.\n中文例句：医生会检查以确保你健康成长并照顾好自己的身体。",
+        "pronunciation": [
+          {
+            "word": "check-up",
+            "phonetic": "/ˈtʃɛkʌp/",
+            "description": "“check”的音近似“切克”，“up”的音近似“啊噗”，重音在前。"
+          },
+          {
+            "word": "stethoscope",
+            "phonetic": "/ˈstɛθəskoʊp/",
+            "description": "“steth”的音近似“斯特思”，“o”的音近似“ə”，“scope”的音近似“斯科普”，重音在第一个“e”。"
+          },
+          {
+            "word": "optometrist",
+            "phonetic": "/ɒpˈtɒmɪtrɪst/",
+            "description": "“op”的音近似“啊普”，“tom”的音近似“他姆”，“e”的音近似“i”，“trist”的音近似“崔斯特”，重音在第二个“o”。"
+          },
+          {
+            "word": "veterinarian",
+            "phonetic": "/ˌvɛtərɪˈnɛəriən/",
+            "description": "“ve”的音近似“唯”，“ter”的音近似“特”，“i”的音近似“i”，“nar”的音近似“耐尔”，“ian”的音近似“Ian”，重音在“nar”音节。"
+          },
+          {
+            "word": "find out",
+            "phonetic": "/faɪnd aʊt/",
+            "description": "“find”的音近似“faind”，“out”的音近似“out”，连读时听起来像“faindout”。"
+          },
+          {
+            "word": "make sure",
+            "phonetic": "/meɪk ʃʊr/",
+            "description": "“make”的音近似“meik”，“sure”的音近似“sure”，注意“sure”的/ʃ/音。"
+          },
+          {
+            "word": "take care of",
+            "phonetic": "/teɪk kɛr ʌv/",
+            "description": "“take”的音近似“teik”，“care”的音近似“care”，“of”的音近似“啊v”，注意连读。"
+          }
+        ],
+        "sentences": [
+          [
+            "Hello everyone, I'm Dr. Jones. My job is to help people stay healthy.",
+            "大家好，我是琼斯医生。我的职责是帮助人们保持健康。"
+          ],
+          [
+            "Let's find out what happens when you go to the doctor.",
+            "让我们了解一下你去看医生时会发生什么。"
+          ],
+          [
+            "A check-up is when the doctor makes sure that your body is healthy.",
+            "体检是医生确保你身体健康。"
+          ],
+          [
+            "If you are sick or hurt, the doctor may give you something to help you feel better.",
+            "如果你生病或受伤了，医生可能会给你一些东西来帮助你感觉好些。"
+          ],
+          [
+            "A veterinarian is a doctor that helps sick animals.",
+            "兽医是帮助生病动物的医生。"
+          ]
+        ],
+        "grammar": [
+          [
+            "不定式作目的状语",
+            "解释：不定式短语（to + 动词原形）用于说明某个行为的目的。",
+            "视频例子：My job is to help people stay healthy. (我的工作是帮助人们保持健康。)"
+          ],
+          [
+            "条件句",
+            "解释：由“if”引导的从句表示条件，主句表示结果。",
+            "视频例子：If you are sick or hurt, the doctor may give you something to help you feel better. (如果你生病或受伤了，医生可能会给你一些东西来帮助你感觉好些。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
