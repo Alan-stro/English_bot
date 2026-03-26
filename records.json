@@ -937,5 +937,170 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-26",
+    "topic": "Quick weeknight dinner ideas",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "zQm9Bk2bA_Q",
+        "title": "Weeknight Meals | Basics with Babish",
+        "url": "https://www.youtube.com/watch?v=zQm9Bk2bA_Q",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "本期视频主要介绍了三种方便快捷的工作日晚餐做法，并由Blue Apron赞助。首先是烤鸡腿配甜土豆和苹果的“一锅出”美食；接着是三文鱼、土豆和芦笋的“烤盘晚餐”，强调掌握不同食材的烹饪时间；最后是Blue Apron提供的奶油香蒜酱短面，展示了备餐（mise en place）的重要性，并建议不要过度加热香蒜酱以保持风味。",
+        "cards": "love letter to\n---\n--\n对……的深情表白/赞美\nThis week's episode of Basics is not only sponsored by Blue Apron, it is itself a love letter to quick weeknight meals.\n这周的《Basics》节目不仅由Blue Apron赞助，它本身就是对快速工作日晚餐的深情表白。\n\nstick by my side\n---\n--\n陪伴我/忠于我/支持我\nI first posted this dish to Reddit like four years ago and it's stuck by my side ever since.\n我大约四年前首次将这道菜发布到Reddit上，从那以后它就一直陪伴着我。\n\nripping hot\n---\n--\n滚烫的，极热的\nInto a lightly oiled, ripping hot stainless steel or cast iron skillet...\n倒入涂有少许油的滚烫不锈钢或铸铁平底锅中……\n\ndeglazing\n---\n--\n（烹饪中）脱釉（用液体溶解锅底残留物，形成酱汁）\nAnd then we are deglazing with the good stuff, a little bit of bourbon.\n然后我们用好东西，一点点波旁威士忌来脱釉。\n\nflambé\n---\n--\n（烹饪中）火焰烹饪，点火\nIf you know what you're doing, you've got a fire extinguisher nearby, you can go ahead and flambé the rest of the liquor off.\n如果你知道自己在做什么，旁边有灭火器的话，你就可以点燃剩下的酒。\n\npar-cook\n---\n--\n预煮，半熟\nThe basic concept here is to par-cook your chicken by getting it nice and crisp.\n这里的基本概念是把鸡肉煎得酥脆，进行预煮。\n\ncontending with\n---\n--\n处理，应对（难题或挑战）\nNext up, we're contending with our salmon fillets, which I'm just gonna make sure are free of bones.\n接下来，我们要处理我们的三文鱼片，我要确保它们没有骨头。\n\ndeviating from protocol\n---\n--\n偏离常规/协议\nAnd then I'm deviating from protocol here and adding the tomatoes because I want them to get a little bit cooked.\n然后我在这里偏离了常规，加入了番茄，因为我希望它们能稍微煮熟一点。",
+        "pronunciation": [
+          {
+            "word": "love letter to",
+            "phonetic": "/ˈlʌv ˈlɛtər tuː/",
+            "description": "\"love letter\" 的 v 和 \"to\" 的 t 发音要清晰。"
+          },
+          {
+            "word": "stick by my side",
+            "phonetic": "/stɪk baɪ maɪ saɪd/",
+            "description": "\"stick\" 的 k 和 \"by\" 的 b, \"my\" 的 m 和 \"side\" 的 s 发音要连贯。"
+          },
+          {
+            "word": "ripping hot",
+            "phonetic": "/ˈrɪpɪŋ hɒt/",
+            "description": "\"ripping\" 的 p 发音短促有力，\"hot\" 的 o 类似于中文的“啊”。"
+          },
+          {
+            "word": "deglazing",
+            "phonetic": "/diːˈɡleɪzɪŋ/",
+            "description": "\"de\" 是长音，\"glazing\" 中 s 发 z 音。"
+          },
+          {
+            "word": "flambé",
+            "phonetic": "/flɒmˈbeɪ/",
+            "description": "\"flam\" 的 a 类似于中文的“啊”，末尾的 \"be\" 带有重音。"
+          },
+          {
+            "word": "par-cook",
+            "phonetic": "/pɑːr kʊk/",
+            "description": "\"par\" 的 r 卷舌，\"cook\" 的 oo 类似于中文的“乌”。"
+          },
+          {
+            "word": "contending with",
+            "phonetic": "/kənˈtɛndɪŋ wɪð/",
+            "description": "\"contending\" 的重音在第二个音节，\"with\" 的 th 发浊音。"
+          },
+          {
+            "word": "deviating from protocol",
+            "phonetic": "/ˈdiːvieɪtɪŋ frɒm ˈproʊtəkɒl/",
+            "description": "\"deviating\" 的重音在第一个音节，\"protocol\" 的重音在第一个音节，t 发音要清晰。"
+          }
+        ],
+        "sentences": [
+          [
+            "Blue Apron is a meal kit delivery service that's a great option for anybody who's trying to cook more, cook healthier, or cook more deliciously.",
+            "Blue Apron是一个膳食套餐配送服务，对于任何想多做饭、吃得更健康或做得更美味的人来说，都是一个很好的选择。"
+          ],
+          [
+            "Okay, so as far as weeknights, a great place to start is the one-pot meal.",
+            "好了，说到工作日晚上，一个很好的开始就是“一锅出”的饭菜。"
+          ],
+          [
+            "If you know what you're doing, you've got a fire extinguisher nearby, you can go ahead and flambé the rest of the liquor off.",
+            "如果你知道自己在做什么，旁边有灭火器的话，你就可以点燃剩下的酒。"
+          ],
+          [
+            "There are so many different directions that you could take this little vinaigrette.",
+            "这种小油醋汁你可以有许多不同的做法。"
+          ]
+        ],
+        "grammar": [
+          [
+            "并列结构",
+            "解释：当句子中包含一系列动词、名词、形容词或副词时，使用相同的语法形式来表达它们，以保持句子结构的一致性。",
+            "视频例子：...for anybody who's trying to cook more, cook healthier, or cook more deliciously."
+          ],
+          [
+            "条件句（Type 1）",
+            "解释：用于表达现实或可能发生的情况及其结果。结构通常是 \"If + 主语 + 简单现在时, 主语 + will/can/may + 动词原形\"。",
+            "视频例子：If you know what you're doing, you've got a fire extinguisher nearby, you can go ahead and flambé the rest of the liquor off."
+          ]
+        ]
+      },
+      {
+        "video_id": "afM7gVxT-Q8",
+        "title": "Simple One Pot Ground Beef Pasta Recipe: Perfect for Weeknights",
+        "url": "https://www.youtube.com/watch?v=afM7gVxT-Q8",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频展示了两种牛肉碎食谱。第一种食谱是将牛肉碎与洋葱和大蒜一起炒至褐色，然后加入鸡汤和通心粉，小火慢炖至通心粉有嚼劲，再拌入奶油，最后撒上马苏里拉奶酪和欧芹。第二种食谱（从4:42开始）包括用洋葱和蒜烹饪牛肉碎，加入番茄酱、第戎芥末、意大利调味料、番茄沙司和浓奶油，然后与煮好的贝壳面和罗勒混合，最后撒上帕尔米加诺-雷吉亚诺奶酪。这两种食谱都提供了快速简单的美味餐点。",
+        "cards": "stirring occasionally\n---\n--\n偶尔搅拌\n英文例句：Fry for about 4 minutes, stirring occasionally, until browned.\n中文例句：煎炸约4分钟，偶尔搅拌，直到变成褐色。\n\nuntil browned\n---\n--\n直到变成褐色\n英文例句：Fry for about 4 minutes, stirring occasionally, until browned.\n中文例句：煎炸约4分钟，偶尔搅拌，直到变成褐色。\n\nfinely chop\n---\n--\n切碎（细碎地切）\n英文例句：Meanwhile, finely chop 1/2 of a large onion or 1 small onion.\n中文例句：同时，将半个大洋葱或一个小型洋葱切碎。\n\nuntil fragrant\n---\n--\n直到散发出香味\n英文例句：Let the garlic fry for about 30 seconds, until fragrant.\n中文例句：让大蒜煎炸约30秒，直到散发出香味。\n\nal dente\n---\n--\n（意面）煮得有嚼劲\n英文例句：Simmer for about 10 minutes, until the pasta is al dente.\n中文例句：小火慢炖约10分钟，直到意面煮至弹牙（有嚼劲）。\n\nrich, silky sauce\n---\n--\n浓郁、柔滑的酱汁\n英文例句：Pour in 1 cup of heavy cream and let it simmer for another minute, just until everything comes together in a rich, silky sauce.\n中文例句：倒入1杯浓奶油，再小火慢炖一分钟，直到所有食材融合成浓郁、柔滑的酱汁。",
+        "pronunciation": [
+          {
+            "word": "stirring occasionally",
+            "phonetic": "ˈstɜːrɪŋ əˈkeɪʒənəli",
+            "description": "\"stirring\" 中的 /ɜː/ 音像中文的“饿”但更长；\"occasionally\" 中的 /ʒ/ 音像“日”但更轻柔，重音在第二个音节。"
+          },
+          {
+            "word": "until browned",
+            "phonetic": "ənˈtɪl braʊnd",
+            "description": "\"browned\" 的 /nd/ 辅音组合要清晰发出，不漏音。"
+          },
+          {
+            "word": "finely chop",
+            "phonetic": "ˈfaɪnli tʃɒp",
+            "description": "\"chop\" 中的 /ɒ/ 音发短促的“奥”音，不要发成“欧”或“啊”。"
+          },
+          {
+            "word": "until fragrant",
+            "phonetic": "əntɪl ˈfreɪɡrənt",
+            "description": "\"fragrant\" 重音在第一个音节，/ɡr/ 组合发音要连贯。"
+          },
+          {
+            "word": "al dente",
+            "phonetic": "æl ˈdɛnteɪ",
+            "description": "\"al\" 的 /æ/ 音嘴巴张大，\"dente\" 的 /ɛ/ 音像中文“哎”；重音在第二个音节。"
+          },
+          {
+            "word": "rich, silky sauce",
+            "phonetic": "rɪtʃ ˈsɪlki sɔːs",
+            "description": "\"rich\" 和 \"silky\" 的 /ɪ/ 音像中文的“衣”但更短促；\"sauce\" 中的 /ɔː/ 音像中文的“哦”但更长。"
+          }
+        ],
+        "sentences": [
+          [
+            "1. fry for about 4 minutes, stirring occasionally, until browned.",
+            "煎炸约4分钟，偶尔搅拌，直到变成褐色。"
+          ],
+          [
+            "2. Meanwhile, finely chop 1/2 of a large onion or 1 small onion.",
+            "同时，将半个大洋葱或一个小型洋葱切碎。"
+          ],
+          [
+            "3. Let the garlic fry for about 30 seconds, until fragrant.",
+            "让大蒜煎炸约30秒，直到散发出香味。"
+          ],
+          [
+            "4. Simmer for about 10 minutes, until the pasta is al dente.",
+            "小火慢炖约10分钟，直到意面煮至弹牙（有嚼劲）。"
+          ],
+          [
+            "5. just until everything comes together in a rich, silky sauce.",
+            "直到所有食材融合成浓郁、柔滑的酱汁。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1. 复合形容词 (Compound Adjectives)",
+            "两个或更多单词组成一个形容词来修饰名词。",
+            "The second recipe got 7 million views for a reason! Stick around — the next recipe got 7 million views for a reason! (这里的 \"7 million views\" 作为形容词修饰 \"reason\")。"
+          ],
+          [
+            "2. 祈使句 (Imperative Mood)",
+            "用于发出命令、指示或建议。",
+            "Turn off the heat and sprinkle over some grated mozzarella cheese, if using."
+          ]
+        ]
+      }
+    ]
   }
 ]
