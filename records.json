@@ -1102,5 +1102,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-27",
+    "topic": "Trying new local restaurant",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "52YOsjGINSc",
+        "title": "The Most Stressful Restaurant Experience Ever - Key &amp; Peele",
+        "url": "https://www.youtube.com/watch?v=52YOsjGINSc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "一对情侣走进一家马其顿餐厅，老板热情地推荐他们的特色菜“kebapi”。当女顾客提到街对面的咖啡馆也提供“chebapi”时，老板立刻变得愤怒，强调两家餐厅的“kebapi”天壤之别。他详细描述了自家菜肴的独特配料和制作过程，并对竞争对手的产品表示强烈不满。情侣被老板激烈的反应吓到，迅速离开了餐厅，而老板却不忘提醒他们要在Yelp上给餐厅打五星好评。",
+        "cards": "apologize for\n---\n--\n为……道歉\nI'd like to apologize for the behavior of my passion.\n我想为我的冲动行为道歉。\n\npassion\n---\n--\n激情，热情（此处指冲动行为）\nI'd like to apologize for the behavior of my passion.\n我想为我的冲动行为道歉。\n\nwill have been raped\n---\n--\n将被（强行）玷污（夸张用法，未来完成时被动语态）\nI just feel bad in my brain for people to think that your mouths will have been raped.\n我只是觉得很难过，因为人们会认为你们的嘴巴会被玷污。\n\nsons of my bitch\n---\n--\n（粗俗俚语）狗娘养的\nThese mother bitches sons of my bitch across the street what they be serving is chebapi.\n街对面的这些狗娘养的贱货他们提供的就是切瓦皮。\n\ndiced\n---\n--\n切成丁的\nThen is the diced onions.\n然后是切成丁的洋葱。\n\ncottage cheese\n---\n--\n白软干酪\nThey put in the grilled meat, salt, chopped red pepper, diced onion, cream, kashmak, ajvar, then the cottage cheese.\n他们放烤肉、盐、切碎的红辣椒、洋葱丁、奶油、克什马克、阿吉瓦尔，然后是白软干酪。\n\nYelp\n---\n--\nYelp（美国一家点评网站）\nMake sure to give us five stars on Yelp!\n一定要在Yelp上给我们打五星！",
+        "pronunciation": [
+          {
+            "word": "apologize for",
+            "phonetic": "/əˈpɒlədʒaɪz fɔːr/",
+            "description": "\"apologize\" 重音在第二个音节，\"z\"发浊辅音/z/。"
+          },
+          {
+            "word": "passion",
+            "phonetic": "/ˈpæʃən/",
+            "description": "\"ssion\" 发/ʃən/的音，不是/sɪən/。"
+          },
+          {
+            "word": "will have been raped",
+            "phonetic": "/wɪl həv bɪn reɪpt/",
+            "description": "\"raped\" 结尾的/d/音非常轻，几乎听不到，主要发/t/音。"
+          },
+          {
+            "word": "sons of my bitch",
+            "phonetic": "/sʌnz ɒv maɪ bɪtʃ/",
+            "description": "\"sons\" 结尾的\"s\"发浊辅音/z/，\"bitch\" 结尾是/tʃ/音，不要发成/s/。"
+          },
+          {
+            "word": "diced",
+            "phonetic": "/daɪst/",
+            "description": "\"diced\" 结尾的/d/音是清辅音/t/，而不是浊辅音/d/，也不要发成/ɪd/。"
+          },
+          {
+            "word": "cottage cheese",
+            "phonetic": "/ˈkɒtɪdʒ tʃiːz/",
+            "description": "\"cottage\" 重音在第一个音节，\"g\"发/dʒ/音。\"cheese\" 结尾的\"s\"发浊辅音/z/。"
+          },
+          {
+            "word": "Yelp",
+            "phonetic": "/jɛlp/",
+            "description": "\"Yelp\" 以/j/音开头，不要发成/i/，中间的/l/音要发出来。"
+          }
+        ],
+        "sentences": [
+          [
+            "So what's good?",
+            "那有什么好吃的？（常用于询问餐厅推荐菜或特色菜）"
+          ],
+          [
+            "Don't they serve that in the cafe across the street?",
+            "街对面的咖啡馆不是也提供那个吗？（用来确认信息或提出疑问）"
+          ],
+          [
+            "I'd like to apologize for the behavior of my passion.",
+            "我想为我的冲动行为道歉。（正式道歉，并用\"passion\"来形容自己情绪化的表现）"
+          ],
+          [
+            "What is the difference between Kebapi and Chebapi?",
+            "Kebapi和Chebapi有什么区别？（询问两者之间的不同）"
+          ],
+          [
+            "Make sure to give us five stars on Yelp!",
+            "务必在Yelp上给我们打五星！ （请求顾客给予高评价的常见表达）"
+          ]
+        ],
+        "grammar": [
+          [
+            "未来完成时被动语态",
+            "表达在将来某一时刻之前将完成的动作，且主语是动作的承受者。",
+            "\"Your mouths will have been raped.\" (你们的嘴巴将被玷污。)"
+          ],
+          [
+            "\"apologize for\" 和 \"apologize to\"",
+            "\"apologize for something\" 是为某事道歉，而 \"apologize to someone\" 是向某人道歉。",
+            "\"I'd like to apologize for the behavior of my passion.\" (我希望为我激情的行为道歉。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "Q2hxlxWYTN0",
+        "title": "4 Times I&#39;ve Been CHEATED By Food Challenge Restaurants!!",
+        "url": "https://www.youtube.com/watch?v=Q2hxlxWYTN0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "Randy Santel，一位职业大胃王，讲述了他输掉食物挑战的三种主要原因。第一种是他自己的失误，例如准备不足；第二种是由于餐厅的失误，例如食物准备不当或份量增加；第三种是他特别强调的，是餐厅的“恶意”行为，导致他不得不放弃挑战。他详细描述了四家他永远不会再去的餐厅的经历，其中包括一家已经倒闭的餐厅，以及一家因其不合理规定和报警行为而被他强烈谴责的餐厅，那次事件甚至让他的朋友都受到了影响。",
+        "cards": "Uplifting\n---\n--\n令人振奋的；积极向上的\nI try to keep everything as positive and uplifting as I can.\n我尽量保持一切积极向上。\n\nTeam effort\n---\n--\n团队合作，集体努力\nThat makes each promotional event a team effort.\n这让每一次宣传活动都成为一次团队合作。\n\nIll will\n---\n--\n恶意；敌意\nIn those situations, there is no ill will on behalf of the restaurant.\n在那些情况下，餐厅并没有恶意。\n\nTake it on the chin\n---\n--\n勇敢面对失败或批评；忍受打击\nI usually just take it on the chin and lose gracefully.\n我通常只是默默承受失败并优雅地输掉。\n\nBurn that bridge\n---\n--\n断绝后路；破坏关系\nIf I create a ruckus, I'll burn that bridge and they won't let me back.\n如果我闹事，我就会断绝后路，他们就不会让我再来了。\n\nAdamant\n---\n--\n坚决的；固执的\nJohnny's was very adamant, not only were we not allowed to film the cooking of the food, we were not allowed to see the preparations at all.\nJohnny's餐厅非常坚决，我们不仅不被允许拍摄食物的烹饪过程，而且根本不允许看到准备工作。\n\nPoor ethical practices\n---\n--\n不良商业行为；不道德操作\nMaintaining poor ethical practices in today's world just isn't sustainable long-term.\n在当今世界，维持不良商业行为从长远来看是不可持续的。\n\nAstronomically stupid\n---\n--\n极其愚蠢的；荒谬至极的\nI've never seen so many people treated like absolute felons for something so astronomically stupid.\n我从未见过这么多人因为如此荒谬愚蠢的事情被当作绝对的重犯对待。",
+        "pronunciation": [
+          {
+            "word": "Uplifting",
+            "phonetic": "/ʌpˈlɪftɪŋ/",
+            "description": "注意/ʌp/中/ʌ/的发音类似中文的“啊”但更短促，以及重音在第二个音节。"
+          },
+          {
+            "word": "Team effort",
+            "phonetic": "/ˈtiːm ˈɛfərt/",
+            "description": "“team”发长音/iː/，且“effort”中/fər/是轻音，不要读成重音。"
+          },
+          {
+            "word": "Ill will",
+            "phonetic": "/ˈɪl ˈwɪl/",
+            "description": "两个词的/ɪ/都是短促的“一”音，不要发成长音。"
+          },
+          {
+            "word": "Take it on the chin",
+            "phonetic": "/ˈteɪk ɪt ɒn ðə ˈtʃɪn/",
+            "description": "“take it on”可以连读，重音在“chin”。"
+          },
+          {
+            "word": "Burn that bridge",
+            "phonetic": "/ˈbɜrn ðæt ˈbrɪdʒ/",
+            "description": "“burn”中的/ɜr/是卷舌音，发音时舌头略微卷起。"
+          },
+          {
+            "word": "Adamant",
+            "phonetic": "/ˈædəmənt/",
+            "description": "重音在第一个音节/æ/，发音时口型张开。"
+          },
+          {
+            "word": "Poor ethical practices",
+            "phonetic": "/ˈpʊər ˈɛθɪkəl ˈpræktɪsɪz/",
+            "description": "“ethical”中的/θ/是舌尖抵住上下门齿间的摩擦音，类似中文“死”的“s”但不送气。"
+          },
+          {
+            "word": "Astronomically stupid",
+            "phonetic": "/ˌæstrəˈnɒmɪkli ˈstjuːpɪd/",
+            "description": "“astronomically”重音在第三个音节/nɒ/。"
+          }
+        ],
+        "sentences": [
+          [
+            "1. I try to keep everything as positive and uplifting as I can, even when I lose.",
+            "我尽量保持一切积极向上，即使我输了。"
+          ],
+          [
+            "2. The food gets brought out to me and I'm just not able to eat fast enough to finish within the time limit.",
+            "食物端上来了，但我就是吃得不够快，无法在规定时间内吃完。"
+          ],
+          [
+            "3. They wanted to do their best and they tried their best, something just happened and that's understandable, we're all human.",
+            "他们想尽力而为，也尽力了，只是出了点状况，这可以理解，我们都是人。"
+          ],
+          [
+            "4. I knew I was in trouble from the get-go because they were making the sandwich on a plate that was way bigger than in every other photo I had seen.",
+            "从一开始我就知道有麻烦了，因为他们把三明治放在一个盘子里，这个盘子比我见过的所有其他照片里都大得多。"
+          ],
+          [
+            "5. I went to the bathroom to change out of my bum travel clothes and into my uniform and to get ready for the event.",
+            "我去洗手间换掉我邋遢的旅行服，换上我的制服，为活动做准备。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1. Present Perfect",
+            "用于描述从过去开始并持续到现在的动作或状态，或对现在产生影响的过去发生的事情。",
+            "...I’ve never discussed any of those on the channel before. (0:40)"
+          ],
+          [
+            "2. Passive Voice",
+            "当强调动作的承受者或动作本身，而不是执行者时使用被动语态。",
+            "Johnny's was very adamant, not only were we not allowed to film the cooking of the food, we were not allowed to see the preparations at all. (4:21)"
+          ]
+        ]
+      }
+    ]
   }
 ]
