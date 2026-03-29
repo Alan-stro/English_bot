@@ -1447,5 +1447,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "topic": "Decluttering my apartment",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "0mCr5tqtiMg",
+        "title": "How to Deal with Clutter When You Have ADHD",
+        "url": "https://www.youtube.com/watch?v=0mCr5tqtiMg",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频探讨了患有ADHD（注意力缺陷多动障碍）的人群如何管理家中杂乱的问题。主持人指出，对于ADHD患者来说，一定程度的杂乱是不可避免的，并强调了杂乱、不堪重负和回避之间存在的恶性循环。视频介绍了两种类型的杂乱：“动态杂乱”（Clutter in Motion）和“静态杂乱”（Clutter in Stasis），并提供了实用的方法来识别和解决静态杂乱，例如确保物品有固定位置或利用合适的收纳工具。最终，视频鼓励人们寻求帮助，并为ADHD患者提供了一份实用的工作表来管理杂乱，帮助他们找到适合自己的整理方式，减少生活中的压迫感。",
+        "cards": "working against us\n---\n--\n不利于我们/与我们作对\nIt's not that we don't try, it's that we've got a lot working against us.\n我们并非不努力，而是有很多事情在与我们作对。\n\nvicious cycle\n---\n--\n恶性循环\nIt isn't just our overwhelm that adds to the clutter, the clutter adds to our overwhelm, which makes us avoid the clutter, which creates more clutter, which adds to the overwhelm... It's a vicious cycle.\n不仅仅是我们的不堪重负导致了杂乱，杂乱反过来加重了我们的不堪重负，这又让我们避免整理杂乱，从而产生了更多的杂乱，又加重了不堪重负……这是一个恶性循环。\n\ninevitable\n---\n--\n不可避免的\nSome level of clutter is inevitable.\n一定程度的杂乱是不可避免的。\n\nreassuring\n---\n--\n令人安心的，使人放心的\nI'm going to say that again because for me, it was really reassuring to hear.\n我再说一遍，因为对我来说，听到这句话真的让人很安心。\n\ncondemn\n---\n--\n谴责，指责\nSo our first step isn't to condemn clutter and get rid of it, but to figure out what you need or want in any given place.\n所以我们的第一步不是谴责杂乱并清除它，而是要弄清楚你在任何特定地方需要或想要什么。\n\nput systems into place\n---\n--\n建立/实施系统\nIt's much much easier to put systems in place to bring it down to a comfortable level.\n建立系统将其降到舒适水平要容易得多。\n\nshuffle it off to the side\n---\n--\n把它推到一边/随便放在一边\nYou're working around it, potentially shuffling it off to the side when it's in the way.\n你绕着它工作，当它碍事时可能会把它推到一边。\n\nbalance out\n---\n--\n使平衡，抵消\nIt helps me balance out my tech stuff to not tech stuff ratio, so my space feels less overwhelming.\n它帮助我平衡我的科技物品与非科技物品的比例，这样我的空间就不会那么让人不堪重负。",
+        "pronunciation": [
+          {
+            "word": "working against us",
+            "phonetic": "/ˈwɜːrkɪŋ əˈɡɛnst ʌs/",
+            "description": "\"against\" 的 \"a\" 读音是 /ə/，不是 /æ/。"
+          },
+          {
+            "word": "vicious cycle",
+            "phonetic": "/ˈvɪʃəs ˈsaɪkl/",
+            "description": "\"vicious\" 的 \"ci\" 读 /ʃ/ 的音，像中文的 \"嘘\"；\"cycle\" 的 \"c\" 发 /s/ 音，不发 /k/ 音。"
+          },
+          {
+            "word": "inevitable",
+            "phonetic": "/ɪnˈɛvɪtəbl/",
+            "description": "重音在 \"ev\" /ˈɛv/，不是在第一个音节。"
+          },
+          {
+            "word": "reassuring",
+            "phonetic": "/ˌriːəˈʃʊərɪŋ/",
+            "description": "重音在 \"shu\" /ˈʃʊər/，不是在开头。"
+          },
+          {
+            "word": "condemn",
+            "phonetic": "/kənˈdɛm/",
+            "description": "结尾的 \"n\" 发音清晰，而 \"m\" 接近不发音。"
+          },
+          {
+            "word": "put systems into place",
+            "phonetic": "/pʊt ˈsɪstəmz ˈɪntuː pleɪs/",
+            "description": "\"into\" 连读时 \"t\" 常弱化为 /d/ 或省略。"
+          },
+          {
+            "word": "shuffle it off to the side",
+            "phonetic": "/ˈʃʌfl ɪt ɒf tuː ðə saɪd/",
+            "description": "\"shuffle it off\" 连读，\"off\" 的 /f/ 和 \"to\" 的 /t/ 有时会弱化。"
+          },
+          {
+            "word": "balance out",
+            "phonetic": "/ˈbæləns aʊt/",
+            "description": "\"balance\" 的 \"a\" 读 /æ/ 音，嘴巴要张开一些。"
+          }
+        ],
+        "sentences": [
+          [
+            "It's not that we don't try, it's that we've got a lot working against us.",
+            "我们并非不努力，而是有很多事情在与我们作对。"
+          ],
+          [
+            "It's a vicious cycle.",
+            "这是一个恶性循环。"
+          ],
+          [
+            "Some level of CLUTTER is inevitable.",
+            "一定程度的杂乱是不可避免的。"
+          ],
+          [
+            "Just like we have different favorite colors, one person's clutter can be another person's creative inspiration.",
+            "就像我们有不同的偏好颜色一样，一个人的杂乱可能是另一个人的创作灵感。"
+          ],
+          [
+            "I wasted a lot of my life being ashamed of how my ADHD symptoms affected me.",
+            "我一生中浪费了很多时间，因为我羞于承认ADHD症状对我的影响。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**It's not that... it's that...**",
+            "这个句型用于解释原因或澄清事实，强调“不是因为A，而是因为B”。",
+            "It's not that we don't try, it's that we've got a lot working against us."
+          ],
+          [
+            "**Rather than doing something, we can do something else.**",
+            "\"Rather than\" 引导的短语表示“而不是做某事”，强调选择其他做法。",
+            "So, rather than focusing on an unrealistic standard of perfection, we can put systems into place that makes sense."
+          ]
+        ]
+      },
+      {
+        "video_id": "1x_2ehy-IBQ",
+        "title": "The BEST Decluttering Tips For Anyone Who’s Overwhelmed",
+        "url": "https://www.youtube.com/watch?v=1x_2ehy-IBQ",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频主要讲解了如何应对整理（decluttering）过程中可能出现的“不知所措”感。讲者首先强调这种感受很普遍，并指出了避免陷入“冻结区”（即因为害怕不知所措而什么都不做）的重要性。他建议从最能带来即时改变的区域开始，并强调整理和收纳是两个不同的概念，应先整理再收纳。最后，他提出了四个建立自信决策的方法，以克服整理过程中的犹豫和疑虑，鼓励观众把整理看作一个积极的改变，一次只专注于一小部分，并根据核心价值观做出选择。",
+        "cards": "struggling to figure out\n---\n--\n努力弄清楚，费力地理解\nWhether you're struggling to figure out how to start decluttering, where you feel overwhelmed...\n无论你是努力弄清楚如何开始整理，还是感到不知所措......\n\noverwhelmed personality type\n---\n--\n容易感到不知所措的性格类型\nTo give you a peek into my world, I'm a bit of an overwhelmed personality type myself.\n为了让你们了解我的世界，我自己就有点是那种容易感到不知所措的性格类型。\n\nfrantic mind\n---\n--\n狂乱的思绪，手忙脚乱的头脑\nSo I know the difficulty of relaxing and quieting your frantic mind while still trying to regain control of the parts of your life that you feel you're losing control over.\n所以我懂得，在努力重新掌控你感到失控的生活部分时，放松和平静你狂乱的思绪是多么困难。\n\nregain control\n---\n--\n重新掌控，恢复控制\nSo I know the difficulty of relaxing and quieting your frantic mind while still trying to regain control of the parts of your life that you feel you're losing control over.\n所以我懂得，在努力重新掌控你感到失控的生活部分时，放松和平静你狂乱的思绪是多么困难。\n\ntake note of\n---\n--\n留意，注意\nThe reason I'm bringing this up is to show you that you have options in regards to where you start and how you start your decluttering journey, which is really important to take note of.\n我之所以提出这一点，是为了向你展示，你在如何开始整理之旅方面有多种选择，这一点非常重要，需要注意。\n\nplace a band-aid on a wound\n---\n--\n治标不治本（字面意思：给伤口贴创可贴）\nBecause at that point, all you're really doing is placing a band-aid on a wound that really needs stitches.\n因为到那时，你所做的实际上只是在一个真正需要缝合的伤口上贴创可贴。\n\nat the forefront of my life\n---\n--\n在我生活的首位，在我的生活中最重要\nI keep mine at the forefront of my life and if you're curious about what yours are or if you need a refresh, then there's a link in the description to download my free Clutter to Clarity Quick-Guide.\n我将我的（核心价值观）放在生活的首位，如果你好奇你的核心价值观是什么，或者你需要重新审视，那么描述区有链接可以下载我的免费《从杂乱到清晰》速查指南。\n\na huge proponent of\n---\n--\n大力支持者，倡导者\nNow, I'm a huge proponent of knowing and embracing your core values.\n我是了解并拥抱你的核心价值观的忠实支持者。",
+        "pronunciation": [
+          {
+            "word": "struggling to figure out",
+            "phonetic": "/ˈstrʌɡlɪŋ tə ˈfɪɡər aʊt/",
+            "description": "注意“struggling”的-g音和“figure out”的连读，通常会变成“figure-rout”。"
+          },
+          {
+            "word": "overwhelmed personality type",
+            "phonetic": "/ˌoʊvərˈwɛlmd ˌpɜːrsəˈnæləti taɪp/",
+            "description": "“overwhelmed”中的-ed发/d/音，不要读成/ɪd/。“personality”的重音在-nal-。"
+          },
+          {
+            "word": "frantic mind",
+            "phonetic": "/ˈfræntɪk maɪnd/",
+            "description": "“frantic”中的/æ/音要发饱满，不要发成/e/。"
+          },
+          {
+            "word": "regain control",
+            "phonetic": "/ˌriːˈɡeɪn kənˈtroʊl/",
+            "description": "“regain”重音在-gain-，“control”重音在-trol-。"
+          },
+          {
+            "word": "take note of",
+            "phonetic": "/teɪk noʊt ʌv/",
+            "description": "“note of”通常会连读成“note-uv”。"
+          },
+          {
+            "word": "place a band-aid on a wound",
+            "phonetic": "/pleɪs ə ˈbændˌeɪd ɒn ə wuːnd/",
+            "description": "“band-aid”的发音要清晰，重音在前，“wound”是/uː/长音。"
+          },
+          {
+            "word": "at the forefront of my life",
+            "phonetic": "/æt ðə ˈfɔːrˌfrʌnt əv maɪ laɪf/",
+            "description": "“forefront”重音在前，注意“of”的弱读。"
+          },
+          {
+            "word": "a huge proponent of",
+            "phonetic": "/ə hjuːdʒ prəˈpoʊnənt əv/",
+            "description": "“proponent”重音在-po-，注意“of”的弱读。"
+          }
+        ],
+        "sentences": [
+          [
+            "1.  So don't for one second think that you're alone in how you feel, because you're not.",
+            "所以，不要有一秒钟觉得你的感受是孤单的，因为你不是。"
+          ],
+          [
+            "2.  All that's going to do is overwhelm you more than you already are and stop you from making progress completely.",
+            "那只会让你比现在更不知所措，并完全阻止你取得任何进展。"
+          ],
+          [
+            "3.  But for the vast majority, the feeling of overwhelm tends to stem from the simple fact that you're looking at all of the clutter in your life as one complete project.",
+            "但对于绝大多数人来说，不知所措的感觉往往源于一个简单的事实，那就是你把生活中的所有杂物都看作一个完整的项目。"
+          ],
+          [
+            "4.  You can't afford to think about everything you want to declutter all at once.",
+            "你不能奢望一次性考虑所有你想整理的东西。"
+          ],
+          [
+            "5.  There's a fundamental difference between valid doubts and concerns about a particular course of action we might take, and using doubt as an excuse to stay exactly where you are in life and avoid change altogether.",
+            "有效的疑虑和对特定行动方案的担忧，与利用疑虑作为借口停滞不前、完全逃避改变之间存在根本区别。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**动名词作主语**",
+            "动名词(-ing形式)可以像名词一样在句中作主语。",
+            "Being overwhelmed makes it very difficult to declutter."
+          ],
+          [
+            "**介词短语 in regards to**",
+            "表示“关于，至于”，用于引出话题或说明某个方面。",
+            "The reason I'm bringing this up is to show you that you have options in regards to where you start and how you start your decluttering journey."
+          ]
+        ]
+      }
+    ]
   }
 ]
