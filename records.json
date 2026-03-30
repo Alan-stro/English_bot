@@ -1626,5 +1626,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-30",
+    "topic": "Renting first apartment guide",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "AiWPFwGNB3w",
+        "title": "Top 20 Questions to Ask When Touring an Apartment",
+        "url": "https://www.youtube.com/watch?v=AiWPFwGNB3w",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "本视频由两位主持人详细讲解了在看房时需要询问的20个关键问题，旨在帮助租客避免潜在的麻烦和额外开销。他们涵盖了从搬家费用、租金支付方式、收入信用要求，到租赁期限、宠物政策、维护流程、停车状况、宾客规定和提前退租罚款等方方面面。视频强调了全面了解租赁合同细节的重要性，并为观众提供了免费的下载清单，确保他们在租房过程中做好充分准备。",
+        "cards": "have one's fair share of (something)\n---\n--\n经历过很多（某事），尤指困难或不愉快的事情\n英文例句：We both had our fair share of moving as adults.\n中文例句：我们俩大人在搬家方面都经历了不少。\n\ncommon sense\n---\n--\n常识，公理\n英文例句：A lot of these questions are going to seem like common sense to a lot of people.\n中文例句：这些问题中的很多对很多人来说可能看起来是常识。\n\nincur a penalty\n---\n--\n招致罚款/惩罚\n英文例句：They weren't going to be able to get the other person off the lease without incurring a penalty.\n中文例句：如果不能将另一个人从租约中移除，他们将面临罚款。\n\nstaying put\n---\n--\n待在原地，保持不动\n英文例句：This is an important thing to know if you planned on staying put for a few years.\n中文例句：如果你打算在那里住几年，知道这一点很重要。\n\nhouse-broke\n---\n--\n（非正式）因房屋开销而身无分文\n英文例句：It's no fun being house-broke.\n中文例句：身无分文可不好玩。\n\ndrive someone nuts\n---\n--\n（口语）让某人非常恼火/发疯\n英文例句：It drove me nuts.\n中文例句：那让我抓狂。\n\nsubletting / sub-leasing\n---\n--\n转租\n英文例句：Number 19 is, is subletting approved?\n中文例句：第19个问题是，允许转租吗？\n\nforfeit (one's security deposit)\n---\n--\n（因违约等）丧失（押金等）\n英文例句：If you don't give them the proper notice, you could forfeit your security deposit.\n中文例句：如果你没有给予适当的通知，你可能会失去你的押金。",
+        "pronunciation": [
+          {
+            "word": "have one's fair share of",
+            "phonetic": "/hæv wʌnz fɛr ʃɛr ʌv/",
+            "description": "\"fair\" /fɛr/ 中的 /ɛr/ 音，注意不要发成简单的/eɪ/。"
+          },
+          {
+            "word": "common sense",
+            "phonetic": "/ˈkɒmən sɛns/",
+            "description": "\"common\" /kɒmən/ 中间通常弱读，\"sense\" /sɛns/ 结尾的/s/清晰。"
+          },
+          {
+            "word": "incur a penalty",
+            "phonetic": "/ɪnˈkɜːr ə ˈpɛnəlti/",
+            "description": "\"incur\" /ɪnˈkɜːr/ 中间的 /ɜːr/ 音。"
+          },
+          {
+            "word": "staying put",
+            "phonetic": "/ˈsteɪɪŋ pʊt/",
+            "description": "\"staying\" /steɪɪŋ/ 中 /ɪŋ/ 音，\"put\" /pʊt/ 的 /ʊ/ 音，短促。"
+          },
+          {
+            "word": "house-broke",
+            "phonetic": "/ˈhaʊs brəʊk/",
+            "description": "\"broke\" /brəʊk/ 中的 /oʊ/ 音。"
+          },
+          {
+            "word": "drive someone nuts",
+            "phonetic": "/draɪv ˈsʌmwʌn nʌts/",
+            "description": "\"nuts\" /nʌts/ 结尾的 /ts/ 音要连贯。"
+          },
+          {
+            "word": "subletting",
+            "phonetic": "/ˈsʌblɛtɪŋ/",
+            "description": "\"sub\" /sʌb/ 重读，\"letting\" /lɛtɪŋ/ 中的 /t/ 浊化为 /d/ 音。"
+          },
+          {
+            "word": "forfeit",
+            "phonetic": "/ˈfɔːrfɪt/",
+            "description": "\"forfeit\" /fɔːrfɪt/ 中的 /ɔːr/ 音。"
+          }
+        ],
+        "sentences": [
+          [
+            "1. If you're about to tour an apartment, make sure you ask them these questions.",
+            "如果你即将去看一套公寓，请务必向他们提出这些问题。"
+          ],
+          [
+            "2. We both had our fair share of moving as adults.",
+            "我们俩大人在搬家方面都经历了不少。"
+          ],
+          [
+            "3. Asking the right questions when you're touring your place to live is really going to help you decide if it's the right place for you.",
+            "在看房时提出正确的问题，确实能帮助你决定这个地方是否适合你居住。"
+          ],
+          [
+            "4. Don't worry about taking notes or trying to remember everything that we talk about.",
+            "不用担心记笔记或试图记住我们谈论的所有内容。"
+          ],
+          [
+            "5. Knowing what is available to you is a must.",
+            "了解你有什么可用的设施是必须的。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1. **隐性条件句**",
+            "解释：当条件句中的条件部分(if-clause)被省略或隐含在上下文时，主句仍表达条件结果。",
+            "视频例子：\"You'd assume this is common practice, but you'd be surprised.\" (Implied: If you assume this is common practice, then you would be surprised.)"
+          ],
+          [
+            "2. **\"or not\" 的使用**",
+            "解释：在疑问句或条件状语从句中，用来表示两种可能性，相当于“是否”。",
+            "视频例子：\"Are utilities included or not?\" 和 \"Verify if you're viewing the actual apartment or not.\""
+          ]
+        ]
+      },
+      {
+        "video_id": "bdV2lHYHmmQ",
+        "title": "Renting an Apartment in Paris - Everything You Need to Know",
+        "url": "https://www.youtube.com/watch?v=bdV2lHYHmmQ",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，Jay和Eszter Simon讨论了外国人在巴黎租房的各种挑战。Eszter详细解释了在没有法国工作合同的情况下，如何通过私人担保公司租房，并强调了收入要求。他们还探讨了在法国租房的常见误区，包括签证要求、房产中介的作用以及如何避免租赁诈骗。最后，Eszter提供了关于准备租房申请材料、银行账户设置和能源评级等方面的实用建议，帮助租客更好地应对巴黎紧张的租房市场。",
+        "cards": "rental landscape\n---\n--\n租房市场概况\nIf you're looking to move to France at any point, you might be a little bit intimidated by the whole rental landscape.\n如果你打算搬到法国，你可能会对整个租房市场情况感到有些望而却步。\n\nadmin side of things\n---\n--\n行政事务方面\nNot only does she help with relocating, finding an apartment side of things, but also the admin side of things.\n她不仅帮助搬迁和找公寓，还处理行政事务方面的问题。\n\nevery step of the way\n---\n--\n全程，每一步\nThankfully, she's been with me every step of the way.\n幸好，她全程都在帮助我。\n\njump through hoops\n---\n--\n经历重重困难；通过层层关卡\nWhat hoops do you have to jump through to rent an apartment in Paris?\n在巴黎租公寓，你必须经历哪些重重困难？\n\npush back\n---\n--\n反对；抵制\nDo you have a lot of push back from people renting apartments when they see that as the guarantor?\n当租房者看到（在线担保公司作为）担保人时，你是否会遇到很多抵制？\n\npitfalls\n---\n--\n陷阱；隐患\nWhat are the common pitfalls people starting out may not even know about?\n新手可能都不知道的常见隐患有哪些？\n\nthe backbone of\n---\n--\n...的支柱；核心部分\nSo, the dossier is the backbone of your application.\n所以，材料夹（dossier）是你的申请的核心部分。\n\ndownhill from here\n---\n--\n从此一帆风顺（或越来越糟）\nLet's say you get the apartment, is it all downhill from here?\n假设你租到了公寓，是不是从此就一帆风顺了？",
+        "pronunciation": [
+          {
+            "word": "rental landscape",
+            "phonetic": "/ˈrɛntl ˈlændˌskeɪp/",
+            "description": "注意“rental”中“t”的发音，通常会弱化成一个轻微的“d”音，而不是清晰的“t”。"
+          },
+          {
+            "word": "admin side of things",
+            "phonetic": "/ˈædmɪn saɪd əv θɪŋz/",
+            "description": "“admin”是“administrative”的缩写，重音在第一音节。“things”中“th”是清辅音，舌尖轻触上齿，发出“s”的摩擦音。"
+          },
+          {
+            "word": "every step of the way",
+            "phonetic": "/ˈɛvəri stɛp əv ðə weɪ/",
+            "description": "“every”中的“e”发短音。“of the”通常弱读，听起来像“əvðə”。"
+          },
+          {
+            "word": "jump through hoops",
+            "phonetic": "/dʒʌmp θruː huːps/",
+            "description": "“jump through”连读时，“p”和“th”之间可能停顿或轻微融合。“hoops”中“oo”发长音。"
+          },
+          {
+            "word": "push back",
+            "phonetic": "/pʊʃ bæk/",
+            "description": "“push”中的“u”发短音，舌尖不触上颚。“back”中的“a”发[æ]音。"
+          },
+          {
+            "word": "pitfalls",
+            "phonetic": "/ˈpɪtˌfɔːlz/",
+            "description": "“pit”中“i”发短音。“falls”中“a”发长音[ɔː]，不是[ɑː]。"
+          },
+          {
+            "word": "the backbone of",
+            "phonetic": "/ðə ˈbækˌboʊn əv/",
+            "description": "“backbone”重音在第一个“back”。“of”弱读。"
+          },
+          {
+            "word": "downhill from here",
+            "phonetic": "/ˌdaʊnˈhɪl frəm hɪər/",
+            "description": "“downhill”重音在第二音节。“from”常弱读成“frəm”。"
+          }
+        ],
+        "sentences": [
+          [
+            "It's been a nightmare, and thankfully she's been with me every step of the way.",
+            "这简直是噩梦，幸好她一路都在帮我。"
+          ],
+          [
+            "What hoops do you have to jump through to rent an apartment in Paris?",
+            "在巴黎租公寓，你必须经历哪些重重困难？"
+          ],
+          [
+            "You can use a private guarantor.",
+            "你可以使用私人担保公司。"
+          ],
+          [
+            "You will have to build a whole dossier, which is basically a rental application.",
+            "你需要准备一整套档案，这基本上就是一份租房申请。"
+          ],
+          [
+            "When it looks like it's too good to be true, it's because it is too good to be true.",
+            "当事情看起来好得不真实时，那是因为它确实好得不真实。"
+          ]
+        ],
+        "grammar": [
+          [
+            "情态动词 \"might\"",
+            "表示可能性或推测，语气比 \"may\" 更不确定。",
+            "If you're looking to move to France at any point, you **might** be a little bit intimidated."
+          ],
+          [
+            "动词短语 \"take over\"",
+            "表示接管或承担（责任）。",
+            "If you fail to pay the rent, they are **taking over** and they will pay your rent for you."
+          ]
+        ]
+      }
+    ]
   }
 ]
