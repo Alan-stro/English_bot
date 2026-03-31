@@ -1805,5 +1805,169 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-03-31",
+    "topic": "Finding good podcasts",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "apbSsILLh28",
+        "title": "What really matters at the end of life | BJ Miller | TED",
+        "url": "https://www.youtube.com/watch?v=apbSsILLh28",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "BJ Miller是一位医生，他曾因一场事故失去三肢，从此开始与死亡建立正式关系。他认为美国医疗系统存在缺陷，因为它是围绕疾病而非病人设计的。他呼吁将“设计思维”引入死亡体验中，区分必然的痛苦和不必要的痛苦。他分享了患者Frank和Jane的故事，强调在临终关怀中，感官体验、尊严和人情味至关重要，让生命在生命的最后阶段依然充满美好。",
+        "cards": "horsing around\n---\n--\n（非正式）玩闹；胡闹\n英文例句：A few of my friends and I were horsing around and we decided to climb atop a parked commuter train.\n中文例句：几个朋友和我一起玩闹，我们决定爬上一列停着的通勤列车。\n\nin solidarity\n---\n--\n团结一致\n英文例句：My father wears it now in solidarity.\n中文例句：我父亲现在佩戴着它，以示团结。\n\nunwitting agents\n---\n--\n不知情的推动者；无意的帮凶\n英文例句：We who work in it are also unwitting agents for a system that too often does not serve.\n中文例句：我们这些在其中工作的人，也往往是不知情的推动者，为一个经常服务不周的系统。\n\ntease out\n---\n--\n细致地梳理或辨别\n英文例句：To get underneath this, it can be very helpful to tease out suffering which is necessary from suffering we can change.\n中文例句：要深入理解这一点，区分“必然的痛苦”和“可以改变的痛苦”会非常有帮助。\n\npotent lesson\n---\n--\n有力的教训；深刻的启发\n英文例句：A really potent lesson for a kid who couldn't change so much of what he was seeing.\n中文例句：对于一个无法改变所见许多事物的孩子来说，那是一个非常深刻的教训。\n\nrapture\n---\n--\n狂喜；极度喜悦\n英文例句：I cannot tell you the rapture I felt holding that in my hand.\n中文例句：我无法形容我当时手中握着它时感受到的狂喜。\n\ncrescendo through to the end\n---\n--\n（比喻）逐渐达到高潮直至结束\n英文例句：Aging and dying can become a process of crescendo through to the end.\n中文例句：衰老和死亡可以成为一个渐进的过程，直至生命的最后。",
+        "pronunciation": [
+          {
+            "word": "horsing around",
+            "phonetic": "/ˈhɔːrsɪŋ əˈraʊnd/",
+            "description": "注意\"horsing\"中\"s\"发/s/音，而非/z/。"
+          },
+          {
+            "word": "in solidarity",
+            "phonetic": "/ɪn ˌsɒlɪˈdærɪti/",
+            "description": "\"solidarity\"重音在第三个音节/ˈdær/。"
+          },
+          {
+            "word": "unwitting agents",
+            "phonetic": "/ʌnˈwɪtɪŋ ˈeɪdʒənts/",
+            "description": "\"unwitting\"重音在第二个音节/ˈwɪt/，\"agents\"的/dʒ/音要清晰。"
+          },
+          {
+            "word": "tease out",
+            "phonetic": "/tiːz aʊt/",
+            "description": "\"tease\"中\"s\"发/z/音。"
+          },
+          {
+            "word": "potent lesson",
+            "phonetic": "/ˈpoʊtnt ˈlɛsn/",
+            "description": "\"potent\"的/t/音要轻微带过或不发音，类似\"po-un\"。"
+          },
+          {
+            "word": "rapture",
+            "phonetic": "/ˈræptʃər/",
+            "description": "\"rapture\"的\"pt\"发/p/音，不是/b/。"
+          },
+          {
+            "word": "crescendo through to the end",
+            "phonetic": "/krɪˈʃɛndoʊ θruː tuː ðiː ɛnd/",
+            "description": "\"crescendo\"重音在第二个音节/ˈʃɛn/，\"through\"的/θr/音要卷舌且气流摩擦。"
+          }
+        ],
+        "sentences": [
+          [
+            "1.  Well, we all need a reason to wake up.",
+            "我们都需要一个醒来的理由。"
+          ],
+          [
+            "2.  I know you're too polite to ask, so I will tell you.",
+            "我知道你们太有礼貌不好意思问，所以我就直接说了。"
+          ],
+          [
+            "3.  Would you believe that watch still works?",
+            "你相信那块手表还能用吗？"
+          ],
+          [
+            "4.  For most people, the scariest thing about death isn't being dead, it's dying.",
+            "对大多数人来说，关于死亡最可怕的不是死去，而是死亡的过程。"
+          ],
+          [
+            "5.  It can be really good to realize forces larger than ourselves.",
+            "认识到比我们自身更强大的力量，真的很好。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**间接引语 (Indirect Speech)**",
+            "用于转述他人的言论、想法或问题，通常需要改变时态、代词和时间/地点状语，并且不使用引号。",
+            "视频例句：I know you're too polite to ask, so I will tell you. (0:23)"
+          ],
+          [
+            "**情态动词的多种用法**",
+            "**might hope for** 表示可能性，且带有期待的语气。",
+            "视频例句：And the most we might hope for within those walls is numbness. (9:40)"
+          ]
+        ]
+      },
+      {
+        "video_id": "ZQNk7KVU_6A",
+        "title": "How to Love Yourself to the Core | Jen Oliver | TEDxWindsor",
+        "url": "https://www.youtube.com/watch?v=ZQNk7KVU_6A",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该TEDx演讲探讨了自我价值和内在爱的重要性，指出社会对饮食、运动和体重过度关注，导致人们产生不满和比较心理。演讲者通过分享自己作为母亲的经历，包括先天性心脏缺陷和产后恢复，强调了积极情绪对身心健康的影响。她呼吁人们停止自我批评，培养积极的自我对话，并通过内省而非外部压力来寻找真爱和价值。",
+        "cards": "cultivate\n---\n--\n培养，发展（某种品质或技能）\nEnglish example: How to cultivate more of it?\n中文例句：如何培养更多的爱？\n\n--\n---\nmissing pieces of the puzzle\n--\n缺失的拼图碎片（指理解某情况所需的关键信息）\nEnglish example: There are many missing pieces of the puzzle.\n中文例句：拼图缺失了很多碎片。\n\n--\n---\npreconceived notions\n--\n先入为主的观念\nEnglish example: I had all these preconceived notions of things I had to do.\n中文例句：我对于自己必须做的事情抱持着许多先入为主的观念。\n\n--\n---\nfall prey to\n--\n成为…的牺牲品；受…的害\nEnglish example: I too fell prey to our weight-obsessed culture.\n中文例句：我也成了我们这种痴迷于体重的文化的受害者。\n\n--\n---\nneural pathways\n--\n神经通路\nEnglish example: We have such ingrained patterns, neural pathways that we have created.\n中文例句：我们有如此根深蒂固的模式，我们已经创造了神经通路。\n\n--\n---\nberate\n--\n严厉指责；痛斥\nEnglish example: Under no circumstances do you deserve to be berated for the fact that you missed the gym.\n中文例句：在任何情况下，你都不应该因为没去健身房而受到责骂。",
+        "pronunciation": [
+          {
+            "word": "cultivate",
+            "phonetic": "/ˈkʌltɪveɪt/",
+            "description": "第一个音节重读，'tiv' 发 /tɪv/ 而不是 /taɪv/。"
+          },
+          {
+            "word": "missing pieces of the puzzle",
+            "phonetic": "/ˈmɪsɪŋ ˈpiːsɪz əv ðə ˈpʌzl/",
+            "description": "'puzzle' 的 'z' 发 /z/ 音，不是 /s/。"
+          },
+          {
+            "word": "preconceived notions",
+            "phonetic": "/ˌpriːkənˈsiːvd ˈnoʊʃənz/",
+            "description": "'ceived' 重读，'notions' 的 'tio' 发 /ʃə/ 音。"
+          },
+          {
+            "word": "fall prey to",
+            "phonetic": "/fɔːl preɪ tuː/",
+            "description": "'prey' 发 /preɪ/，像中文“佩”加长。"
+          },
+          {
+            "word": "neural pathways",
+            "phonetic": "/ˈnʊrəl ˈpæθweɪz/",
+            "description": "'neural' 的 'eu' 发 /ʊr/ 音，'pathways' 的 'th' 发 /θ/ 或 /ð/。"
+          },
+          {
+            "word": "berate",
+            "phonetic": "/bɪˈreɪt/",
+            "description": "'rate' 重读，发 /reɪt/，'be' 发 /bɪ/ 轻音。"
+          }
+        ],
+        "sentences": [
+          [
+            "How inspired are you by the thoughts you think, the words you use, the feelings you feel, and the core values and beliefs that you live by?",
+            "你对自己的想法、使用的词语、感受到的情感，以及你所遵循的核心价值观和信仰，有多受启发？"
+          ],
+          [
+            "The more information we have on diet, exercise, and weight loss, the higher the rates of body dissatisfaction and life dissatisfaction we have than ever before in history.",
+            "我们对饮食、运动和减肥的信息越多，我们身体不满和生活不满的比例就比历史上任何时候都高。"
+          ],
+          [
+            "Maybe if we felt that true depth of worth and love for ourselves, we wouldn't constantly be comparing to everyone else.",
+            "也许如果我们感受到那种真实的自我价值和对自己的爱，我们就不会不断地与其他人比较了。"
+          ],
+          [
+            "We make better choices for our lives and for our health when we come from a positive emotional space.",
+            "当我们处于积极的情绪状态时，我们能为自己的生活和健康做出更好的选择。"
+          ],
+          [
+            "It's all about slowing down, trusting your gut, this is our second brain right here.",
+            "关键在于放慢速度，相信你的直觉，这就是我们的第二大脑。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "强调动作的承受者或结果，而非动作的执行者。",
+            "I was removed from my parents shortly after."
+          ],
+          [
+            "虚拟语气",
+            "用于表达非真实愿望或假设，即对现在或未来的假设。",
+            "Maybe if we felt that true depth of worth and love for ourselves, we wouldn't constantly be comparing to everyone else."
+          ]
+        ]
+      }
+    ]
   }
 ]
