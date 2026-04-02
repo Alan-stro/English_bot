@@ -2148,5 +2148,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-02",
+    "topic": "Paying bills online",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "-xjo3a6V3jY",
+        "title": "How to enter and pay bills in QuickBooks Desktop",
+        "url": "https://www.youtube.com/watch?v=-xjo3a6V3jY",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频演示了如何在 QuickBooks Desktop 中输入和支付账单。它首先介绍了如何从供应商处输入新账单，包括选择供应商、输入账单详情和成本。接着，视频展示了如何查看与供应商的余额以及如何生成未付账单报告。最后，视频详细讲解了如何支付未清账单，包括选择支付方式、应用折扣或贷项，以及分配支票号码。",
+        "cards": "track how much you owe\n---\n--\n跟踪你欠的钱\n英文例句：You enter a bill if your vendor gives you time to pay, and you want to track how much you owe them until you're ready to pay the balance.\n中文例句：如果供应商给你支付时间，并且你希望跟踪欠款金额直到准备好支付余额，那么你就输入账单。\n\noutstanding bills\n---\n--\n未付账单\n英文例句：This report helps you to review your own bills and see which bills are still outstanding.\n中文例句：这份报告可以帮助你查看自己的账单，并查看哪些账单仍未支付。\n\ntake a tour of\n---\n--\n浏览，参观\n英文例句：First, let's take a tour of the Bill window.\n中文例句：首先，我们来浏览一下“账单”窗口。\n\npopulate (with)\n---\n--\n填充（信息）\n英文例句：Once you select the vendor, QuickBooks populates the bill with their info, such as their address.\n中文例句：一旦你选择了供应商，QuickBooks 会用他们的信息（例如他们的地址）自动填充账单。\n\nappropriate discount amount\n---\n--\n相应的折扣金额\n英文例句：QuickBooks also calculates the appropriate discount amount when you pay for it.\n中文例句：当你支付时，QuickBooks 还会计算出相应的折扣金额。\n\ninvoice your customers\n---\n--\n向客户开具发票\n英文例句：If you plan to invoice your customers for these costs, check the billable box.\n中文例句：如果你打算就这些费用向客户开具发票，请勾选“可开票”框。\n\nautomatic bank withdrawals\n---\n--\n自动银行提款\n英文例句：For all other types of payment, including automatic bank withdrawals or online payments with your debit card, select check.\n中文例句：对于所有其他类型的付款，包括自动银行提款或使用借记卡进行在线支付，请选择“支票”。",
+        "pronunciation": [
+          {
+            "word": "track",
+            "phonetic": "/træk/",
+            "description": "注意 /æ/ 发音，嘴巴张大，舌尖抵住下齿。"
+          },
+          {
+            "word": "outstanding",
+            "phonetic": "/ˌaʊtˈstændɪŋ/",
+            "description": "重音在第二个音节，/t/ 不要漏读。"
+          },
+          {
+            "word": "populate",
+            "phonetic": "/ˈpɒpjuleɪt/",
+            "description": "重音在第一个音节，注意 /ɒ/ 的发音。"
+          },
+          {
+            "word": "appropriate",
+            "phonetic": "/əˈproʊpriət/",
+            "description": "重音在第二个音节，注意 /prəʊ/ 的发音。"
+          },
+          {
+            "word": "invoice",
+            "phonetic": "/ˈɪnvɔɪs/",
+            "description": "重音在第一个音节，/oi/ 发音要饱满。"
+          },
+          {
+            "word": "automatic",
+            "phonetic": "/ˌɔːtəˈmætɪk/",
+            "description": "重音在第三个音节，/ɔː/ 发音像“奥”。"
+          },
+          {
+            "word": "withdrawals",
+            "phonetic": "/wɪðˈdrɔːəlz/",
+            "description": "注意 /wɪð/ 的浊辅音 /ð/ 和 /ɔː/ 的长音，以及尾音 /lz/。"
+          }
+        ],
+        "sentences": [
+          [
+            "You enter a bill if your vendor gives you time to pay, and you want to track how much you owe them until you're ready to pay the balance.",
+            "如果你的供应商给你支付时间，并且你希望跟踪你欠他们的钱直到你准备好支付余额，你就输入账单。"
+          ],
+          [
+            "When you receive a new bill from a vendor, select Enter Bills.",
+            "当你收到供应商的新账单时，选择“输入账单”。"
+          ],
+          [
+            "Some vendors may offer early pay discounts as part of your terms.",
+            "有些供应商可能会根据你的条款提供提前付款折扣。"
+          ],
+          [
+            "QuickBooks will warn you if you enter the same bill number again for this vendor.",
+            "如果你为该供应商再次输入相同的账单号，QuickBooks 会发出警告。"
+          ],
+          [
+            "You can select multiple bills from different vendors, and QuickBooks will create a separate check for each one.",
+            "你可以从不同的供应商那里选择多张账单，QuickBooks 会为每张账单创建一张单独的支票。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Conditional Sentence Type 1",
+            "视频中频繁使用条件句来指导操作，说明如果用户做某事，系统将如何响应。",
+            "You enter a bill if your vendor gives you time to pay..."
+          ],
+          [
+            "Passive Voice",
+            "在描述系统自动执行或完成的操作时，使用被动语态，强调动作的接收者。",
+            "Payments have been successfully recorded for the following 3 of bills."
+          ]
+        ]
+      },
+      {
+        "video_id": "CjcTT4H0cKA",
+        "title": "How to add and pay bills in QuickBooks Online",
+        "url": "https://www.youtube.com/watch?v=CjcTT4H0cKA",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "本视频演示了如何在QuickBooks Online中添加和支付账单。用户可以通过电子邮件发送账单、从电脑上传文件或手动创建账单来添加。视频接着详细说明了如何使用QuickBooks Bill Pay（通过ACH转账或纸质支票）在线支付账单，以及如何将已通过其他方式支付的账单标记为已支付。最后，它解释了如何将这些支付与银行交易进行匹配和确认，以确保账务准确。",
+        "cards": "keep track of\n---\n--\n跟踪；了解情况\n英文例句：Entering your bills into QuickBooks Online makes it easy for you to keep track of what your business owes.\n中文例句：将账单输入到 QuickBooks Online 中，可以方便你跟踪你的业务欠款。\n\nauto-fill\n---\n--\n自动填充\n英文例句：QuickBooks will automatically detect important information within the document and fill it in for you on the bill.\n中文例句：QuickBooks 会自动识别文件中的重要信息，并将其自动填充到账单中。\n\nupload from your computer\n---\n--\n从你的电脑上传\n英文例句：Let's go over how to upload from your computer and autofill into your bookkeeping.\n中文例句：我们来看看如何从你的电脑上传并自动填充到你的簿记中。\n\nmanually\n---\n--\n手动地\n英文例句：If you don't have a PDF of the bill or invoice, you can enter it manually.\n中文例句：如果你没有账单或发票的 PDF，你可以手动输入。\n\nbest fits\n---\n--\n最适合\n英文例句：Select the category that best fits what you are being charged for.\n中文例句：选择最适合你所被收费内容的类别。\n\nschedule payment\n---\n--\n安排付款\n英文例句：Find the bill you want to pay under unpaid, and select schedule payment under action.\n中文例句：在“未支付”下找到你想支付的账单，然后在“操作”下选择“安排付款”。\n\nmatch it\n---\n--\n匹配它\n英文例句：You'll need to match it to the correct account from your chart of accounts in QuickBooks.\n中文例句：你需要将它与 QuickBooks 中你的会计科目表中的正确账户进行匹配。\n\nbest practice\n---\n--\n最佳实践\n英文例句：Although it is best practice to double check your transactions.\n中文例句：虽然核对你的交易是最佳实践。",
+        "pronunciation": [
+          {
+            "word": "keep track of",
+            "phonetic": "/kiːp træk əv/",
+            "description": "keep（保留）trac k（追踪）of（的），注意track的a发音"
+          },
+          {
+            "word": "auto-fill",
+            "phonetic": "/ˈɔːtoʊ fɪl/",
+            "description": "auto（自动）fill（填充），auto的a发音类似中文“奥”"
+          },
+          {
+            "word": "upload",
+            "phonetic": "/ˌʌpˈloʊd/",
+            "description": "up（向上）load（加载），up的a发音类似中文“啊”"
+          },
+          {
+            "word": "manually",
+            "phonetic": "/ˈmænjuəli/",
+            "description": "man（手动）u（地）ally（ly），注意u发音为/ju/"
+          },
+          {
+            "word": "best fits",
+            "phonetic": "/bɛst fɪts/",
+            "description": "best（最好）fits（适合），注意t和s的连读，fits的i发音类似中文“易”"
+          },
+          {
+            "word": "schedule payment",
+            "phonetic": "/ˈskɛdʒuːl ˈpeɪmənt/",
+            "description": "schedule（日程表）payment（支付），schedule的sc发音类似中文“斯”"
+          },
+          {
+            "word": "match it",
+            "phonetic": "/mætʃ ɪt/",
+            "description": "match（匹配）it（它），注意t和i的连读，it的i发音类似中文“易”"
+          },
+          {
+            "word": "best practice",
+            "phonetic": "/bɛst ˈpræktɪs/",
+            "description": "best（最佳）practice（实践），practice的a发音类似中文“啊”"
+          }
+        ],
+        "sentences": [
+          [
+            "Entering your bills into QuickBooks Online makes it easy for you to keep track of what your business owes.",
+            "将账单输入到QuickBooks Online中，可以方便你跟踪你的业务欠款。"
+          ],
+          [
+            "QuickBooks will read the bill you email and create a transaction you can review.",
+            "QuickBooks将读取你通过电子邮件发送的账单，并创建一个你可以查看的交易。"
+          ],
+          [
+            "QuickBooks will automatically detect important information within the document and fill it in for you on the bill.",
+            "QuickBooks将自动检测文件中的重要信息，并为你填充到账单中。"
+          ],
+          [
+            "You can also print a check or mark as paid if you used another method.",
+            "你也可以打印支票，或者如果使用了其他支付方式，则标记为已支付。"
+          ],
+          [
+            "All you have to do is confirm, and you're all done.",
+            "你所要做的就是确认，然后就完成了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态 (将来时)",
+            "用于描述将要发生的事情或行为，并且强调动作的承受者而非执行者。",
+            "This email will be unique to your company, so make sure you copy it exactly. (这个电子邮件将是你的公司独有的，所以务必精确复制。)"
+          ],
+          [
+            "条件句 (第一类)",
+            "用于表达如果某个条件发生，就会有某个结果，条件和结果都可能发生。",
+            "If it wasn't filled in for you, select a vendor from your list. (如果它没有为你自动填充，请从你的列表中选择一个供应商。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
