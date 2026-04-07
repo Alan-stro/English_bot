@@ -3013,5 +3013,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-07",
+    "topic": "Organizing digital photos",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "h-a739LKnro",
+        "title": "Stop Using Albums To Organize Your Photos",
+        "url": "https://www.youtube.com/watch?v=h-a739LKnro",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频介绍了在Mac的“照片”应用中整理照片的一种更优方法，即使用关键词、标题和描述，而非传统相册。主讲人演示了如何指定关键词，并创建基于关键词的智能相册。他强调了直接搜索关键词、标题和描述的优势，因为这些搜索结果可以与iCloud照片图库同步到iPhone和iPad，而智能相册则不能。",
+        "cards": "assign\n---\n--\n分配，指定\nSo I'm going to start off here by selecting a photo. I'm going to assign a keyword to it.\n我将从选择一张照片开始。我会给它指定一个关键词。\n\nauto-completes\n---\n--\n自动补全\nAnd you can see it even auto-completes.\n你可以看到它甚至能自动补全。\n\napply to\n---\n--\n应用于\nIt's blue because the three photos I've selected have that one applied to it already.\n它是蓝色的，因为我选择的三张照片已经应用了那个关键词。\n\nshow up\n---\n--\n出现，显现\nYou may see it show up as a location, if you had GPS information for the photos.\n如果你有照片的 GPS 信息，你可能会看到它显示为某个地点。\n\nthrow in\n---\n--\n加入，添加（非正式）\nYou could also throw keywords in here.\n你也可以在这里加入关键词。\n\nsync up\n---\n--\n同步\nBut once it's all synced up, then you should be able to search for that keyword.\n但一旦所有内容都同步了，你就可以搜索那个关键词了。\n\nturn up\n---\n--\n找到，发现\nSearches will turn up locations, people, and objects in the photos automatically.\n搜索会自动找到照片中的地点、人物和物体。\n\nminimalist\n---\n--\n极简主义的，极简的\nSo something nice and minimalist and not really using any albums or keywords and just searching through your photos.\n所以，这是一种很好的极简主义方式，不用任何相册或关键词，只需通过搜索来查找照片。",
+        "pronunciation": [
+          {
+            "word": "assign",
+            "phonetic": "/əˈsaɪn/",
+            "description": "第一个a发/ə/的音，gn不发音，重音在第二个音节。"
+          },
+          {
+            "word": "auto-completes",
+            "phonetic": "/ˈɔːtoʊ kəmˈpliːts/",
+            "description": "auto的au发/ɔː/的音，不是/aʊ/。completes的com发/kəm/，而不是/kɒm/，重音在pli。"
+          },
+          {
+            "word": "apply to",
+            "phonetic": "/əˈplaɪ tuː/",
+            "description": "apply的a发/ə/的音，y发/aɪ/的音，重音在ply。to通常弱读为/tə/。"
+          },
+          {
+            "word": "show up",
+            "phonetic": "/ʃoʊ ʌp/",
+            "description": "show的ow发/oʊ/的音，up的u发/ʌ/的音。"
+          },
+          {
+            "word": "throw in",
+            "phonetic": "/θroʊ ɪn/",
+            "description": "th发/θ/的音，ow发/oʊ/的音，in发/ɪn/的音。"
+          },
+          {
+            "word": "sync up",
+            "phonetic": "/sɪŋk ʌp/",
+            "description": "sync的y发/ɪ/的音，nc发/ŋk/的音，up的u发/ʌ/的音。"
+          },
+          {
+            "word": "turn up",
+            "phonetic": "/tɜːrn ʌp/",
+            "description": "turn的ur发/ɜː/的音，up的u发/ʌ/的音。"
+          },
+          {
+            "word": "minimalist",
+            "phonetic": "/ˈmɪnɪməlɪst/",
+            "description": "重音在第一个音节mi，ist发/ɪst/的音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Let me show you a better way to organize your photos on your Mac instead of using albums.",
+            "让我来向你展示一种更好的方式，在你的Mac上整理照片，而不是使用相册。"
+          ],
+          [
+            "You can use keywords and also descriptions and titles to organize your photos without albums at all.",
+            "你可以使用关键词，以及描述和标题来整理你的照片，完全不用相册。"
+          ],
+          [
+            "The great thing about this is it works on the iPhone and iPad if you're using iCloud Photo Library.",
+            "这很棒的一点是，如果你使用iCloud照片图库，它在iPhone和iPad上也能用。"
+          ],
+          [
+            "Unfortunately, you can't assign a keyword on the iPhone or iPad, so you need to do your organizing on your Mac.",
+            "不幸的是，你不能在iPhone或iPad上指定关键词，所以你需要用Mac来整理。"
+          ],
+          [
+            "So something nice and minimalist and not really using any albums or keywords and just searching through your photos.",
+            "所以，这是一种很好的极简主义方式，不用任何相册或关键词，只需通过搜索来查找照片。"
+          ]
+        ],
+        "grammar": [
+          [
+            "instead of + gerund/noun",
+            "表示“代替……，而不是……”，后面跟动名词或名词。",
+            "Let me show you a better way to organize your photos on your Mac instead of using albums."
+          ],
+          [
+            "Conditional (if clause)",
+            "用于表示条件和结果，if从句描述条件，主句描述结果。",
+            "The great thing about this is it works on the iPhone and iPad if you're using iCloud Photo Library."
+          ]
+        ]
+      },
+      {
+        "video_id": "7gglSeA7keo",
+        "title": "Declutter Your Home and Save Memories: What To Do with Old Photos",
+        "url": "https://www.youtube.com/watch?v=7gglSeA7keo",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一对夫妇讨论了处理大量旧照片的挑战，这些照片通常在整理或缩减住房空间时成为杂物。他们分享了自己处理父母遗留的15箱照片和300个幻灯片盒的经历，意识到这些记忆的价值以及数字化保存的重要性。他们提出了一些建议，包括整理和筛选照片、预处理照片（清洁等），并分享了他们正在测试的几家照片数字化服务商，以供观众参考。",
+        "cards": "clutter\n---\n--\n杂物，混乱\nOld photos hold powerful memories, but can also be a big part of the clutter you find in your home.\n旧照片承载着珍贵的回忆，但它们也可能成为你家中杂乱物品的很大一部分。\n\ndownsize\n---\n--\n缩减规模；缩小\nWe have done several videos on downsizing, right-sizing and all that.\n我们已经做了几期关于缩减规模、优化空间等方面的视频。\n\nin the same boat\n---\n--\n处境相同\nAnd you know what? We're in the same boat.\n你们知道吗？我们处境相同。\n\nmonumental task\n---\n--\n艰巨的任务\nIt was a monumental task, topped off with 15 moving boxes of just photos.\n这是一项艰巨的任务，更要命的是还有15箱全是照片的搬家箱。\n\nstashed away\n---\n--\n藏起来；储存\nBut they were full of memories, and they were stashed away and no one was actually sharing them.\n但它们充满了回忆，却被藏了起来，没有人真正分享它们。\n\nembark upon\n---\n--\n着手；开始\nSo we decided to embark upon this idea of digitizing images.\n所以我们决定着手进行数字化图像这个想法。\n\nboil down to\n---\n--\n归结为；总结为\nAfter researching and doing a little test trials, we've boiled down to a few services, four in fact, that met the requirements that we wanted.\n经过研究和一些测试，我们筛选出了几家服务商，确切地说是四家，它们符合我们的要求。\n\ncustomer service reviews\n---\n--\n客户服务评价\nThe next thing to do is to check out their customer service reviews.\n接下来要做的就是查看他们的客户服务评价。",
+        "pronunciation": [
+          {
+            "word": "clutter",
+            "phonetic": "/ˈklʌtər/",
+            "description": "“克拉特”，注意 /ʌ/ 是短促的\"啊\"音，R音要卷舌。"
+          },
+          {
+            "word": "downsize",
+            "phonetic": "/ˈdaʊnsaɪz/",
+            "description": "“道赛兹”，'down'和'size'分开，'size'的s发/z/的音。"
+          },
+          {
+            "word": "in the same boat",
+            "phonetic": "/ɪn ðə seɪm boʊt/",
+            "description": "语速较快时\"in the\"常连读成\"因德\"，\"boat\"的/oʊ/是双元音，发饱满。"
+          },
+          {
+            "word": "monumental task",
+            "phonetic": "/ˌmɒnjuˈmɛntəl tæsk/",
+            "description": "“莫纽门特尔 塔斯克”，'monumental'重音在ent，'task'的/æ/是扁平的\"啊\"音，s和k要清晰。"
+          },
+          {
+            "word": "stashed away",
+            "phonetic": "/stæʃt əˈweɪ/",
+            "description": "“斯塔什特 呃威”，'stashed'的-ed发/t/音，与'away'的/ə/连读。"
+          },
+          {
+            "word": "embark upon",
+            "phonetic": "/ɪmˈbɑːrk əˈpɒn/",
+            "description": "“因巴克 呃泡恩”，'embark'重音在'bark'，'upon'重音在'pon'。"
+          },
+          {
+            "word": "boil down to",
+            "phonetic": "/bɔɪl daʊn tuː/",
+            "description": "“博伊尔 道恩 图”，'boil'的/ɔɪ/是双元音，'down'的/aʊ/也是双元音，'to'在这里通常发弱读的/tə/或强读的/tuː/。"
+          },
+          {
+            "word": "customer service reviews",
+            "phonetic": "/ˈkʌstəmər ˈsɜːrvɪs rɪˈvjuːz/",
+            "description": "“卡斯特莫 服务 瑞福斯”，注意'customer'的/ʌ/音，'service'的重音在第一音节，'reviews'的重音在第二音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "Old photos hold powerful memories, but can also be a big part of the clutter you find in your home.",
+            "旧照片承载着珍贵的回忆，但它们也可能成为你家中杂乱物品的很大一部分。"
+          ],
+          [
+            "We have done several videos on downsizing, right-sizing and all that and the same question keeps coming up from everyone, what do we do with our old photos?",
+            "我们已经做了几期关于缩减规模、优化空间等方面的视频，大家总会问同一个问题：我们该如何处理旧照片？"
+          ],
+          [
+            "Many of them were duplicates, as we started to look through them, a lot of them were out of focus, old and tattered.",
+            "当我们开始翻阅时，很多都是重复的，很多都失焦了，又旧又破。"
+          ],
+          [
+            "We are realizing that these photos are actually important to us and important to kind of our history.",
+            "我们意识到这些照片对我们来说很重要，对我们的历史也很重要。"
+          ],
+          [
+            "It's a complicated, very personal, emotional topic to figure out what to do with the pictures.",
+            "搞清楚如何处理这些照片是一个复杂、非常私人且充满感情的话题。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Present Perfect Tense",
+            "表示过去发生的动作对现在产生影响，或持续到现在的动作。",
+            "\"We have done several videos on downsizing, right-sizing and all that...\""
+          ],
+          [
+            "Verb \"decide\" followed by an infinitive or object + infinitive",
+            "\"decide to do something\"表示决定做某事；\"decide (that) + 从句\"表示决定某个事实。",
+            "\"So we decided to embark upon this idea of digitizing images.\""
+          ]
+        ]
+      }
+    ]
   }
 ]
