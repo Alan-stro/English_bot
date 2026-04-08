@@ -3192,5 +3192,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-08",
+    "topic": "Effective morning routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "gR_f-iwUGY4",
+        "title": "The Optimal Morning Routine - Andrew Huberman",
+        "url": "https://www.youtube.com/watch?v=gR_f-iwUGY4",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频围绕优化晨间习惯以提升健康和表现展开。Huberman博士强调了充足睡眠、清晨接受自然光的重要性，这有助于校准昼夜节律并促进皮质醇（Cortisol）和多巴胺（Dopamine）的正常分泌。他还建议延迟摄入咖啡因，并通过运动和冷暴露来激活身体的警觉系统，从而提升能量、专注度和情绪，最终创造一个更有利于身心健康的内在环境。",
+        "cards": "foundational behaviors\n---\n--\n核心、基础行为\n英文例句：There are certain foundational behaviors, do's and don'ts, that set the stage for you to be better at everything.\n中文例句：这些核心行为，该做和不该做的，为你把一切都做好打下了基础。\n\ndown-regulate\n---\n--\n下调；抑制\n英文例句：If you don't get sleep on a consistent basis, you are down-regulating your ability to do everything.\n中文例句：如果你无法持续获得充足睡眠，你就会抑制自己做任何事的能力。\n\ncircadian rhythm\n---\n--\n昼夜节律\n英文例句：Every cell in your body has a circadian rhythm, meaning every cell has a 24-hour circadian clock that's regulated by genes.\n中文例句：你身体的每个细胞都有昼夜节律，这意味着每个细胞都有一个由基因调控的24小时昼夜节律时钟。\n\noutsize effect\n---\n--\n巨大影响\n英文例句：This has an outsize effect on a number of things.\n中文例句：这对许多事情都有巨大影响。\n\nentrain\n---\n--\n使…同步；使…规律化\n英文例句：By viewing light at that time, you entrain, you ensure that it happens at the same time the next day.\n中文例句：通过那时看光，你就校准了，确保第二天它在同一时间发生。\n\nramp up\n---\n--\n增加；提升\n英文例句：Your forebrain, which is controlling decision-making, is basically suppressed in its activity and other areas are ramped up.\n中文例句：你控制决策的前脑活动受到抑制，而其他区域的活动则大幅增加。\n\ninternal milieu\n---\n--\n内在环境\n英文例句：You're setting an internal milieu through things that increase core body temperature, dopamine, epinephrine, etc.\n中文例句：你通过那些能增加核心体温、多巴胺、肾上腺素等的方法，来设定一个内在环境。",
+        "pronunciation": [
+          {
+            "word": "foundational behaviors",
+            "phonetic": "/faʊnˈdeɪʃənəl bɪˈheɪvjərz/",
+            "description": "foundational的重音在da，behaviors的重音在he。"
+          },
+          {
+            "word": "down-regulate",
+            "phonetic": "/daʊnˈrɛɡjuleɪt/",
+            "description": "down-regulate的重音在reg，注意down和regulate之间的连读。"
+          },
+          {
+            "word": "circadian rhythm",
+            "phonetic": "/sɜːrˈkeɪdiən ˈrɪðəm/",
+            "description": "circadian的重音在keɪ，rhythm中的th是浊辅音/ð/。"
+          },
+          {
+            "word": "outsize effect",
+            "phonetic": "/ˈaʊtsaɪz ɪˈfɛkt/",
+            "description": "outsize的t不发音，effect的重音在fekt。"
+          },
+          {
+            "word": "entrain",
+            "phonetic": "/ɪnˈtreɪn/",
+            "description": "entrain的重音在train，发音类似于英文单词\"train\"。"
+          },
+          {
+            "word": "ramp up",
+            "phonetic": "/ræmp ʌp/",
+            "description": "ramp up的p音要发出来，然后和up连读。"
+          },
+          {
+            "word": "internal milieu",
+            "phonetic": "/ɪnˈtɜːrnəl mɪlˈjɜː/",
+            "description": "internal的重音在tur，milieu是法语词，重音在eu，发音类似“米柳”。"
+          }
+        ],
+        "sentences": [
+          [
+            "There are certain foundational behaviors, do's and don'ts, that set the stage for you to be better at everything.",
+            "有一些核心行为，该做和不该做的，为你做好一切打下了基础。"
+          ],
+          [
+            "You are down-regulating your ability to do everything.",
+            "你正在抑制自己做任何事情的能力。"
+          ],
+          [
+            "You want that cortisol pulse to happen as early in the day as possible.",
+            "你希望皮质醇脉冲在一天中尽早发生。"
+          ],
+          [
+            "This can have tremendous benefits.",
+            "这能带来巨大的好处。"
+          ],
+          [
+            "When those two systems are aligned, it's beautiful. When those two systems are out of alignment, that's not good.",
+            "当这两个系统协调一致时，那是美好的。当这两个系统失调时，那就不好了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "the + comparative..., the + comparative...",
+            "表示“越……越……”，用于强调两个事物之间的比例关系或相互影响。",
+            "The longer we are awake, the longer the build-up of something called adenosine in the brain and body... (7:28)"
+          ]
+        ]
+      },
+      {
+        "video_id": "SELWtQpcy1A",
+        "title": "The &quot;1 Billion Dollar Morning Routine&quot; - Habits of the World’s Most Successful People",
+        "url": "https://www.youtube.com/watch?v=SELWtQpcy1A",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频由Jim Kwik主讲，他分享了自己理想的早晨日常习惯，以帮助人们赢得一天。他强调通过建立常规的习惯和仪式来创造积极的势头，而不是被动反应。他的习惯包括回忆梦境、整理床铺、补水并服用益生菌、进行呼吸练习、冥想、做简单的身体活动、洗冷水澡、写日记以及进行大脑训练。Jim Kwik相信，有意识地设计早晨，注重小小的成功和积极的情绪状态，能让我们更好地掌控自己的一天。",
+        "cards": "win the morning, you could win the day\n---\n--\n中文核心释义\n赢了早上，就赢得了这一天（指早晨的高效能预示着一整天的成功）\n英文例句\nWe've all heard that if you could win the morning, you could win the day.\n中文例句\n我们都听说过，如果你能赢了早上，就能赢得了这一天。\n\nset up routines and habits\n---\n--\n中文核心释义\n建立日常习惯和规律\n英文例句\nOne of the ways to doing that is to create regular rituals and routines.\n中文例句\n做到这一点的方法之一是建立日常的仪式和习惯。\n\nproactively spending time with self-care\n---\n--\n中文核心释义\n积极主动地投入自我关怀的时间\n英文例句\n...as opposed to proactively spending time with self-care and self-love and having a vision and a direction for your day.\n中文例句\n...而不是积极主动地投入自我关怀和自爱的时间，并为自己的一天设定愿景和方向。\n\nrecall my dreams\n---\n--\n中文核心释义\n回忆我的梦境\n英文例句\nSo the first thing I do when I wake up is I recall my dreams.\n中文例句\n所以，我醒来做的第一件事就是回忆我的梦境。\n\ngetting some movement in my body\n---\n--\n中文核心释义\n让身体活动起来\n英文例句\nIt's just for me to get my heart rate beating and getting some movement in my body.\n中文例句\n这只是为了让我的心率加快，让我的身体活动起来。\n\nit's kind of a cliché, but there's a truth to it\n---\n--\n中文核心释义\n这有点陈词滥调，但它是有道理的\n英文例句\nIt's kind of a cliché, but there's a truth to it.\n中文例句\n这有点陈词滥调，但它是有道理的。\n\nchampagne moment\n---\n--\n中文核心释义\n值得庆祝或感到满足的时刻\n英文例句\nIt's kind of like my friend Clay Hebert talks about a \"champagne moment.\"\n中文例句\n这有点像我的朋友克莱·希伯特所说的“香槟时刻”。\n\njumpstart my brain\n---\n--\n中文核心释义\n快速激活或启动大脑\n英文例句\nI want to jumpstart my brain, my mind, if you will, and also my body, and that's the goal for me, of focusing in the morning.\n中文例句\n如果可以的话，我希望快速启动我的大脑和思维，也启动我的身体，这就是我早上专注的目标。",
+        "pronunciation": [
+          {
+            "word": "win the morning, you could win the day",
+            "phonetic": "/wɪn ðə ˈmɔːrnɪŋ, juː kʊd wɪn ðə deɪ/",
+            "description": "\"morning\"的\"or\"发音，以及\"win\"中的短\"i\"音。"
+          },
+          {
+            "word": "set up routines and habits",
+            "phonetic": "/sɛt ʌp ruːˈtiːnz ænd ˈhæbɪts/",
+            "description": "\"set up\"的连读，\"routines\"的重音在第二音节，\"habits\"中的短\"a\"音。"
+          },
+          {
+            "word": "proactively spending time with self-care",
+            "phonetic": "/proʊˈæktɪvli ˈspɛndɪŋ taɪm wɪθ sɜːlf-kɛər/",
+            "description": "\"proactively\"的重音在第二音节，\"self-care\"中的\"self\"和\"care\"的发音。"
+          },
+          {
+            "word": "recall my dreams",
+            "phonetic": "/rɪˈkɔːl maɪ driːmz/",
+            "description": "\"recall\"的重音在第二音节，\"dreams\"中的长\"ee\"音。"
+          },
+          {
+            "word": "getting some movement in my body",
+            "phonetic": "/ˈɡɛtɪŋ sʌm ˈmuːvmənt ɪn maɪ ˈbɒdi/",
+            "description": "\"getting\"中\"t\"的浊化，\"movement\"中\"v\"和\"m\"的清晰发音。"
+          },
+          {
+            "word": "it's kind of a cliché, but there's a truth to it",
+            "phonetic": "/ɪts kaɪnd əv ə kliːˈʃeɪ, bʌt ðɛərz ə truːθ tuː ɪt/",
+            "description": "\"cliché\"的特殊发音（/ʃeɪ/），\"truth\"中的\"th\"音。"
+          },
+          {
+            "word": "champagne moment",
+            "phonetic": "/ʃæmˈpeɪn ˈmoʊmənt/",
+            "description": "\"champagne\"的\"ch\"发\"sh\"的音，重音在第二音节，\"moment\"中的\"o\"和\"e\"的发音。"
+          },
+          {
+            "word": "jumpstart my brain",
+            "phonetic": "/ˈdʒʌmpstɑːrt maɪ breɪn/",
+            "description": "\"jumpstart\"中\"mpst\"连读，\"brain\"中的长\"a\"音。"
+          }
+        ],
+        "sentences": [
+          [
+            "We've all heard that if you could win the morning, you could win the day.",
+            "我们都听说过，如果你能赢了早上，就能赢得了这一天。"
+          ],
+          [
+            "One of the ways to doing that is to create regular rituals and routines so you don't have to think about what you need to do.",
+            "做到这一点的方法之一是建立日常的仪式和规律，这样你就不必思考你需要做什么。"
+          ],
+          [
+            "If we're talking about positive momentum, the science momentum, getting things done, checking things off, doing it with excellence, then make your bed!",
+            "如果我们谈论积极的势头，科学的势头，完成任务，逐项核对，并做到卓越，那就整理你的床吧！"
+          ],
+          [
+            "I just want to be able to accomplish, as a total win, three things for work and three things personally.",
+            "我只想在工作上完成三件事，个人生活上完成三件事，作为全面的胜利。"
+          ],
+          [
+            "I don't want it to be just where I happen to feel a certain way by accident, but by design!",
+            "我不希望只是偶然地感受到某种情绪，而是通过设计来达到！"
+          ]
+        ],
+        "grammar": [
+          [
+            "动名词作主语",
+            "When you're dreaming is that you're actually processing and intercreating and working on solutions with your subconscious mind to the things that you're focusing on during the day time, but most people forget their dreams.",
+            "句子“When you're dreaming is that you're...”中，\"When you're dreaming\"作主语，是动名词短语，表示“你做梦这件事”。"
+          ],
+          [
+            "过去分词作定语",
+            "It's like your \"champagne moment\" when you're looking back at the end of the day, saying \"Yes, today was a great day! Today I crushed it! Today I won!\"",
+            "“crushed it”和“won”都是过去分词，在这里作定语，表示“已被完成”或“已胜利”的状态，修饰“day”。"
+          ]
+        ]
+      }
+    ]
   }
 ]
