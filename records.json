@@ -3361,5 +3361,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-09",
+    "topic": "daily life vlog",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "lc_wBkCan5s",
+        "title": "#118 5:30am Summer Morning Routine in the Countryside | Simple &amp; Slow Life",
+        "url": "https://www.youtube.com/watch?v=lc_wBkCan5s",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频记录了一个乡村家庭在夏末秋初的早晨日常。从日出时醒来到为孩子准备午餐、打理菜园和送孩子上学，视频展现了他们平静而充实的生活。旁白强调了通过有意识的决定主导一天、感恩平凡时刻的重要性，并探讨了在育儿过程中保持夫妻关系亲密的秘诀。视频也通过烹饪美食和享受大自然来展现感官体验带来的持久记忆。",
+        "cards": "cross-ventilate\n---\n--\n交叉通风，使空气对流\nWe cross-ventilate the house every morning to bring in fresh air.\n我们每天早上都会给房子通风换气。\n\ncomfort food\n---\n--\n治愈系食物，暖心食物\nSo I'm craving for some warm, comfort food.\n所以我很想吃些暖心的治愈系食物。\n\nattain knowledge\n---\n--\n获取知识\nThey will develop a feeling of independence and attain knowledge regarding traffic safety.\n他们将培养独立感并掌握交通安全知识。\n\ndictate our day\n---\n--\n主导我们的一天\nBy doing so, we learn to let our conscious decisions dictate our day – not our fears or impulses.\n通过这样做，我们学会让我们的有意识决定主导我们的一天——而不是我们的恐惧或冲动。\n\nrekindle\n---\n--\n重新点燃，恢复\nBy making an effort to focus on your relationship after kids, we'll help rekindle emotional intimacy, strengthen our bond, and remind each other that we're still the same couple we were before kids.\n通过努力在孩子出生后关注你们的关系，我们将帮助重新点燃情感亲密，加强我们的纽带，并提醒彼此我们仍然是孩子出生前的那对伴侣。\n\ntransient\n---\n--\n短暂的，转瞬即逝的\nRemember that every stage in parenthood is transient.\n记住，育儿的每个阶段都是短暂的。\n\ntake for granted\n---\n--\n认为理所当然\nBefore kids, it was easy to take those moments for granted.\n在有孩子之前，我们很容易把那些时刻视为理所当然。\n\nsensory experience\n---\n--\n感官体验\nThe textures, tastes, aromas, and temperatures experienced by preparing and eating food and drink is a sensory experience that goes beyond our “nutritional” need.\n通过准备和品尝食物饮料所感受到的质地、味道、香气和温度，是一种超越我们“营养”需求的感官体验。",
+        "pronunciation": [
+          {
+            "word": "cross-ventilate",
+            "phonetic": "/ˌkrɔːsˈventɪleɪt/",
+            "description": "注意“cross”中 /ɔː/ 的发音以及“ventilate”的重音在第一音节。"
+          },
+          {
+            "word": "comfort food",
+            "phonetic": "/ˈkʌmfərt fuːd/",
+            "description": "“comfort”中 /ə/ 的弱读和“food”中 /uː/ 的长音。"
+          },
+          {
+            "word": "attain knowledge",
+            "phonetic": "/əˈteɪn ˈnɒlɪdʒ/",
+            "description": "“attain”的重音在第二音节，以及“knowledge”中 /ɒ/ 的短音。"
+          },
+          {
+            "word": "dictate our day",
+            "phonetic": "/ˈdɪkteɪt aʊər deɪ/",
+            "description": "“dictate”的重音在第一音节，/aʊər/ 连读。"
+          },
+          {
+            "word": "rekindle",
+            "phonetic": "/ˌriːˈkɪndl/",
+            "description": "“re-”是前缀，重音在“kin”上。"
+          },
+          {
+            "word": "transient",
+            "phonetic": "/ˈtrænziənt/",
+            "description": "注意“trans”中 /æ/ 的发音和“sient”中 /ziən/ 的发音。"
+          },
+          {
+            "word": "take for granted",
+            "phonetic": "/teɪk fər ˈɡrɑːntɪd/",
+            "description": "“granted”的重音在第一音节，并注意“for”的弱读。"
+          },
+          {
+            "word": "sensory experience",
+            "phonetic": "/ˈsensəri ɪkˈspɪəriəns/",
+            "description": "“sensory”的重音在第一音节，“experience”的重音在第二音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "It's time for another routine vlog before Autumn, a thirty-days long goodbye to Summer.",
+            "是时候再拍一个日常Vlog了，在秋天来临之前，向夏天道别。"
+          ],
+          [
+            "At the end of summer, it's chilly at night and hot during the day.",
+            "夏末时节，夜里凉飕飕，白天却很热。"
+          ],
+          [
+            "Maybe because having a routine doesn't necessarily mean doing the same thing every day at the exact same time.",
+            "也许因为有规律的生活并不意味着每天在同一时间做同样的事情。"
+          ],
+          [
+            "By doing so, we learn to let our conscious decisions dictate our day – not our fears or impulses.",
+            "通过这样做，我们学会让我们的有意识决定主导我们的一天——而不是我们的恐惧或冲动。"
+          ],
+          [
+            "The key for a couple is to stay connected, to focus on our relationship and restore any lost intimacy.",
+            "夫妻之间保持亲密的关键是保持联系，关注我们的关系并恢复任何失去的亲密感。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**1. 不定式作目的状语 (Infinitive of Purpose)**",
+            "用 \"to + 动词原形\" 来表示某个行为的目的。",
+            "视频例句: \"We cross ventilate the house every morning **to bring in** fresh air.\" (我们每天早上给房子通风，**是为了带来**新鲜空气。)"
+          ],
+          [
+            "**2. \"It's about being comfortable with...\" 结构**",
+            "这个结构表示“关键在于适应/接受…”。",
+            "视频例句: \"it's about **being comfortable with** the fact that things are going to change.\" (关键在于**接受**事物会发生变化的事实。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "Zb8L0YGDzQI",
+        "title": "Living Alone Diaries | What I Eat in a Day (simple &amp; easy meals to cook)",
+        "url": "https://www.youtube.com/watch?v=Zb8L0YGDzQI",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频记录了博主一天的饮食和生活。早上起床后她先是打扫公寓并享用了一份简单的早餐，随后外出看了一套公寓，回来后准备了快速健康的韩式包饭作为午餐。下午她去上了健身课，回家后又为自己准备了丰盛的“Linner”（介于午餐和晚餐之间的一餐）。最后，她享用了自制的酸奶脆皮作为甜点，并和她的狗狗玩了会儿。",
+        "cards": "tucked in\n---\n--\n舒适地包裹着；安顿好\nMy dog is always tucked in next to me haha.\n我的狗总是舒服地睡在我旁边，哈哈。\n\nwithout further ado\n---\n--\n不多费口舌；话不多说\nWithout any further ado, let's get on with some breakfast.\n话不多说，我们来准备早餐吧。\n\neyeball measurements\n---\n--\n凭目测估量（数量）\nAdd some sugar! All eyeball measurements :)\n加点糖！全凭目测 :)\n\nwhat a fail\n---\n--\n真失败；真是个错误（口语表达失望或错误）\nJust completely realized I forgot to put in my cherry tomatoes... What a fail!\n我刚才完全忘了放圣女果了……真失败！\n\nput in an offer\n---\n--\n提出报价/出价\nI really liked it and I think I'm going to put in an offer, submit an application.\n我很喜欢它（公寓），我想我会提出报价，提交申请。\n\nblanch\n---\n--\n（烹饪）焯水；烫（蔬菜等）\nBlanch the greens for a few seconds. I'm using collard greens.\n把绿叶菜焯水几秒。我用的是羽衣甘蓝。\n\ncrave\n---\n--\n渴望；非常想吃（或得到）\nI am just not a salad girl. I wish I was. I just never crave it.\n我就是不喜欢吃沙拉。我希望我喜欢，但我就是从来不馋它。\n\nhangry\n---\n--\n（因饥饿而）脾气暴躁的\nThis is perfect for those days when you just had like a really long day from work or school, and you come home and you're just hangry.\n当你工作或学习了一整天，回家时因饥饿而脾气暴躁，这道菜就太完美了。",
+        "pronunciation": [
+          {
+            "word": "tucked in",
+            "phonetic": "/tʌkt ɪn/",
+            "description": "“tucked”的/t/和“in”的/ɪn/连读。"
+          },
+          {
+            "word": "without further ado",
+            "phonetic": "/wɪˈðaʊt ˈfɜːrðər əˈduː/",
+            "description": "“further”的/r/音和“ado”的/ə/连读。"
+          },
+          {
+            "word": "eyeball measurements",
+            "phonetic": "/ˈaɪbɔːl ˈmɛʒərmənts/",
+            "description": "“measurements”中的/ə/音很轻，不要发成重音。"
+          },
+          {
+            "word": "what a fail",
+            "phonetic": "/wɒt ə feɪl/",
+            "description": "“what a”可以连读，听起来像/wɒtə/。"
+          },
+          {
+            "word": "put in an offer",
+            "phonetic": "/pʊt ɪn ən ˈɔːfər/",
+            "description": "“put in an”可以连读，听起来像/pʊtɪnən/。"
+          },
+          {
+            "word": "blanch",
+            "phonetic": "/blæntʃ/",
+            "description": "“bl”发音要自然流畅，不要在中间插入元音。"
+          },
+          {
+            "word": "crave",
+            "phonetic": "/kreɪv/",
+            "description": "注意/r/和/v/的清晰发音。"
+          },
+          {
+            "word": "hangry",
+            "phonetic": "/ˈhæŋɡri/",
+            "description": "“hang”的/ŋ/音和“gri”的/ɡ/连读。"
+          }
+        ],
+        "sentences": [
+          [
+            "It's been a while since I last filmed one.",
+            "我有一段时间没拍这种视频了。"
+          ],
+          [
+            "I became obsessed with it.",
+            "我就对它着迷了。"
+          ],
+          [
+            "Every time I sit down and I try to figure out what am I going to watch, I'm like done with my meal.",
+            "每次我坐下来想看什么的时候，我都已经吃完饭了。"
+          ],
+          [
+            "I feel like cilantro is one of those things where some people just cannot stand the smell or taste of it.",
+            "我觉得香菜就是那种，有些人就是受不了它的味道。"
+          ],
+          [
+            "You can make this in like 5-10 minutes and you have yourself a really nice tasting meal.",
+            "你可以在大约5到10分钟内做好这个，就能享用一顿美味的餐点。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Use of \"like\" for approximation",
+            "在口语中，“like”经常用作近似的表述，表示“大约”、“大概”或“类似于”。",
+            "This is perfect for those days when you just had **like** a really long day from work or school. (7:24)"
+          ],
+          [
+            "Phrasal verb \"set aside\"",
+            "表示“把某物留到以后用”或“搁置”。",
+            "I'm going to **set this aside** for now. (4:24)"
+          ]
+        ]
+      }
+    ]
   }
 ]
