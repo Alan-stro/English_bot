@@ -4043,5 +4043,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-13",
+    "topic": "Packing for weekend trip",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "Gd87KwDRdGU",
+        "title": "Travel Tips on How To Pack Light  | ANN LE ✈",
+        "url": "https://www.youtube.com/watch?v=Gd87KwDRdGU",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频提供了旅行打包的实用指南。Ann Lê 展示了她如何使用各种收纳袋（如衣物收纳包、鞋袋、洗漱包和化妆包）来高效地整理衣物和个人物品，以最大限度地利用空间和搭配多种服装。她还分享了打包常备必需品和电子产品的技巧。最后，她演示了将所有物品整齐地放入中型行李箱，强调了简化打包能让旅行体验更轻松、更有条理。",
+        "cards": "mix and match\n---\n--\n搭配，混搭\n英文例句：So, I often like to also mix and match a lot.\n中文例句：我喜欢将衣服混搭。\n\nwhimsical\n---\n--\n异想天开的，古怪的\n英文例句：a flowy skirt for when I'm feeling whimsical.\n中文例句：一条飘逸的裙子，适合我心情异想天开的时候穿。\n\nput-together\n---\n--\n精心打扮的；整洁的\n英文例句：a tailored pants for those put-together days.\n中文例句：一条修身的裤子，适合那些需要打扮整齐的日子。\n\nmaximize outfit options\n---\n--\n最大限度地增加服装搭配选择\n英文例句：If you want to maximize your outfit options without overpacking, choose lighter weight clothing.\n中文例句：如果你想在不超重的情况下最大限度地增加服装搭配选择，请选择轻便的衣服。\n\nunraveling\n---\n--\n散开，解开（线、布等）\n英文例句：A feature that I really love about these bags is that they come with buckles to prevent your clothes from unraveling.\n中文例句：我非常喜欢这些包的一个特点是它们配有搭扣，可以防止你的衣服散开。\n\nimprovise\n---\n--\n即兴创作；临时凑合\n英文例句：Of course, you can improvise and pack other things depending on your trip.\n中文例句：当然，你可以根据你的旅行即兴调整，打包其他东西。\n\nscramble looking for things\n---\n--\n手忙脚乱地找东西\n英文例句：Now I don't have to scramble looking for things.\n中文例句：现在我不用再手忙脚乱地找东西了。",
+        "pronunciation": [
+          {
+            "word": "mix and match",
+            "phonetic": "/mɪks ən mætʃ/",
+            "description": "“mix”和“and”连读，\"and\"弱读成/ən/，\"match\"的/tʃ/音要清晰。"
+          },
+          {
+            "word": "whimsical",
+            "phonetic": "/ˈwɪmzɪkl/",
+            "description": "重音在第一个音节，'wh'发/w/音，'s'发/z/音。"
+          },
+          {
+            "word": "put-together",
+            "phonetic": "/ˌpʊt təˈɡɛðər/",
+            "description": "重音在“together”的“get”音节，\"put\"和\"to\"连读，\"to\"弱读。"
+          },
+          {
+            "word": "maximize outfit options",
+            "phonetic": "/ˈmæksɪmaɪz ˈaʊtfɪt ˈɒpʃənz/",
+            "description": "\"maximize\"重音在'max'，\"outfit\"重音在'out'，\"options\"重音在'op'，注意/ɪz/、/ɪt/、/ənz/的弱读。"
+          },
+          {
+            "word": "unraveling",
+            "phonetic": "/ʌnˈrævəlɪŋ/",
+            "description": "重音在第二个音节'rav'。"
+          },
+          {
+            "word": "improvise",
+            "phonetic": "/ˈɪmprəvaɪz/",
+            "description": "重音在第一个音节'im'，'s'发/z/音。"
+          },
+          {
+            "word": "scramble looking for things",
+            "phonetic": "/ˈskræmbəl ˈlʊkɪŋ fər θɪŋz/",
+            "description": "“scramble”中'sc'发/sk/音，'r'音要清晰，\"for\"弱读成/fər/。"
+          }
+        ],
+        "sentences": [
+          [
+            "I feel like every time I go on a trip, my packing has gotten better.",
+            "我觉得每次旅行，我的打包技巧都进步了。"
+          ],
+          [
+            "You'll be so surprised how much this can hold.",
+            "你会惊讶于这能装下多少东西。"
+          ],
+          [
+            "It's amazing how many outfit options I can pack into these two cubes.",
+            "令人惊叹的是，我能把这么多服装搭配选择装进这两个收纳包里。"
+          ],
+          [
+            "It drives me crazy whenever I go on a trip and I forgot something.",
+            "每次旅行时我忘了带东西，都会把我逼疯。"
+          ],
+          [
+            "By simplifying your life and just packing the essentials you need for a trip, can really make a huge difference to your overall experience.",
+            "通过简化你的生活，只打包旅行必需品，能为你的整体体验带来巨大的改变。"
+          ]
+        ],
+        "grammar": [
+          [
+            "动词短语 (Phrasal verb)",
+            "解释：动词与介词或副词结合，形成新含义的短语。",
+            "视频例子：choose lighter weight clothing that can easily roll up."
+          ],
+          [
+            "动名词作主语 (Gerund as subject)",
+            "解释：动名词 (ing 形式的动词) 在句中充当主语。",
+            "视频例子：By simplifying your life and just packing the essentials you need for a trip, can really make a huge difference to your overall experience."
+          ]
+        ]
+      },
+      {
+        "video_id": "PQefqx7rAS4",
+        "title": "Travel Packing Tips | How to Pack a Carry-On + Packing Checklist Download",
+        "url": "https://www.youtube.com/watch?v=PQefqx7rAS4",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频分享了旅行打包的实用技巧，尤其针对手提行李和随身背包。博主推荐使用KonMari折叠法垂直收纳衣物以节省空间并方便查找，并建议使用各种收纳袋来分类整理内衣、化妆品和电子产品等零散物品。此外，她还分享了旅行中产品分装、携带小样、使用牙刷套、用塑料袋装鞋子和脏衣物，以及在不同地方存放现金等技巧，以确保旅行的舒适和安全。",
+        "cards": "pack a carry-on\n---\n--\n打包手提行李\n英文例句：I normally only like to pack a carry-on for my trips.\n中文例句：我的旅行通常只打包一个手提行李。\n\ngame-changer\n---\n--\n颠覆性事物，能彻底改变局面的事物\n英文例句：This is a game-changer for when you're traveling, specifically living out of a suitcase.\n中文例句：这在旅行中是颠覆性的，特别是当你在行李箱里生活时。\n\nat a glance\n---\n--\n一眼，立刻\n英文例句：You can see all of your clothes at a glance.\n中文例句：你一眼就能看到所有的衣服。\n\nget pickpocketed\n---\n--\n被扒窃\n英文例句：What if you get pickpocketed or something gets stolen?\n中文例句：万一你被扒窃了，或者东西被偷了怎么办？\n\ndehydrating to fly\n---\n--\n飞行中容易脱水\n英文例句：It's like really dehydrating to fly.\n中文例句：飞行中真的很容易脱水。\n\non hand\n---\n--\n在手边，随时可用\n英文例句：My charger's like up there or somewhere that's not on hand.\n中文例句：我的充电器在上面，或者某个不顺手的地方。\n\nbulky items\n---\n--\n体积大的物品\n英文例句：That way you don't have to pack like your big and bulky items.\n中文例句：那样你就不用打包那些又大又占地方的物品了。\n\nstash\n---\n--\n藏匿物；储存\n英文例句：I like to have my own stash, my own thing of water.\n中文例句：我喜欢有自己的储备，自己的水。",
+        "pronunciation": [
+          {
+            "word": "pack a carry-on",
+            "phonetic": "/pæk ə ˈkæri ɑn/",
+            "description": "\"pack a\" 中的 /k/ 和 /ə/ 连读"
+          },
+          {
+            "word": "game-changer",
+            "phonetic": "/ˈɡeɪm ˌtʃeɪndʒər/",
+            "description": "\"game\" 和 \"changer\" 的重音都在第一个音节"
+          },
+          {
+            "word": "at a glance",
+            "phonetic": "/æt ə ˈɡlæns/",
+            "description": "\"at a\" 中的 /t/ 和 /ə/ 连读，/t/ 发轻微的 /d/ 音"
+          },
+          {
+            "word": "get pickpocketed",
+            "phonetic": "/ɡɛt ˈpɪkˌpɑkɪtɪd/",
+            "description": "注意 /ck/ 和 /p/ 的清晰发音"
+          },
+          {
+            "word": "dehydrating to fly",
+            "phonetic": "/diˈhaɪdreɪtɪŋ tu flaɪ/",
+            "description": "\"dehydrating\" 重音在 /haɪ/"
+          },
+          {
+            "word": "on hand",
+            "phonetic": "/ɑn hænd/",
+            "description": "\"on\" 中的 /n/ 和 \"hand\" 中的 /h/ 连读，/h/ 可能会轻读或不发音"
+          },
+          {
+            "word": "bulky items",
+            "phonetic": "/ˈbʌlki ˈaɪtəmz/",
+            "description": "\"bulky\" 和 \"items\" 的重音都在第一个音节"
+          },
+          {
+            "word": "stash",
+            "phonetic": "/stæʃ/",
+            "description": "/æ/ 是短元音，注意舌位靠下，发音类似中文的“矮”"
+          }
+        ],
+        "sentences": [
+          [
+            "This is a game-changer for when you're traveling, specifically living out of a suitcase.",
+            "这在旅行中是颠覆性的，特别是当你从行李箱里生活时。"
+          ],
+          [
+            "I just like being able to choose my outfits this way 'cause I could see mostly everything.",
+            "我只是喜欢这样选择我的衣服，因为我几乎能看到所有东西。"
+          ],
+          [
+            "You just want to have some backup.",
+            "你只是想留点备用。"
+          ],
+          [
+            "I've been that person where I've seen an outlet and I'm like, 'Dang it, my phone's out of battery, but my charger's like up there'.",
+            "我也曾是那种看到插座时，心想“该死，手机没电了，但充电器却在上面”的人。"
+          ],
+          [
+            "The water that they give is like just never enough, so I like to have my own stash, my own thing of water.",
+            "他们给的水总是不够，所以我喜欢自己储备一些水。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**动名词作介词宾语**",
+            "介词后跟动词时，动词需变为动名词形式。",
+            "\"This is a game-changer for when you're traveling, specifically living out of a suitcase.\" (for后面是动名词\"living\")"
+          ],
+          [
+            "**Present Perfect for Experience (Present Perfect with \"have been that person\")**",
+            "用于描述过去发生的、对现在有影响的经历，特别是当你表示自己曾是某种情况或做过某事时，后面常跟一个关系从句来具体说明。",
+            "\"I've been that person where I've seen an outlet and I'm like, 'Dang it, my phone's out of battery, but my charger's like up there'.\" (表达自己过去的经历，即曾是那种因充电器不在手边而苦恼的人)"
+          ]
+        ]
+      }
+    ]
   }
 ]
