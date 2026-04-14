@@ -4217,5 +4217,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-14",
+    "topic": "Best new Netflix shows",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "H8D0wTCkAk0",
+        "title": "Top 10 HISTORICAL SERIES on Netflix Right Now!",
+        "url": "https://www.youtube.com/watch?v=H8D0wTCkAk0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频介绍了Netflix上排名前十的历史剧集，涵盖了从维京时代到现代君主制，以及二战期间、18世纪法国宫廷和19世纪极地探险等不同历史时期。解说员对每部剧集的主题、背景、制作质量和故事情节进行了简要介绍和评价。视频内容旨在为历史剧爱好者提供观影推荐和参考。",
+        "cards": "Intrigue\n---\n--\n阴谋；诡计\n英文例句：Today's series are packed with drama, intrigue, and epic tales from the past.\n中文例句：今天的剧集充满了戏剧性、阴谋和来自过去的史诗故事。\n\nset the bar quite high\n---\n--\n把标准定得相当高\n英文例句：Valhalla is not quite as good as the original, although the original did set the bar quite high.\n中文例句：《英灵殿》不如原版那么好，尽管原版已经把标准定得相当高。\n\nhaunting atmospheric depiction\n---\n--\n萦绕心头的氛围描绘\n英文例句：All the Light We Cannot See stands out for its haunting atmospheric depiction of wartime France.\n中文例句：《我们看不见的所有光》因其对战时法国萦绕心头的氛围描绘而脱颖而出。\n\nchronicles the reign\n---\n--\n编年记录统治时期\n英文例句：This six-season series chronicles the reign of Queen Elizabeth II.\n中文例句：这部六季的剧集编年记录了伊丽莎白二世女王的统治时期。\n\nat odds over\n---\n--\n对...意见不合；争论\n英文例句：I'm always at odds over whether or not I should include them on a list like this.\n中文例句：我总是在犹豫是否应该把它们列入这样的榜单。\n\ninfuses it with\n---\n--\n为其注入，使充满\n英文例句：The Terror infuses it with supernatural elements to give it a bit of a twist.\n中文例句：《极地恶灵》为其注入了超自然元素，使故事带有一点反转。\n\nlavish and visually impressive\n---\n--\n奢华且视觉效果令人印象深刻\n英文例句：Marco Polo is a lavish and visually impressive portrayal of medieval China.\n中文例句：《马可·波罗》是对中世纪中国奢华且视觉效果令人印象深刻的描绘。",
+        "pronunciation": [
+          {
+            "word": "Intrigue",
+            "phonetic": "/ɪnˈtriːɡ/",
+            "description": "重音在第二个音节，\"gue\"发长\"ee\"音，结尾的\"g\"要清晰。"
+          },
+          {
+            "word": "set the bar quite high",
+            "phonetic": "/sɛt ðə bɑːr kwaɪt haɪ/",
+            "description": "\"quite high\"连读，注意\"t\"和\"h\"的发音。"
+          },
+          {
+            "word": "haunting atmospheric depiction",
+            "phonetic": "/ˈhɔːntɪŋ ˌætməsˈfɛrɪk dɪˈpɪkʃən/",
+            "description": "\"haunting\"的\"au\"发音类似\"o\"；\"atmospheric\"重音在\"spher\"上；\"depiction\"的\"ti\"发\"sh\"音。"
+          },
+          {
+            "word": "chronicles the reign",
+            "phonetic": "/ˈkrɒnɪklz ðə reɪn/",
+            "description": "\"chronicles\"的\"ch\"发\"k\"音，\"reign\"的\"ei\"发长\"a\"音，结尾的\"gn\"不发音，只发\"n\"。"
+          },
+          {
+            "word": "at odds over",
+            "phonetic": "/æt ɒdz ˈoʊvər/",
+            "description": "\"at odds\"连读，\"odds\"的\"s\"发\"z\"音；\"over\"重音在第一音节。"
+          },
+          {
+            "word": "infuses it with",
+            "phonetic": "/ɪnˈfjuːzɪz ɪt wɪð/",
+            "description": "\"infuses\"重音在第二个音节，\"s\"发\"z\"音；\"it with\"连读，\"th\"发浊辅音/ð/。"
+          },
+          {
+            "word": "lavish and visually impressive",
+            "phonetic": "/ˈlævɪʃ ænd ˈvɪʒuəli ɪmˈprɛsɪv/",
+            "description": "\"lavish\"的\"a\"发短\"a\"音；\"visually\"的\"su\"发\"zh\"音；\"impressive\"重音在第二个音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "Today's series are packed with drama, intrigue, and epic tales from the past.",
+            "今天的剧集充满了戏剧性、阴谋和来自过去的史诗故事。"
+          ],
+          [
+            "Valhalla is not quite as good as the original, although the original did set the bar quite high.",
+            "《英灵殿》不如原版那么好，尽管原版已经把标准定得相当高。"
+          ],
+          [
+            "This series offers a unique perspective on World War II, not from the soldier's viewpoint but from two individuals just trying to survive.",
+            "这部剧集从独特的角度展现了二战，不是从士兵的视角，而是从两个只想活下来的普通人来看待。"
+          ],
+          [
+            "I'm always at odds over whether or not I should include them on a list like this.",
+            "我总是在犹豫是否应该把它们列入这样的榜单。"
+          ],
+          [
+            "The Terror infuses it with supernatural elements to give it a bit of a twist.",
+            "《极地恶灵》为其注入了超自然元素，使故事带有一点反转。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "强调动作的承受者或结果，使表达更客观，避免提及不必要的施动者。",
+            "This limited series is set during World War II. (这部有限剧集以二战为背景。)"
+          ],
+          [
+            "动词 + to do / doing 的用法",
+            "动词 \"try\" 后面接不定式 \"to do\" 表示努力尝试做某事。",
+            "Two individuals just trying to survive. (两个只是努力求生的人。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "N3pn6XgSJWU",
+        "title": "Top 10 Best TV Shows to Watch Right Now! (2026)",
+        "url": "https://www.youtube.com/watch?v=N3pn6XgSJWU",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频介绍了2026年最值得关注的十大热门电视剧集。从冷战时期的间谍惊悚片，到高风险的葡萄酒品鉴大赛，再到德克萨斯州的石油权力斗争和希腊神话改编的奇幻冒险，种类繁多。视频还提到了一部关于超级英雄身份认同的漫威喜剧，以及一部讲述医生在混沌急诊室中工作的医疗剧。最后，亚马逊的《辐射》作为第一名被提及，它将带观众进入一个危险而不可预测的后启示录世界。",
+        "cards": "stacked\n---\n--\n（形容词）充满的，塞满的（常指优质的东西）\n英文例句：2026 is just getting started, and already the TV lineup is stacked.\n中文例句：2026年才刚刚开始，电视节目阵容已经很强大了。\n\nreprise their roles\n---\n--\n（动词短语）重新扮演他们的角色\n英文例句：French talent Fleur Geffrier and Japan's Tomohisa Yamashita reprise their roles as Camille and Issei.\n中文例句：法国演员弗勒·杰弗里埃和日本演员山下智久再次扮演卡米尔和伊势。\n\ndoubling down on\n---\n--\n（动词短语）加倍努力；坚持（某种策略或行动，尤指有风险的）\n英文例句：Billy Bob Thornton doubling down on ruthless business warfare in West Texas.\n中文例句：比利·鲍勃·桑顿在西德克萨斯州加倍致力于残酷的商业竞争。\n\nthick enough to cut with a knife\n---\n--\n（习语）气氛紧张得令人窒息；非常浓厚\n英文例句：The performances remain heavyweight, the dialogue sharp, and the tension thick enough to cut with a knife.\n中文例句：表演依然重量级，对白尖锐，紧张气氛浓厚得令人窒息。\n\nmyth-heavy\n---\n--\n（形容词）充满神话色彩的\n英文例句：Disney+ brings back Walker Scobell as Percy in a bigger, darker, and more myth-heavy second season.\n中文例句：迪士尼+在更大、更黑暗、更具神话色彩的第二季中，再次由沃克·斯科贝尔饰演珀西。\n\nglobe-trotting\n---\n--\n（形容词）周游世界的\n英文例句：Tom Hiddleston, Hugh Laurie, and Olivia Colman are back in a globe-trotting sequel packed with deception, danger, and sleek espionage vibes.\n中文例句：汤姆·希德勒斯顿、休·劳瑞和奥利维亚·科尔曼回归，出演这部充满欺骗、危险和时尚谍战氛围的周游世界的续集。\n\ngut-punch emotion\n---\n--\n（名词短语）令人震撼的情感；强烈的冲击\n英文例句：Season 2 ups the stakes with more real-time emergencies, ethical dilemmas, and gut-punch emotion.\n中文例句：第二季通过更多实时紧急情况、道德困境和震撼人心的情感，提升了赌注。",
+        "pronunciation": [
+          {
+            "word": "stacked",
+            "phonetic": "/stækt/",
+            "description": "注意末尾的/kt/音要清晰，不要漏掉"
+          },
+          {
+            "word": "reprise their roles",
+            "phonetic": "/rɪˈpraɪz ðɛər roʊlz/",
+            "description": "reprise的重音在第二个音节"
+          },
+          {
+            "word": "doubling down on",
+            "phonetic": "/ˈdʌblɪŋ daʊn ɒn/",
+            "description": "注意双音节连读和down on的弱读"
+          },
+          {
+            "word": "thick enough to cut with a knife",
+            "phonetic": "/θɪk ɪˈnʌf tuː kʌt wɪð ə naɪf/",
+            "description": "thick中的/θ/是舌尖齿摩擦音，enough中的/f/音，以及连读"
+          },
+          {
+            "word": "myth-heavy",
+            "phonetic": "/mɪθˈhɛvi/",
+            "description": "myth中的/θ/是舌尖齿摩擦音，heavy中的/h/要发音"
+          },
+          {
+            "word": "globe-trotting",
+            "phonetic": "/ˈɡloʊbˌtrɒtɪŋ/",
+            "description": "globe中的/l/音要清晰，trotting中的/tt/发/d/音"
+          },
+          {
+            "word": "gut-punch emotion",
+            "phonetic": "/ˈɡʌtˌpʌntʃ ɪˈmoʊʃn/",
+            "description": "gut-punch连读，emotion的重音在第二个音节"
+          }
+        ],
+        "sentences": [
+          [
+            "2026 is just getting started, and already the TV lineup is stacked.",
+            "2026年才刚刚开始，电视节目阵容就已经很强大了。"
+          ],
+          [
+            "Wine tasting has never been more intense.",
+            "葡萄酒品鉴从未如此紧张刺激。"
+          ],
+          [
+            "It feels like Yellowstone's darker, more corporate cousin.",
+            "它感觉就像是《黄石》更黑暗、更企业化的表亲。"
+          ],
+          [
+            "This doesn't feel like a nostalgia revival.",
+            "这不像是对怀旧的复兴。"
+          ],
+          [
+            "The Pit is the medical drama everyone's talking about.",
+            "《深渊》是大家都在谈论的医疗剧。"
+          ]
+        ],
+        "grammar": [
+          [
+            "现在分词作伴随状语",
+            "现在分词（-ing形式）可以用来表示伴随主句动作同时发生的动作或状态，使其语境更丰富。",
+            "while raising the emotional stakes for Percy, Annabeth, and Grover."
+          ],
+          [
+            "形容词短语“enough to”",
+            "“形容词 + enough + to + 动词原形”表示“足够……去做某事”。",
+            "The tension thick enough to cut with a knife."
+          ]
+        ]
+      }
+    ]
   }
 ]
