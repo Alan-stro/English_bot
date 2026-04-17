@@ -4611,5 +4611,170 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-17",
+    "topic": "daily life vlog",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "7J96ESznKMQ",
+        "title": "My daily routine in English",
+        "url": "https://www.youtube.com/watch?v=7J96ESznKMQ",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频记录了主人公一天中的日常活动，旨在教授与日常生活相关的英语词汇。她从早上醒来、洗漱、遛狗、学习语言、去健身房、洗澡、化妆到工作，再到午饭、下午的跑腿、晚上的休闲，最后入睡。每个环节都配以具体动作和详细的英语解释，并穿插了向路人询问日常习惯的片段。",
+        "cards": "Hit snooze\n---\n--\n按下（闹钟）贪睡键\nSometimes, I will hit snooze on my alarm clock.\n有时，我会按下闹钟的贪睡键。\n\nHead straight to\n---\n--\n直接前往\nThen I will head straight to the bathroom.\n然后我就会直接去浴室。\n\nPick up (a language)\n---\n--\n学习（一门语言）\nI'm actually working on improving my Spanish and picking up some Mandarin.\n我实际上正在努力提高我的西班牙语水平，并学习一些普通话。\n\nCommute\n---\n--\n通勤\nThe journey from leaving your house to going to that certain place to work is called your commute.\n从你家出发到某个工作地点的旅程就叫做通勤。\n\nRun errands\n---\n--\n跑腿，办差事\nThen I'll be running errands.\n然后我就会去跑腿办事。\n\nWind down\n---\n--\n放松，缓和\nAnd then after dinner, I like to wind down and watch some TV.\n晚饭后，我喜欢放松下来看看电视。\n\nFall asleep\n---\n--\n入睡\nAnd before I fall asleep, I will set an alarm for 8 AM.\n在我入睡之前，我会把闹钟定在早上8点。",
+        "pronunciation": [
+          {
+            "word": "Hit snooze",
+            "phonetic": "/hɪt snuːz/",
+            "description": "“snooze”中的“oo”发/u:/音，嘴唇需要圆起来向前突出。"
+          },
+          {
+            "word": "Head straight to",
+            "phonetic": "/hɛd streɪt tuː/",
+            "description": "“head”的“d”和“straight”的“t”常弱读或连读，自然地过渡到下一个词。"
+          },
+          {
+            "word": "Pick up (a language)",
+            "phonetic": "/pɪk ʌp/",
+            "description": "“pick”和“up”连读时，“k”的发音会和“up”的“u”连在一起。"
+          },
+          {
+            "word": "Commute",
+            "phonetic": "/kəˈmjuːt/",
+            "description": "重音在第二个音节“mu”上，“com”发/kə/的弱读音。"
+          },
+          {
+            "word": "Run errands",
+            "phonetic": "/rʌn ˈɛrəndz/",
+            "description": "“errands”的“s”发/z/音，不是/s/音。"
+          },
+          {
+            "word": "Wind down",
+            "phonetic": "/waɪnd daʊn/",
+            "description": "“wind”的“d”和“down”的“d”常常连读或弱读。"
+          },
+          {
+            "word": "Fall asleep",
+            "phonetic": "/fɔːl əˈsliːp/",
+            "description": "“fall”的“l”与“asleep”的“a”会发生连读。"
+          }
+        ],
+        "sentences": [
+          [
+            "I'm not a morning person, so sometimes I will hit snooze on my alarm clock.",
+            "我不是一个早起的人，所以有时我会按下闹钟的贪睡键。"
+          ],
+          [
+            "Cats pee and poop in the litter box.",
+            "猫在猫砂盆里大小便。"
+          ],
+          [
+            "Right now, I'm actually working on improving my Spanish and picking up some Mandarin.",
+            "我现在实际上正在努力提高我的西班牙语水平，并学习一些普通话。"
+          ],
+          [
+            "Now it's time to eat lunch.",
+            "现在是吃午饭的时间。"
+          ],
+          [
+            "I usually work out for around one hour.",
+            "我通常会锻炼一个小时左右。"
+          ]
+        ],
+        "grammar": [
+          [
+            "表示约数",
+            "\"around\" 可以用于表示时间的约数，而不是精确的时间点。",
+            "I normally start my morning **around** 8 AM."
+          ],
+          [
+            "动词短语 (Phrasal Verbs)",
+            "动词短语由动词和介词或副词组成，意思往往与原动词不同，是英语口语中非常常见的表达方式。",
+            "I just woke **up**. / I will get **out of** bed. / **Pick up** some Mandarin."
+          ]
+        ]
+      },
+      {
+        "video_id": "bahNjAYRS8o",
+        "title": "Day in my life as a Doctor in my 20s | Full-Time in the UK",
+        "url": "https://www.youtube.com/watch?v=bahNjAYRS8o",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这位英国医生分享了她的日常工作和生活。她在早上4点41分起床，完成个人目标和工作邮件，然后吃早饭并准备上班。视频展示了她驾车前往诊所，那里的病患多来自低收入和无家可归群体，使得工作更具挑战但也更有意义。下午她结束了7位病患的看诊，随后去超市购物，晚上回家继续处理剩下的食物。最后她表达了工作后认知疲劳的感觉，希望把精力留给个人目标。",
+        "cards": "rotate through\n---\n--\n轮岗（在不同专业之间）\nAs part of our training, we rotate through different specialties every four months.\n作为我们培训的一部分，我们每四个月会在不同的专科之间轮岗。\n\ncognitively fatigued\n---\n--\n认知疲劳的\nI feel so much more cognitively fatigued and decision fatigued.\n我感觉认知和决策疲劳更严重了。\n\nunder-served\n---\n--\n服务不足的\nMy work is in an under-served, low-income area.\n我的工作区域是一个服务不足、低收入的地区。\n\nbe allocated to\n---\n--\n被分配到\nSometimes we’re allocated to see a patient during our lunch break.\n有时我们会被分配在午休时间看诊。\n\nenergy-to-output ratio\n---\n--\n精力产出比\nThe energy-to-output ratio just isn't worth it for me to do anything mentally draining in the evenings.\n晚上做任何消耗脑力的事，其精力产出比对我来说都不划算。\n\nmentally draining\n---\n--\n耗费脑力的\nI don't really push myself to do anything mentally draining in the evenings.\n我晚上不怎么强迫自己做任何耗费脑力的事。\n\nto prep myself\n---\n--\n（为某事）做好准备\nMentally prepping myself for one last push.\n我正在为最后一搏做心理准备。",
+        "pronunciation": [
+          {
+            "word": "rotate through",
+            "phonetic": "/ˈroʊteɪt θruː/",
+            "description": "\"rotate\"的\"t\"发音与\"through\"的\"th\"连接，注意\"through\"的\"th\"是清辅音，不要发成浊辅音。"
+          },
+          {
+            "word": "cognitively fatigued",
+            "phonetic": "/ˌkɒɡnɪtɪvli fəˈtiːɡd/",
+            "description": "\"cognitively\"重音在第一个音节，\"fatigued\"重音在第二个音节，结尾的\"d\"要轻读。"
+          },
+          {
+            "word": "under-served",
+            "phonetic": "/ˌʌndərˈsɜːvd/",
+            "description": "重音在\"served\"上，注意\"served\"的\"v\"和\"d\"音。"
+          },
+          {
+            "word": "be allocated to",
+            "phonetic": "/bi ˈæləkeɪtɪd tuː/",
+            "description": "\"allocated\"重音在第二个音节，末尾的\"d\"轻读。"
+          },
+          {
+            "word": "energy-to-output ratio",
+            "phonetic": "/ˈɛnərdʒi tuː ˈaʊtpʊt ˈreɪʃioʊ/",
+            "description": "每个单词发音清晰，\"ratio\"的\"sh\"是/ʃ/音。"
+          },
+          {
+            "word": "mentally draining",
+            "phonetic": "/ˈmɛntəli ˈdreɪnɪŋ/",
+            "description": "\"mentally\"的\"t\"可以轻微送气或不送气，\"draining\"的\"ai\"发长元音/eɪ/。"
+          },
+          {
+            "word": "to prep myself",
+            "phonetic": "/tuː prɛp maɪˈsɛlf/",
+            "description": "\"prep\"是\"prepare\"的缩写，\"myself\"重音在第二个音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "I usually get a good few hours before work in the morning, which is quite nice because that's when I can get stuff done and be the most productive.",
+            "我通常早上在工作前有几个小时的空闲时间，这很不错，因为那是我可以完成工作并最有效率的时候。"
+          ],
+          [
+            "One of my main goals right now is to explore as many opportunities as possible outside of medicine before I commit to any specialty training as a doctor.",
+            "我目前的主要目标之一是在我作为医生确定任何专科培训之前，尽可能多地探索医学以外的机会。"
+          ],
+          [
+            "It makes the job harder—but also more rewarding.",
+            "这份工作让它变得更难——但也更让人有成就感。"
+          ],
+          [
+            "One great thing about GP is that you don't have to wear scrubs.",
+            "全科医生的一个好处是你不必穿手术服。"
+          ]
+        ],
+        "grammar": [
+          [
+            "非限定性定语从句",
+            "非限定性定语从句用逗号与主句隔开，提供额外信息，即使省略也不会影响主句的意义。常由which引导。",
+            "I usually get a good few hours before work in the morning, which is quite nice because that's when I can get stuff done and be the most productive."
+          ],
+          [
+            "as...as possible",
+            "表示“尽可能地……”，用于强调程度的最高可能性。",
+            "One of my main goals right now is to explore as many opportunities as possible outside of medicine before I commit to any specialty training as a doctor."
+          ]
+        ]
+      }
+    ]
   }
 ]
