@@ -5113,5 +5113,175 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-20",
+    "topic": "Setting up new phone",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "gGftJwMa84M",
+        "title": "How to transfer your data and set up your new iPhone | Apple Support",
+        "url": "https://www.youtube.com/watch?v=gGftJwMa84M",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频详细介绍了三种将数据迁移到新 iPhone 的方法：通过 iCloud 和旧 iPhone 进行传输，直接从旧 iPhone 传输数据，或使用 iCloud 备份进行恢复。视频逐步指导用户完成这些过程，包括准备旧设备、使用快速开始功能、输入密码以及等待数据传输和恢复完成。它强调了保持备份的重要性，并提供了顺利完成设置所需的关键提示。",
+        "cards": "get up and running\n---\n--\n（使）开始运作；（使）开始运转\nDownloading your information from iCloud will be the fastest way to get up and running with your new iPhone.\n从 iCloud 下载信息将是让您的新 iPhone 迅速启动和运行的最快方式。\n\nin the background\n---\n--\n在后台；不显眼地\nYour apps and data will download in the background after setup.\n您的应用程序和数据将在设置完成后在后台下载。\n\non-screen prompts\n---\n--\n屏幕提示\nFollow the on-screen prompts until the Transfer Your Data screen appears.\n按照屏幕提示操作，直到“传输您的数据”屏幕出现。\n\nmigration process\n---\n--\n迁移过程\nBoth devices should be plugged in and charging until the migration process is complete.\n两台设备都应连接电源并充电，直到迁移过程完成。\n\nreview and accept\n---\n--\n审阅并接受\nYou might be asked to review and accept the terms and conditions in order to continue.\n您可能会被要求审阅并接受条款和条件才能继续。\n\nrestore your content\n---\n--\n恢复您的内容\nYour device should be plugged in and charging after setup to download your content.\n您的设备应在设置后连接电源并充电，以下载您的内容。",
+        "pronunciation": [
+          {
+            "word": "get up and running",
+            "phonetic": "/ɡɛt ʌp ænd ˈrʌnɪŋ/",
+            "description": "注意“get up”中的t通常会弱读成类似d的音，与“and”连读，再与“running”连贯起来。"
+          },
+          {
+            "word": "in the background",
+            "phonetic": "/ɪn ðə ˈbækɡraʊnd/",
+            "description": "注意“the”的弱读和“background”中重音在“back”上。"
+          },
+          {
+            "word": "on-screen prompts",
+            "phonetic": "/ˌɒn ˈskriːn prɒmpts/",
+            "description": "注意“on-screen”的重音在“screen”上，以及“prompts”结尾的/pts/音。"
+          },
+          {
+            "word": "migration process",
+            "phonetic": "/maɪˈɡreɪʃn ˈprəʊsɛs/",
+            "description": "注意“migration”中重音在“grai”上，“process”中重音在“pro”。"
+          },
+          {
+            "word": "review and accept",
+            "phonetic": "/rɪˈvjuː ænd ækˈsɛpt/",
+            "description": "“review”的重音在“view”，“and”弱读，与“accept”连读时“t”不要吞音。"
+          },
+          {
+            "word": "restore your content",
+            "phonetic": "/rɪˈstɔːr jʊər ˈkɒntɛnt/",
+            "description": "“restore”重音在“store”，“your”通常弱读，与“content”连读时重音在“con”上。"
+          }
+        ],
+        "sentences": [
+          [
+            "1. Downloading your information from iCloud will be the fastest way to get up and running with your new iPhone.",
+            "从 iCloud 下载信息将是让您的新 iPhone 迅速启动和运行的最快方式。"
+          ],
+          [
+            "2. Your apps and data will download in the background after setup.",
+            "您的应用程序和数据将在设置完成后在后台下载。"
+          ],
+          [
+            "3. You might be asked to review and accept the terms and conditions in order to continue.",
+            "您可能会被要求审阅并接受条款和条件才能继续。"
+          ],
+          [
+            "4. A loading bar will appear when your device begins restoring your information from iCloud.",
+            "当您的设备开始从 iCloud 恢复信息时，会出现一个加载条。"
+          ],
+          [
+            "5. Follow the prompts until the Quick Start screen appears.",
+            "按照提示操作，直到“快速开始”屏幕出现。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1. 被动语态",
+            "用于描述接收动作的主语，而不是执行动作的主语，常用于更正式或通用语境。",
+            "You might be asked to review and accept the terms and conditions. (您可能会被要求审阅并接受条款和条件。)"
+          ],
+          [
+            "2. 不定式作目的状语（in order to）",
+            "表示动作的目的，强调为了某个特定目标。",
+            "You might be asked to review and accept the terms and conditions in order to continue. (您可能会被要求审阅并接受条款和条件才能继续。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "XCgn8QUlnB4",
+        "title": "How to Setup a NEW iPhone 16 or 16 Pro AND Transfer Your Data!",
+        "url": "https://www.youtube.com/watch?v=XCgn8QUlnB4",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "本视频旨在指导用户如何将所有数据从旧 iPhone 迁移到新 iPhone 16 Pro（视频中提及，实际可能为 iPhone 15 Pro）。视频介绍了两种迁移方式：直接手机对手机迁移和通过 iCloud 备份恢复。主讲人推荐使用 iCloud 备份方式，因为它能让用户更快地开始使用新 iPhone，并且在后台完成其余数据下载。视频还详细讲解了如何确保拥有最新的 iCloud 备份，以及 Apple 提供的免费临时 iCloud 存储空间（最长 30 天）以方便用户迁移。此外，视频还展示了如何通过旧 iPhone 辅助设置新 iPhone，包括 Wi-Fi、Apple ID、Face ID 和电话号码（eSIM）的无缝转移，以及 Apple Watch 的自动迁移。",
+        "cards": "up and running\n---\n--\n完全正常运作；准备就绪\nWhen we're all done, you'll be fully up and running on your new iPhone and ready to go.\n当我们全部完成后，你的新 iPhone 将会完全正常运作并准备就绪。\n\n--\n---\ndirect migration\n--\n直接迁移，指不通过中间存储（如云端）直接从一台设备传输数据到另一台设备的过程\nThe first one is a direct migration, where you go directly from phone A to phone B using a direct Wi-Fi connection.\n第一种是直接迁移，你可以通过直连 Wi-Fi 从手机 A 直接传输到手机 B。\n\n--\n---\npretty solid\n--\n相当可靠的；稳定的\nBoth of those migration options have been pretty solid for the last few years now.\n这两种迁移方案在过去几年里都相当可靠。\n\n--\n---\nlocked up\n--\n(非正式) 锁死，无法使用（通常由于某个进程正在进行或设备死机）\nBoth phones are completely locked up until the migration is complete.\n两部手机在迁移完成前都将完全锁死。\n\n--\n---\nbogged down\n--\n陷入困境；受阻；被拖延（通常指因忙碌或复杂情况导致进展缓慢）\nApple servers must be pretty bogged down this morning with the new iPhone 16s.\n今天早上苹果服务器肯定被新 iPhone 16s 搞得相当忙碌。\n\n--\n---\nunencumbered\n--\n无负担的；不受限制的；自由的\nThe old iPhone is unencumbered and you can use it to do whatever you want.\n旧 iPhone 没有任何负担，你可以随意使用它。\n\n--\n---\nseamless\n--\n无缝的；流畅的\nThat process will be pretty seamless as I'll show you here in just a moment.\n那个过程会非常流畅，我马上就给你展示。",
+        "pronunciation": [
+          {
+            "word": "up and running",
+            "phonetic": "/ʌp ænd ˈrʌnɪŋ/",
+            "description": "注意 \"running\" 的重音"
+          },
+          {
+            "word": "direct migration",
+            "phonetic": "/daɪˈrɛkt maɪˈɡreɪʃən/",
+            "description": "\"direct\" 的重音可以在第一个或第二个音节，\"migration\" 重音在第二个音节"
+          },
+          {
+            "word": "pretty solid",
+            "phonetic": "/ˈprɪti ˈsɒlɪd/",
+            "description": "\"pretty\" 中 \"tt\" 发 /t/ 或 /d/ 音，\"solid\" /ɒ/ 音类似 \"o\" 在 \"hot\" 中的发音"
+          },
+          {
+            "word": "locked up",
+            "phonetic": "/lɒkt ʌp/",
+            "description": "\"locked\" 结尾 /t/ 音与 \"up\" 开头 /ʌ/ 音连读"
+          },
+          {
+            "word": "bogged down",
+            "phonetic": "/bɒɡd daʊn/",
+            "description": "\"bogged\" 中 /ɡ/ 音，注意 /d/ 音要轻微"
+          },
+          {
+            "word": "unencumbered",
+            "phonetic": "/ˌʌnɪnˈkʌmbərd/",
+            "description": "重音在第三个音节 \"cum\""
+          },
+          {
+            "word": "seamless",
+            "phonetic": "/ˈsiːmlɪs/",
+            "description": "\"sea\" 发长元音 /iː/"
+          }
+        ],
+        "sentences": [
+          [
+            "If you just ordered or just picked up a brand new iPhone, like this iPhone 16 Pro, you're probably wondering how the heck do I get everything migrated from my old iPhone to the new one.",
+            "如果你刚刚订购或拿到一部全新的 iPhone，比如这部 iPhone 16 Pro，你可能想知道到底怎么才能把所有东西从旧 iPhone 迁移到新 iPhone。"
+          ],
+          [
+            "Both phones are completely locked up until the migration is complete.",
+            "在迁移完成之前，两部手机都将完全被锁定。"
+          ],
+          [
+            "Apple will actually let you back up and store your iPhone's backup in iCloud for up to 30 days when you're moving to a new device.",
+            "当你更换新设备时，Apple 实际上会允许你将 iPhone 的备份在 iCloud 中存储长达 30 天。"
+          ],
+          [
+            "Normally at this point it would ask, do I want to transfer the Apple Watch from the old iPhone to the new iPhone?",
+            "通常在这一点，它会问我是否想把 Apple Watch 从旧 iPhone 转移到新 iPhone。"
+          ],
+          [
+            "So, I'm excited about all the other surprises that I might find with the new iPhones this year.",
+            "所以，我很期待今年新 iPhone 还能给我带来哪些惊喜。"
+          ]
+        ],
+        "grammar": [
+          [
+            "条件句 (If-clause)",
+            "解释：视频中使用了第一类条件句（条件真实可能），表示如果发生某个条件，就会导致某个结果。"
+          ],
+          [
+            "视频例子：If you don't currently have enough iCloud storage to back up.",
+            "Apple 实际上会允许你将 iPhone 的备份在 iCloud 中存储长达 30 天。"
+          ],
+          [
+            "被动语态",
+            "解释：被动语态用于强调动作的承受者而不是执行者。"
+          ],
+          [
+            "视频例子：Your apps and data will be backed up automatically and kept up to date...",
+            "你的应用程序和数据将自动备份并保持最新状态..."
+          ]
+        ]
+      }
+    ]
   }
 ]
