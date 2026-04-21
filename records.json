@@ -5283,5 +5283,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-21",
+    "topic": "Returning online purchases",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "RL56vFjoPF0",
+        "title": "How Amazon’s Broken Returns Process Is Driving Sellers To Leave Amazon",
+        "url": "https://www.youtube.com/watch?v=RL56vFjoPF0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频揭示了亚马逊卖家因退货问题面临的巨大挑战，包括退货欺诈和不断上涨的成本。大量退货最终被销毁或送往垃圾填埋场，造成了环境负担。亚马逊已尝试通过收取退货处理费和提供工具来改善局面，但许多小型卖家仍因亚马逊的退货政策而利润锐减，甚至威胁到业务生存。GoodBuy Gear等公司正在探索负责任的二手商品转售模式，以减少浪费。",
+        "cards": "sprawling\n---\n--\n占地广阔的，蔓延的\n英文例句：Inside GoodBuy Gear’s sprawling Pennsylvania warehouse.\n中文例句：这家科技巨头的占地广阔的园区拥有自己的咖啡馆和健身房。\n\nrigorously inspected\n---\n--\n严格检查的\n英文例句：They're rigorously inspected before being resold or tossed.\n中文例句：所有产品在出厂前都经过了严格检查。\n\nsuffer the consequences\n---\n--\n承担后果\n英文例句：When Amazon gets it wrong, the seller suffers the consequences.\n中文例句：如果你不遵守规则，你将承担后果。\n\non the rise\n---\n--\n在增长中，日益增加\n英文例句：Returns fraud, like returning a soiled diaper, is on the rise amidst the ease and anonymity of online shopping.\n中文例句：近年来，在线购物欺诈行为日益增加。\n\nimmense cost\n---\n--\n巨大的成本\n英文例句：Then there's the immense cost.\n中文例句：启动这个项目会带来巨大的成本。\n\nbreak even\n---\n--\n收支平衡，不赔不赚\n英文例句：We're going to end up selling at least two to three more products just to break even on that one return.\n中文例句：在第一年，我们只希望能收支平衡。\n\nwardrobing\n---\n--\n（为特定活动使用商品后）退货\n英文例句：Then there's wardrobing, using an item for a specific event then returning it.\n中文例句：由于网上购物退货政策宽松，wardrobing现象越来越普遍。\n\nrecoup\n---\n--\n弥补，收回（损失、开支等）\n英文例句：They have to figure out ways to recoup that.\n中文例句：公司正寻求收回在失败项目上的投资。",
+        "pronunciation": [
+          {
+            "word": "sprawling",
+            "phonetic": "/ˈsprɔːlɪŋ/",
+            "description": "注意/ɔː/音，舌位靠后。"
+          },
+          {
+            "word": "rigorously inspected",
+            "phonetic": "/ˈrɪɡərəsli ɪnˈspektɪd/",
+            "description": "“rigorously”重音在第一个音节，/rɪɡ/，注意辅音连缀“sp”。"
+          },
+          {
+            "word": "suffer the consequences",
+            "phonetic": "/ˈsʌfər ðə ˈkɒnsɪkwənsɪz/",
+            "description": "“suffer”重音在第一个音节，“consequences”重音在第一个音节，注意/kw/音。"
+          },
+          {
+            "word": "on the rise",
+            "phonetic": "/ɒn ðə raɪz/",
+            "description": "注意“the”的发音 /ðə/，不是/diː/。"
+          },
+          {
+            "word": "immense cost",
+            "phonetic": "/ɪˈmens kɒst/",
+            "description": "“immense”重音在第二个音节，注意/s/的清辅音，不要读成/z/。"
+          },
+          {
+            "word": "break even",
+            "phonetic": "/breɪk ˈiːvən/",
+            "description": "“break”中的/eɪ/是双元音，/even/重音在第一个音节。"
+          },
+          {
+            "word": "wardrobing",
+            "phonetic": "/ˈwɔːrdrəʊbɪŋ/",
+            "description": "注意/ɔːr/音，舌位靠后且带卷舌音。"
+          },
+          {
+            "word": "recoup",
+            "phonetic": "/rɪˈkuːp/",
+            "description": "重音在第二个音节，注意/uː/长元音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Nearly all of them are returns.",
+            "几乎所有商品都是退货。"
+          ],
+          [
+            "I really don't think that consumers understand how their return habits affect small businesses and families like mine.",
+            "我真的不认为消费者了解他们的退货习惯如何影响像我这样的中小型企业和家庭。"
+          ],
+          [
+            "It's often easier for sellers to just tell customers to keep it.",
+            "对于卖家来说，通常更简单的做法是直接让顾客留下商品。"
+          ],
+          [
+            "If I could leave Amazon, I would, but we need to be there for the customer base that wants to shop on Amazon.",
+            "如果我能离开亚马逊，我会的，但我们需要为那些想在亚马逊购物的客户群服务。"
+          ],
+          [
+            "One bad experience like that could ruin a brand.",
+            "像那样一次糟糕的经历可能会毁掉一个品牌。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Gerund as subject",
+            "动名词作主语，强调动作本身。",
+            "Returns fraud, like returning a soiled diaper, is on the rise."
+          ],
+          [
+            "It's + adjective + for + noun/pronoun + to-infinitive",
+            "用于表达某事对于某人来说是某种状态或感受。",
+            "It's often easier for sellers to just tell customers to keep it."
+          ]
+        ]
+      },
+      {
+        "video_id": "66qOop6J8Q8",
+        "title": "Where Online Returns Really End Up And What Amazon Is Doing About It",
+        "url": "https://www.youtube.com/watch?v=66qOop6J8Q8",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频揭示了在线退货背后隐藏的巨大成本和环境影响。虽然消费者享受免费且便捷的退货服务，但零售商，尤其是亚马逊，却承担了高昂的退货处理费用，包括运输、检查、重新包装甚至销毁商品的成本。这些退货导致了数万亿吨的垃圾和碳排放，促使亚马逊等公司尝试通过翻新、转售或捐赠等方式来减少浪费。视频还指出，在线购物的便捷性导致了更高的退货率，并且一些不法分子利用宽松的退货政策进行欺诈。",
+        "cards": "bottom line\n---\n--\n最终结果；底线 (指利润或亏损)\n英文例句：It comes out of their bottom line and inevitably makes prices go higher.\n中文例句：这会影响他们的底线，最终不可避免地导致价格上涨。\n\ninevitably\n---\n--\n不可避免地；必然地\n英文例句：It comes out of their bottom line and inevitably makes prices go higher.\n中文例句：这会影响他们的底线，最终不可避免地导致价格上涨。\n\nmounting criticism\n---\n--\n越来越多的批评\n英文例句：Amazon has received mounting criticism over the destruction of millions of items.\n中文例句：亚马逊因销毁数百万件商品而受到越来越多的批评。\n\nbacklash\n---\n--\n强烈反对；强烈抵制\n英文例句：Amazon plans to cut waste following backlash over the destruction of unused products.\n中文例句：亚马逊计划在因销毁未使用产品而遭到强烈反对后减少浪费。\n\nreverse logistics journey\n---\n--\n逆向物流过程\n英文例句：Each return goes on a winding, costly reverse logistics journey, adding to carbon emissions at each node.\n中文例句：每一次退货都经历着曲折、昂贵的逆向物流过程，在每个环节都增加了碳排放。\n\npristine condition\n---\n--\n原始状态；崭新状态\n英文例句：It really needs to be in pristine condition for that to happen.\n中文例句：要实现这一点，它确实需要处于原始状态。\n\ntongue-in-cheek\n---\n--\n（言语、评论等）开玩笑的；半开玩笑的\n英文例句：And a tongue-in-cheek daily deal site called Woot!\n中文例句：还有一个半开玩笑的每日特价网站叫 Woot!",
+        "pronunciation": [
+          {
+            "word": "bottom line",
+            "phonetic": "/ˈbɒtəm laɪn/",
+            "description": "“bot-uhm lighn”，注意“bottom”的“tt”发“d”的音，且“line”的“i”发长“i”音。"
+          },
+          {
+            "word": "inevitably",
+            "phonetic": "/ɪnˈɛvɪtəbli/",
+            "description": "“ih-NEV-ih-tuh-blee”，重音在“nev”上。"
+          },
+          {
+            "word": "mounting criticism",
+            "phonetic": "/ˈmaʊntɪŋ ˈkrɪtɪsɪzəm/",
+            "description": "“mawn-ting KRIH-tih-siz-uhm”，注意“mounting”的“ou”发“ao”的音，“criticism”的“c”发“s”的音。"
+          },
+          {
+            "word": "backlash",
+            "phonetic": "/ˈbæklæʃ/",
+            "description": "“bak-lash”，重音在第一个音节。"
+          },
+          {
+            "word": "reverse logistics journey",
+            "phonetic": "/rɪˈvɜːrs ləˈdʒɪstɪks ˈdʒɜːrni/",
+            "description": "“ri-VERS luh-JIS-tiks JER-nee”，注意“reverse”的“v”音，以及“logistics”的重音在“gis”上，“journey”的“j”发“дж”的音。"
+          },
+          {
+            "word": "pristine condition",
+            "phonetic": "/prɪˈstiːn kənˈdɪʃən/",
+            "description": "“prih-STEEN kuhn-DISH-uhn”，注意“pristine”的“i”发长“e”音，重音在“steen”上。"
+          },
+          {
+            "word": "tongue-in-cheek",
+            "phonetic": "/ˈtʌŋ ɪn ˈtʃiːk/",
+            "description": "“tung in cheek”，注意“tongue”的“ou”发“uh”的音，不要读成“ong”。"
+          }
+        ],
+        "sentences": [
+          [
+            "Sending back an online order has never been easier.",
+            "退货从未如此简单。"
+          ],
+          [
+            "But the truth is, there's no such thing as a free return.",
+            "但事实是，没有所谓的免费退货。"
+          ],
+          [
+            "Somebody has to pay for that.",
+            "总得有人为此买单。"
+          ],
+          [
+            "It comes out of their bottom line and inevitably makes prices go higher.",
+            "这会影响他们的底线，最终不可避免地导致价格上涨。"
+          ],
+          [
+            "We wanted to find out what really happens to e-commerce returns.",
+            "我们想弄清楚电商退货到底会怎样。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "强调动作的承受者而不是执行者。",
+            "$761 billion of U.S. returns in 2021 (7610亿美元的美国退货在2021年发生)"
+          ],
+          [
+            "分词短语作状语",
+            "描述主要动作发生时伴随的动作或状态。",
+            "Facing criticism for destroying merchandise, some brands have also found creative ways to upcycle returns. (面对销毁商品的批评，一些品牌也找到了创新的方法来升级再造退货。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
