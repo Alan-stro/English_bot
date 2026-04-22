@@ -5457,5 +5457,177 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "topic": "Morning coffee ritual",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "9PUWQQ-joKE",
+        "title": "The Magic of Salt in Coffee",
+        "url": "https://www.youtube.com/watch?v=9PUWQQ-joKE",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频探讨了在咖啡中加盐是否能改善口感。主讲人从味觉科学角度解释了盐如何减轻苦味并增强甜味。他通过在过度萃取的滤泡咖啡和速溶咖啡中加入少量盐水进行实验，证明了盐能有效减少苦味，使咖啡更顺滑，但不会改变其原有风味。主讲人建议使用廉价食盐并精确计量，因为个人对咸味的感知差异很大。",
+        "cards": "dive into\n---\n--\n中文核心释义：深入研究；开始认真地做某事\n英文例句：we're going to have to dive a little bit, just a little bit, into some taste science.\n中文例句：我们得稍稍深入地探讨一下味觉科学。\n\nmitigate\n---\n--\n中文核心释义：减轻；缓和\n英文例句：saltiness can amplify sweetness, for example, and it can also mitigate or reduce bitterness.\n中文例句：例如，咸味可以增强甜味，也可以减轻或减少苦味。\n\nridiculously expensive\n---\n--\n中文核心释义：贵得离谱\n英文例句：It's still available but it is ridiculously expensive now.\n中文例句：它现在仍然有售，但价格贵得离谱。\n\npalatable\n---\n--\n中文核心释义：美味可口的；合意的\n英文例句：it might make the drink more palatable, but it will change it.\n中文例句：它可能会让饮品更可口，但会改变它的味道。\n\nobscure the truth\n---\n--\n中文核心释义：掩盖真相\n英文例句：it will obscure the truth of it in a way.\n中文例句：在某种程度上，它会掩盖其真实的味道。\n\ndelicate hand\n---\n--\n中文核心释义：灵巧细致的技巧\n英文例句：for me this is one where you need a delicate hand.\n中文例句：对我来说，这需要灵巧细致的技巧。\n\nmade to spec\n---\n--\n中文核心释义：按规格制造/达到标准\n英文例句：They're made to spec... These are exactly that each.\n中文例句：它们是按规格制造的……每件都完全符合。",
+        "pronunciation": [
+          {
+            "word": "dive into",
+            "phonetic": "daɪv ˈɪntuː",
+            "description": "dive 后的 e 不发音，into 的 t 浊化为 d，重音在 in 上。"
+          },
+          {
+            "word": "mitigate",
+            "phonetic": "ˈmɪtɪɡeɪt",
+            "description": "重音在第一个音节，t 发 d 音，-gate 发 gat。"
+          },
+          {
+            "word": "ridiculously expensive",
+            "phonetic": "rɪˈdɪkjələsli ɪkˈspɛnsɪv",
+            "description": "ridiculously 重音在第二个音节，expensive 重音在第二个音节。"
+          },
+          {
+            "word": "palatable",
+            "phonetic": "ˈpælətəbəl",
+            "description": "重音在第一个音节，t 发 d 音，-able 读 əbəl。"
+          },
+          {
+            "word": "obscure the truth",
+            "phonetic": "əbˈskjʊər ðə truːθ",
+            "description": "obscure 重音在第二个音节，the 弱读。"
+          },
+          {
+            "word": "delicate hand",
+            "phonetic": "ˈdɛlɪkət hænd",
+            "description": "重音在第一个音节，-cate 读 kət，hand 尾部 d 轻轻发出。"
+          },
+          {
+            "word": "made to spec",
+            "phonetic": "meɪd tuː spɛk",
+            "description": "made 尾部 d 轻轻发出，to 弱读为 tu。"
+          }
+        ],
+        "sentences": [
+          [
+            "Today we're going to talk about a topic a lot of you have requested, which is, should I be putting salt in my coffee?",
+            "今天我们要讨论一个很多人都要求的话题，那就是我应该在咖啡里加盐吗？"
+          ],
+          [
+            "Your tongue has a bunch of taste receptors, taste buds, on it, and what it's generally doing is detecting sodium ions crossing a membrane, and you experience saltiness.",
+            "你的舌头上面有一堆味觉感受器、味蕾，它通常是通过检测钠离子穿过细胞膜来感受味道，然后你就体验到了咸味。"
+          ],
+          [
+            "Generally, saltiness can amplify sweetness, for example, and it can also mitigate or reduce bitterness.",
+            "一般来说，咸味可以增强甜味，例如，它也可以减轻或减少苦味。"
+          ],
+          [
+            "It might make the drink more palatable, but it will change it, it will obscure the truth of it in a way.",
+            "它可能会让饮品更可口，但它会改变它，在某种程度上会掩盖它的真实味道。"
+          ],
+          [
+            "I absolutely wouldn't recommend just getting a pinch of salt and putting it in your coffee because you could very easily end up with something too salty.",
+            "我绝对不建议只加一小撮盐到咖啡里，因为你很可能最终会得到一杯太咸的咖啡。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Conditional Sentence Type 1",
+            "解释：用于描述在将来可能发生，并且其结果也可能发生的真实条件。",
+            "视频例子: \"If you do this, let me know in the comments down below.\""
+          ],
+          [
+            "Quantifiers (a little bit, a bunch of, lots of different, a pinch of)",
+            "解释：用于描述数量，注意其搭配名词的可数与不可数以及隐含的感情色彩。",
+            "视频例子: \"we're going to have to dive a little bit... into some taste science\" (不可数), \"Your tongue has a bunch of taste receptors\" (可数), \"it seems that salt does impact lots of different kinds of bitterness\" (可数), \"I absolutely wouldn't recommend just getting a pinch of salt\" (不可数，非正式用法)."
+          ]
+        ]
+      },
+      {
+        "video_id": "XExON2hESk0",
+        "title": "Best ways to make great coffee at home | Everyday Food | ABC Australia",
+        "url": "https://www.youtube.com/watch?v=XExON2hESk0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位咖啡师教练详细介绍了在家制作咖啡的四种方法：法式压滤壶、手冲、摩卡壶和伊布里克咖啡（土耳其咖啡）。他强调了咖啡研磨粗细、水温和冲泡技巧的重要性，并解释了“crema”对于咖啡风味的关键作用。通过实践演示，他还分享了制作每种咖啡的具体步骤和一些实用小贴士。",
+        "cards": "Settle for\n---\n--\n接受次优选择；满足于\n英文例句：Never settle for bad coffee.\n中文例句：永远不要满足于劣质咖啡。\n\nLocked away\n---\n--\n锁起来；妥善保管（通常指不常用或被遗忘）\n英文例句：devices that are probably somewhere locked away in a cupboard.\n中文例句：这些器具可能被锁在柜子里某个地方。\n\nOn a regular basis\n---\n--\n定期；经常\n英文例句：if you want to be doing this at home on a regular basis.\n中文例句：如果你想在家经常做这个。\n\nGet away with\n---\n--\n（做某事）不受惩罚；（在不利条件下）成功做到\n英文例句：if you know what you're doing you can get away with even a nut grinder.\n中文例句：如果你知道自己在做什么，即使是用研磨坚果的工具也能成功。\n\nEssence of\n---\n--\n……的精髓；本质\n英文例句：Crema is what most people consider the true essence of the coffee.\n中文例句：油脂（crema）被大多数人认为是咖啡的真正精髓。\n\nCome into play\n---\n--\n开始发挥作用；开始产生影响\n英文例句：And that's where this gooseneck comes into play.\n中文例句：这就是鹅颈壶发挥作用的地方。\n\nGo-to person\n---\n--\n（寻求帮助或建议的）首选人；专家\n英文例句：I was the go-to person whenever relatives came over.\n中文例句：每当亲戚来的时候，我就是那个负责（泡咖啡）的人。",
+        "pronunciation": [
+          {
+            "word": "Settle for",
+            "phonetic": "/ˈsɛtl fɔːr/",
+            "description": "\"Settle\" 的末尾发轻声的 /l/，\"for\" 通常会弱读成 /fər/。"
+          },
+          {
+            "word": "Locked away",
+            "phonetic": "/lɒkt əˈweɪ/",
+            "description": "\"Locked\" 的 /d/ 音通常不完全发出来，直接连接到 \"away\" 的 /ə/ 音。"
+          },
+          {
+            "word": "On a regular basis",
+            "phonetic": "/ɒn ə ˈrɛɡjələr ˈbeɪsɪs/",
+            "description": "\"Regular\" 中的 /ɡj/ 音要注意发准，\"basis\" 的 /sɪs/ 要轻快。"
+          },
+          {
+            "word": "Get away with",
+            "phonetic": "/ɡɛt əˈweɪ wɪð/",
+            "description": "\"Get\" 和 \"away\" 连接紧密，\"with\" 的 /ð/ 音要发出来。"
+          },
+          {
+            "word": "Essence of",
+            "phonetic": "/ˈɛsns ɒv/",
+            "description": "\"Essence\" 的重音在第一个音节，\"of\" 弱读成 /əv/ 或 /ɒv/。"
+          },
+          {
+            "word": "Come into play",
+            "phonetic": "/kʌm ˈɪntu pleɪ/",
+            "description": "\"Into\" 常常被弱读，听起来像 \"intu\"。"
+          },
+          {
+            "word": "Go-to person",
+            "phonetic": "/ˈɡoʊ tu ˈpɜːrsn/",
+            "description": "\"Go-to\" 中两个o的发音不同，\"person\" 的 /ɜː/ 音要饱满。"
+          }
+        ],
+        "sentences": [
+          [
+            "Never settle for bad coffee.",
+            "永远不要满足于劣质咖啡。"
+          ],
+          [
+            "devices that are probably somewhere locked away in a cupboard.",
+            "这些器具可能被锁在柜子里某个地方。"
+          ],
+          [
+            "if you want to be doing this at home on a regular basis.",
+            "如果你想在家经常做这个。"
+          ],
+          [
+            "you can get away with even a nut grinder.",
+            "如果你知道自己在做什么，即使是用研磨坚果的工具也能成功。"
+          ],
+          [
+            "Crema is what most people consider the true essence of the coffee.",
+            "咖啡油脂（crema）被大多数人认为是咖啡的真正精髓。"
+          ],
+          [
+            "And that's where this gooseneck comes into play.",
+            "这就是鹅颈壶发挥作用的地方。"
+          ],
+          [
+            "I was the go-to person whenever relatives came over.",
+            "每当亲戚来的时候，我就是那个负责（泡咖啡）的人。"
+          ]
+        ],
+        "grammar": [
+          [
+            "情态动词 \"will\"",
+            "在本视频中，\"will\" 被用于描述未来发生的动作、预测或预期结果，尤其是在提供制作步骤或解释现象时。",
+            "\"otherwise it will keep cooking\" （否则它会继续加热）, \"the perimeter will start to close in\" （周围会开始收缩）。"
+          ]
+        ]
+      }
+    ]
   }
 ]
