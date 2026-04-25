@@ -5967,5 +5967,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-25",
+    "topic": "My daily commute",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "kfPNxNIDHrA",
+        "title": "It&#39;s not you. Commuting is bad for your health.",
+        "url": "https://www.youtube.com/watch?v=kfPNxNIDHrA",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频探讨了长途通勤对健康和幸福的负面影响，并指出美国人通勤时间在不断增加。视频强调独自驾车通勤尤其对心理和身体健康有害，因为长时间的久坐和独处会带来压力、焦虑、肥胖等问题。然而，视频也提到通勤并非全是负面，它可以为人们提供独处、阅读或处理个人事务的时间，对于工作地点不固定的人来说，拥有交通便利的住所比靠近工作地点更重要。",
+        "cards": "rip out\n---\n--\n（粗暴地）拔掉，移除；拆除\n英文例句：Just last fall, they had to rip out an entire section of trees to make more space for parking.\n中文例句：就在去年秋天，他们不得不拔掉一整片树来腾出更多的停车空间。\n\ntake a toll\n---\n--\n产生负面影响；造成损失\n英文例句：Those long grueling hours in cars, on trains, or buses can take a toll on a person's health.\n中文例句：那些长时间在汽车、火车或公交车上劳累奔波，会损害一个人的健康。\n\non the rise\n---\n--\n在上升；在增加\n英文例句：The average American commute is nearly 30 minutes one way, a number that's been on the rise for the last few decades.\n中文例句：美国人平均单程通勤时间将近30分钟，这个数字在过去几十年里一直在上升。\n\nlinked to\n---\n--\n与…有关联；与…相关\n英文例句：Commuting has been linked to higher rates of obesity, stress, anxiety, depression, high blood pressure, high divorce rates, neck and back pain, shorter life spans.\n中文例句：通勤与更高的肥胖率、压力、焦虑、抑郁、高血压、高离婚率、颈部和背部疼痛以及更短的寿命有关。\n\nget the point\n---\n--\n明白要点；理解\n英文例句：You get the point.\n中文例句：你明白我的意思了。\n\nhop on\n---\n--\n跳上（车、船等）；迅速登上\n英文例句：People who walk, bike, or hop on a train, had a higher life satisfaction.\n中文例句：那些步行、骑自行车或跳上火车的人，生活满意度更高。\n\nin particular\n---\n--\n尤其；特别\n英文例句：Driving alone, in particular, can make you more miserable.\n中文例句：尤其是独自驾车，会让你更加痛苦。\n\non the dot\n---\n--\n准时；正点\n英文例句：If I don't leave work at 6 o'clock on the dot, I won't catch the 6:21.\n中文例句：如果我不能在6点准时下班，我就赶不上6点21分的火车。",
+        "pronunciation": [
+          {
+            "word": "rip out",
+            "phonetic": "/rɪp aʊt/",
+            "description": "注意\"rip\"的短i音，\"out\"的oʊ音要完整，连读时\"rip-out\""
+          },
+          {
+            "word": "take a toll",
+            "phonetic": "/teɪk ə toʊl/",
+            "description": "\"toll\"的oʊ音，舌尖抵住上齿龈发l音。"
+          },
+          {
+            "word": "on the rise",
+            "phonetic": "/ɒn ðə raɪz/",
+            "description": "\"rise\"的z音，而不是s音。"
+          },
+          {
+            "word": "linked to",
+            "phonetic": "/lɪŋkt tuː/",
+            "description": "\"linked\"结尾是/t/音，\"to\"常弱读为/tə/或保持/tuː/。"
+          },
+          {
+            "word": "get the point",
+            "phonetic": "/ɡɛt ðə pɔɪnt/",
+            "description": "\"point\"的ɔɪ音。"
+          },
+          {
+            "word": "hop on",
+            "phonetic": "/hɒp ɒn/",
+            "description": "\"hop\"的短o音，\"on\"的ɒ音。"
+          },
+          {
+            "word": "in particular",
+            "phonetic": "/ɪn pərˈtɪkjələr/",
+            "description": "\"particular\"的重音在第二音节/tɪk/，注意/jəl/的发音。"
+          },
+          {
+            "word": "on the dot",
+            "phonetic": "/ɒn ðə dɒt/",
+            "description": "\"dot\"的ɒ音。"
+          }
+        ],
+        "sentences": [
+          [
+            "This is my morning commute.",
+            "这是我早上的通勤。"
+          ],
+          [
+            "Before you go and post that comment telling me to move closer, you need to see that I'm not the only person doing this.",
+            "在你发评论告诉我搬近点之前，你需要知道我不是唯一一个这样做的人。"
+          ],
+          [
+            "This place is huge, and yet it's full almost every single day.",
+            "这个地方很大，但几乎每天都爆满。"
+          ],
+          [
+            "Sitting in a car all day really adds the negative effects of an inactive lifestyle.",
+            "整天坐在车里确实增加了不活跃生活方式的负面影响。"
+          ],
+          [
+            "Hopefully not a couple hours.",
+            "希望不会是几个小时。"
+          ]
+        ],
+        "grammar": [
+          [
+            "动名词作主语",
+            "动名词短语 (e.g., \"Commuting\") 可以作为句子的主语。",
+            "Commuting has been linked to higher rates of obesity..."
+          ],
+          [
+            "被动语态",
+            "用于强调动作的承受者而不是执行者。",
+            "Commuting has been viewed as a source of stress."
+          ]
+        ]
+      },
+      {
+        "video_id": "HytXN8zJq4E",
+        "title": "I rode my motorcycle to work for 21 days: What I learned",
+        "url": "https://www.youtube.com/watch?v=HytXN8zJq4E",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频博主分享了她决定每天骑摩托车通勤21天的经历。她克服了对通勤乏味、携带物品不便以及天气变化等担忧，并逐渐适应了高坐高摩托车的骑行。最终，她发现摩托车通勤给她带来了每日的愉悦感和自信，改变了她对驾驶和工作的态度，也让她感受到了同事的积极反馈。",
+        "cards": "in a better mood\n---\n--\n心情更好；情绪更佳\nIf you feel like you need to drink coffee every day just to be in a better mood.\n如果你觉得每天都需要喝咖啡才能心情更好。\n\ngrumpy\n---\n--\n脾气暴躁的；不高兴的\nOr you're just grumpy because you have to go into the office.\n或者你只是因为必须去办公室而脾气暴躁。\n\ndedicate (time/effort to something)\n---\n--\n投入（时间/精力）做某事\nThat's just been harder and harder to dedicate like a whole day of just like to fun.\n要投入一整天去享受乐趣变得越来越难。\n\ncrutch\n---\n--\n（口语，比喻义）拐杖；依赖；精神支柱\nI saw someone comment on an interview I had... they commented on his like, uh, \"it's a crutch\".\n我看到有人在我的一次采访中评论道……他们评论他的话，嗯，说“那是一种依赖”。\n\nput (something) on hold\n---\n--\n暂停；搁置\nSo, I put that on hold.\n所以，我把那件事搁置了。\n\nzip past\n---\n--\n快速通过；迅速超越\nInstead, I just want to zip past all the cars merging on the highway so slowly.\n相反，我只想快速超越所有在高速公路上缓慢并道的汽车。\n\nsketchy\n---\n--\n（口语，通常指地方）危险的；不安全的\nSo, I work in a like a really sketchy part of Atlanta.\n我在亚特兰大一个有点危险的地方工作。\n\nanal\n---\n--\n（口语，贬义或幽默）过于挑剔的；过于讲究的\nI was being really anal with his bike, I wanted to give it back in as good condition as I got it.\n我对他的摩托车非常挑剔，我想在收到它时是怎样的状态，就以怎样的状态还给他。",
+        "pronunciation": [
+          {
+            "word": "in a better mood",
+            "phonetic": "/ɪn ə ˈbɛtər muːd/",
+            "description": "注意“better”的“tt”在美式英语中发/d/音，听起来像“bedder”"
+          },
+          {
+            "word": "grumpy",
+            "phonetic": "/ˈɡrʌmpi/",
+            "description": "“gru”的元音是短/ʌ/，像中文“啊”的短音"
+          },
+          {
+            "word": "dedicate",
+            "phonetic": "/ˈdɛdɪkeɪt/",
+            "description": "重音在第一个音节，注意/t/音的清晰度"
+          },
+          {
+            "word": "crutch",
+            "phonetic": "/krʌtʃ/",
+            "description": "“u”发短/ʌ/音，像中文“啊”的短音，“tch”发/tʃ/音"
+          },
+          {
+            "word": "put on hold",
+            "phonetic": "/pʊt ɑn hoʊld/",
+            "description": "“put”的“u”是短/ʊ/音，像中文“乌”的短音；“on”在美式英语中常发/ɑːn/音"
+          },
+          {
+            "word": "zip past",
+            "phonetic": "/zɪp pæst/",
+            "description": "“zip”的“i”是短/ɪ/音，像中文“衣”的短音，“past”的“a”是/æ/音，像中文“哎”和“啊”的混合音"
+          },
+          {
+            "word": "sketchy",
+            "phonetic": "/ˈskɛtʃi/",
+            "description": "“e”发短/ɛ/音，像中文“哎”的短音，“tch”发/tʃ/音"
+          },
+          {
+            "word": "anal",
+            "phonetic": "/ˈeɪnəl/",
+            "description": "重音在第一个音节，“a”发/eɪ/音"
+          }
+        ],
+        "sentences": [
+          [
+            "1. When I first started riding, I used to ride every weekend.",
+            "我刚开始骑行的时候，我过去每个周末都骑车。"
+          ],
+          [
+            "2. That's just been harder and harder to dedicate like a whole day of just like to fun.",
+            "要投入一整天去享受乐趣变得越来越难了。"
+          ],
+          [
+            "3. My route to work was pretty boring, like not curvy and just a lot with traffic, so a lot of stop and go.",
+            "我上班的路程相当无聊，没有什么弯道，而且交通堵塞，所以经常走走停停。"
+          ],
+          [
+            "4. News traveled fast that the lone motorcycle in the parking lot belonged to a girl in the art department.",
+            "停车场里那辆孤零零的摩托车属于艺术部门的一个女孩，这个消息传得很快。"
+          ],
+          [
+            "5. Riding my bike to work felt like I had a daily shot of espresso.",
+            "骑我的摩托车上班感觉就像我每天喝了一杯浓缩咖啡一样。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1.  **\"Used to\" 表示过去习惯**",
+            "\"Used to\" 用于描述过去经常发生但现在不再发生的习惯或状态。",
+            "视频例句: \"When I first started riding, I used to ride every weekend.\" （我刚开始骑行的时候，我过去每个周末都骑车。）"
+          ],
+          [
+            "2.  **动词短语 \"put on hold\"**",
+            "\"Put on hold\" 是一个常用的动词短语，意为“暂停，搁置”。",
+            "视频例句: \"So, I put that on hold.\" （所以，我把那件事搁置了。）"
+          ]
+        ]
+      }
+    ]
   }
 ]
