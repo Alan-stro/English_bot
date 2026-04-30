@@ -6837,5 +6837,138 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-04-30",
+    "topic": "daily life vlog",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "RrniEJHByV4",
+        "title": "Day in the Life of a Japanese Mom and Baby in Tokyo",
+        "url": "https://www.youtube.com/watch?v=RrniEJHByV4",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这个视频记录了一位日本新妈妈Moe和她九个月大的女儿Sutan一天的生活。Moe每天清晨在家人熟睡时，悄悄地准备丈夫的便当和婴儿辅食。视频展示了她照顾Sutan的日常，包括喂食、换尿布，以及她们搭乘火车外出与朋友共进午餐。Moe还分享了日本分娩的文化习惯，和她让女儿从小接触英语的教育理念。",
+        "cards": "salaryman\n---\n--\n（在日本）工薪族；上班族\nHer day starts earlier than most salarymen in Japan.\n她每天开始工作的时间比大多数日本上班族都早。\n\ntake some time and effort\n---\n--\n需要一些时间和精力\nA traditional Japanese bento is made of several dishes which take some time and effort to prepare.\n传统的日式便当由几道菜组成，需要一些时间和精力来准备。\n\ntend to feel guilty for\n---\n--\n倾向于为…感到内疚\nJapanese mothers tend to feel guilty for not making it at home.\n日本母亲倾向于为不在家做饭而感到内疚。\n\ndistracted by\n---\n--\n被…分心\nOne thing about being a mom is that her house tasks are often distracted by her kids.\n做妈妈的一件事就是，她的家务经常被孩子分心。\n\ninconveniently located\n---\n--\n位置不便的\nMoms must find elevators to use which are often inconveniently located.\n妈妈们必须使用电梯，但电梯通常位置不便。\n\ncheck in advance\n---\n--\n提前确认\nMoms in Japan... usually need to check in advance with restaurants.\n日本的妈妈们……通常需要提前向餐馆确认。\n\nmaintain her baby's routine\n---\n--\n保持婴儿的作息\nShe still needs to feed Sutan in order to maintain her baby's routine.\n她仍然需要喂养Sutan，以保持婴儿的作息。\n\ncritical time\n---\n--\n关键时期\nInfancy is a critical time for her baby's learning and development.\n婴儿期是婴儿学习和发展的关键时期。",
+        "pronunciation": [
+          {
+            "word": "salaryman",
+            "phonetic": "/ˈsælərɪmæn/",
+            "description": "重音在第一个音节 /sæl/"
+          },
+          {
+            "word": "take some time and effort",
+            "phonetic": "/teɪk sʌm taɪm ænd ˈefərt/",
+            "description": "注意连读和“effort”的重音在第一个音节"
+          },
+          {
+            "word": "tend to feel guilty for",
+            "phonetic": "/tɛnd tə fiːl ˈɡɪlti fɔːr/",
+            "description": "“tend to”的“to”常弱读为/tə/，“guilty”的重音在第一个音节"
+          },
+          {
+            "word": "distracted by",
+            "phonetic": "/dɪˈstræktɪd baɪ/",
+            "description": "“distracted”的重音在第二个音节/strækt/"
+          },
+          {
+            "word": "inconveniently located",
+            "phonetic": "/ˌɪnkənˈviːniəntli ˈloʊkeɪtɪd/",
+            "description": "“inconveniently”的重音在第三个音节/viː/，“located”的重音在第二个音节/ˈloʊ/"
+          },
+          {
+            "word": "check in advance",
+            "phonetic": "/tʃɛk ɪn ædˈvæns/",
+            "description": "“check in”注意连读，“advance”的重音在第二个音节/ˈvæns/"
+          },
+          {
+            "word": "maintain her baby's routine",
+            "phonetic": "/meɪnˈteɪn hər ˈbeɪbiz ruːˈtiːn/",
+            "description": "“maintain”和“routine”的重音都在第二个音节"
+          },
+          {
+            "word": "critical time",
+            "phonetic": "/ˈkrɪtɪkəl taɪm/",
+            "description": "“critical”的重音在第一个音节/ˈkrɪ/"
+          }
+        ],
+        "sentences": [
+          [
+            "This is a day in the life of a Japanese mom and baby.",
+            "这是日本一位妈妈和宝宝的一天。"
+          ],
+          [
+            "Her day starts earlier than most salarymen in Japan.",
+            "她每天开始的时间比大多数日本上班族都要早。"
+          ],
+          [
+            "One thing about being a mom is that her house tasks are often distracted by her kids.",
+            "做妈妈的一点就是她的家务常常会被孩子分心。"
+          ],
+          [
+            "To save time, though, moms will prepare a lot at once.",
+            "然而，为了节省时间，妈妈们会一次性准备很多。"
+          ],
+          [
+            "It takes about 30 minutes to feed her.",
+            "喂她大约需要30分钟。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "用于强调动作本身，而非执行动作的人，或者执行动作的人不明确/显而易见时。",
+            "In Japan, most births **are given** naturally."
+          ]
+        ]
+      },
+      {
+        "video_id": "yAfg37UwxAE",
+        "title": "a cozy day in the life",
+        "url": "https://www.youtube.com/watch?v=yAfg37UwxAE",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频记录了博主一天的生活，从下雨天在家里享受咖啡和黑胶音乐开始。他花时间进行视频剪辑工作，并分享了他对模拟设备和咖啡制作的热爱。下午，他参加了Aesop品牌发布会，赞扬了活动策划和食物的精致。晚上回到家，他通过点蜡烛、听音乐、喝茶、看Netflix来放松身心，最后在回复评论后结束一天的生活。",
+        "cards": "thrift\n---\n--\n淘（旧货）；节俭使用\nLike my furniture, I try to thrift them.\n就像我的家具一样，我喜欢淘旧货。\n\npicked up\n---\n--\n学会（技能）；获得；捡起\nThanks to JBL, I've picked up this new hobby.\n多亏了JBL，我培养了这个新爱好。\n\ndrawn to\n---\n--\n被...吸引\nI've always been drawn to analog stuff.\n我一直被模拟的东西所吸引。\n\non point\n---\n--\n恰到好处；非常准确\nMainly because Aesop's events are always so on point.\n主要是因为Aesop的活动总是恰到好处。\n\nwind down\n---\n--\n放松；减速；（指机械）停止运转\nshort night routine on how I wind down\n关于我如何放松的睡前小习惯\n\ncall it a night\n---\n--\n到此为止；结束一天\nReplying to comments before I call it a night.\n在结束一天之前回复评论。\n\n--PRONUNICATION---\n---\nthrift | /θrɪft/ | 注意\"th\"的咬舌音和\"ft\"连在一起的发音，避免读成\"srift\"或\"trift\"。\npicked up | /ˌpɪkt ˈʌp/ | \"k\"和\"up\"连读，\"d\"因为在\"k\"清辅音后，发音会清化成\"t\"。\ndrawn to | /ˈdrɔːn tuː/ | \"drawn\"中\"a\"发长\"ɔː\"音。\non point | /ˌɒn ˈpɔɪnt/ | \"point\"中\"oi\"发/ɔɪ/音。\nwind down | /ˌwaɪnd ˈdaʊn/ | \"wind\"中\"i\"发长\"ai\"音。\ncall it a night | /ˌkɔːl ɪt ə ˈnaɪt/ | \"call\"中的\"l\"和\"it\"中的\"i\"连读，\"it\"中的\"t\"和\"a\"连读时，\"t\"会弱化成/ɾ/音。\n\n--SUMMARY---\n---\n视频记录了博主一天的生活，从下雨天在家里享受咖啡和黑胶音乐开始。他花时间进行视频剪辑工作，并分享了他对模拟设备和咖啡制作的热爱。下午，他参加了Aesop品牌发布会，赞扬了活动策划和食物的精致。晚上回到家，他通过点蜡烛、听音乐、喝茶、看Netflix来放松身心，最后在回复评论后结束一天的生活。\n\n--SENTENCES---\n---\nI thought why not share this cozy day with you. | 我想为什么不把这个舒适的一天分享给你们呢。\nIt lets me get up close to the rain. | 它让我能近距离感受雨。\nNothing beats that first sip. | 第一口（咖啡）的感觉真是无与伦比。\nI could spend hours here easy. | 我可以在这里轻松待上几个小时。\nHaving tea at night just hits different. | 晚上喝茶就是感觉不一样。\n\n--GRAMMAR---\n---\n动名词作主语 | 动名词可以放在句首作主语，表示一个动作或活动。 | Having tea at night just hits different.\n形容词作副词 | 某些形容词（如\"easy\"）在口语中可以作副词，修饰动词。 | I could spend hours here easy",
+        "pronunciation": [],
+        "sentences": [
+          [
+            "I thought why not share this cozy day with you.",
+            "我想为什么不把这个舒适的一天分享给你们呢。"
+          ],
+          [
+            "It lets me get up close to the rain.",
+            "它让我能近距离感受雨。"
+          ],
+          [
+            "Nothing beats that first sip.",
+            "第一口（咖啡）的感觉真是无与伦比。"
+          ],
+          [
+            "I could spend hours here easy.",
+            "我可以在这里轻松待上几个小时。"
+          ],
+          [
+            "Having tea at night just hits different.",
+            "晚上喝茶就是感觉不一样。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**动名词作主语**",
+            "动名词可以放在句首作主语，表示一个动作或活动。",
+            "Having tea at night just hits different."
+          ],
+          [
+            "**形容词作副词**",
+            "某些形容词（如\"easy\"）在口语中可以作副词，修饰动词。",
+            "I could spend hours here easy."
+          ]
+        ]
+      }
+    ]
   }
 ]
