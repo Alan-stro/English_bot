@@ -6970,5 +6970,181 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "topic": "Grocery shopping trip",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "JHiLEkV8l_8",
+        "title": "Grocery Store Stereotypes",
+        "url": "https://www.youtube.com/watch?v=JHiLEkV8l_8",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频以幽默短剧的形式展现了在超市购物时常见的各种人物和情境。从在过道中阻碍交通的顾客，到精打细算的优惠券使用者，再到对商品保质期锱铢必较的消费者。视频还描绘了那些饿着肚子购物、推着“故障”购物车以及试图一次性搬完所有杂货的人，以夸张搞笑的方式呈现了他们在超市里的独特表现。",
+        "cards": "Aisle blockade\n---\n--\n过道堵塞\n英文例句：The shoppers caused an aisle blockade with their carts.\n中文例句：购物者用购物车造成了过道堵塞。\n\nBail on (a line)\n---\n--\n放弃排队（或某事）\n英文例句：We decided to bail on that long checkout line and find another one.\n中文例句：我们决定放弃那条长长的结账队伍，找另一条。\n\nFight the urge\n---\n--\n抵制冲动\n英文例句：He had to fight the urge to buy all the candy in the bulk section.\n中文例句：他不得不抵制住买散装区所有糖果的冲动。\n\nStick to the list\n---\n--\n严格按照清单行事\n英文例句：Even though I was starving, I tried my best to stick to the list.\n中文例句：尽管我饿得要命，但我还是尽力按照购物清单来。\n\nProduce inspector\n---\n--\n农产品检查员\n英文例句：He spent a long time acting like a produce inspector, checking every avocado.\n中文例句：他花了很多时间像个农产品检查员一样，检查每一个牛油果。\n\nCheck expiration dates meticulously\n---\n--\n仔细核对保质期\n英文例句：Mr. Expiration Date always checks expiration dates meticulously for the freshest milk.\n中文例句：保质期先生总是仔细核对保质期，为了买到最新鲜的牛奶。\n\nChatty checkout\n---\n--\n爱聊天的收银员\n英文例句：The chatty checkout person talked about their life story while scanning groceries.\n中文例句：爱聊天的收银员一边扫商品一边讲他的人生故事。\n\nOne trip master\n---\n--\n一次性搬运高手\n英文例句：He proudly carried all the groceries in one go, a true one trip master.\n中文例句：他自豪地一次性搬运了所有杂货，真是一位一次性搬运高手。",
+        "pronunciation": [
+          {
+            "word": "Aisle blockade",
+            "phonetic": "/ˈaɪl blɒˈkeɪd/",
+            "description": "“Aisle”的s不发音，类似“ai-l”，重音在“blockade”的第二个音节。"
+          },
+          {
+            "word": "Bail on",
+            "phonetic": "/beɪl ɒn/",
+            "description": "“Bail”发长A音，类似“bei-l”。"
+          },
+          {
+            "word": "Fight the urge",
+            "phonetic": "/faɪt ðɪ ɜːrdʒ/",
+            "description": "“Fight”中gh不发音，“urge”发卷舌R音和浊辅音J音。"
+          },
+          {
+            "word": "Stick to the list",
+            "phonetic": "/stɪk tə ðə lɪst/",
+            "description": "“Stick”以st辅音连缀开头，s发音清晰，“list”发短i音。"
+          },
+          {
+            "word": "Produce inspector",
+            "phonetic": "/ˈproʊduːs ɪnˈspektər/",
+            "description": "作为名词“Produce”重音在第一个音节，类似“prou-duce”。“Inspector”重音在第二个音节，类似“in-spec-tor”。"
+          },
+          {
+            "word": "Check expiration dates meticulously",
+            "phonetic": "/tʃek ˌekspəˈreɪʃən deɪts məˈtɪkjələsli/",
+            "description": "“Expiration”中x发/ks/音，重音在“ra”音节。“Meticulously”重音在“ti”音节。"
+          },
+          {
+            "word": "Chatty checkout",
+            "phonetic": "/ˈtʃæti ˈtʃekaʊt/",
+            "description": "“Chatty”发短A音，“checkout”重音在“check”上。"
+          },
+          {
+            "word": "One trip master",
+            "phonetic": "/wʌn trɪp ˈmæstər/",
+            "description": "“One”发w音，类似“wun”。“trip”发短i音，“master”发长A音。"
+          }
+        ],
+        "sentences": [
+          [
+            "I just need to go.",
+            "我只是需要过去。"
+          ],
+          [
+            "How's it going, man?",
+            "怎么样，老兄？"
+          ],
+          [
+            "What's a good number I can reach you at?",
+            "我可以打哪个电话号码联系你？"
+          ],
+          [
+            "Man, I am starving.",
+            "伙计，我饿死了。"
+          ],
+          [
+            "I knew I forgot something.",
+            "我知道我忘了什么东西。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Phrasal verbs",
+            "动词短语通常由一个动词和一个或两个小品词（如介词或副词）组成，其含义往往不同于动词或小品词的字面意思。",
+            "We decided to **bail on** that long checkout line."
+          ],
+          [
+            "Descriptive Noun Phrases",
+            "使用形容词、名词或其他修饰语来形成描述特定人物、地点或事物的复合名词短语。",
+            "**The Aisle Blockade**, **the Produce Inspector**, **the One Trip Master** are examples of descriptive noun phrases."
+          ]
+        ]
+      },
+      {
+        "video_id": "jrhLkLxR1Oc",
+        "title": "Grocery Shopping with The World&#39;s Strongest Man | Brian Shaw’s Weekly Grocery Run",
+        "url": "https://www.youtube.com/watch?v=jrhLkLxR1Oc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频记录了四届“世界最强男人”布莱恩·肖在好市多超市的购物过程。他主要采购大量高蛋白肉类，如野牛肉和牛排，以及蔬菜和碳水化合物，如菠菜、胡萝卜、培根、橙汁和大米。布莱恩解释说，他购买这些食物是为了满足自己巨大的能量需求，并强调红肉在力量训练中的重要性。",
+        "cards": "stock up\n---\n--\n大量储备；囤积\nWhen I was first coming here, they were asking me if I was having a party or I was stocking up.\n我刚来这儿的时候，他们问我是不是要开派对或者在囤货。\n\n--\n---\nmess with (someone)\n--\n戏弄；开玩笑\nI think they thought I was messing with them at first.\n我想他们一开始以为我是在跟他们开玩笑。\n\n--\n---\ncatch on\n--\n领会；明白\nBut I kept coming and kept doing it, so I think they kind of started to catch on that I eat a lot of bison.\n但我一直来一直买，所以我想他们开始明白我吃很多野牛肉了。\n\n--\n---\nstaple of one's diet\n--\n（某人）饮食中的主食/主要部分\nGround bison is a staple of my diet.\n野牛肉是我饮食中的主食。\n\n--\n---\nthrow in\n--\n加入；添加\nIt's actually been great throwing that in.\n加入这个实际上很不错。\n\n--\n---\nbang for your buck\n--\n物有所值；花得值\nJust bang for your buck, red meat's gonna pack a lot more of a punch especially for strength.\n就是物有所值，红肉，尤其是对力量来说，会提供更多的能量。\n\n--\n---\npack a punch\n--\n很有冲击力；效果好\nRed meat's gonna pack a lot more of a punch especially for strength.\n红肉会提供更多的能量，尤其是对力量来说。",
+        "pronunciation": [
+          {
+            "word": "stock up",
+            "phonetic": "/stɒk ʌp/",
+            "description": "“斯托克 阿普”，注意“up”的连读，重音在前"
+          },
+          {
+            "word": "mess with",
+            "phonetic": "/mɛs wɪð/",
+            "description": "“梅斯 威斯”，注意“th”的发音，舌尖轻触上齿"
+          },
+          {
+            "word": "catch on",
+            "phonetic": "/kætʃ ɒn/",
+            "description": "“凯奇 奥恩”，注意“catch”中的“ch”音"
+          },
+          {
+            "word": "staple of one's diet",
+            "phonetic": "/ˈsteɪpəl ɒv wʌnz ˈdaɪət/",
+            "description": "“斯特普 欧夫 旺兹 戴特”，注意“staple”的元音，以及“one's”的属格"
+          },
+          {
+            "word": "throw in",
+            "phonetic": "/θroʊ ɪn/",
+            "description": "“斯罗 因”，注意“th”的清辅音发音，以及“throw”和“in”的连读"
+          },
+          {
+            "word": "bang for your buck",
+            "phonetic": "/bæŋ fɔːr jʊər bʌk/",
+            "description": "“邦 福尔 尤尔 巴克”，注意“bang”的鼻音"
+          },
+          {
+            "word": "pack a punch",
+            "phonetic": "/pæk ə pʌntʃ/",
+            "description": "“帕克 额 潘奇”，注意“pack”和“a”的连读"
+          }
+        ],
+        "sentences": [
+          [
+            "I would just tell them every time that no, I'm just getting food for a couple days.",
+            "我每次都告诉他们，不，我只是买了两天的食物。"
+          ],
+          [
+            "Normally I just kind of start and go in, go through here.",
+            "通常我就是这样开始，然后进去，穿过这里。"
+          ],
+          [
+            "I just kind of have a loop that I normally make through the store now that I know where everything pretty much is.",
+            "我现在对店里的一切都了如指掌，所以通常会按一个固定的路线逛。"
+          ],
+          [
+            "It makes it so much nicer to just have it all done and ready to roll.",
+            "把所有东西都准备好，就可以省事很多了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "“would” 表示过去的习惯",
+            "解释：用来描述过去经常发生但现在不一定发生的行为或状态。"
+          ],
+          [
+            "",
+            "视频例子：I **would** just tell them every time that no, I'm just getting food for a couple days."
+          ],
+          [
+            "“It makes it + adj + to do sth” 结构",
+            "解释：这个结构表示“做某事使它变得更…”。"
+          ],
+          [
+            "",
+            "视频例子：It **makes it so much nicer to just have it all done** and ready to roll."
+          ]
+        ]
+      }
+    ]
   }
 ]
