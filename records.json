@@ -7315,5 +7315,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-05-03",
+    "topic": "My favorite local coffee shop",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "pfqvTCgglYA",
+        "title": "The Best USA 🇺🇸 Grocery Store Coffee",
+        "url": "https://www.youtube.com/watch?v=pfqvTCgglYA",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一名男子进行了一场32种美国超市咖啡的盲品淘汰赛，旨在找出最好的超市咖啡。他根据咖啡的甜度、复杂度以及负面风味（如苦涩、泥土味）来评价。在经过多轮品尝后，他选出了最终的赢家，并对结果感到非常惊讶。最后，他总结了轻度、中度和深度烘焙的最佳推荐。",
+        "cards": "head-to-head tournament\n---\n--\n一对一淘汰赛\n英文例句：We're going to run a giant head-to-head tournament with 32 coffees.\n中文例句：我们将举办一场有32种咖啡参加的巨型一对一淘汰赛。\n\ntakeaway\n---\n--\n主要信息，启示，结论\n英文例句：The only takeaway I would say is maybe there's a coffee here or elsewhere that you could enjoy more.\n中文例句：我唯一想说的启示是，也许这里或别处有一种咖啡你可能会更喜欢。\n\nout to offend\n---\n--\n有意冒犯\n英文例句：I'm not out to offend people who like the coffee brands that I really don't.\n中文例句：我不是故意冒犯那些喜欢我不喜欢的咖啡品牌的人。\n\nbegrudgingly\n---\n--\n不情愿地，勉强地\n英文例句：Begrudgingly, I will put this one through as the winner.\n中文例句：我勉强地将这款咖啡推选为赢家。\n\nfractionally sweeter\n---\n--\n稍微甜一点\n英文例句：This is the winner, it's fractionally sweeter.\n中文例句：这是赢家，它稍微甜了一点。\n\nput together\n---\n--\n组织良好，平衡\n英文例句：This is just a bit more kind of put together and enjoyable and balanced.\n中文例句：这款咖啡更协调、更宜人、更平衡。\n\nstunned\n---\n--\n震惊的，目瞪口呆的\n英文例句：I am stunned by the result, I really want to know how everything else kind of came out.\n中文例句：我对结果感到震惊，我真的很想知道其他所有咖啡的表现如何。\n\nway off\n---\n--\n大错特错，相去甚远\n英文例句：Am I way off? Do you totally disagree with my assessments?\n中文例句：我错得离谱吗？你完全不同意我的评价吗？",
+        "pronunciation": [
+          {
+            "word": "head-to-head tournament",
+            "phonetic": "/ˈhɛd.təˌhɛd ˈtʊər.nə.mənt/",
+            "description": "注意\"tournament\"中'our'发/ʊər/，重音在第一音节。"
+          },
+          {
+            "word": "takeaway",
+            "phonetic": "/ˈteɪk.ə.weɪ/",
+            "description": "注意两个重音，一个是/ˈteɪk/，另一个是/weɪ/。"
+          },
+          {
+            "word": "offend",
+            "phonetic": "/əˈfɛnd/",
+            "description": "重音在第二个音节，'o'发/ə/的音。"
+          },
+          {
+            "word": "begrudgingly",
+            "phonetic": "/bɪˈɡrʌdʒ.ɪŋ.li/",
+            "description": "重音在第二个音节，'g'和'j'的发音要注意区分。"
+          },
+          {
+            "word": "fractionally sweeter",
+            "phonetic": "/ˈfræk.ʃən.əl.i ˈswiːtər/",
+            "description": "'fractionally'中'ti'发/ʃ/的音，重音在第一音节。"
+          },
+          {
+            "word": "put together",
+            "phonetic": "/pʊt təˈɡɛð.ər/",
+            "description": "'put'和'together'连读时，'t'可能会弱化或浊化，'together'重音在第二个音节。"
+          },
+          {
+            "word": "stunned",
+            "phonetic": "/stʌnd/",
+            "description": "'u'发/ʌ/的音，不是/uː/或/ʊ/，末尾/d/音要轻发。"
+          },
+          {
+            "word": "way off",
+            "phonetic": "/weɪ ɒf/",
+            "description": "'way'和'off'连读，'off'的/ɒ/音要发准。"
+          }
+        ],
+        "sentences": [
+          [
+            "1.  We're going to run a giant head-to-head tournament.",
+            "我们将进行一场巨型的一对一淘汰赛。"
+          ],
+          [
+            "2.  The only takeaway I would say is like maybe there's a coffee here or elsewhere that you could enjoy more.",
+            "我唯一想说的启示是，也许这里或别处有一种咖啡你可能会更喜欢。"
+          ],
+          [
+            "3.  I'm not out to offend people who like the coffee brands that I really don't.",
+            "我不是故意冒犯那些喜欢我不喜欢的咖啡品牌的人。"
+          ],
+          [
+            "4.  This is just a bit more kind of put together and enjoyable and balanced.",
+            "这款咖啡更协调、更宜人、更平衡。"
+          ],
+          [
+            "5.  Am I way off? Do you totally disagree with my assessments?",
+            "我错得离谱吗？你完全不同意我的评价吗？"
+          ]
+        ],
+        "grammar": [
+          [
+            "**动词短语 (Phrasal Verbs)**",
+            "\"put through\" 和 \"kick out\" 在视频中用于表示让某物晋级或淘汰。",
+            "\"Begrudgingly, I will **put** this one **through** as the winner.\" \"I think I **kicked** it **out** a little bit early.\""
+          ],
+          [
+            "**比较级修饰**",
+            "使用 \"fractionally\" 这样的副词来修饰比较级，表示微小的差别，让描述更精确。",
+            "\"...it's **fractionally sweeter** than the other one.\""
+          ]
+        ]
+      },
+      {
+        "video_id": "sUsjpO4LwBc",
+        "title": "Why Retail Brands Are Racing To Open In-Store Coffee Shops",
+        "url": "https://www.youtube.com/watch?v=sUsjpO4LwBc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频探讨了零售品牌开设咖啡店的日益增长趋势。从奢侈品牌如LV、迪奥到平价品牌如优衣库、Coach，再到金融机构Capital One，许多公司都在其店内引入了咖啡馆。这一现象的背后，既是为了在饱和的零售市场中增加客流量和品牌曝光度，也是为了创造一种沉浸式的体验，吸引年轻消费者，并提供更“亲民”的消费选择。不同的品牌采取了不同的策略，有的将咖啡馆作为独立业务，有的则将其融入现有店铺，以期在激烈的竞争中脱颖而出并实现盈利。",
+        "cards": "tuck away\n---\n--\n中文核心释义：藏匿；收好\n英文例句：Go to the second level and you’ll see this, a coffee bar tucked away into the corner of the store.\n中文例句：到二楼你就能看到这个，一个咖啡吧巧妙地藏在商店的角落里。\n\npioneer\n---\n--\n中文核心释义：先驱；开创者\n英文例句：But there were some early pioneers of the concept.\n中文例句：但这个概念也有一些早期的开创者。\n\nresurgence\n---\n--\n中文核心释义：复苏；复兴\n英文例句：The brand, which has seen a cultural resurgence amongst Gen Z, saw a revenue increase of 22%.\n中文例句：该品牌在Z世代中文化复兴，营收增长了22%。\n\nattainable\n---\n--\n中文核心释义：可实现的；可获得的\n英文例句：That's more of an attainable luxury in stores where three- or four-digit price tags are the norm.\n中文例句：这在那些三位数或四位数价格标签是常态的商店里，更像是一种可以实现但仍属奢侈的消费。\n\ndecimate\n---\n--\n中文核心释义：大幅削减；摧毁\n英文例句：Covid had a huge effect because it really decimated the experience economy.\n中文例句：新冠疫情影响巨大，因为它确实摧毁了体验经济。\n\nincremental foot traffic\n---\n--\n中文核心释义：额外客流量；增加的客流\n英文例句：When retailers open coffee shops, it can also drive incremental foot traffic and keep shoppers inside their stores for longer.\n中文例句：当零售商开设咖啡店时，它也能带来额外的客流量，并让顾客在店内停留更长时间。\n\nherd mentality\n---\n--\n中文核心释义：从众心理\n英文例句：There is a little bit of a herd mentality going on regarding that.\n中文例句：关于这一点，存在一点从众心理。\n\ntempered approach\n---\n--\n中文核心释义：温和的策略；审慎的做法\n英文例句：Uniqlo, on the other hand, is taking a more tempered approach.\n中文例句：另一方面，优衣库正采取一种更为温和的策略。",
+        "pronunciation": [
+          {
+            "word": "tuck away",
+            "phonetic": "/tʌk əˈweɪ/",
+            "description": "\"tuck\"发“塔克”音，\"away\"发“啊喂”音，重音在\"away\""
+          },
+          {
+            "word": "pioneer",
+            "phonetic": "/ˌpaɪəˈnɪər/",
+            "description": "\"pi\"发“派”音，\"o\"发“哦”音，\"neer\"发“你儿”音，重音在\"neer\""
+          },
+          {
+            "word": "resurgence",
+            "phonetic": "/rɪˈsɜːrdʒəns/",
+            "description": "\"re\"发“瑞”音，\"sur\"发“瑟尔”音，\"gence\"发“詹斯”音，重音在\"sur\""
+          },
+          {
+            "word": "attainable",
+            "phonetic": "/əˈteɪnəbl/",
+            "description": "\"a\"发“呃”音，\"tain\"发“泰恩”音，\"able\"发“呃不”音，重音在\"tain\""
+          },
+          {
+            "word": "decimate",
+            "phonetic": "/ˈdɛsɪmeɪt/",
+            "description": "\"de\"发“戴”音，\"ci\"发“西”音，\"mate\"发“妹特”音，重音在\"de\""
+          },
+          {
+            "word": "incremental foot traffic",
+            "phonetic": "/ˌɪnkrəˈmɛntl fʊt ˈtræfɪk/",
+            "description": "“incremental”重音在“men”，“foot”发短“乌”音，“traffic”重音在“traf”"
+          },
+          {
+            "word": "herd mentality",
+            "phonetic": "/hɜːrd mɛnˈtæləti/",
+            "description": "\"herd\"发“贺得”音，\"men\"发“曼”音，\"ta\"发“泰”音，\"lity\"发“勒提”音，重音在\"ta\""
+          },
+          {
+            "word": "tempered approach",
+            "phonetic": "/ˈtɛmpərd əˈproʊtʃ/",
+            "description": "\"tem\"发“tem”音，\"pered\"发“per”音，“approach”发“呃proach”音，重音在\"tem\"和\"proach\""
+          }
+        ],
+        "sentences": [
+          [
+            "It's beginning to feel like every brand suddenly has a café.",
+            "感觉好像每个品牌突然都有咖啡店了。"
+          ],
+          [
+            "The easiest way to get in an experience business is to add a cafe.",
+            "进入体验式经营最简单的方法就是增加一个咖啡馆。"
+          ],
+          [
+            "We do not have a sales focus for the Capital One associates who work there.",
+            "我们不对在那里工作的Capital One员工设定销售目标。"
+          ],
+          [
+            "The reason we wait until 2025 was really to make sure that we are being recognized as a brand in this market.",
+            "我们等到2025年才行动的原因，是想确保我们在这个市场被认可为一个品牌。"
+          ],
+          [
+            "Coach is serving up coffee with handbags as it looks to build on Gen Z success.",
+            "Coach正在提供咖啡和手袋，以期在Z世代的成功基础上再创佳绩。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Present Perfect Continuous",
+            "用于描述从过去某个时间开始，一直持续到现在，并可能继续下去的动作或状态。",
+            "Companies adding branded cafes to their stores is becoming increasingly common."
+          ],
+          [
+            "Passive Voice with \"be rumored to\"",
+            "用于表示某事被广泛传闻或猜测，但尚未得到官方证实。",
+            "Prada... is also rumored to be opening a New York location in 2026."
+          ]
+        ]
+      }
+    ]
   }
 ]
