@@ -7668,5 +7668,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-05-05",
+    "topic": "Easy weeknight dinner",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "f2ZVll9zMMs",
+        "title": "Just add ground beef to the potatoes! Simple dinner recipe!",
+        "url": "https://www.youtube.com/watch?v=f2ZVll9zMMs",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频展示了制作一道美味的肉末土豆烤菜和一份清爽的茴香苹果沙拉。首先，将切好的土豆用橄榄油、盐、胡椒和甜椒粉调味，放入烤箱烘烤20分钟。同时，炒熟肉末，加入洋葱、调味料和番茄碎煮成肉酱。最后，将肉酱铺在烤好的土豆上，放上马苏里拉奶酪，继续烘烤10分钟，直到奶酪融化并呈金黄色。沙拉则是由切薄的茴香、青苹果和芹菜，淋上柠檬橄榄油酱，并撒上烤核桃制成。",
+        "cards": "Season\n---\n--\n中文核心释义\n给（食物）调味\n英文例句（贴合视频语境）\nSeason with salt and black pepper.\n中文例句\n用盐和黑胡椒调味。\n\nMinced meat\n---\n--\n中文核心释义\n肉末\n英文例句（贴合视频语境）\nSimply pour the minced meat over the potatoes.\n中文例句\n只需将肉末倒在土豆上。\n\nDeliciously browned\n---\n--\n中文核心释义\n烤至美味的金黄色\n英文例句（贴合视频语境）\nBake 10 minutes or until deliciously browned.\n中文例句\n烘烤10分钟或直到烤至美味的金黄色。\n\nFennel bulb\n---\n--\n中文核心释义\n茴香头\n英文例句（贴合视频语境）\nThinly slice 1 large fennel bulb on a mandoline.\n中文例句\n用切菜器将一个大茴香头切成薄片。\n\nMandoline\n---\n--\n中文核心释义\n切菜器（一种厨房工具）\n英文例句（贴合视频语境）\nIf you don't have a mandolin, just use a sharp knife and cut as thin as possible.\n中文例句\n如果你没有切菜器，就用一把锋利的刀尽可能切薄。\n\nExtra-virgin olive oil\n---\n--\n中文核心释义\n特级初榨橄榄油\n英文例句（贴合视频语境）\nAdd 1/4 cup extra-virgin olive oil to the sauce.\n中文例句\n在酱汁中加入1/4杯特级初榨橄榄油。\n\nToasted walnuts\n---\n--\n中文核心释义\n烤核桃\n英文例句（贴合视频语境）\nAdd 1/2 cup toasted walnuts to the salad.\n中文例句\n在沙拉中加入1/2杯烤核桃。\n\nRoughly chopped\n---\n--\n中文核心释义\n大致切碎的，粗切的\n英文例句（贴合视频语境）\nAdd fennel fronds or roughly chopped parsley leaves.\n中文例句\n加入茴香叶或大致切碎的欧芹叶。",
+        "pronunciation": [
+          {
+            "word": "Season",
+            "phonetic": "/ˈsiːzn/",
+            "description": "注意 's' 发 /z/ 音，'ea' 发 /iː/ 长音。"
+          },
+          {
+            "word": "Minced meat",
+            "phonetic": "/mɪnst miːt/",
+            "description": "'minced' 的 'ed' 发 /t/ 音，不是 /ɪd/。"
+          },
+          {
+            "word": "Deliciously browned",
+            "phonetic": "/dɪˈlɪʃəsli braʊnd/",
+            "description": "'deliciously' 的重音在第二个音节，'browned' 的 'ed' 发 /d/ 音。"
+          },
+          {
+            "word": "Fennel bulb",
+            "phonetic": "/ˈfɛnl bʌlb/",
+            "description": "'fennel' 的重音在第一个音节，'bulb' 的 /ʌ/ 是短元音。"
+          },
+          {
+            "word": "Mandoline",
+            "phonetic": "/ˈmændəlɪn/",
+            "description": "'mandoline' 的重音在第一个音节，结尾是 /ɪn/ 而不是 /aɪn/。"
+          },
+          {
+            "word": "Extra-virgin olive oil",
+            "phonetic": "/ˈɛkstrə ˈvɜːrdʒɪn ˈɒlɪv ɔɪl/",
+            "description": "'virgin' 的 'i' 发 /ɜː/ 音，'olive' 的 'o' 是短 /ɒ/ 音。"
+          },
+          {
+            "word": "Toasted walnuts",
+            "phonetic": "/ˈtoʊstɪd ˈwɔːlnʌts/",
+            "description": "'toasted' 的 'ed' 发 /ɪd/ 音，'walnuts' 的 'a' 发 /ɔː/ 音。"
+          },
+          {
+            "word": "Roughly chopped",
+            "phonetic": "/ˈrʌfli tʃɒpt/",
+            "description": "'roughly' 的 'ou' 发 /ʌ/ 音，'chopped' 的 'ed' 发 /t/ 音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Season with Salt and Black pepper.",
+            "用盐和黑胡椒调味。"
+          ],
+          [
+            "Fry over medium heat for 3-4 minutes.",
+            "用中火煎3-4分钟。"
+          ],
+          [
+            "Bake 10 minutes or until deliciously browned.",
+            "烘烤10分钟或直到烤至美味的金黄色。"
+          ],
+          [
+            "Simply pour the minced meat over the potatoes.",
+            "只需将肉末倒在土豆上。"
+          ],
+          [
+            "If you don't have a mandolin just use a sharp knife and cut as thin as possible.",
+            "如果你没有切菜器，就用一把锋利的刀尽可能切薄。"
+          ]
+        ],
+        "grammar": [
+          [
+            "祈使句",
+            "用于给出指令或建议，在食谱中非常常见。",
+            "Season with Salt and Black pepper."
+          ],
+          [
+            "副词+过去分词",
+            "副词用来修饰过去分词，更具体地描述动作或状态，常用于烹饪中的描述性短语。",
+            "deliciously browned, roughly chopped"
+          ]
+        ]
+      },
+      {
+        "video_id": "owsD46mTaog",
+        "title": "I&#39;ve Never Eaten Ground Beef This Delicious! The Most Simple Dinner Recipe!",
+        "url": "https://www.youtube.com/watch?v=owsD46mTaog",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "本视频展示了两种美味的牛肉碎食谱。第一个食谱是制作蘑菇牛肉酱，包含煎牛肉碎、加入洋葱、蒜、蘑菇，用黄油和面粉制作浓稠酱汁，再加入伍斯特酱、第戎芥末和牛肉高汤，最后拌入酸奶油和欧芹。第二个食谱是番茄牛肉碎通心粉，包含煎瘦牛肉碎、加入洋葱、蒜，然后加入番茄酱、牛肉高汤、切块番茄、青椒和通心粉，小火慢炖，最后撒上帕尔马干酪和欧芹。",
+        "cards": "lean ground beef\n---\n--\n瘦肉馅牛肉\n英文例句：Add 1 lb (450 g) lean ground beef to the pan.\n中文例句：将1磅（450克）瘦肉馅牛肉加入锅中。\n\nstirring occasionally\n---\n--\n偶尔搅拌\n英文例句：Fry for about 4 minutes, stirring occasionally, until browned.\n中文例句：煎约4分钟，偶尔搅拌，直到变成褐色。\n\nfinely chop\n---\n--\n切碎\n英文例句：Meanwhile, finely chop 1 large onion.\n中文例句：与此同时，将1个大洋葱切碎。\n\nincorporate\n---\n--\n混合；融入\n英文例句：Stir to incorporate the cream into the sauce.\n中文例句：搅拌使奶油融入酱汁中。\n\nsimmer\n---\n--\n炖煮；煨\n英文例句：Simmer 2-3 minutes, or until the sauce slightly thickens.\n中文例句：小火炖煮2-3分钟，或者直到酱汁稍微变稠。\n\nturn off the heat\n---\n--\n关火\n英文例句：Turn off the heat and stir in ⅔ cup (150 ml) sour cream or crème fraîche.\n中文例句：关火，然后加入2/3杯（150毫升）酸奶油或法式鲜奶油并搅拌。\n\nover low heat\n---\n--\n用小火\n英文例句：Cover and cook for 10 minutes over low heat.\n中文例句：盖上盖子，用小火煮10分钟。",
+        "pronunciation": [
+          {
+            "word": "lean ground beef",
+            "phonetic": "liːn graʊnd biːf",
+            "description": "lean和ground连读，注意ground中的/aʊ/音"
+          },
+          {
+            "word": "stirring occasionally",
+            "phonetic": "ˈstɜːrɪŋ əˈkeɪʒənəli",
+            "description": "侧重“occasionally”中/ʒ/的发音，以及尾音/i/"
+          },
+          {
+            "word": "finely chop",
+            "phonetic": "ˈfaɪnli tʃɒp",
+            "description": "“finely”中的/aɪ/和“chop”中的/ɒ/发音要准确"
+          },
+          {
+            "word": "incorporate",
+            "phonetic": "ɪnˈkɔːrpəreɪt",
+            "description": "注意重音在第二个音节，/ɔː/和/eɪ/的发音"
+          },
+          {
+            "word": "simmer",
+            "phonetic": "ˈsɪmər",
+            "description": "注意/ɪ/的短音和/ər/的卷舌音"
+          },
+          {
+            "word": "turn off the heat",
+            "phonetic": "tɜːrn ɒf ðə hiːt",
+            "description": "“turn off”中的/ʊ/和“heat”中的长/iː/音"
+          },
+          {
+            "word": "over low heat",
+            "phonetic": "ˈoʊvər loʊ hiːt",
+            "description": "“over”中的/oʊ/和“low”中的/oʊ/音，以及“heat”中的长/iː/音"
+          }
+        ],
+        "sentences": [
+          [
+            "Fry for about 4 minutes, stirring occasionally, until browned.",
+            "大约煎4分钟，偶尔搅拌，直到变成褐色。"
+          ],
+          [
+            "Meanwhile, finely chop 1 large onion.",
+            "与此同时，将一个大洋葱切碎。"
+          ],
+          [
+            "Cook for 4-5 minutes to soften the mushrooms.",
+            "煮4-5分钟，使蘑菇变软。"
+          ],
+          [
+            "Simmer 2-3 minutes, or until the sauce slightly thickens.",
+            "小火炖煮2-3分钟，或者直到酱汁稍微变稠。"
+          ],
+          [
+            "Cover and cook for 10 minutes over low heat.",
+            "盖上盖子，用小火煮10分钟。"
+          ]
+        ],
+        "grammar": [
+          [
+            "分词短语作状语",
+            "描述与主句动作同时发生或由主句动作导致的状态。",
+            "\"Fry for about 4 minutes, stirring occasionally, until browned.\" (0:06)"
+          ]
+        ]
+      }
+    ]
   }
 ]
