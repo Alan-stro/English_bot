@@ -9400,5 +9400,169 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-05-15",
+    "topic": "Planning weekend getaway",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "E47FGfv14Mc",
+        "title": "How to Plan a Trip for Solo or Group Travel",
+        "url": "https://www.youtube.com/watch?v=E47FGfv14Mc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频分享了计划旅行的实用建议，包括如何确定预算、研究目的地活动、购买机票、交通方式选择、住宿、用餐以及行李打包。视频强调了提前规划的重要性，并提供了如使用Google Flights和Hopper预订机票、查阅Lonely Planet指南、考虑Airbnb体验以及注意租车和航空公司隐藏费用等具体方法。最后，分享了博主即将到来的旅行计划，并鼓励观众出行安全。",
+        "cards": "crucial\n---\n--\n至关重要的\nFrom my experience, the planning process is crucial to make sure that I'm spending my time wisely wherever it is I'm headed.\n根据我的经验，计划过程至关重要，能确保我在目的地合理利用时间。\n\nbe mindful of\n---\n--\n注意；留意\nAnother thing to be mindful of is hidden fees with certain airlines.\n另一件需要注意的是某些航空公司的隐藏费用。\n\ndiscounting\n---\n--\n不重视；低估\nI'm not discounting tour guides because I don't think you should rule them out.\n我不是不重视导游，因为我认为你不应该排除他们。\n\nforecasting app\n---\n--\n预测应用（软件）\nHopper has a forecasting app that uses years of historical data to generate a calendar of the coming year with dates color-coded to reflect prices.\nHopper有一个预测应用，它利用多年的历史数据生成一份未来一年的日历，日期用颜色编码以反映价格。\n\nget away with\n---\n--\n（口语）侥幸做成（某事）；成功地做成（某事）\nWhether or not you're planning on doing laundry will determine if you can get away with packing less.\n你是否打算洗衣服将决定你是否能少带行李。\n\ngame-changer\n---\n--\n（口语）彻底改变局面的事物；颠覆者\nThis was a game-changer for me, and I really appreciate them for this.\n这对我是个颠覆性的改变，我非常感谢他们。\n\nway ahead of time\n---\n--\n（口语）提前很久\nI like to have trips figured out way ahead of time and usually I will get a much more affordable flight and car rental when I'm booking things way ahead of time.\n我喜欢提前很久就把旅行计划好，通常这样我能订到更经济的机票和租车。",
+        "pronunciation": [
+          {
+            "word": "crucial",
+            "phonetic": "/ˈkruːʃl/",
+            "description": "重点是“cru”的发音，发“kroo”音，不是“crew”"
+          },
+          {
+            "word": "be mindful of",
+            "phonetic": "/bi ˈmaɪndfl ɒv/",
+            "description": "“mindful”重音在第一个音节，后面“of”轻读并与前面连读"
+          },
+          {
+            "word": "discounting",
+            "phonetic": "/dɪsˈkaʊntɪŋ/",
+            "description": "重音在“count”上，不是“dis”"
+          },
+          {
+            "word": "forecasting app",
+            "phonetic": "/ˈfɔːrkæstɪŋ æp/",
+            "description": "“forecasting”中“cast”发/kæst/音，而不是/kɑːst/；“app”是“application”的缩写，发短元音/æ/"
+          },
+          {
+            "word": "get away with",
+            "phonetic": "/ɡɛt əˈweɪ wɪð/",
+            "description": "“get”和“away”连读，“away”和“with”也连读，且“with”的“th”发浊辅音/ð/"
+          },
+          {
+            "word": "game-changer",
+            "phonetic": "/ˈɡeɪmˌtʃeɪndʒər/",
+            "description": "强调“game”和“changer”都是实词，都有一定重音，连读时注意"
+          },
+          {
+            "word": "way ahead of time",
+            "phonetic": "/weɪ əˈhɛd ɒv taɪm/",
+            "description": "“ahead”重音在第二个音节，通常“of”轻读"
+          }
+        ],
+        "sentences": [
+          [
+            "Over the past couple of years, I've traveled to Belize, Ireland, Canada, Costa Rica, Guatemala, the Rockies, the Adirondacks, New York City and beyond.",
+            "在过去的几年里，我去了伯利兹、爱尔兰、加拿大、哥斯达黎加、危地马拉、落基山脉、阿迪朗达克山脉、纽约市及其他地方。"
+          ],
+          [
+            "If you love traveling as much as I do, you're probably working toward your next trip right now and you've likely spent time planning it.",
+            "如果你和我一样热爱旅行，你现在可能正在计划你的下一次旅行，并且很可能已经花时间去规划了。"
+          ],
+          [
+            "I don't pay too much attention to the top 10s, I just see what catches my eye and I do read a lot of reviews.",
+            "我不太关注前十名，我只是看看什么吸引我的注意，而且我确实会阅读很多评论。"
+          ],
+          [
+            "Many times I've flown somewhere on a Wednesday instead of a Friday to save hundreds of dollars.",
+            "很多时候我选择周三而不是周五飞到某个地方，这样可以节省数百美元。"
+          ],
+          [
+            "Whether or not you're planning on doing laundry will determine if you're going to get away with packing less.",
+            "你是否打算洗衣服将决定你是否能少带行李。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**动词-ing形式作名词**",
+            "动词ing形式可以转化为名词，表示动作、状态或过程。",
+            "\"From my experience, the **planning** process is crucial...\" (0:42) 和 \"Many times I've flown somewhere on a Wednesday instead of a Friday to save hundreds of dollars.\" (3:45)"
+          ],
+          [
+            "**将来进行时**",
+            "表示将来某一时刻正在进行的动作，或预先安排好的在将来发生的动作。",
+            "\"Kristen and I are **going to be staying** in a converted sprinter van for a week...\" (1:19:57)"
+          ]
+        ]
+      },
+      {
+        "video_id": "hiFbuzdyBAM",
+        "title": "Best Weekend Getaways In Florida | 8 Amazing Places In Florida For A Short Vacation",
+        "url": "https://www.youtube.com/watch?v=hiFbuzdyBAM",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这个视频介绍了佛罗里达州七个适合周末度假的独特目的地，包括基韦斯特（Key West）、高泉（High Springs）、欧棕榈滩（Eau Palm Beach）、30A海滩（30A）、多拉山（Mount Dora）、木星（Jupiter）和安娜玛丽亚岛（Anna Maria Island）。视频展示了每个地方的特色活动，如在天然泉水浮潜、探索历史建筑、在豪华度假村放松，以及享受美丽的海滩和当地美食。旁白强调了佛罗里达州多样化的度假选择，既有热门景点也有鲜为人知的宝藏地。",
+        "cards": "Hidden gem\n---\n--\n未被发现的宝藏；鲜为人知但很棒的地方\nFirst, I love visiting Ginnie Springs, which is actually home to five different springs in one park. This is one of my favorite hidden gem getaways and the perfect spot for a visit if you're on a budget.\n首先，我喜欢参观金妮泉，它实际上是一个公园里有五个不同的泉水。这是我最喜欢的“隐藏的宝藏”度假胜地之一，也是预算有限的游客的完美选择。\n\n--\n\nUnderrated\n---\n--\n被低估的\nIf you're looking for a completely underrated beach destination, this is it.\n如果你正在寻找一个完全被低估的海滩目的地，就是这里了。\n\n--\n\nAllure\n---\n--\n魅力；吸引力\nThere aren't any traditional beach hotels or resorts here, which adds to the allure of this weekend escape.\n这里没有任何传统的沙滩酒店或度假村，这增加了这个周末度假的魅力。\n\n--\n\nOff the beaten path\n---\n--\n不寻常的；人迹罕至的\nI do highly recommend getting off the beaten path and choosing one of these more unique destinations for your weekend getaway in Florida.\n我强烈建议选择不寻常的路线，选择这些更独特的目的地之一，作为您在佛罗达的周末度假。\n\n--\n\nPristine\n---\n--\n原始的；纯净的\nThere are miles of white sandy beach with this beautiful pristine white sand.\n这里有数英里长的白色沙滩，沙质洁白纯净。\n\n--\n\nBe blown away\n---\n--\n被深深打动；大吃一惊\nI am completely blown away each and every time I visit here.\n每次来这里，我都深深为之震撼。\n\n--\n\nHits different\n---\n--\n感觉特别不一样（通常指积极的体验）；独具风味\nIf you have never showered outdoors, it just hits different.\n如果你从未在户外洗过澡，那感觉就是特别不一样。",
+        "pronunciation": [
+          {
+            "word": "Hidden gem",
+            "phonetic": "/ˈhɪdən dʒɛm/",
+            "description": "(hidden的d很轻，gem发“杰姆”)"
+          },
+          {
+            "word": "Underrated",
+            "phonetic": "/ˌʌndərˈreɪtɪd/",
+            "description": "(reɪ音要饱满)"
+          },
+          {
+            "word": "Allure",
+            "phonetic": "/əˈlʊər/",
+            "description": "(ə轻读，lure的u是长音，重音在lure)"
+          },
+          {
+            "word": "Off the beaten path",
+            "phonetic": "/ɒf ðə ˈbiːtn pɑːθ/",
+            "description": "(beaten的ea是长音，th发舌尖齿间音)"
+          },
+          {
+            "word": "Pristine",
+            "phonetic": "/prɪˈstiːn/",
+            "description": "(pri轻读，stiːn的ee是长音，重音在stiːn)"
+          },
+          {
+            "word": "Be blown away",
+            "phonetic": "/biː bləʊn əˈweɪ/",
+            "description": "(blown的oʊ是双元音，away的a轻读)"
+          },
+          {
+            "word": "Hits different",
+            "phonetic": "/hɪts ˈdɪfrənt/",
+            "description": "(hits的t和s连读，different的er音很轻)"
+          }
+        ],
+        "sentences": [
+          [
+            "This is the perfect weekend getaway because it feels so different to other parts of the state.",
+            "这里是完美的周末度假胜地，因为它与州内其他地方的感觉如此不同。"
+          ],
+          [
+            "There are tons of great things to do here that you can explore over the course of a few days.",
+            "这里有很多很棒的事情可以做，你可以在几天的时间里探索。"
+          ],
+          [
+            "If you want good quality, incredible Key Lime Pie, make sure to go to Moondog Cafe, Four Marlins, or Blue Heaven.",
+            "如果你想要高品质、美味的酸橙派，一定要去Moondog Cafe、Four Marlins或Blue Heaven。"
+          ],
+          [
+            "Do not skip out on visiting Cedar Lakes Woods & Gardens, which is just five minutes away from Devil's Den.",
+            "千万不要错过参观雪松湖森林与花园，它距离魔鬼巢穴只有五分钟的路程。"
+          ],
+          [
+            "This place is an adorable collection of the cutest beach towns that look like Europe, located along the most beautiful emerald-colored water.",
+            "这个地方是可爱海滨小镇的迷人集合，它们看起来像欧洲小镇，坐落在最美丽的翡翠色海水边。"
+          ]
+        ],
+        "grammar": [
+          [
+            "It is home to",
+            "解释：这个结构用于说明某个地方包含什么或者以什么闻名。",
+            "视频例子：First, I love visiting Ginnie Springs, which is actually **home to** five different springs in one park."
+          ]
+        ]
+      }
+    ]
   }
 ]
