@@ -10737,5 +10737,176 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-05-23",
+    "topic": "What's in my bag",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "8VXAinjv_EM",
+        "title": "Inside Ariana Grande&#39;s Loewe Bag | In The Bag | Vogue",
+        "url": "https://www.youtube.com/watch?v=8VXAinjv_EM",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，Ariana Grande 向Vogue展示了她的手提包里有什么。她幽默地自嘲包里东西多到“像玛丽·波平斯”的包，并展示了包括手机、耳罩、润喉糖、两种耳机、墨镜、薰衣草精油、一个水晶球、护唇膏、维根零食、iPad、一本粉丝送的励志小书和父亲送的日记本等物品。她提到自己喜欢有线耳机、通过冥想和感官记忆来平静身心，并推广了自己的美妆品牌R.E.M. Beauty，同时分享了出演《魔法坏女巫》(Wicked) 的感受，以及她对该角色和喜剧的热爱。",
+        "cards": "Mary Poppins's bag\n---\n--\n像“玛丽·波平斯”的包一样（形容包里东西很多，似乎无底洞）\n英文例句：This is like Mary Poppins's bag. It's bottomless.\n中文例句：这个包就像玛丽·波平斯的包一样，总是能拿出各种东西。\n\nunder the weather\n---\n--\n身体不适，有点生病\n英文例句：This actually, I wouldn't normally have if I were singing, this is just because I'm under the weather.\n中文例句：我今天有点身体不适，所以没有去健身房。\n\nsh*t show\n---\n--\n一团糟，混乱的局面（口语，略粗俗）\n英文例句：This is how you know it's my real bag. No one gave me this today. They didn't set this up for me. It's a sh*t show, that's how you can tell.\n中文例句：这个项目完全是一团糟，我们得重新开始。\n\non the go\n---\n--\n忙碌的；不停奔波的\n英文例句：I'm always working, I'm always on the go.\n中文例句：她总是忙碌奔波，很少有时间休息。\n\nsense memory\n---\n--\n感官记忆（指与特定感官体验相关的记忆）\n英文例句：It's kind of like a sense memory, it calms you down.\n中文例句：那首歌能唤起我的感官记忆，让我回到童年。\n\ndon't sleep on (something)\n---\n--\n不要忽视，不要小看（某事/某物）（习语，常用于劝告）\n英文例句：Don't sleep on R.E.M. Beauty. I'm saying, people.\n中文例句：你可不要小看这支新乐队，他们的音乐很棒。\n\nmy cross to bear\n---\n--\n我必须承受的苦难/负担（习语）\n英文例句：This is my cross to bear because I did this to myself.\n中文例句：这份工作虽然辛苦，但这是我必须承受的责任。\n\na doozy\n---\n--\n不同寻常的；厉害的；棘手的（口语）\n英文例句：It's a doozy.\n中文例句：昨晚的派对真是一场狂欢。",
+        "pronunciation": [
+          {
+            "word": "Mary Poppins's bag",
+            "phonetic": "/ˈmɛəri ˈpɒpɪnzɪz bæɡ/",
+            "description": "注意 \"Poppins's\" 的连读和清晰的 /ɪz/ 音。"
+          },
+          {
+            "word": "under the weather",
+            "phonetic": "/ˈʌndər ðə ˈwɛðər/",
+            "description": "\"weather\" 中的 /ð/ 音要轻柔，\"er\" 发 /ər/ 音。"
+          },
+          {
+            "word": "sh*t show",
+            "phonetic": "/ˈʃɪt ʃoʊ/",
+            "description": "\"sh*t\" 的 /ɪ/ 音短促，\"show\" 的 /oʊ/ 音要到位。"
+          },
+          {
+            "word": "on the go",
+            "phonetic": "/ɒn ðə ɡoʊ/",
+            "description": "\"on\" 的 /ɒ/ 音，\"go\" 的 /oʊ/ 音。"
+          },
+          {
+            "word": "sense memory",
+            "phonetic": "/ˈsɛns ˈmɛməri/",
+            "description": "\"sense\" 最后的 /s/ 要清晰，\"memory\" 的重音在第一音节。"
+          },
+          {
+            "word": "don't sleep on (something)",
+            "phonetic": "/doʊnt sliːp ɒn/",
+            "description": "\"don't\" 最后的 /t/ 可以轻读或不读，\"sleep\" 的长 /iː/ 音。"
+          },
+          {
+            "word": "my cross to bear",
+            "phonetic": "/maɪ krɒs tuː bɛər/",
+            "description": "\"cross\" 中的 /ɒ/ 音，\"bear\" 的 /ɛər/ 音要清晰。"
+          },
+          {
+            "word": "a doozy",
+            "phonetic": "/ə ˈduːzi/",
+            "description": "\"doozy\" 重音在第一音节，/uː/ 音要饱满。"
+          }
+        ],
+        "sentences": [
+          [
+            "",
+            "这就是你知道这是我真正的包的方式。今天没有人把这个给我。"
+          ],
+          [
+            "",
+            "一副好的墨镜的关键在于，我不知道，任何让你觉得最可爱的东西。"
+          ],
+          [
+            "",
+            "我们希望格林达的妆容非常符合她自己的风格。"
+          ],
+          [
+            "",
+            "我喜欢《魔法坏女巫》对每个人所要求的人性。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1.  **形容词的最高级表达 (cutest)**",
+            "在形容词前加上“the”和“est”或“most”来表示最高程度。"
+          ],
+          [
+            "",
+            "Whatever makes you feel **cutest**."
+          ],
+          [
+            "2.  **动词短语 \"get into\"**",
+            "\"get into\" 可以表示“开始对…感兴趣”或“养成…的习惯”。"
+          ],
+          [
+            "",
+            "I **got into** meditation."
+          ]
+        ]
+      },
+      {
+        "video_id": "q39OLp5BKAc",
+        "title": "Inside Alex Consani&#39;s Birkin Bag | In the Bag | Vogue",
+        "url": "https://www.youtube.com/watch?v=q39OLp5BKAc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，模特Alex Consani以幽默风趣的方式，展示了她爱马仕铂金包内的物品。她拿出各种意想不到的私人物品，例如曼卡拉棋盘游戏、一本定制日记和一支万宝龙钢笔、一款教她如何走台步的Wii游戏，以及一些水晶和日常用品。在展示过程中，Alex Consani分享了许多个人趣事和生活理念，展示了一个古怪而又充满自信的形象。",
+        "cards": "allegedly\n---\n--\n据称；据说\nIt was a whole experience getting a Birkin from Hermès is like the hardest thing to do allegedly.\n据说从爱马仕买到一只铂金包是件极其困难的事。\n\nmanifested\n---\n--\n（通过思考或信念）实现\nI actually manifested doing this video.\n我实际上是通过信念实现了制作这个视频。\n\ncovet\n---\n--\n渴望；觊觎\nThe next thing I have in my bag that I covet so much.\n我包里下一件我非常渴望的东西。\n\nanguish\n---\n--\n（精神或身体上的）剧痛，极度痛苦\nIt makes your brain think positively when you're in situations of anguish.\n当你处于痛苦之中时，它能让你的大脑积极思考。\n\nuncouth\n---\n--\n粗野的，不文雅的\nI would describe the man of my dreams as uncouth.\n我会把我的理想男人形容为粗野的。\n\nconversation starter\n---\n--\n（有助于开始对话的）话题；破冰工具\nIt's a really good conversation starter clearly, we conversed about how it doesn't work.\n这显然是一个很好的“破冰工具”，我们聊了它是如何不起作用的。",
+        "pronunciation": [
+          {
+            "word": "allegedly",
+            "phonetic": "/əˈlɛdʒɪdli/",
+            "description": "啊-来-只-德-立 (重音在第二个音节)"
+          },
+          {
+            "word": "manifested",
+            "phonetic": "/ˈmænɪfɛstɪd/",
+            "description": "慢-你-费斯-提德 (重音在第一个音节)"
+          },
+          {
+            "word": "covet",
+            "phonetic": "/ˈkʌvɪt/",
+            "description": "喀-微特 (重音在第一个音节)"
+          },
+          {
+            "word": "anguish",
+            "phonetic": "/ˈæŋɡwɪʃ/",
+            "description": "昂-贵什 (重音在第一个音节)"
+          },
+          {
+            "word": "uncouth",
+            "phonetic": "/ʌnˈkuːθ/",
+            "description": "昂-库斯 (重音在第二个音节，th发咬舌音)"
+          },
+          {
+            "word": "conversation starter",
+            "phonetic": "/ˌkɒnvərˈseɪʃən ˈstɑːrtər/",
+            "description": "康-微-赛-申-斯达-特儿 (重音在第三个音节和倒数第二个音节)"
+          }
+        ],
+        "sentences": [
+          [
+            "This is like the best game if you played this as a kid, you understand.",
+            "如果你小时候玩过这个游戏，你就懂了，这是最好的游戏。"
+          ],
+          [
+            "This is something that if you know me, you know I love this.",
+            "如果你了解我，你就知道我有多喜欢这个。"
+          ],
+          [
+            "Manifestation is so important, and writing it down is good for your cognitive thinking.",
+            "吸引力法则非常重要，把它写下来对你的认知思维很有好处。"
+          ],
+          [
+            "I lose a lot of crystals, but this is the one that I've had with me throughout all the time.",
+            "我丢了很多水晶，但这个是我一直带在身边的。"
+          ],
+          [
+            "This is my Vogue Italia cover, we shot it at a party in Italy, um during Milan Fashion Week and it was kind of crazy.",
+            "这是我的《Vogue》意大利版封面，我们在米兰时装周期间在意大利的一个派对上拍摄的，当时有点疯狂。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Gerund as Subject",
+            "动名词短语作主语",
+            "Manifestation is so important, and **writing it down** is good for your cognitive thinking."
+          ],
+          [
+            "Present Perfect Continuous",
+            "用于描述从过去某个时间点开始，一直持续到现在或即将结束的动作",
+            "It's something that I've **been collecting** over the last couple months."
+          ]
+        ]
+      }
+    ]
   }
 ]
