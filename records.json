@@ -11438,5 +11438,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-05-27",
+    "topic": "Outfit of the day",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "Jh65uUdLCZM",
+        "title": "How To Make Your Outfits BETTER | Elevate Your Style ✨️",
+        "url": "https://www.youtube.com/watch?v=Jh65uUdLCZM",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频旨在帮助观众将基础款服装搭配出时尚感。它首先介绍了颜色的选择，包括中性色和使用色轮（互补色与邻近色）来搭配有色彩的衣服，并强调选择适合肤色的颜色。接着，视频讲解了比例和轮廓的重要性，通过“三分法”和高腰裤等单品来拉长腿部线条。最后，视频强调了面料的选择和配饰的重要性，认为合适的配饰能为整体造型增添深度和完整性。",
+        "cards": "flatter your skin tone\n---\n--\n衬托肤色\n英文例句：Wearing the right colors will make you look more radiant and glowing, and which ones flatter your skin tone the best.\n中文例句：穿对颜色会让你看起来更容光焕发，并且能最好地衬托你的肤色。\n\ncomplementary colors\n---\n--\n互补色\n英文例句：Colors that are directly opposite one another are complementary colors.\n中文例句：颜色轮上直接相对的颜色是互补色。\n\nanalogous colors\n---\n--\n邻近色\n英文例句：Colors that are next to each other on the color wheel are analogous.\n中文例句：颜色轮上相邻的颜色是邻近色。\n\naesthetically pleasing\n---\n--\n美观的；悦目的\n英文例句：In outfit terms, we can use the rule of thirds to break our outfit into three or more aesthetically pleasing parts.\n中文例句：在服装方面，我们可以使用三分法将我们的服装分成三个或更多美观的部分。\n\ncohesive look\n---\n--\n协调统一的整体造型\n英文例句：A monochromatic outfit creates a cohesive look, which keeps the eye running up and down.\n中文例句：单色服装能创造出协调统一的造型，让视线上下流畅。\n\nspice up\n---\n--\n增添趣味；使更有趣\n英文例句：There's no limit to how much they can spice up your outfit.\n中文例句：它们能为你的服装增添多少趣味，是无限的。\n\nrule of thirds\n---\n--\n三分法（一种构图或设计原则）\n英文例句：In outfit terms, we can use the rule of thirds to break our outfit into three or more aesthetically pleasing parts.\n中文例句：在服装方面，我们可以使用三分法将我们的服装分成三个或更多美观的部分。\n\npro tip\n---\n--\n专业提示；小窍门\n英文例句：BTW, pro tip: if your shoes are the same color as whatever is covering your legs, it will basically create a seamless flow from your waist to toes, and that will make you look taller.\n中文例句：顺便说一句，专业提示：如果你的鞋子和你腿上穿的衣服颜色相同，它基本上会从你的腰部到脚趾创造出无缝的流动感，这会让你看起来更高。",
+        "pronunciation": [
+          {
+            "word": "flatter your skin tone",
+            "phonetic": "/ˈflætər jʊər skɪn toʊn/",
+            "description": "注意“flatter”中的“a”发短音，舌位较低；“skin tone”中的“o”发长音，注意连读。"
+          },
+          {
+            "word": "complementary colors",
+            "phonetic": "/ˌkɒmplɪˈmɛntəri ˈkʌlərz/",
+            "description": "“complementary”重音在第三个音节，注意“mentary”的弱读；“colors”注意“s”发/z/音。"
+          },
+          {
+            "word": "analogous colors",
+            "phonetic": "/əˈnæləɡəs ˈkʌlərz/",
+            "description": "“analogous”重音在第二个音节“na”，注意“gous”发/ɡəs/音。"
+          },
+          {
+            "word": "aesthetically pleasing",
+            "phonetic": "/ˌiːsˈθɛtɪkli ˈpliːzɪŋ/",
+            "description": "“aesthetically”中有两个/θ/音，注意舌头在牙齿间轻轻触碰；“pleasing”中的“ea”发长音。"
+          },
+          {
+            "word": "cohesive look",
+            "phonetic": "/koʊˈhiːsɪv lʊk/",
+            "description": "“cohesive”重音在第二个音节“hi”，注意“s”发/s/音而非/z/音。"
+          },
+          {
+            "word": "spice up",
+            "phonetic": "/spaɪs ʌp/",
+            "description": "“spice”中的“s”发/s/音，注意与“up”连读。"
+          },
+          {
+            "word": "rule of thirds",
+            "phonetic": "/ruːl əv θɜːrdz/",
+            "description": "“rule”中的“u”发长音；“thirds”中的/θ/音和/ð/音，中国人常发成/s/和/z/，注意舌尖轻触上齿，气流从缝隙中挤出。"
+          },
+          {
+            "word": "pro tip",
+            "phonetic": "/proʊ tɪp/",
+            "description": "“pro”中的“o”发双元音/oʊ/。"
+          }
+        ],
+        "sentences": [
+          [
+            "Your closet is full of clothes, but you don't really have anything to wear.",
+            "你的衣柜里塞满了衣服，但你却总觉得没什么可穿的。"
+          ],
+          [
+            "Putting together an outfit that works for you is down to 4 key points.",
+            "搭配出一套适合你的服装，归结为四个关键点。"
+          ],
+          [
+            "The key to wearing color is to figure out which colors you love wearing the most and which ones flatter your skin tone the best.",
+            "穿搭色彩的关键在于找出你最喜欢穿的颜色，以及最能衬托你肤色的颜色。"
+          ],
+          [
+            "If you've ever looked at your outfit and felt like something is off, then chances are that the proportions of your outfit are crusty dusty.",
+            "如果你曾审视自己的着装，觉得哪里不对劲，那很可能是你的服装比例显得邋遢不协调。"
+          ],
+          [
+            "There's no limit to how much they can spice up your outfit.",
+            "它们能为你的服装增添多少趣味，是无限的。"
+          ]
+        ],
+        "grammar": [
+          [
+            "条件句 (If...then...)",
+            "用于描述如果某个情况发生，那么很可能导致的结果。在口语中，\"then\"常被省略。",
+            "If you've ever looked at your outfit and felt like something is off, then chances are that the proportions of your outfit are crusty dusty."
+          ],
+          [
+            "非限制性定语从句 (which)",
+            "提供关于先行词的额外信息，这些信息对于理解句子的核心内容并非必不可少，通常用逗号与主句隔开。",
+            "A monochromatic outfit creates a cohesive look, which keeps the eye running up and down."
+          ]
+        ]
+      },
+      {
+        "video_id": "x8zGsWuu-e0",
+        "title": "Every Outfit Kendall Jenner Wears in a Week | 7 Days, 7 Looks | Vogue India",
+        "url": "https://www.youtube.com/watch?v=x8zGsWuu-e0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，肯达尔·詹娜（Kendall Jenner）展示了她一周内会穿的不同风格的服装。她介绍了从日常休闲、时尚周造型、商务会议，到机场、度假和健身的不同穿搭。她强调舒适感、经典款以及一些有设计感的单品，还分享了她对某些品牌（如Khaite, The Row, Bottega）的喜爱以及她会选择的配饰。",
+        "cards": "running errands\n---\n--\n跑腿，办事\nSo this, I'd say, is my everyday running errands, running-around-town look.\n我想说，这身就是我日常跑腿、城里闲逛的装扮。\n\npop of red\n---\n--\n一抹红色（作为点缀）\nBut I love the pop of red.\n但我喜欢那一点红色（点缀）。\n\nconstrained\n---\n--\n受限制的，不自然的\nI can get in and out of buildings, in and out of cars, go to shoots and shows and feel really comfortable and not feel really constrained.\n我可以轻松进出大楼和车里，去拍摄和表演，感觉非常舒服，不会觉得受到束缚。\n\na take on\n---\n--\n对...的诠释/版本\nThey're a take on a riding boot and I am a horse girl, so I love these boots a lot.\n它们是对骑马靴的一种诠释，我是一个爱马的女孩，所以我非常喜欢这双靴子。\n\ndon't get it twisted\n---\n--\n别误会，别搞错了\nI love to be comfortable on a plane, so don't get it twisted.\n我喜欢在飞机上穿得舒服，所以别误会。\n\ncracking big deals\n---\n--\n达成大交易\nDoing business in this, cracking big deals.\n穿着这身做生意，达成大交易。\n\nform-fitting\n---\n--\n修身的，紧身的\nI like to have something very form-fitting, so that's why I love this dress.\n我喜欢穿一些非常修身的衣服，这就是为什么我喜欢这条裙子。\n\nsnatched waist\n---\n--\n紧身收腰的（形容非常纤细的腰部）\nLove a little snatched waist.\n喜欢这种小小的紧身收腰设计。",
+        "pronunciation": [
+          {
+            "word": "running errands",
+            "phonetic": "/ˈrʌnɪŋ ˈɛrəndz/",
+            "description": "注意“errands”的 /ɛ/ 音和末尾的 /z/ 音。"
+          },
+          {
+            "word": "pop of red",
+            "phonetic": "/pɒp əv rɛd/",
+            "description": "“pop”表示突然、快速或引人注目，这里指点缀一抹红色。"
+          },
+          {
+            "word": "constrained",
+            "phonetic": "/kənˈstreɪnd/",
+            "description": "注意重音在第二个音节，/ei/ 音要发饱满。"
+          },
+          {
+            "word": "a take on",
+            "phonetic": "/ə teɪk ɒn/",
+            "description": "“take”在这里指对某事物的“诠释”或“版本”，注意“on”的连读。"
+          },
+          {
+            "word": "don't get it twisted",
+            "phonetic": "/doʊnt ɡɛt ɪt ˈtwɪstɪd/",
+            "description": "语速快时“get it”会连读，注意“twisted”的 /ɪd/ 结尾。"
+          },
+          {
+            "word": "cracking big deals",
+            "phonetic": "/ˈkrækɪŋ bɪɡ diːlz/",
+            "description": "“cracking”在这里是俚语，表示成功达成，通常用于商业谈判。"
+          },
+          {
+            "word": "form-fitting",
+            "phonetic": "/ˈfɔːrmˌfɪtɪŋ/",
+            "description": "注意“form”中的 /ɔːr/ 音和“fitting”中的双 /t/ 音，表示衣服合身。"
+          },
+          {
+            "word": "snatched waist",
+            "phonetic": "/snætʃt weɪst/",
+            "description": "注意“snatched”的/tʃ/和/t/音，指腰部非常紧身，显得纤细。"
+          }
+        ],
+        "sentences": [
+          [
+            "So this, I'd say, is my everyday running errands, running-around-town look.",
+            "我觉得这身是我的日常出门办事、城里闲逛的装扮。"
+          ],
+          [
+            "I don't ever leave the house or a hotel without a pair of sunglasses.",
+            "我出门或离开酒店从来不会不戴墨镜。"
+          ],
+          [
+            "You'll probably see me in these boots all the time.",
+            "你可能会一直看到我穿这双靴子。"
+          ],
+          [
+            "I love to be comfortable on a plane, so don't get it twisted.",
+            "我喜欢在飞机上穿得舒服，所以别误会。"
+          ],
+          [
+            "I love to be really comfortable when I go out, but I also feel really cute and... sexy, I guess.",
+            "我出门的时候喜欢穿得非常舒服，但我也想看起来很可爱，嗯......性感吧。"
+          ]
+        ],
+        "grammar": [
+          [
+            "现在完成时 (Present Perfect)",
+            "表示过去发生的动作对现在造成的影响或持续到现在",
+            "They're actually probably my most favourite jeans ever."
+          ],
+          [
+            "动词不定式作目的状语 (Infinitive of Purpose)",
+            "表示动作的目的",
+            "So I love having something on me where I can warm myself back up."
+          ]
+        ]
+      }
+    ]
   }
 ]
