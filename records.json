@@ -11791,5 +11791,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-06-01",
+    "topic": "Weekly grocery haul",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "aWxQ5csEDEU",
+        "title": "One Week Grocery Shopping Haul for Our Large Family | BIG FAMILY GROCERIES",
+        "url": "https://www.youtube.com/watch?v=aWxQ5csEDEU",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位名叫Jaden的母亲解释了她为何在当地小型高价杂货店进行为期一周的购物，而不是她通常每月一次的大型超市采购。她和Jaden采购了一周的食材和一些家庭用品，总花费略超250美元的现金预算。她提到将用这些食材和朋友一起准备20份慢炖锅餐食，以节省时间和精力。",
+        "cards": "head out to\n---\n--\n去，前往\n英文例句：Jaden and I have head out to town this morning to do something that we normally don't do.\n中文例句：杰登和今天早上我出门去城里做一些我们平时不做的事情。\n\nlife details going on\n---\n--\n生活事务繁忙\n英文例句：We have a lot of life details going on that we just can't all nine of us can't leave the area to do our big once-a-month grocery shopping haul.\n中文例句：我们有很多生活上的事情要处理，所以我们九个人都不能离开这里进行我们每月一次的大采购。\n\nbeat myself up about it\n---\n--\n自责，苛责自己\n英文例句：I cringe when I do it, but I try to make myself feel better when I think about, okay, I'm not spending gas... and not beat myself up about it.\n中文例句：我做的时候会很不舒服，但我会努力让自己好受一些，想着，好吧，我没有浪费汽油……这样就不会自责了。\n\nrunning tally\n---\n--\n连续记录，动态统计\n英文例句：I keep a running tally on my calculator as I shop.\n中文例句：我购物时会在计算器上持续记录总价。\n\nfill in\n---\n--\n填补，补充\n英文例句：I got two of the 85% lean, that's all they had, and so then I'm going to fill in and use this.\n中文例句：我买了两个85%的瘦肉，那是他们仅有的了，所以接下来我会补充用这种（肉）。\n\nbuy in bulk\n---\n--\n批量购买\n英文例句：I want to buy in bulk shortly.\n中文例句：我很快会想批量购买。\n\nstanding by\n---\n--\n准备好备用\n英文例句：This is kind of extra standing by.\n中文例句：这有点像是额外的备用。",
+        "pronunciation": [
+          {
+            "word": "head out to",
+            "phonetic": "/hɛd aʊt tuː/",
+            "description": "\"head\" 和 \"out\" 之间有连读，\"out\" 的 /t/ 音与 \"to\" 连读。"
+          },
+          {
+            "word": "life details going on",
+            "phonetic": "/laɪf ˈdiːteɪlz ˈɡoʊɪŋ ɒn/",
+            "description": "\"details\" 重音在第一音节，\"going on\" 连读。"
+          },
+          {
+            "word": "beat myself up about it",
+            "phonetic": "/biːt maɪˈsɛlf ʌp əˈbaʊt ɪt/",
+            "description": "整个短语连贯，\"up\" 和 \"about\" 有连读，\"about\" 的 /t/ 和 \"it\" 连读。"
+          },
+          {
+            "word": "running tally",
+            "phonetic": "/ˈrʌnɪŋ ˈtæli/",
+            "description": "\"running\" 的 /ɪŋ/ 音要发饱满，\"tally\" 的 /æ/ 音像“啊”的音。"
+          },
+          {
+            "word": "fill in",
+            "phonetic": "/fɪl ɪn/",
+            "description": "\"fill\" 和 \"in\" 连读，\"i\" 是短元音。"
+          },
+          {
+            "word": "buy in bulk",
+            "phonetic": "/baɪ ɪn bʌlk/",
+            "description": "\"buy\" 和 \"in\" 连读，\"bulk\" 的 /ʌ/ 是短促的“啊”音。"
+          },
+          {
+            "word": "standing by",
+            "phonetic": "/ˈstændɪŋ baɪ/",
+            "description": "\"standing\" 的 /ɪŋ/ 音要发饱满，\"by\" 的 /aɪ/ 音要完整。"
+          }
+        ],
+        "sentences": [
+          [
+            "Jaden and I have head out to town this morning to do something that we normally don't do.",
+            "杰登和今天早上我出门去城里做一些我们平时不做的事情。"
+          ],
+          [
+            "I cringe when I do it, but I try to make myself feel better when I think about, okay, I'm not spending gas...",
+            "我做的时候会很不舒服，但我会努力让自己好受一些，想着，好吧，我没有浪费汽油..."
+          ],
+          [
+            "I always have to laugh because these grocery carts are about half the size of an average grocery store cart.",
+            "我总是忍不住笑，因为这些购物车大约只有普通杂货店购物车的一半大。"
+          ],
+          [
+            "The convenience of this Saturday morning grocery haul is I got a week's worth of grocery shopping done in about an hour.",
+            "周六早上这次采购的方便之处在于我大约一个小时就买好了一周的杂货。"
+          ],
+          [
+            "Somewhere I just must have mis-entered or completely forgot to do some entries.",
+            "在某个地方我肯定输错了数据，或者完全忘记记录一些项目了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "现在完成时 (Present Perfect)",
+            "描述在过去发生但与现在有联系或结果的动作，或在未明确的时间发生的动作。",
+            "Jaden and I **have head out** to town this morning..."
+          ],
+          [
+            "介词后的动名词 (Gerunds after prepositions)",
+            "动词-ing形式（动名词）常在介词之后使用。",
+            "You know, by **watching** these videos that grocery shopping and making meals is a huge part of my daily life."
+          ]
+        ]
+      },
+      {
+        "video_id": "2zgG53Urhvo",
+        "title": "NEW⚡$300 Weekly Grocery Haul &amp; Meal Plan!!",
+        "url": "https://www.youtube.com/watch?v=2zgG53Urhvo",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频博主分享了她在沃尔玛购买的价值300多美元的日常杂货，包括各种水果、蔬菜、乳制品、肉类和零食等。她还展示了Warby Parker赞助的眼镜试戴服务，并分享了她对该品牌的喜爱。最后，她详细列出了自己本周的餐食计划，包括牛排鸡肉法士达、BLT三明治和披萨之夜等。",
+        "cards": "going rate\n---\n--\n现行价格；普遍价格\nThat seems to be the going rate for groceries for us now with prices so high.\n现在物价这么高，对我们来说这似乎是日常杂货的普遍价格。\n\nvouch for\n---\n--\n担保；保证；作证\nI personally use their service and can vouch for them.\n我个人使用他们的服务，可以为他们担保。\n\nembarrassing number\n---\n--\n多得令人不好意思的数量\nHonestly, I have an embarrassing number of pairs of their glasses.\n说实话，我的眼镜多得有点不好意思。\n\npull the trigger\n---\n--\n做出决定；采取行动\nI've been kind of thinking about getting one, but I haven't pulled the trigger yet.\n我一直在考虑买一个，但我还没有下定决心。\n\nhot take\n---\n--\n大胆的观点；热门但有争议的评论\nHot take, honestly, I know this is not like great quality, but this is my favorite frozen pizza.\n说实话，我有个大胆的看法，我知道这个披萨质量不是很好，但这却是我的最爱。\n\nstock up\n---\n--\n储存；备足\nSo I just decided to stock up because we do use these in smoothies.\n所以我决定多备些货，因为我们做冰沙时会用到这些。\n\non hand\n---\n--\n手头有；可获取的\nI like to keep these on hand obviously for snacking.\n我喜欢手头备着这些，显然是用来当零食的。",
+        "pronunciation": [
+          {
+            "word": "going rate",
+            "phonetic": "/ˈɡoʊɪŋ reɪt/",
+            "description": "\"go-ing reyt\" - 注意'going'的重音，'rate'的发音接近'reyt'。"
+          },
+          {
+            "word": "vouch for",
+            "phonetic": "/vaʊtʃ fɔːr/",
+            "description": "\"vowch for\" - 'vouch'与'couch'押韵。'for'常弱读成'fer'。"
+          },
+          {
+            "word": "pull the trigger",
+            "phonetic": "/pʊl ðə ˈtrɪɡər/",
+            "description": "\"pul dha tri-ger\" - 'pull'与'full'押韵，'trigger'的重音在第一个音节。"
+          },
+          {
+            "word": "hot take",
+            "phonetic": "/hɒt teɪk/",
+            "description": "\"hot teyk\" - 'hot'中的'o'可以是英式发音或美式发音。'take'与'bake'押韵。"
+          },
+          {
+            "word": "religiously",
+            "phonetic": "/rɪˈlɪdʒəsli/",
+            "description": "\"ri-LI-juhs-lee\" - 重音在第二个音节，中国人常误读成重音在第一个音节。"
+          },
+          {
+            "word": "stock up",
+            "phonetic": "/stɒk ʌp/",
+            "description": "\"stok up\" - 'stock'的发音接近'stok'，'up'的发音接近'up'。"
+          },
+          {
+            "word": "on hand",
+            "phonetic": "/ɒn hænd/",
+            "description": "\"on hand\" - 'on'的发音接近'awn'，'hand'正常发音。"
+          }
+        ],
+        "sentences": [
+          [
+            "I have so many pairs of their glasses. Honestly, I have an embarrassing number of pairs of their glasses.",
+            "我有很多副他们的眼镜。说实话，我的眼镜数量多得有点不好意思。"
+          ],
+          [
+            "It said if you bought 10 of these yogurts, you got $5 back, which I thought was a pretty dang good deal.",
+            "它说如果你买10个这些酸奶，就能返5美元，我觉得这笔交易相当划算。"
+          ],
+          [
+            "I don't use this religiously every week, but when I do use it, it makes my life a lot easier.",
+            "我通常每周都严格使用它，但当我使用它时，它确实让我的生活轻松了很多。"
+          ],
+          [
+            "It's a little bit spicy, a little bit sweet, it really does taste like barbecue beef.",
+            "它有点辣，有点甜，尝起来真的像烤牛肉。"
+          ],
+          [
+            "My sister convinced me to try chicken thighs rather than chicken breasts.",
+            "我妹妹说服我尝试鸡大腿而不是鸡胸肉。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Conditional Sentence Type 1 (if clause)",
+            "描述可能发生或真实情况的条件句。结构是 \"If + subject + simple present, subject + simple future (will/can/may/might + base verb)\"。",
+            "If you are looking for prescription glasses, or even prescription sunglasses, even contact lenses, definitely check out Warby Parker."
+          ],
+          [
+            "Phrasal Verb Usage (keep on hand)",
+            "表示“备有/手头有”的动词短语，指某物是可获取的或在附近。",
+            "I like to keep these on hand obviously for snacking."
+          ],
+          [
+            "Verb + -ing (like + doing something)",
+            "表示喜欢做某事。",
+            "Connor has really been liking blackberries."
+          ]
+        ]
+      }
+    ]
   }
 ]
