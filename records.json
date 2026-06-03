@@ -12143,5 +12143,164 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-06-03",
+    "topic": "Mailing a package",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "y3qfeoqErtY",
+        "title": "How Overnight Shipping Works",
+        "url": "https://www.youtube.com/watch?v=y3qfeoqErtY",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频深入探讨了隔夜快递行业的复杂物流系统，主要以联邦快递（FedEx）为例。视频解释了FedEx如何利用位于孟菲斯的超级枢纽机场，通过全球航空网络在夜间高效分拣和运输数百万个包裹。它还展示了地理位置（如阿拉斯加安克雷奇）在优化国际航线和降低成本方面的关键作用，以及公司如何通过使用旧飞机和策略性调度来提高运营效率和盈利能力。最后，视频提到了亚马逊等新进入者如何通过自建物流来挑战传统快递巨头。",
+        "cards": "masterpiece of logistics\n---\n--\n物流的杰作\n英文例句：Overnight shipping is an absolute masterpiece of logistics that happens every single night.\n中文例句：隔夜运输是每晚都在上演的物流杰作。\n\nmind-blowing\n---\n--\n令人瞠目结舌的；令人难以置信的\n英文例句：The speed and efficiency of these worldwide delivery networks is mind-blowing.\n中文例句：这些全球配送网络的速度和效率令人瞠目结舌。\n\nmean population center\n---\n--\n平均人口中心（指一个国家或地区所有居民的平均地理位置）\n英文例句：You see only about 200 miles away in Wright County, Missouri, is the mean population center of the US.\n中文例句：你看，离密苏里州赖特县大约200英里处，就是美国的平均人口中心。\n\nstaggering\n---\n--\n惊人的；令人震惊的\n英文例句：The scale of FedEx and UPS's operations in these relatively small cities is staggering.\n中文例句：联邦快递和UPS在这些相对较小的城市中的运营规模令人震惊。\n\ninherently expensive\n---\n--\n本质上昂贵的\n英文例句：The express shipping model is inherently expensive, largely because of how couriers use their most expensive assets: planes.\n中文例句：快递运输模式本质上是昂贵的，这主要是因为快递公司使用他们最昂贵的资产——飞机的方式。\n\nrecoup\n---\n--\n（为支出或损失）挽回，弥补，收回\n英文例句：They specifically schedule these planes on their longest routes so that they can recoup their high purchase price through lower fuel costs.\n中文例句：他们特意将这些飞机安排在最长的航线上，这样就可以通过降低燃料成本来收回高昂的购置费。\n\nout of the equation\n---\n--\n排除在外；不再考虑\n英文例句：Amazon is operating at a scale where they can profit by taking the shipping companies out of the equation.\n中文例句：亚马逊的运营规模之大，足以让他们通过将航运公司排除在外来获利。",
+        "pronunciation": [
+          {
+            "word": "masterpiece of logistics",
+            "phonetic": "/ˈmɑːstərpiːs əv ləˈdʒɪstɪks/",
+            "description": "注意\"logistics\"的重音在第二个音节，不要读成\"logic\""
+          },
+          {
+            "word": "mind-blowing",
+            "phonetic": "/ˈmaɪndˌbloʊɪŋ/",
+            "description": "\"mind\"和\"blowing\"连起来读，\"blowing\"的\"ow\"发/oʊ/音"
+          },
+          {
+            "word": "mean population center",
+            "phonetic": "/miːn ˌpɒpjʊˈleɪʃən ˈsɛntər/",
+            "description": "\"mean\"是长音/iː/，\"population\"重音在第三个音节/ˈleɪ/"
+          },
+          {
+            "word": "staggering",
+            "phonetic": "/ˈstæɡərɪŋ/",
+            "description": "\"stagger\"的/æ/音要发准，\"g\"音要清晰"
+          },
+          {
+            "word": "inherently expensive",
+            "phonetic": "/ɪnˈhɪrəntli ɪkˈspɛnsɪv/",
+            "description": "\"inherently\"重音在第二个音节/ˈhɪr/，\"expensive\"重音在第二个音节/ˈspɛn/"
+          },
+          {
+            "word": "recoup",
+            "phonetic": "/rɪˈkuːp/",
+            "description": "\"re\"发/rɪ/的音，不是/riː/，\"coup\"发长音/uː/"
+          },
+          {
+            "word": "out of the equation",
+            "phonetic": "/aʊt əv ði ɪˈkweɪʒən/",
+            "description": "\"equation\"的\"qu\"发/kw/音，重音在第二个音节/ˈkweɪ/"
+          }
+        ],
+        "sentences": [
+          [
+            "Overnight shipping is an absolute masterpiece of logistics that happens every single night.",
+            "隔夜运输是每晚都在上演的物流杰作。"
+          ],
+          [
+            "It may not be cheap, but you can get a package shipped from Miami, Florida on a Monday to Anchorage, Alaska by 8:30 a.m. on Tuesday.",
+            "它可能不便宜，但你可以让一个包裹在周一从佛罗里达州迈阿密寄出，并在周二早上8:30前送达阿拉斯加的安克雷奇。"
+          ],
+          [
+            "FedEx has more planes than Emirates, Etihad, and Qatar Airways combined.",
+            "联邦快递的飞机数量超过阿联酋航空、阿提哈德航空和卡塔尔航空的总和。"
+          ],
+          [
+            "The vast majority of these flights operate to or from one of their hub airports.",
+            "这些航班绝大部分都在其枢纽机场之间运行。"
+          ],
+          [
+            "In a lot of ways, however, the express shipping model is inherently expensive, largely because of how couriers use their most expensive assets: planes.",
+            "然而，在很多方面，快递运输模式本质上是昂贵的，这主要是因为快递公司使用他们最昂贵的资产——飞机的方式。"
+          ]
+        ],
+        "grammar": [
+          [
+            "量词短语",
+            "\"the vast majority of + 复数名词\"表示“绝大多数…”，强调数量上的巨大优势。",
+            "The vast majority of these flights operate to or from one of their hub airports."
+          ],
+          [
+            "地点状语前置",
+            "当地点状语（尤其是介词短语）放在句首时，通常会引起倒装，以强调地点。",
+            "Only about 200 miles away in Wright County, Missouri, is the mean population center of the US."
+          ]
+        ]
+      },
+      {
+        "video_id": "DoY7SxrzNTc",
+        "title": "How Customs At JFK Searches 1 Million Mail Packages A Day",
+        "url": "https://www.youtube.com/watch?v=DoY7SxrzNTc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频展示了JFK机场海关如何每天检查一百万个国际包裹。美国海关和边境保护局（CBP）采用三层策略：首先是情报收集，以筛选出可疑包裹；其次是非侵入式检查，利用警犬嗅探毒品和X光机识别违禁品；最后是对被标记的包裹进行人工检查。通过这些方法，CBP截获了大量毒品和假冒商品，毒品通常会被销毁或用于进一步调查，而假冒商品则可能被捐赠。",
+        "cards": "tasked with\n---\n--\n负责某事；承担某任务\nThe US Customs and Border Protection (CBP) is tasked with screening all of them.\n美国海关和边境保护局（CBP）负责筛选所有这些包裹。\n\nnarrow down\n---\n--\n缩小范围；筛选\nThis is how CBP narrows down a million packages to the ones that will get flagged for further inspection.\nCBP 就是这样将一百万个包裹筛选出那些需要进一步检查的包裹。\n\nsniff out\n---\n--\n嗅出；侦测出（隐匿之物）\nThese dogs are trained to sniff out seven different drugs.\n这些狗被训练能嗅出七种不同的毒品。\n\ndilapidated\n---\n--\n破旧的；失修的\nThen you look at the dilapidated boxes.\n然后你会看到破旧的箱子。\n\nco-mingling\n---\n--\n混杂；混合\nThe high-end manufacturers never co-mingle their products.\n这些高端制造商从不混放他们的产品。",
+        "pronunciation": [
+          {
+            "word": "tasked with",
+            "phonetic": "tæsk t wɪθ",
+            "description": "\"tasked\"中的d音轻微，与\"with\"的w音连接自然，\"with\"的th发音为浊辅音/ð/。"
+          },
+          {
+            "word": "narrow down",
+            "phonetic": "ˈnær.oʊ daʊn",
+            "description": "\"narrow\"重音在前，\"a\"发/æ/音，\"o\"发/oʊ/音。"
+          },
+          {
+            "word": "sniff out",
+            "phonetic": "snɪf aʊt",
+            "description": "\"sniff\"的f音清晰，\"out\"的ow发/aʊ/音，两个词之间没有停顿。"
+          },
+          {
+            "word": "dilapidated",
+            "phonetic": "dɪˈlæp.ɪ.deɪ.tɪd",
+            "description": "重音在第二个音节“lap”，\"a\"发/æ/音，\"i\"发/ɪ/音。"
+          },
+          {
+            "word": "co-mingling",
+            "phonetic": "ˌkoʊˈmɪŋ.ɡlɪŋ",
+            "description": "\"co-\"发/koʊ/音，与\"mingling\"之间稍有停顿，重音在\"ming\"。"
+          }
+        ],
+        "sentences": [
+          [
+            "They're looking for anything that isn't legally allowed in the US.",
+            "他们正在寻找任何在美国不合法的东西。"
+          ],
+          [
+            "If Alex finds something, he'll notify his handler by sitting or lying down.",
+            "如果亚历克斯（警犬）发现什么，它会通过坐下或躺下来通知它的训导员。"
+          ],
+          [
+            "When I first started this, I would literally open up everything because I couldn't tell what the image was.",
+            "当我刚开始做这项工作时，我真的会打开所有东西，因为我无法辨别图像是什么。"
+          ],
+          [
+            "I always got taught basically, expect the package to be something that's going to your mom.",
+            "我一直被教导，基本上，要假设包裹是寄给你的妈妈的。"
+          ],
+          [
+            "There's no day that we come to work that we don't find anything.",
+            "我们没有一天来上班是毫无所获的。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "强调动作的承受者或结果，而不是动作的执行者。",
+            "First the packages are taken off arriving passenger or cargo planes."
+          ],
+          [
+            "动词短语",
+            "动词短语在口语和非正式书面语中非常常见，由动词和介词或副词组成，含义通常与单个动词不同。",
+            "This is how CBP narrows down a million packages..."
+          ]
+        ]
+      }
+    ]
   }
 ]
