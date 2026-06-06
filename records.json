@@ -12626,5 +12626,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-06-06",
+    "topic": "Assembling flat-pack furniture",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "0h8vAGCiRX0",
+        "title": "How IKEA Mastered Furniture",
+        "url": "https://www.youtube.com/watch?v=0h8vAGCiRX0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频讲述了宜家如何通过一系列创新的工程设计，使家具变得经济实惠并被大众所接受。视频以宜家的 Lack 咖啡桌为例，解释了其空心纸板结构如何在保持强度的同时大幅降低成本。随后，视频介绍了平装家具的概念如何诞生，以及宜家如何通过使用刨花板和创新连接件来解决大规模生产中实木变形和组装的挑战。最后，视频还探讨了宜家独特的迷宫式门店布局如何影响顾客的购物行为，从而推动了销售额的增长。",
+        "cards": "blow out of the water\n---\n--\n轻松击败；彻底胜过\n英文例句：Blowing the cheapest alternatives out of the water.\n中文例句：这个新产品轻松击败了所有竞争对手。\n\npull off\n---\n--\n成功完成（困难的事情）\n英文例句：In order to pull this off, IKEA had to get creative.\n中文例句：我们得想办法才能成功完成这个大项目。\n\non a roll\n---\n--\n处于顺境；一帆风顺\n英文例句：IKEA was on a roll, and it continued opening new stores all over the world throughout the 70s.\n中文例句：她最近事业一帆风顺，连续签下了好几个大客户。\n\nrun into\n---\n--\n遇到；碰到\n英文例句：As they started mass-producing more and more furniture, they ran into an unavoidable problem.\n中文例句：我开车去上班时，意外地遇到了一个老朋友。\n\nline up\n---\n--\n对齐；排列整齐\n英文例句：Screw holes wouldn't line up and parts wouldn't fit together.\n中文例句：请大家排队，把书桌对齐。\n\nget around\n---\n--\n解决（问题）；避免\n英文例句：To get around this, IKEA started working with factories in Poland to mass produce particle board.\n中文例句：我们必须找到一个办法来解决这个难题。\n\ndisoriented\n---\n--\n迷失方向的；迷惑的\n英文例句：Customers became lost and disoriented, not knowing where the end was or how long they had left.\n中文例句：我一觉醒来，发现自己在一个陌生的地方，感觉非常迷失。\n\nquest for\n---\n--\n对……的追求\n英文例句：IKEA's quest for efficiency helped make furniture accessible to everyone.\n中文例句：人类对知识的追求是永无止境的。",
+        "pronunciation": [
+          {
+            "word": "blow out of the water",
+            "phonetic": "bloʊ aʊt əv ðə ˈwɔtər",
+            "description": "注意“out of”连读为/aʊt əv/，以及“water”中的/t/常发/d/音"
+          },
+          {
+            "word": "pull off",
+            "phonetic": "pʊl ɔːf",
+            "description": "“pull”中的/l/音与“off”的/ɔːf/连读，不要断开"
+          },
+          {
+            "word": "on a roll",
+            "phonetic": "ɒn ə roʊl",
+            "description": "“on a”连读为/ɒn ə/，强调“roll”的发音"
+          },
+          {
+            "word": "run into",
+            "phonetic": "rʌn ˈɪntuː",
+            "description": "“run”的/n/音与“into”连读，听起来像/rʌnɪntu/"
+          },
+          {
+            "word": "line up",
+            "phonetic": "laɪn ʌp",
+            "description": "“line”的/n/音与“up”连读，像/laɪnʌp/"
+          },
+          {
+            "word": "get around",
+            "phonetic": "ɡɛt əˈraʊnd",
+            "description": "“get”中的/t/音与“around”连读，/t/常发浊化音"
+          },
+          {
+            "word": "disoriented",
+            "phonetic": "dɪsˈɔːriəntɪd",
+            "description": "注意重音在第三个音节/ɔː/，不要读成/dɪsɔːˈriəntɪd/"
+          },
+          {
+            "word": "quest for",
+            "phonetic": "kwɛst fɔːr",
+            "description": "“quest”中的/st/与“for”的/f/衔接，不要读错辅音连缀"
+          }
+        ],
+        "sentences": [
+          [
+            "This is the Lack coffee table, one of IKEA's most important products.",
+            "这是 Lack 咖啡桌，宜家最重要的产品之一。"
+          ],
+          [
+            "Blowing the cheapest alternatives out of the water.",
+            "轻松击败了最便宜的替代品。"
+          ],
+          [
+            "Chances are, you’ve assembled IKEA furniture.",
+            "你很有可能组装过宜家家具。"
+          ],
+          [
+            "That's when it clicked.",
+            "就在那时，他想通了。"
+          ],
+          [
+            "Customers would enter to buy one thing and leave with much more.",
+            "顾客进来只为买一件东西，却带走了更多。"
+          ]
+        ],
+        "grammar": [
+          [
+            "虚拟语气",
+            "用于表达与事实相反的假设或愿望。",
+            "If you had to design the simplest table possible, you’d come up with this. (如果你必须设计最简单的桌子，你会设计出这个。)"
+          ],
+          [
+            "动词不定式作目的状语",
+            "表示动作的目的或意图。",
+            "In order to pull this off, IKEA had to get creative. (为了成功做到这一点，宜家不得不发挥创意。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "YV6clj_2TW0",
+        "title": "Tom &amp; Zeta Build IKEA Furniture With No Instructions",
+        "url": "https://www.youtube.com/watch?v=YV6clj_2TW0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频讲述了一对情侣汤姆和泽塔在没有说明书的情况下，尝试组装一张宜家咖啡桌，以此考验他们的关系。泽塔认为自己缺乏耐心和毅力，而汤姆则相信自己能保持冷静和有条理。在组装过程中，他们不断遇到困难并产生争执。最终，在朋友库普斯的帮助下，他们才得以完成咖啡桌的组装，并认识到团队合作的重要性。",
+        "cards": "flat pack\n---\n--\n中文核心释义：扁平包装的（家具），通常指需要自行组装的家具\n英文例句：Today, we are going to be making an IKEA flat pack with no instructions.\n中文例句：今天我们要组装一个没有说明书的宜家平板家具。\n\ntest our relationship\n---\n--\n中文核心释义：考验我们的关系\n英文例句：We are going to be making an IKEA flat pack with no instructions to test our relationship.\n中文例句：我们将组装一个没有说明书的宜家平板家具，以此来考验我们的关系。\n\nmansplaining\n---\n--\n中文核心释义：好为人师地讲解（常指男性对女性），带有居高临下之意\n英文例句：Is this mansplaining? Am I getting mansplained?\n中文例句：这是不是好为人师呢？我被好为人师地教导了吗？\n\nmental strength\n---\n--\n中文核心释义：精神毅力，心理承受能力\n英文例句：I just don't have the patience or the mental strengths to suffer through that process.\n中文例句：我就是没有耐心和精神毅力来忍受那个过程。\n\nsolution-oriented\n---\n--\n中文核心释义：注重解决问题的，以解决方案为导向的\n英文例句：How about be solution-oriented?\n中文例句：何不以解决问题为导向呢？\n\nmission and a half\n---\n--\n中文核心释义：一项极其困难或耗时的任务，艰巨的挑战\n英文例句：We're done the coffee table. F*ing mission and a half.\n中文例句：我们把咖啡桌做完了。真是他妈的一项艰巨任务。\n\ncirculate back on\n---\n--\n中文核心释义：回到（某个话题或问题），重新讨论\n英文例句：Oh, we've circled back on that one, haven't we?\n中文例句：哦，我们又回到那个问题了，不是吗？",
+        "pronunciation": [
+          {
+            "word": "flat pack",
+            "phonetic": "flæt pæk",
+            "description": "\"flat\"中的\"a\"是/æ/音，嘴巴张开；\"pack\"中的\"a\"也是/æ/音。"
+          },
+          {
+            "word": "test our relationship",
+            "phonetic": "tɛst aʊər rɪˈleɪʃənˌʃɪp",
+            "description": "\"test\"中的\"e\"是短元音/ɛ/；\"relationship\"重音在\"la-tion\"部分。"
+          },
+          {
+            "word": "mansplaining",
+            "phonetic": "mænˈspleɪnɪŋ",
+            "description": "\"man\"中的\"a\"是/æ/音；重音在第二个音节\"splei\"。"
+          },
+          {
+            "word": "mental strength",
+            "phonetic": "ˈmɛntəl strɛŋθ",
+            "description": "\"mental\"中的\"e\"是短元音/ɛ/；\"strength\"中的\"th\"是清辅音，舌尖轻触上齿。"
+          },
+          {
+            "word": "solution-oriented",
+            "phonetic": "səˈluːʃən ˈɔːriɛntɪd",
+            "description": "\"solution\"重音在\"lu\"；\"oriented\"中的\"or\"是/ɔː/音。"
+          },
+          {
+            "word": "mission and a half",
+            "phonetic": "ˈmɪʃən ənd ə hɑːf",
+            "description": "\"mission\"中的\"i\"是短元音/ɪ/；\"half\"中的\"a\"是长元音/ɑː/。"
+          },
+          {
+            "word": "circulate back on",
+            "phonetic": "ˈsɜːrkjəleɪt bæk ɒn",
+            "description": "\"circulate\"重音在第一个音节\"cir\"；\"back\"中的\"a\"是/æ/音。"
+          }
+        ],
+        "sentences": [
+          [
+            "1. We are going to be making an IKEA flat pack with no instructions to test our relationship.",
+            "我们将组装一张没有说明书的宜家平板家具，以此来考验我们的关系。"
+          ],
+          [
+            "2. I just don't have the patience or the mental strengths to suffer through that process.",
+            "我就是没有耐心和精神毅力来忍受那个过程。"
+          ],
+          [
+            "3. I think the first step is going to be the hardest, because you have the most pieces and stuff.",
+            "我觉得第一步会是最难的，因为零件最多等等。"
+          ],
+          [
+            "4. How about be solution-oriented?",
+            "何不以解决问题为导向呢？"
+          ],
+          [
+            "5. Oh, we've circled back on that one, haven't we?",
+            "哦，我们又回到那个问题了，不是吗？"
+          ]
+        ],
+        "grammar": [
+          [
+            "问句附加语 (Question Tags)",
+            "问句附加语用于句末，以确认信息或表达假设，通常由助动词和代词组成，与主句的时态和肯定/否定形式保持一致。",
+            "视频例子：\"Oh, we've circled back on that one, haven't we?\" (8:33)"
+          ]
+        ]
+      }
+    ]
   }
 ]
