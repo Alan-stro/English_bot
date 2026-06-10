@@ -13266,5 +13266,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-06-10",
+    "topic": "daily life vlog",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "FGvdNUgC5Kk",
+        "title": "A Day In The Life At AMERICAN PUBLIC SCHOOL",
+        "url": "https://www.youtube.com/watch?v=FGvdNUgC5Kk",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频记录了一名美国高中生平凡的一天。他从清晨起床开始，穿衣、喂兔，然后骑自行车去学校，沿途展示了校园的景象。在学校里，他经历了不同的课程，包括建筑设计、美国历史和科学实验，并与朋友们分享了对学习和学校生活的看法。视频也穿插了一些有趣的对话和幽默瞬间，最后以他放学回家和享受小零食结束。",
+        "cards": "got started off with\n---\n--\n以...开始；用...开启\nJust like my last video, got started off with an American school bus.\n就像我上个视频一样，以一辆美国校车开启了这天的生活。\n\n--\n---\nto be completely honest\n--\n老实说；说实话\nTo be completely honest, it actually feels kind of nice.\n老实说，这感觉还挺不错的。\n\n--\n---\nto make fun of someone\n--\n嘲笑某人\nGot made fun of for filming in school.\n在学校里因为拍视频而被嘲笑了。\n\n--\n---\ngive us the rundown\n--\n给我们讲讲情况；简单介绍一下\nGive us the rundown.\n给我们讲讲具体情况。\n\n--\n---\nto say the least\n--\n至少可以说；不言而喻（表示情况比所说的更甚）\nYou know, I just really admire how he balances everything... To say the least.\n你知道，我真的很佩服他如何平衡一切……至少可以说。\n\n--\n---\nkilling it\n--\n做得很好；表现出色（俚语）\nYeah, she did, and you know what? She's killing it.\n是啊，她做到了，你知道吗？她表现太棒了。\n\n--\n---\ndisrupted\n--\n打扰；中断（在口语中表达打扰时的正式用法）\nI'm sorry I disrupted you during French class.\n对不起，我打扰了你的法语课。",
+        "pronunciation": [
+          {
+            "word": "got started off with",
+            "phonetic": "ɡɑt ˈstɑːrtɪd ɔf wɪθ",
+            "description": "\"got\"和\"started\"的d常连读，\"off\"的f和\"with\"的w常连读。"
+          },
+          {
+            "word": "to be completely honest",
+            "phonetic": "tu bi kəmˈpliːtli ˈɑːnɪst",
+            "description": "\"completely\"重音在第二个音节，\"honest\"的h不发音。"
+          },
+          {
+            "word": "to make fun of someone",
+            "phonetic": "tu meɪk fʌn ʌv ˈsʌmˌwʌn",
+            "description": "\"fun of\"常连读成\"fuh-nuhv\"。"
+          },
+          {
+            "word": "give us the rundown",
+            "phonetic": "ɡɪv ʌs ðə ˈrʌnˌdaʊn",
+            "description": "\"us\"常弱读成\"uhs\"，与\"give\"和\"the\"连读。"
+          },
+          {
+            "word": "to say the least",
+            "phonetic": "tu seɪ ðə liːst",
+            "description": "注意“the”的弱读和“least”的尾音。"
+          },
+          {
+            "word": "killing it",
+            "phonetic": "ˈkɪlɪŋ ɪt",
+            "description": "\"killing\"的g不完全发音，和\"it\"连读。"
+          },
+          {
+            "word": "disrupted",
+            "phonetic": "dɪsˈrʌptɪd",
+            "description": "重音在第二个音节“rupt”。"
+          }
+        ],
+        "sentences": [
+          [
+            "Just like my last video, got started off with an American school bus.",
+            "就像我上个视频一样，以一辆美国校车开启了这天的生活。"
+          ],
+          [
+            "To be completely honest, it actually feels kind of nice.",
+            "老实说，这感觉还挺不错的。"
+          ],
+          [
+            "Got made fun of for filming in school.",
+            "在学校里因为拍视频而被嘲笑了。"
+          ],
+          [
+            "You know, I just really admire how he balances everything... To say the least.",
+            "你知道，我真的很佩服他如何平衡一切……至少可以说。"
+          ],
+          [
+            "Yeah, she did, and you know what? She's killing it.",
+            "是啊，她做到了，你知道吗？她表现太棒了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**1. Phrasal Verbs**",
+            "动词短语是由动词和介词或副词组成的短语，其含义通常不能从单个词的含义推断出来，是口语中非常常见的表达方式。",
+            "\"Just like my last video, got **started off with** an American school bus.\" \"To **make fun of** someone.\" \"Give us the **rundown**.\""
+          ],
+          [
+            "**2. Passive Voice with 'get'**",
+            "“get + 过去分词”是口语中常见的被动语态形式，通常用于强调动作的发生而不是动作的执行者，且常带有非正式或出乎意料的语气。",
+            "\"Got **made fun of** for filming in school.\""
+          ]
+        ]
+      },
+      {
+        "video_id": "QHj8BZ_xWms",
+        "title": "Life in Japan 🇯🇵 I Just Turned 31 — No Job, No Friends, No Boyfriend… But I Love My Life｜Vlog",
+        "url": "https://www.youtube.com/watch?v=QHj8BZ_xWms",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频记录了主人公在生日当天早晨去河边散步的日常。她分享了学生时代与朋友在河边聊天的回忆，并感慨成年后与朋友疏远，变得不善表达真情实感。尽管独自一人，她通过自言自语的视频形式表达内心，并订购寿司、享受甜点和咖啡，度过了美好的一天。视频结尾，她表达了对宠物猫和观众的感谢，并希望通过视频继续分享生活和想法，不再感到孤独。",
+        "cards": "hung out\n---\n--\n（和朋友）一起出去玩；闲逛\nI was in the track and field club, and back then we always hung out as a close group of nine friends.\n我当时在田径俱乐部，那时候我们九个好朋友总是聚在一起玩。\n\nprecious\n---\n--\n珍贵的；宝贵的\nBut now, having gotten older, I realize how precious that time was.\n但现在，随着年龄增长，我意识到那段时光是多么宝贵。\n\nspoke our minds\n---\n--\n（直言不讳地）说出心里话\nSometimes arguing when we spoke our minds, and then growing even closer.\n有时我们直言不讳地争吵，然后关系变得更加亲密。\n\nconscious of\n---\n--\n意识到；察觉到\nAfter becoming an adult, I started being too conscious of others.\n成年后，我开始变得太在意别人的看法。\n\nopening up\n---\n--\n敞开心扉；变得更开放\nIn videos like this, I can put my thoughts into words, but in person, opening up is hard for me and takes a lot of courage.\n在这样的视频中，我可以把我的想法表达出来，但在现实中，对我来说敞开心扉很难，需要很大的勇气。\n\nput my thoughts into words\n---\n--\n将我的想法表达成文字\nIn videos like this, I can put my thoughts into words, but in person, opening up is hard for me and takes a lot of courage.\n在这样的视频中，我可以把我的想法表达出来，但在现实中，对我来说敞开心扉很难，需要很大的勇气。\n\nnothing beats\n---\n--\n没有什么比……更好；无与伦比\nIn summer, nothing beats barley tea.\n在夏天，没有什么比大麦茶更好了。",
+        "pronunciation": [
+          {
+            "word": "hung out",
+            "phonetic": "/hʌŋ aʊt/",
+            "description": "注意'hung'的ng音，以及'out'的重音。"
+          },
+          {
+            "word": "precious",
+            "phonetic": "/ˈprɛʃəs/",
+            "description": "'pre-'读作/prɛ/，像中文“普瑞”；'-cious'读作/ʃəs/，像中文“社斯”。"
+          },
+          {
+            "word": "spoke our minds",
+            "phonetic": "/spoʊk aʊər maɪndz/",
+            "description": "'spoke'中的o是长音/oʊ/，'our'发/aʊər/。"
+          },
+          {
+            "word": "conscious of",
+            "phonetic": "/ˈkɒnʃəs ɒv/",
+            "description": "'con-'重音在前面，读作/ˈkɒn/，'-scious'读作/ʃəs/，'of'是弱读/əv/或/ɒv/。"
+          },
+          {
+            "word": "opening up",
+            "phonetic": "/ˈoʊpənɪŋ ʌp/",
+            "description": "'o-'是长音/oʊ/，'pen-'读/pən/，'up'中的u发/ʌ/，像中文“啊”。"
+          },
+          {
+            "word": "put my thoughts into words",
+            "phonetic": "/pʊt maɪ θɔːts ˈɪntuː wɜːrdz/",
+            "description": "'thoughts'中的'th'发/θ/，舌尖轻触上齿，'into'的'o'发/uː/，'words'中的'or'发/ɜːr/。"
+          },
+          {
+            "word": "nothing beats",
+            "phonetic": "/ˈnʌθɪŋ biːts/",
+            "description": "'nothing'中的'th'发/θ/，'beats'中的'ea'发长音/iː/。"
+          }
+        ],
+        "sentences": [
+          [
+            "Today, I woke up a little earlier than usual, so I came to the Yodogawa riverside.",
+            "今天我比平时早起了一会儿，所以来到了淀川河边。"
+          ],
+          [
+            "I was in the track and field club, and back then we always hung out as a close group of nine friends.",
+            "我当时在田径俱乐部，那时候我们九个好朋友总是聚在一起玩。"
+          ],
+          [
+            "But now, having gotten older, I realize how precious that time was.",
+            "但现在，随着年龄增长，我意识到那段时光是多么宝贵。"
+          ],
+          [
+            "After becoming an adult, I started being too conscious of others, and before I knew it, I hardly expressed my true feelings anymore.",
+            "成年之后，我开始太在意别人，不知不觉中，我几乎不再表达自己真实的感受。"
+          ],
+          [
+            "One of the great things about Japan is that you can enjoy delicious sushi without going to an expensive restaurant!",
+            "日本最棒的事情之一是，你不需要去昂贵的餐厅就能享用美味的寿司！"
+          ]
+        ],
+        "grammar": [
+          [
+            "完美分词短语",
+            "完美分词短语 \"Having + past participle\" 用于表示一个在主句动作之前发生的动作，通常表达原因或时间。",
+            "\"But now, **having gotten older**, I realize how precious that time was.\""
+          ],
+          [
+            "动名词作宾语",
+            "有些动词后面可以直接接动名词（-ing 形式）作宾语，表示正在进行或习惯性的动作。",
+            "\"After becoming an adult, I started **being** too conscious of others.\""
+          ]
+        ]
+      }
+    ]
   }
 ]
