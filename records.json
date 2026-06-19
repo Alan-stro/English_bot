@@ -14719,5 +14719,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-06-19",
+    "topic": "Quick weeknight dinner",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "gSfv-Gd6hCg",
+        "title": "Easy Sheet Pan Dinner with Only 5 Minutes of Prep",
+        "url": "https://www.youtube.com/watch?v=gSfv-Gd6hCg",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位女士强调了烤盘晚餐的便捷性，并分享了五大理由：方便制作完整餐点、易于清理、准备时间短、餐点更健康，以及操作极其简单。她通过制作烤盘鸡肉蔬菜展示了具体步骤，将鸡肉、小土豆和胡萝卜用橄榄油、盐、胡椒和意大利沙拉酱料包调味，放入铺有锡纸的烤盘中烤制。在烤制接近尾声时加入青豆。最后，她将烤好的食物装盘，并淋上烤盘中香浓的汁水，一份美味又省时的晚餐便大功告成。",
+        "cards": "all the rage\n---\n--\n风靡一时；非常流行\n英文例句：Sheet pan suppers have been all the rage.\n中文例句：烤盘晚餐一直都很流行。\n\nunderrated\n---\n--\n被低估的；未受到足够重视的\n英文例句：I think they are completely underrated.\n中文例句：我觉得它们完全被低估了。\n\nprep time\n---\n--\n准备时间\n英文例句：These dinners usually take 5 minutes of prep time.\n中文例句：这些晚餐通常只需要5分钟的准备时间。\n\nshuttle back and forth\n---\n--\n（往返）穿梭；来回接送\n英文例句：We all have that even if we are working parents who still have to shuttle their kids back and forth to activities.\n中文例句：即使我们是双职工父母，也需要来回接送孩子参加各种活动，我们都有这点时间。\n\nculinary training\n---\n--\n烹饪培训\n英文例句：No culinary training necessary.\n中文例句：无需烹饪培训。\n\nplay around with\n---\n--\n随意改动，试验，玩弄\n英文例句：Feel free to change out whatever veggies you want, different cuts of meat, play around with it, but you'll get the idea.\n中文例句：你可以随意更换任何你想要的蔬菜、不同部位的肉，尝试不同的做法，但你大概会明白怎么回事。\n\ncaramelization\n---\n--\n焦糖化（反应）\n英文例句：Remember that caramelization that happens during roasting equals flavor.\n中文例句：记住，烘烤过程中发生的焦糖化反应就等于风味。\n\nboost the flavor\n---\n--\n提升风味\n英文例句：Another way to boost the flavor of these type dishes is to use these dressing packets.\n中文例句：另一种提升这类菜肴风味的方法是使用这些沙拉酱包。",
+        "pronunciation": [
+          {
+            "word": "all the rage",
+            "phonetic": "/ɔːl ðə reɪdʒ/",
+            "description": "注意“rage”中“g”的发音，以及与“the”的连读。"
+          },
+          {
+            "word": "underrated",
+            "phonetic": "/ˌʌndərˈreɪtɪd/",
+            "description": "注意“under”和“rated”的连接，以及重音在“rate”上。"
+          },
+          {
+            "word": "prep time",
+            "phonetic": "/prɛp taɪm/",
+            "description": "“prep”中的“e”发音为短元音/ɛ/，类似于中文“哎”的音。"
+          },
+          {
+            "word": "shuttle back and forth",
+            "phonetic": "/ˈʃʌtl bæk ənd fɔːrθ/",
+            "description": "“shuttle”中的“u”发音为短元音/ʌ/，类似于中文“啊”的音；“forth”中的“th”发音为/θ/，舌尖轻触上齿，气流从缝隙流出。"
+          },
+          {
+            "word": "culinary training",
+            "phonetic": "/ˈkʌlɪnəri ˈtreɪnɪŋ/",
+            "description": "“culinary”的重音在第一音节，末尾的“ary”通常弱读。"
+          },
+          {
+            "word": "play around with",
+            "phonetic": "/pleɪ əˈraʊnd wɪð/",
+            "description": "注意“play”和“around”的连读，以及“with”中“th”的发音/ð/，舌尖轻触上齿，声带振动。"
+          },
+          {
+            "word": "caramelization",
+            "phonetic": "/ˌkærəmələˈzeɪʃən/",
+            "description": "多音节词，注意重音在倒数第二音节，以及/l/和/z/的发清晰。"
+          },
+          {
+            "word": "boost the flavor",
+            "phonetic": "/buːst ðə ˈfleɪvər/",
+            "description": "“boost”中的“oo”发音为长元音/uː/，类似于中文“乌”的音；“the”在此处弱读，通常发/ðə/或/ði/。"
+          }
+        ],
+        "sentences": [
+          [
+            "This is the one piece of equipment you need to save your supper game during the weekdays.",
+            "这是你在工作日拯救晚餐必备的一件厨具。"
+          ],
+          [
+            "We all have that even if we are working parents who still have to shuttle our kids back and forth to activities.",
+            "即使我们是双职工父母，也需要来回接送孩子参加各种活动，我们所有人都有这点时间。"
+          ],
+          [
+            "Remember that caramelization that happens during roasting equals flavor.",
+            "记住，烘烤过程中发生的焦糖化反应就等于风味。"
+          ],
+          [
+            "It just kind of takes the work off of your brain to even have to think about flavors.",
+            "它能让你不必费神去考虑调味的问题。"
+          ],
+          [
+            "My mouth is kind of watering.",
+            "我有点流口水了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "连词 \"even if\"",
+            "引导让步状语从句，表示“即使”、“尽管”",
+            "\"We all have that **even if** we are working parents who still have to shuttle our kids back and forth to activities.\""
+          ],
+          [
+            "动词短语 \"cooked through\"",
+            "表示食物“完全煮熟”或“彻底烤熟”",
+            "\"My chicken is **cooked through** and the skin's good and crispy.\""
+          ]
+        ]
+      },
+      {
+        "video_id": "JelAoVwdiYw",
+        "title": "CHICKEN MARSALA | The Perfect Easy Weeknight Dinner Recipe!",
+        "url": "https://www.youtube.com/watch?v=JelAoVwdiYw",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频教授如何制作经典的意大利美式菜肴——鸡肉马沙拉。主厨首先准备蘑菇、青葱和香菜，然后将鸡胸肉切半并裹粉煎至金黄。接着，她用剩下的油和黄油炒香蘑菇、蒜末和青葱，并加入鸡汤、马沙拉酒和奶油炖煮成浓郁的酱汁。最后，将煎好的鸡肉回锅与酱汁一同煨煮，撒上香菜即可享用，并推荐搭配土豆泥。",
+        "cards": "drizzle over\n---\n--\n（把液体）淋在…上面\nThat Marsala wine sauce drizzled over mashed potatoes is seriously next-level delicious.\n马沙拉葡萄酒酱淋在土豆泥上，简直是极致美味。\n\ngummy\n---\n--\n黏的，粘性的\nI’m using cornstarch as I’m gluten-free, and while I often use arrowroot powder in recipes, it’s not my favorite for this one, as it can become gummy with the longer simmer time.\n我用玉米淀粉，因为我吃无麸质食物，虽然我经常在食谱中使用葛粉，但这次我不太喜欢用它，因为它炖煮时间长了会变粘。\n\nfond\n---\n--\n煎锅底部的焦末\nAnd don’t worry about any of that brown fond sticking to the bottom of the pan, as we’ll release that here in a second when we add some liquid.\n别担心锅底那些焦褐色的底料（fond），我们稍后加入液体时就会把它们刮起来。\n\ntantalizing\n---\n--\n诱人的，吊人胃口的\nThe smell of the Marsala wine sauce cooking this dish is so tantalizing.\n这道菜烹饪时散发的马沙拉葡萄酒酱的香气真是太诱人了。\n\nwhip up\n---\n--\n迅速准备好（饭菜）\nIt’s really easy to whip up.\n这道菜做起来真的很容易。\n\ncan't get enough of\n---\n--\n对…爱不释手，非常喜欢\nI didn’t like mushrooms for my entire life growing up, but a couple of years ago, I started loving mushrooms, and now I can’t get enough of dishes like this.\n我小时候一辈子都不喜欢蘑菇，但几年前，我开始喜欢蘑菇了，现在我对这样的菜肴爱不释手。\n\nI highly doubt\n---\n--\n我非常怀疑\nI highly doubt you’re going to have leftovers if you serve this up for a family.\n如果你把这道菜端给家人吃，我非常怀疑你会有剩菜。",
+        "pronunciation": [
+          {
+            "word": "drizzle over",
+            "phonetic": "/ˈdrɪzəl ˈoʊvər/",
+            "description": "\"drizzle\"的\"z\"发浊辅音，舌尖轻触上齿龈；\"over\"的\"o\"发长音。"
+          },
+          {
+            "word": "gummy",
+            "phonetic": "/ˈɡʌmi/",
+            "description": "\"g\"发浊辅音，舌根抵住软腭；\"u\"发短音/ʌ/，像\"啊\"。"
+          },
+          {
+            "word": "fond",
+            "phonetic": "/fɒnd/",
+            "description": "\"o\"发/ɒ/音，像\"奥\"；注意不要发成/ɔː/。"
+          },
+          {
+            "word": "tantalizing",
+            "phonetic": "/ˈtæntəlaɪzɪŋ/",
+            "description": "重音在第二个音节/tæ/；\"i\"发/aɪ/音，像\"挨\"。"
+          },
+          {
+            "word": "whip up",
+            "phonetic": "/wɪp ʌp/",
+            "description": "\"whip\"的\"i\"发短音/ɪ/，像\"伊\"；\"up\"的\"u\"发短音/ʌ/，像\"啊\"。"
+          },
+          {
+            "word": "can't get enough of",
+            "phonetic": "/kænt ɡɛt ɪˈnʌf ʌv/",
+            "description": "\"can't\"的\"a\"发/æ/音，嘴巴张大；\"enough\"的\"o\"发/ʌ/音，\"gh\"发/f/音。"
+          },
+          {
+            "word": "I highly doubt",
+            "phonetic": "/aɪ ˈhaɪli daʊt/",
+            "description": "\"highly\"的\"h\"要发音；\"doubt\"的\"ou\"发/aʊ/音，像\"傲\"。"
+          }
+        ],
+        "sentences": [
+          [
+            "Many of you have probably ordered this before in your favorite Italian restaurant, but today, I'm going to show you how to make this classic dish at home.",
+            "你们许多人可能在你们最喜欢的意大利餐厅点过这道菜，但今天，我将向你们展示如何在家里制作这道经典菜肴。"
+          ],
+          [
+            "The most important thing is just to not let them soak in water for too long, as they do absorb moisture quite easily.",
+            "最重要的是不要让它们浸泡在水中太久，因为它们确实很容易吸收水分。"
+          ],
+          [
+            "Just take your time and go slow; there are no extra points for speed here.",
+            "慢慢来，别着急；这里不讲究速度。"
+          ],
+          [
+            "Don't worry about any of that brown fond sticking to the bottom of the pan, as we'll release that here in a second when we add some liquid.",
+            "别担心锅底那些焦褐色的底料（fond）会粘在锅底，我们稍后加入液体时就会把它们刮起来。"
+          ],
+          [
+            "There's just something about that aroma that makes my tastebuds happy.",
+            "这种香气总能让我的味蕾感到愉悦。"
+          ]
+        ],
+        "grammar": [
+          [
+            "定语从句",
+            "解释：用来修饰名词或代词的从句，通常由关系代词（如who, whom, whose, which, that）或关系副词（如where, when, why）引导。",
+            "视频例子: Chicken Marsala is a very popular Italian-American dish of seared chicken breasts and sliced mushrooms that simmers in a rich Marsala wine sauce for one fantastically flavored meal. (that simmers in a rich Marsala wine sauce for one fantastically flavored meal 是修饰 \"seared chicken breasts and sliced mushrooms\" 的定语从句)"
+          ],
+          [
+            "as 作为连词表原因",
+            "解释：\"as\"在这里用作连词，表示原因，相当于\"because\"或\"since\"。",
+            "视频例子: The most important thing is just to not let them soak in water for too long, as they do absorb moisture quite easily. (最重要的是不要让它们浸泡在水中太久，因为它们确实很容易吸收水分。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
