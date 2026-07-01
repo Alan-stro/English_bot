@@ -16567,5 +16567,138 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-01",
+    "topic": "Daily skincare routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "OrElyY7MFVs",
+        "title": "My Evidence-Based Skincare Routine",
+        "url": "https://www.youtube.com/watch?v=OrElyY7MFVs",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频深入探讨了如何建立一个高效且有科学依据的护肤程序。主讲人Ali Abdaal在纽约认证皮肤科医生Dr. Usama Syed的帮助下，介绍了护肤的三大核心要素：保湿、防晒和类维生素A。视频详细解释了每种产品背后的科学原理，例如保湿霜如何维持皮肤屏障，防晒霜如何防止光老化和皮肤癌，以及类维生素A如何促进胶原蛋白生成和减少皱纹。Ali还分享了他自己日常使用的具体产品及价格，并强调护肤产品不必昂贵，关键在于选择适合自己的有效成分并坚持使用。",
+        "cards": "skincare routine\n---\n--\n护肤程序\n英文例句：Having the perfect skincare routine is actually pretty simple.\n中文例句：建立一个简单的护肤程序能帮助你改善皮肤。\n\nenlisted the help of\n---\n--\n寻求（某人的）帮助\n英文例句：So, I've enlisted the help of my friend and New York trained dermatologist, Dr. Usama Syed.\n中文例句：为了完成这个项目，我寻求了我同事的帮助。\n\nacts as a barrier\n---\n--\n充当屏障\n英文例句：The most important thing that the skin does is that it acts as a barrier to the outside world.\n中文例句：皮肤充当屏障，保护我们的身体免受外部环境的影响。\n\nstrips away\n---\n--\n剥离；除去\n英文例句：A hot shower dries out your skin and strips away your natural protective layer of oils.\n中文例句：这种强效清洁剂会剥离家具上的油漆。\n\nphotoaging\n---\n--\n光老化（皮肤因阳光照射而老化）\n英文例句：Technically, this is called photoaging or dermatoheliosis.\n中文例句：长期暴露在阳光下会导致皮肤光老化。\n\nplaying a long game\n---\n--\n打持久战；从长远考虑\n英文例句：Remember that you are playing a really long game because it does take a long time to see results.\n中文例句：成功的投资者懂得打持久战，而不是追求短期收益。\n\nover-the-counter\n---\n--\n非处方药（或无需处方即可购买的产品）\n英文例句：If you see any kind of skincare product labeled anti-aging and you can get it over-the-counter, it usually has some kind of retinol in it.\n中文例句：你可以在药店买到许多非处方的感冒药。",
+        "pronunciation": [
+          {
+            "word": "skincare routine",
+            "phonetic": "ˈskɪnˌkɛr ruːˈtiːn",
+            "description": "'skin'的/ɪ/音和'care'的/ɛər/音，'routine'重音在第二个音节/tiːn/。"
+          },
+          {
+            "word": "enlisted the help of",
+            "phonetic": "ɪnˈlɪstɪd ðə hɛlp ɒv",
+            "description": "'enlisted'的/ɪn/和/lɪstɪd/发音，注意非重读的'the'和'of'。"
+          },
+          {
+            "word": "acts as a barrier",
+            "phonetic": "æktz əz ə ˈbæriər",
+            "description": "'acts'的s发/z/音，'as a'连读，'barrier'重音在第一音节，/æ/音是短/a/。"
+          },
+          {
+            "word": "strips away",
+            "phonetic": "strɪps əˈweɪ",
+            "description": "'strips'的/ɪ/音，s发/s/音，'away'重音在第二个音节，/əˈweɪ/。"
+          },
+          {
+            "word": "photoaging",
+            "phonetic": "ˌfoʊtoʊˈeɪdʒɪŋ",
+            "description": "'photo'发/foʊtoʊ/，'aging'发/eɪdʒɪŋ/，重音在/eɪ/音节。"
+          },
+          {
+            "word": "playing a long game",
+            "phonetic": "ˈpleɪɪŋ ə lɒŋ ɡeɪm",
+            "description": "'playing'的/pleɪɪŋ/，'long'的/ɒ/音，'game'的/eɪ/音。"
+          },
+          {
+            "word": "over-the-counter",
+            "phonetic": "ˈoʊvər ðə ˈkaʊntər",
+            "description": "'over'的/oʊvər/，'the'非重读，'counter'重音在第一个音节，/kaʊntər/。"
+          }
+        ],
+        "sentences": [
+          [
+            "Having the perfect skincare routine is actually pretty simple.",
+            "拥有完美的护肤程序实际上非常简单。"
+          ],
+          [
+            "What are the actions that I can take right now, today, that my future self would be very glad for?",
+            "我现在，今天，能采取什么行动，让未来的自己会非常高兴？"
+          ],
+          [
+            "The problem is that there are millions of skincare products out there.",
+            "问题在于市面上有数百万种护肤产品。"
+          ],
+          [
+            "It doesn't really matter which type of variety you go for.",
+            "你选择哪种类型其实并不重要。"
+          ],
+          [
+            "It's simplified the whole thing.",
+            "这简化了整个事情。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Present Participle as Adjective Clause",
+            "现在分词作定语从句，通常省略了\"which is/are\"等",
+            "\"A 69-year-old man presented with a 25-year history of gradual, asymptomatic thickening and wrinkling of the skin on the left side of his face. Findings were consistent with the Favre-Racouchot syndrome of photodamaged skin, *known as dermatoheliosis*.\""
+          ],
+          [
+            "Comparative Adjective with \"than\"",
+            "用于比较两者之间的程度差异",
+            "\"You'll see a bigger change with retinoids than retinols, because they're stronger, but the side effects can potentially be stronger as well.\""
+          ]
+        ]
+      },
+      {
+        "video_id": "9wdisivSWYU",
+        "title": "Hailey Bieber’s Quick Everyday Morning Routine | Beauty Secrets | Vogue",
+        "url": "https://www.youtube.com/watch?v=9wdisivSWYU",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "Hailey Bieber分享了她简单高效的日常护肤和妆容。她早上通常只用清水洗脸，然后使用爽肤水、自创品牌的提亮精华乳和防晒霜，以保持肌肤水润光泽。在彩妆方面，她偏爱清透自然的底妆，只用少量遮瑕膏和提亮液，并用眉胶和腮红增强面部立体感，最后用雀斑笔增加青春气息。她强调通过试错找到适合自己的产品，并喜欢用定妆喷雾保持肌肤清新。",
+        "cards": "slathered and lathered\n---\n--\n中文核心释义：涂抹得厚厚的；充分润湿的\n英文例句：Nighttime is more so where I'm slathered and lathered and glazed and baking.\n中文例句：晚上我更倾向于涂抹厚厚的、亮晶晶的、像烤面饼一样（的护肤品）。\n\ngravitate towards\n---\n--\n中文核心释义：倾向于；受吸引到\n英文例句：I am gravitating towards things and looking for more things that make my routine a lot easier and a lot simpler.\n中文例句：我倾向于寻找那些能让我的日常变得更简单轻松的东西。\n\nsheer out\n---\n--\n中文核心释义：稀释；减淡（妆容）\n英文例句：I use it mixed with my foundation to kind of sheer out the foundation and give your skin this really beautiful luminous second skin kind of a look.\n中文例句：我把它和我的粉底液混合使用，这样能让粉底液更清透，让你的皮肤呈现出一种美丽的光泽感和第二层皮肤的效果。\n\nluminous\n---\n--\n中文核心释义：发光的；明亮的；光彩照人的\n英文例句：I use it mixed with my foundation to kind of sheer out the foundation and give your skin this really beautiful luminous second skin kind of a look.\n中文例句：我把它和我的粉底液混合使用，这样能让粉底液更清透，让你的皮肤呈现出一种美丽的光泽感和第二层皮肤的效果。\n\nget the brunt of\n---\n--\n中文核心释义：承受（打击或后果）最严重的冲击\n英文例句：Your hands get the brunt of aging.\n中文例句：你的手首当其冲地承受了衰老。\n\ntrial and error\n---\n--\n中文核心释义：反复试验；试错\n英文例句：I feel like finding the right sunscreen just takes trial and error.\n中文例句：我觉得找到合适的防晒霜需要反复试验。\n\n--PRONUNICATION---\n---\nslathered | /ˈslæðərd/ | slath-erd（注意\"th\"发浊辅音 /ð/，舌尖轻触上齿，气流振动）\nlathered | /ˈlæðərd/ | lath-erd（同上，\"th\"发浊辅音 /ð/）\ngravitate towards | /ˈɡrævɪteɪt təˈwɔːrdz/ | grav-i-tate tuh-wordz（“gravitate”重音在第一音节，\"towards\"中的\"to\"常弱读成 /tə/）\nluminous | /ˈluːmɪnəs/ | loo-min-us（重音在第一音节）\nbrunt | /brʌnt/ | brunt（注意“br”的连读，元音为 /ʌ/）\ntrial and error | /ˈtraɪəl ənd ˈɛrər/ | try-uhl and err-er（“and”通常弱读为 /ənd/ 或 /ən/）\n\n--SUMMARY---\n---\nHailey Bieber分享了她简单高效的日常护肤和妆容。她早上通常只用清水洗脸，然后使用爽肤水、自创品牌的提亮精华乳和防晒霜，以保持肌肤水润光泽。在彩妆方面，她偏爱清透自然的底妆，只用少量遮瑕膏和提亮液，并用眉胶和腮红增强面部立体感，最后用雀斑笔增加青春气息。她强调通过试错找到适合自己的产品，并喜欢用定妆喷雾保持肌肤清新。\n\n--SENTENCES---\n---\nI like to keep it super, super simple in the daytime. | 我白天喜欢让它超级超级简单。\nNighttime is more so where I'm slathered and lathered and glazed and baking. | 晚上我更倾向于涂抹厚厚的、亮晶晶的、像烤面饼一样（的护肤品）。\nI have yet to find something that I think is a better applicator for makeup than your finger. | 我还没有找到比手指更好的化妆工具。\nOne of the things that breaks me out the most is sunscreen. | 最让我长痘的东西之一是防晒霜。\nIt just depends on what I'm feeling at the time and depends on my mood. | 这就取决于我当时的感觉和心情。\n\n--GRAMMAR---\n---\nMore so | 解释：表示“更倾向于”、“主要是”，用于强调某个方面而非其他。 | 视频例子：Nighttime is more so where I'm slathered and lathered and glazed and baking.\nHave yet to + Verb | 解释：表示“尚未做某事”，通常带有期待或未完成的意味。 | 视频例子：I have yet to find something that I think is a better applicator for makeup than your finger",
+        "pronunciation": [],
+        "sentences": [
+          [
+            "I like to keep it super, super simple in the daytime.",
+            "我白天喜欢让它超级超级简单。"
+          ],
+          [
+            "Nighttime is more so where I'm slathered and lathered and glazed and baking.",
+            "晚上我更倾向于涂抹厚厚的、亮晶晶的、像烤面饼一样（的护肤品）。"
+          ],
+          [
+            "I have yet to find something that I think is a better applicator for makeup than your finger.",
+            "我还没有找到比手指更好的化妆工具。"
+          ],
+          [
+            "One of the things that breaks me out the most is sunscreen.",
+            "最让我长痘的东西之一是防晒霜。"
+          ],
+          [
+            "It just depends on what I'm feeling at the time and depends on my mood.",
+            "这就取决于我当时的感觉和心情。"
+          ]
+        ],
+        "grammar": [
+          [
+            "More so",
+            "解释：表示“更倾向于”、“主要是”，用于强调某个方面而非其他。",
+            "视频例子：Nighttime is more so where I'm slathered and lathered and glazed and baking."
+          ],
+          [
+            "Have yet to + Verb",
+            "解释：表示“尚未做某事”，通常带有期待或未完成的意味。",
+            "视频例子：I have yet to find something that I think is a better applicator for makeup than your finger."
+          ]
+        ]
+      }
+    ]
   }
 ]
