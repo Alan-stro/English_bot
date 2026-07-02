@@ -16700,5 +16700,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-02",
+    "topic": "Plant care routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "f8nsXcxySig",
+        "title": "Succulent Tips for Beginners // Garden Answer",
+        "url": "https://www.youtube.com/watch?v=f8nsXcxySig",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频提供了10个针对多肉植物初学者的养护小贴士。内容包括选择带排水孔的花盆、使用仙人掌和多肉专用土壤、挑选健康的植物、正确的种植和浇水方法、提供充足的光照、适当施肥、警惕病虫害、定期修剪以及关注温度变化。视频强调了从经验中学习的重要性，并鼓励观众即使初次失败也不要气馁。",
+        "cards": "geared toward\n---\n--\n面向；针对\n英文例句：And this information is going to be geared a little bit more toward beginners.\n中文例句：这个项目是面向年轻企业家的。\n\nsucculents 101\n---\n--\n多肉植物入门（某个主题的入门课程）\n英文例句：So kind of a succulents 101.\n中文例句：这是一门关于编程的入门课程。\n\nrule of thumb\n---\n--\n经验法则；一般原则\n英文例句：The rule of thumb is to allow the soil to dry between waterings.\n中文例句：作为一个经验法则，最好在早上锻炼。\n\non the flip side\n---\n--\n另一方面；反过来说\n英文例句：But on the flip side, in the winter time, you may need to provide extra light.\n中文例句：买新车很方便，但另一方面，它很贵。\n\nkeep an eye out for\n---\n--\n留意；注意寻找\n英文例句：Tip eight is to keep your eyes out for insects.\n中文例句：我开车时会留意路上有没有鹿。\n\ngroom\n---\n--\n（植物）修剪；（动物/人）梳理\n英文例句：Tip nine is to groom your plants.\n中文例句：她花了很多时间梳理她的宠物狗。\n\nas a side note\n---\n--\n顺便提一下\n英文例句：And as a side note, there are several succulents that produce a really fine powder on their foliage.\n中文例句：顺便说一句，会议在周五举行。\n\nrefrain from\n---\n--\n避免；克制\n英文例句：Try to refrain from touching that foliage.\n中文例句：请克制自己不要在博物馆里拍照。",
+        "pronunciation": [
+          {
+            "word": "geared toward",
+            "phonetic": "/ɡɪərd tɔrd/",
+            "description": "\"geared\"的\"r\"音要卷舌，\"toward\"的\"r\"音也要卷舌。"
+          },
+          {
+            "word": "succulents 101",
+            "phonetic": "/ˈsʌkjələnts wʌn oʊ wʌn/",
+            "description": "\"succulents\"的\"u\"发短音/ʌ/，\"101\"读作\"one oh one\"。"
+          },
+          {
+            "word": "rule of thumb",
+            "phonetic": "/ruːl əv θʌm/",
+            "description": "\"thumb\"的\"th\"发/θ/音，是无声的，而不是/d/或/t/。"
+          },
+          {
+            "word": "on the flip side",
+            "phonetic": "/ɒn ðə flɪp saɪd/",
+            "description": "\"flip\"的\"i\"发短音/ɪ/。"
+          },
+          {
+            "word": "keep an eye out for",
+            "phonetic": "/kiːp ən aɪ aʊt fɔːr/",
+            "description": "\"keep an\"连读，\"eye out\"也连读。"
+          },
+          {
+            "word": "groom",
+            "phonetic": "/ɡruːm/",
+            "description": "\"oo\"发长音/uː/。"
+          },
+          {
+            "word": "as a side note",
+            "phonetic": "/æz ə saɪd noʊt/",
+            "description": "\"as a\"可以连读，\"side\"的\"i\"发长音/aɪ/。"
+          },
+          {
+            "word": "refrain from",
+            "phonetic": "/rɪˈfreɪn frɒm/",
+            "description": "\"refrain\"的\"re\"发/rɪ/，重音在\"frain\"。"
+          }
+        ],
+        "sentences": [
+          [
+            "This information is going to be geared a little bit more toward beginners, so kind of a succulents 101.",
+            "这些信息将更倾向于初学者，算是多肉植物的入门课程。"
+          ],
+          [
+            "The rule of thumb is to allow the soil to dry between waterings.",
+            "经验法则是让土壤在两次浇水之间变干。"
+          ],
+          [
+            "But on the flip side, in the winter time, you may need to provide extra light when the days are shorter and the light is not as intense.",
+            "但另一方面，在冬天，当日照时间较短且光线不那么强烈时，你可能需要提供额外的光照。"
+          ],
+          [
+            "The insects that I deal with the most are mealy bugs, which are tiny little insects that look like they're covered in cotton.",
+            "我最常处理的害虫是粉蚧，它们是看起来像被棉花覆盖的小昆虫。"
+          ],
+          [
+            "As a side note, there are several succulents that produce a really fine powder on their foliage.",
+            "顺便说一句，有几种多肉植物的叶子上会产生一层非常细的粉末。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "解释：被动语态用于强调动作的承受者而非执行者。",
+            "视频例子：And this information is going to be geared a little bit more toward beginners. (这些信息将更面向初学者。)"
+          ],
+          [
+            "动词不定式/动名词作目的状语",
+            "解释：在动词或形容词后使用动词不定式（to + 动词原形）或动名词（动词-ing形式）来表示目的或结果。",
+            "视频例子：Tip nine is to groom your plants. (第九个技巧是修剪你的植物。) / The rule of thumb is to allow the soil to dry between waterings. (经验法则是让土壤在两次浇水之间变干。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "ctN_xAIsAYM",
+        "title": "How to Revive Any Dying Plant With This Simple Trick (Works Every Time!)🌳",
+        "url": "https://www.youtube.com/watch?v=ctN_xAIsAYM",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频展示了如何挽救一盆濒死的红掌。首先，将植物从旧花盆中取出，仔细清除旧土壤和腐烂的根茎。然后，用肉桂粉和热水制作消毒溶液浸泡植物根部并擦拭叶片，再用浸泡过的白米水进一步滋养。最后，将红掌重新种入混合了园土和椰糠的疏松透气新土壤中。经过四个月的耐心照料，植物奇迹般地恢复了生机，长出了新叶和花苞，重新绽放活力。",
+        "cards": "on the brink of collapse\n---\n--\n濒临崩溃/瓦解\n英文例句：Even if it's wilting, dropping leaves, or on the brink of collapse.\n中文例句：即使它正在枯萎、掉叶，或者濒临瓦解。\n\nregain vitality\n---\n--\n恢复生机\n英文例句：But also helps the plant regain vitality from deep within.\n中文例句：但也能帮助植物从深处恢复生机。\n\ndegraded growing medium\n---\n--\n劣质种植介质\n英文例句：A chance to begin anew, free from pathogens, excess substances, or degraded growing medium.\n中文例句：一个重新开始的机会，摆脱病原体、多余物质或劣质种植介质的困扰。\n\nhinder the plant's oxygen absorption\n---\n--\n阻碍植物的氧气吸收\n英文例句：Which could hinder the plant's oxygen absorption process.\n中文例句：这可能会阻碍植物的氧气吸收过程。\n\nbrimming with vitality\n---\n--\n充满生机\n英文例句：New shoots have begun to emerge, brimming with vitality.\n中文例句：新芽开始萌发，充满生机。\n\nunfurl\n---\n--\n（叶子、花瓣等）展开，舒展\n英文例句：Young leaves unfurl little by little, lush green and fresh.\n中文例句：嫩叶一点点舒展，郁郁葱葱，清新翠绿。",
+        "pronunciation": [
+          {
+            "word": "on the brink of collapse",
+            "phonetic": "/ɒn ðə brɪŋk əv kəˈlæps/",
+            "description": "ɒn ðə ˈbrɪŋk ɒv kə-LAPS (注意\"collapse\"的重音在第二音节)"
+          },
+          {
+            "word": "regain vitality",
+            "phonetic": "/riːˈɡeɪn vaɪˈtæləti/",
+            "description": "ˌriː-ˈɡeɪn vaɪ-ˈtæ-lə-tee (注意\"regain\"和\"vitality\"的重音)"
+          },
+          {
+            "word": "degraded growing medium",
+            "phonetic": "/ˈdeɪɡreɪdɪd ˈɡroʊɪŋ ˈmiːdiəm/",
+            "description": "ˈdeɪ-ɡreɪ-dɪd ˈɡroʊ-ɪŋ ˈmee-dee-əm (注意\"degraded\"的重音和\"medium\"的发音)"
+          },
+          {
+            "word": "hinder the plant's oxygen absorption",
+            "phonetic": "/ˈhɪndər ðə plænts ˈɒksɪdʒən əbˈzɔːrpʃən/",
+            "description": "ˈhɪn-dər ðə PLÆNTS ˈɒk-sɪ-dʒən əb-ˈzɔːrp-ʃən (注意\"hinder\"和\"absorption\"的重音，\"absorption\"的/əb/发音)"
+          },
+          {
+            "word": "brimming with vitality",
+            "phonetic": "/ˈbrɪmɪŋ wɪð vaɪˈtæləti/",
+            "description": "ˈbrɪm-ɪŋ wɪð vaɪ-ˈtæ-lə-tee (注意\"brimming\"的/ɪ/音和\"vitality\"的重音)"
+          },
+          {
+            "word": "unfurl",
+            "phonetic": "/ʌnˈfɜːrl/",
+            "description": "ʌn-ˈfɜːrl (注意\"unfurl\"的重音在第二音节，/ɜːr/的发音)"
+          }
+        ],
+        "sentences": [
+          [
+            "Don't give up just yet.",
+            "别这么快就放弃。"
+          ],
+          [
+            "A chance to begin anew, free from pathogens, excess substances, or degraded growing medium.",
+            "一个重新开始的机会，摆脱病原体、多余物质或劣质种植介质的困扰。"
+          ],
+          [
+            "This pruning process is not an act of cruelty. It's a crucial step to allow the plant to focus its energy on the healthy parts that still have the potential to recover.",
+            "这个修剪过程并非残忍之举。这是关键一步，让植物将能量集中在仍有恢复潜力的健康部位。"
+          ],
+          [
+            "Which country are you watching this video from?",
+            "你是从哪个国家观看这个视频的？"
+          ],
+          [
+            "A vibrant season born from patience and loving care.",
+            "一个充满活力的季节，诞生于耐心和关爱。"
+          ]
+        ],
+        "grammar": [
+          [
+            "并列连词 \"not only... but also...\"",
+            "用于连接两个并列的成分，表示“不仅……而且……”，起到强调作用。",
+            "It not only focuses on treating symptoms, but also helps the plant regain vitality from deep within."
+          ],
+          [
+            "过去分词作形容词",
+            "过去分词可以作形容词，修饰名词，表示被动或完成的状态。",
+            "It doesn't matter if the plant is waterlogged, dried out, or lacking nutrients."
+          ]
+        ]
+      }
+    ]
   }
 ]
