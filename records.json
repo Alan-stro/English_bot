@@ -17565,5 +17565,170 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-07",
+    "topic": "Weekly grocery haul",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "83KHLurHKXQ",
+        "title": "1 WEEK&#39;S GROCERY HAUL | locking in... (kind of)",
+        "url": "https://www.youtube.com/watch?v=83KHLurHKXQ",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位女士分享了她去超市购物的经历。她展示了根据食物类别（蛋白质、水果/蔬菜、碳水化合物、液体和零食）整理好的购物清单。她在超市里边走边点评每种商品的特点和价格，还幽默地分享了她的购物策略，比如避免诱惑、购物前吃饱以及如何选择性价比高的商品。最后，她在厨房里展示了自己日常使用的补充剂，并强调了营养均衡对身体健康的重要性。",
+        "cards": "Nourish up\n---\n--\n中文核心释义：通过食物来滋养身体（非正式用法）。\n英文例句：So, let's nourish up.\n中文例句：所以，让我们好好滋养一下身体吧。\n\nStick to the perimeter\n---\n--\n中文核心释义：坚守周边区域（在超市语境中，指购物时沿着超市外围区域走，通常新鲜食品和必需品在那里）。\n英文例句：Very important to always stick to the perimeter as that's where they limit the temptations.\n中文例句：非常重要的是要始终沿着超市外围走，因为那里可以限制诱惑。\n\nSus\n---\n--\n中文核心释义：可疑的，不正常的（俚语）。\n英文例句：This chicken looks kind of sus.\n中文例句：这鸡肉看起来有点可疑。\n\nAtrocious\n---\n--\n中文核心释义：极坏的，极度残忍的，令人震惊的（表示程度很深）。\n英文例句：99% lean, which I know is just going to be atrocious.\n中文例句：99%瘦肉，我知道那口感一定会很差劲。\n\nResort to\n---\n--\n中文核心释义：不得不求助于，诉诸于（在别无选择的情况下采取某种方法）。\n英文例句：So I'm gonna have to resort to buying it packaged.\n中文例句：所以我不得不去买那种包装好的（生菜）。\n\nPrimal\n---\n--\n中文核心释义：原始的，基本的。\n英文例句：It's like this primal like itchy urge, like you can't control it.\n中文例句：这就像一种原始的痒痒的冲动，你无法控制它。\n\nBare minimum\n---\n--\n中文核心释义：最低限度，最起码的要求。\n英文例句：For me, it's the bare minimum: just track your protein and try to get enough protein.\n中文例句：对我来说，这只是最起码的要求：就是追踪你的蛋白质摄入量，并努力摄入足够的蛋白质。",
+        "pronunciation": [
+          {
+            "word": "Nourish up",
+            "phonetic": "/ˈnɜːrɪʃ ʌp/",
+            "description": "“诺瑞什 阿普”，注意“nourish”中的 /ɜː/ 音，发音时舌头居中，嘴唇微张。"
+          },
+          {
+            "word": "Stick to the perimeter",
+            "phonetic": "/stɪk tuː ðə pəˈrɪmɪtər/",
+            "description": "“斯提克 图 德 帕瑞米特尔”，注意“perimeter”中重音在第二个音节。"
+          },
+          {
+            "word": "Sus",
+            "phonetic": "/sʌs/",
+            "description": "“萨斯”，像中文的“飒”加上一个s音。"
+          },
+          {
+            "word": "Atrocious",
+            "phonetic": "/əˈtroʊʃəs/",
+            "description": "“厄特罗希斯”，注意重音在第二个音节“tro”。"
+          },
+          {
+            "word": "Resort to",
+            "phonetic": "/rɪˈzɔːrt tuː/",
+            "description": "“瑞佐特 图”，重音在“zort”，/ɔːr/ 音。"
+          },
+          {
+            "word": "Primal",
+            "phonetic": "/ˈpraɪməl/",
+            "description": "“普赖默尔”，重音在第一个音节“pri”。"
+          },
+          {
+            "word": "Bare minimum",
+            "phonetic": "/bɛər ˈmɪnɪməm/",
+            "description": "“贝尔 迷你猛”，注意“bare”和“minimum”的连读。"
+          }
+        ],
+        "sentences": [
+          [
+            "1.  Let's nourish up.",
+            "让我们好好滋养一下身体吧。"
+          ],
+          [
+            "2.  Very important to always stick to the perimeter as that's where they limit the temptations.",
+            "非常重要的是要始终沿着超市外围走，因为那里可以限制诱惑。"
+          ],
+          [
+            "3.  This chicken looks kind of sus.",
+            "这鸡肉看起来有点可疑。"
+          ],
+          [
+            "4.  I also went into like this mini starvation mode. I felt like I wanted to binge a lot.",
+            "我也进入了一种迷你饥饿模式，我感觉自己非常想暴饮暴食。"
+          ],
+          [
+            "5.  If you know the feeling, you know the feeling. It's like this primal like itchy urge, like you can't control it.",
+            "如果你懂那种感觉，你就懂了。那就像一种原始的痒痒的冲动，你无法控制。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1.  **\"Like\" 作为话语标记词**",
+            "“Like”在口语中常被用作话语标记词 (discourse marker)，可以用于停顿、填充空白、引入新信息或强调语气，而不具有实际的语法功能。",
+            "视频例子: \"It's like this primal **like** itchy urge, **like** you can't control it.\""
+          ],
+          [
+            "2.  **动词短语 \"Resort to\"**",
+            "\"Resort to\" 表示别无选择之下“求助于、诉诸于”某种通常不太理想的方法。",
+            "视频例子: \"So I'm gonna have to **resort to** buying it packaged.\""
+          ]
+        ]
+      },
+      {
+        "video_id": "JOIWqmvLu3A",
+        "title": "GROCERY HAUL! EASY DINNER IDEAS + WHAT I EAT IN A WEEK! FOOD HAUL",
+        "url": "https://www.youtube.com/watch?v=JOIWqmvLu3A",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位女士展示了她为一家四口购买的一周食材，总花费125.50美元。她详细介绍了如何健康地规划一周的晚餐、早餐和午餐，并强调许多食材可以用于多种餐点，从而节省开支。她还提到了对有机和全谷物食品的个人偏好，最后以一段关于自我接纳和身体积极性的励志名言结束视频。",
+        "cards": "grocery haul\n---\n--\n采购食品（尤其指一次性大量购买）\n英文例句：And I'm going to show you how to meal plan five healthy dinners, breakfasts and lunches for the week with all of the food in this grocery store haul.\n中文例句：我将向你展示如何为一周计划五顿健康的晚餐、早餐和午餐，所有食物都在这次超市大采购中。\n\nmeal plan\n---\n--\n膳食计划\n英文例句：So here's all of the food that I just got at the grocery store for our meal plan this week.\n中文例句：所以这是我刚从超市买回来的所有食物，用于我们这周的膳食计划。\n\ncrosses over\n---\n--\n（在此语境中）多种用途\n英文例句：And I'll kind of go through everything and explain then how some of this stuff then crosses over for breakfast or lunches.\n中文例句：我将介绍所有物品，然后解释其中一些东西如何也适用于早餐或午餐。\n\ngo-to\n---\n--\n首选的；经常用的\n英文例句：And that's another one of my go-to snacks is that I have a banana with just a scoop of peanut butter.\n中文例句：我的另一个首选零食是香蕉配一勺花生酱。\n\nsneak in\n---\n--\n偷偷加入；悄悄塞入\n英文例句：I was thinking even adding it in to the pasta could be a way to like sneak in some veggies for the kids.\n中文例句：我当时想，甚至把它加到意大利面里，可能是一种为孩子们悄悄加入蔬菜的方式。\n\naffordably\n---\n--\n价格实惠地\n英文例句：I hope that this is useful to you to have some really healthy go-to meals and that are actually relatively affordably.\n中文例句：我希望这能对你有所帮助，能有一些真正健康且相对实惠的常备餐。\n\nphase\n---\n--\n使（某人）烦恼；使（某人）担心\n英文例句：They usually don't mind the pepper jack. I know a lot of other kids might think it's spicy, but honestly, I love spicy food so I ate a lot of really spicy stuff when I was pregnant with them, and I feel like it doesn't phase them the way it phases other kids.\n中文例句：他们通常不介意胡椒杰克芝士。我知道很多其他孩子可能会觉得辣，但说实话，我爱吃辣，所以怀孕时我吃了很多很辣的东西，我觉得这并不会像影响其他孩子那样影响他们。",
+        "pronunciation": [
+          {
+            "word": "grocery haul",
+            "phonetic": "/ˈɡroʊsəri hɔːl/",
+            "description": "“grocery”的r音要发出来，“haul”发“好儿”音"
+          },
+          {
+            "word": "meal plan",
+            "phonetic": "/miːl plæn/",
+            "description": "“meal”和“plan”分开读，注意“plan”的扁平a音"
+          },
+          {
+            "word": "crosses over",
+            "phonetic": "/ˈkrɔːsɪz ˈoʊvər/",
+            "description": "注意“crosses”的-es发/ɪz/音，与“over”连读"
+          },
+          {
+            "word": "go-to",
+            "phonetic": "/ˈɡoʊ tuː/",
+            "description": "“go”重读，发长o音"
+          },
+          {
+            "word": "sneak in",
+            "phonetic": "/sniːk ɪn/",
+            "description": "“sneak”发长ee音，与“in”连读"
+          },
+          {
+            "word": "affordably",
+            "phonetic": "/əˈfɔːrdəbli/",
+            "description": "重音在第二个音节，'a'发/ə/音"
+          },
+          {
+            "word": "phase",
+            "phonetic": "/feɪz/",
+            "description": "发长a音，结尾是浊辅音/z/"
+          }
+        ],
+        "sentences": [
+          [
+            "I only spent $125 on all of these groceries behind me.",
+            "我只花了125美元买了我身后所有这些杂货。"
+          ],
+          [
+            "I would love if you could comment what your weekly budget is for groceries.",
+            "我很乐意你能在评论区告诉我你每周的杂货预算是多少。"
+          ],
+          [
+            "A healthy lifestyle, making sure that your mental health is in a good space, and that you are happy matters more than anything.",
+            "健康的生活方式、确保你的心理健康处于良好状态以及你感到快乐，比任何事情都重要。"
+          ],
+          [
+            "There is nothing wrong with wanting to lose weight or wanting to be healthier, but you are beautiful right now regardless of the number that is on the scale or the size of your clothes.",
+            "想要减肥或变得更健康并没有错，但无论体重秤上的数字或你衣服的尺码如何，你现在都很美丽。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Modal verbs for polite request",
+            "`Could`在这里用于提出礼貌的请求或询问。",
+            "\"I would love if you **could comment** what your weekly budget is for groceries.\""
+          ],
+          [
+            "Phrasal verb + object",
+            "像`sneak in`这样的动词短语后面通常跟着一个直接宾语，表示动作作用于该宾语。",
+            "\"I was thinking even adding it in to the pasta could be a way to like **sneak in some veggies** for the kids.\""
+          ]
+        ]
+      }
+    ]
   }
 ]
