@@ -17730,5 +17730,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-08",
+    "topic": "Packing a lunch",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "nA6Aeqwumhs",
+        "title": "SCHOOL LUNCH IDEAS  🌈 Rainbow Bread FAIL",
+        "url": "https://www.youtube.com/watch?v=nA6Aeqwumhs",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频展示了博主Jennifer为孩子们准备一周校内午餐的创意。她为孩子们制作了主题午餐，包括周一的狗狗主题通心粉、周二的彩虹面包火腿芝士三明治、周三的冰雪奇缘主题沙拉（为了迪士尼乐园之行）、周四的迷你小吃盒（包含水果、黄瓜、什锦干果和饼干），以及周五的米奇华夫饼早餐主题午餐。Jennifer在准备过程中展示了如何用简单的方法使食物变得有趣，并分享了孩子们午餐后的剩余情况。",
+        "cards": "shake things up\n---\n--\n中文核心释义：改变常规，带来新意\n英文例句：But today, I thought I would shake things up and go ahead and make some mac and cheese instead.\n中文例句：但今天，我想换个花样，就去做些通心粉和奶酪吧。\n\ngo-to\n---\n--\n中文核心释义：首选的，经常使用的\n英文例句：PB&J is my go-to.\n中文例句：花生酱和果酱是我的首选。\n\ntrap in\n---\n--\n中文核心释义：困住（热量、空气等）\n英文例句：I do want to make sure to get the lids on here as quickly as I can to trap in that heat.\n中文例句：我确实想尽快把盖子盖上，以留住热量。\n\ntime-consuming\n---\n--\n中文核心释义：耗时的，费时间的\n英文例句：It's not very difficult, but it is time-consuming.\n中文例句：这不难，但很费时间。\n\ngo along with\n---\n--\n中文核心释义：与...相配/一致\n英文例句：To go along with the waffles, I'm also gonna be sending the kids with some chicken breakfast sausage.\n中文例句：除了华夫饼，我还会给孩子们带些鸡肉早餐香肠。\n\nright up my alley\n---\n--\n中文核心释义：正合我意，非常适合我\n英文例句：I love all things Disney, so these Mickey waffles are right up my alley.\n中文例句：我喜欢所有迪士尼的东西，所以这些米奇华夫饼正合我意。\n\nstock up\n---\n--\n中文核心释义：储备，囤积\n英文例句：We went to Costco and to Trader Joe's and to Sam's Club, and we definitely stocked up.\n中文例句：我们去了好市多、缺德舅和山姆会员店，确实囤积了不少。",
+        "pronunciation": [
+          {
+            "word": "shake things up",
+            "phonetic": "/ʃeɪk θɪŋz ʌp/",
+            "description": "“shake”的/eɪ/音，\"things\"中的/θ/音容易被读成/s/或/f/，注意舌尖轻触上齿，\"up\"的/ʌ/音。"
+          },
+          {
+            "word": "go-to",
+            "phonetic": "/ˈɡoʊ tuː/",
+            "description": "\"go\"是长/oʊ/音，\"to\"是短/uː/音，注意连读。"
+          },
+          {
+            "word": "trap in",
+            "phonetic": "/træp ɪn/",
+            "description": "\"trap\"的短/æ/音，注意与\"in\"连读，听起来像\"tra-pin\"。"
+          },
+          {
+            "word": "time-consuming",
+            "phonetic": "/ˈtaɪm kənˌsuːmɪŋ/",
+            "description": "\"time\"是长/aɪ/音，\"consuming\"重音在第二个音节/suː/。"
+          },
+          {
+            "word": "go along with",
+            "phonetic": "/ɡoʊ əˈlɔŋ wɪð/",
+            "description": "注意\"along\"的/ɔː/音，\"with\"中的/ð/音（浊辅音），舌尖轻触上齿，但发声，与\"along\"连读。"
+          },
+          {
+            "word": "right up my alley",
+            "phonetic": "/ˌraɪt ʌp maɪ ˈæli/",
+            "description": "\"right\"中的\"gh\"不发音，注意\"up\"的短/ʌ/音和与\"my\"的连读，\"alley\"的重音在第一个音节。"
+          },
+          {
+            "word": "stock up",
+            "phonetic": "/stɑk ʌp/",
+            "description": "\"stock\"的/ɑ/音（美式），注意连读，听起来像\"sto-cup\"。"
+          }
+        ],
+        "sentences": [
+          [
+            "1. Now, if this is your first time here, welcome.",
+            "如果这是您第一次来这里，欢迎您。"
+          ],
+          [
+            "2. Give this video a big thumbs up if you love fun lunch ideas too.",
+            "如果你也喜欢有趣的午餐创意，请给这个视频点个大大的赞。"
+          ],
+          [
+            "3. But today, I thought I would shake things up and go ahead and make some mac and cheese instead.",
+            "但今天，我想换个花样，就去做些通心粉和奶酪吧。"
+          ],
+          [
+            "4. They're just gonna fall right off.",
+            "它们只会直接掉下来。"
+          ],
+          [
+            "5. Hopefully, not as messy as syrup would be.",
+            "希望不会像糖浆那样弄得一团糟。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**Phrasal Verb \"go ahead and [verb]\"**",
+            "表示“尽管去做某事”，常用于鼓励或表示下一步行动。",
+            "But today, I thought I would shake things up and **go ahead and make** some mac and cheese instead."
+          ],
+          [
+            "**Adverbial Phrase \"just right\"**",
+            "表示“刚刚好”、“恰到好处”，强调精确性或完美性。",
+            "You have to thread it **just right** to get it to fit."
+          ]
+        ]
+      },
+      {
+        "video_id": "I1udlhk2mWw",
+        "title": "How 3 Korean Chefs Make 10,000 Office Workers&#39; Lunch Boxes Every Week | Big Batches | Insider Food",
+        "url": "https://www.youtube.com/watch?v=I1udlhk2mWw",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频展示了韩国一个中央厨房，三位主厨每周通过手工制作10000份餐食。厨师们使用特制的大型锅具和工具，一次可以烹饪数百份餐点。视频详细展示了午餐盒中麻婆豆腐、辣椒杂菜、腌黄瓜拌韭菜、炒蒜苔和中式花卷的制作过程。每天，这些精心制作的午餐盒会被送到首尔各地的办公室，为上班族提供便捷美味的餐食。",
+        "cards": "A tall order\n---\n--\n中文核心释义\n一项艰巨的任务或请求\n英文例句（贴合视频语境）\nIt's a tall order, but worth the effort according to head chef Lee Ho-jun.\n中文例句\n这是一项艰巨的任务，但根据主厨李浩俊的说法，付出是值得的。\n\nPrepping\n---\n--\n中文核心释义\n准备（尤指食物）\n英文例句（贴合视频语境）\nHo-jun and his team start prepping ingredients for the day's menu.\n中文例句\n浩俊和他的团队开始为当天的菜单准备食材。\n\nCooks through\n---\n--\n中文核心释义\n完全煮熟\n英文例句（贴合视频语境）\nThey stir-fry the green onions and 10 kilograms of pork together until the meat cooks through.\n中文例句\n他们将青葱和10公斤猪肉一起翻炒，直到肉完全煮熟。\n\nDrizzled with\n---\n--\n中文核心释义\n淋上（少量液体）\n英文例句（贴合视频语境）\nOnce fried, the buns will be drizzled with condensed milk and topped with almonds.\n中文例句\n炸好后，面包会淋上炼乳，再撒上杏仁。\n\nSoggy\n---\n--\n中文核心释义\n湿透的，湿软的（通常指食物）\n英文例句（贴合视频语境）\nIf you don't pickle the cucumbers, the water will be soggy when you put them in the lunch box, so pickling the cucumbers is a must.\n中文例句\n如果不腌制黄瓜，放入午餐盒时会湿哒哒的，所以腌制黄瓜是必须的。\n\nConsistency\n---\n--\n中文核心释义\n（液体或半液体的）稠度，浓稠度\n英文例句（贴合视频语境）\nThey season the mixture and add ladles of starch water to help adjust the consistency.\n中文例句\n他们给混合物调味，并加入几勺淀粉水以帮助调整稠度。\n\nPickling\n---\n--\n中文核心释义\n腌制（食物）\n英文例句（贴合视频语境）\nIf you don't pickle the cucumbers, the water will be soggy when you put them in the lunch box, so pickling the cucumbers is a must.\n中文例句\n如果不腌制黄瓜，放入午餐盒时会湿哒哒的，所以腌制黄瓜是必须的。\n\nNext order of business\n---\n--\n中文核心释义\n接下来要办的事情\n英文例句（贴合视频语境）\nThe next order of business is making chili japchae.\n中文例句\n接下来要办的事情是制作辣椒杂菜。",
+        "pronunciation": [
+          {
+            "word": "A tall order",
+            "phonetic": "/ə tɔːl ˈɔːrdər/",
+            "description": "注意“tall”中的“a”发音类似“啊”，而“order”的“or”发音是长“奥”音。"
+          },
+          {
+            "word": "Prepping",
+            "phonetic": "/ˈprɛpɪŋ/",
+            "description": "重音在第一个音节，注意结尾的ing要读清楚。"
+          },
+          {
+            "word": "Cooks through",
+            "phonetic": "/kʊks θruː/",
+            "description": "“cooks”中的“oo”发音像“乌”，“through”的“th”是清辅音，舌尖轻触上齿，送气。"
+          },
+          {
+            "word": "Drizzled with",
+            "phonetic": "/ˈdrɪzld wɪð/",
+            "description": "“drizzled”中的“z”发音像“滋”，“with”的“th”是浊辅音，舌尖轻触上齿，振动声带。"
+          },
+          {
+            "word": "Soggy",
+            "phonetic": "/ˈsɒɡi/",
+            "description": "重音在第一个音节，元音“o”发音像“奥”，而不是“哦”。"
+          },
+          {
+            "word": "Consistency",
+            "phonetic": "/kənˈsɪstənsi/",
+            "description": "重音在第二个音节“sis”上，注意“con”和“cy”发音较弱。"
+          },
+          {
+            "word": "Pickling",
+            "phonetic": "/ˈpɪklɪŋ/",
+            "description": "重音在第一个音节，注意结尾的ing要读清楚。"
+          },
+          {
+            "word": "Next order of business",
+            "phonetic": "/nɛkst ˈɔːrdər əv ˈbɪznɪs/",
+            "description": "“order”的“or”发音是长“奥”音，\"business\"的\"i\"发音是短“伊”音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Every week these three chefs make 10,000 meals by hand.",
+            "每周这三位厨师手工制作10000份餐食。"
+          ],
+          [
+            "Of course it's hard, but it's encouraging to hear reviews from customers saying they enjoyed their meal we made.",
+            "当然这很辛苦，但听到顾客反馈说他们喜欢我们做的饭，这很令人鼓舞。"
+          ],
+          [
+            "The onion is spicy, so the chefs are working hard and even shedding tears.",
+            "洋葱很辣，所以厨师们工作很努力，甚至流泪了。"
+          ],
+          [
+            "If you don't pickle the cucumbers, the water will be soggy when you put them in the lunch box, so pickling the cucumbers is a must.",
+            "如果不腌制黄瓜，放入午餐盒时会湿哒哒的，所以腌制黄瓜是必须的。"
+          ],
+          [
+            "I am constantly subscribing to Mugga Dosirak because it solves the lunch-menu worries of office workers, and I can enjoy meals with guaranteed quality and taste.",
+            "我一直在订阅Mugga Dosirak，因为它解决了上班族的午餐菜单烦恼，而且我可以享受到有质量和味道保证的餐食。"
+          ]
+        ],
+        "grammar": [
+          [
+            "The passive voice with \"being crushed\"",
+            "解释：被动语态 \"being + 过去分词\" 强调动作的承受者，常用于描述持续或正在发生的被动行为。",
+            "视频例子: \"This steamer prevents tofu from being crushed when steaming in large quantities.\""
+          ],
+          [
+            "A must (noun phrase)",
+            "解释：名词短语 \"A must\" 表示某事是必不可少的，强调其重要性。",
+            "视频例子: \"If you don't pickle the cucumbers, the water will be soggy when you put them in the lunch box, so pickling the cucumbers is a must.\""
+          ]
+        ]
+      }
+    ]
   }
 ]
