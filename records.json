@@ -17904,5 +17904,169 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "topic": "Getting coffee order",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "xVYmcVgfDNA",
+        "title": "Jordan Schlansky Lectures Conan About Coffee In Naples | CONAN on TBS",
+        "url": "https://www.youtube.com/watch?v=xVYmcVgfDNA",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "柯南·奥布莱恩和乔丹·施兰斯基在意大利那不勒斯旅行。他们体验了一家传统的意式咖啡馆，柯南尝试用幽默的方式点咖啡，并抱怨了“支付先行”的规矩。随后，他们在街头表演，试图与居民互动，并最终出演了一部意大利肥皂剧，柯南扮演浪漫主角，乔丹也客串其中。",
+        "cards": "go about your day\n---\n--\n中文核心释义\n继续日常活动；做自己的事\n英文例句\nYou get in and you get out, and you go about your day.\n中文例句\n你进去然后出来，然后继续你的一天。\n\nmiss (something)\n---\n--\n中文核心释义\n错过（机会、体验）；没能看到/听到\n英文例句\nYou missed the entire preparation of the coffee because you were talking to that woman.\n中文例句\n你错过了整个咖啡制作过程，因为你一直在和那个女人说话。\n\nno movement is wasted\n---\n--\n中文核心释义\n动作没有一丝多余；每一步都恰到好处\n英文例句\nNo movement is wasted. Everything is perfect.\n中文例句\n他的动作没有一丝多余。一切都是完美的。\n\npowerhouse performance\n---\n--\n中文核心释义\n强劲的表演；充满活力的演出\n英文例句\nAnother powerhouse performance by Conan O'Brien.\n中文例句\n柯南·奥布莱恩又一次精彩的表演。\n\nromantic lead\n---\n--\n中文核心释义\n浪漫主角；爱情片男主角/女主角\n英文例句\nI was about to continue my tradition of playing a romantic lead.\n中文例句\n我正要继续我扮演浪漫主角的传统。\n\nself-validate\n---\n--\n中文核心释义\n自我肯定；自我验证\n英文例句\nThey don't need to be on television to self-validate.\n中文例句\n他们不需要通过上电视来获得自我肯定。",
+        "pronunciation": [
+          {
+            "word": "go about your day",
+            "phonetic": "/ɡoʊ əˈbaʊt jʊər deɪ/",
+            "description": "\"go阿包特有dei\" (注意\"about\"的弱读和连读，\"your\"的弱读)"
+          },
+          {
+            "word": "miss",
+            "phonetic": "/mɪs/",
+            "description": "\"米斯\" (注意/ɪ/音，不是/i:/)"
+          },
+          {
+            "word": "elegance",
+            "phonetic": "/ˈɛlɪɡəns/",
+            "description": "\"哎里gə恩斯\" (重音在第一个音节，注意/ə/的弱读)"
+          },
+          {
+            "word": "powerhouse performance",
+            "phonetic": "/ˈpaʊərˌhaʊs pərˈfɔːrməns/",
+            "description": "\"泡儿豪斯 珀佛尔门斯\" (注意\"powerhouse\"的复合词发音，\"performance\"的弱读音节)"
+          },
+          {
+            "word": "romantic lead",
+            "phonetic": "/roʊˈmæntɪk liːd/",
+            "description": "\"肉慢tik li得\" (注意\"romantic\"重音在第二音节，\"lead\"是长/i:/音)"
+          },
+          {
+            "word": "self-validate",
+            "phonetic": "/ˌsɛlf ˈvælɪdeɪt/",
+            "description": "\"self 歪里dei特\" (重音在\"validate\"的第一个音节)"
+          }
+        ],
+        "sentences": [
+          [
+            "Now we come over here and we pay first.",
+            "我们过来先付款。"
+          ],
+          [
+            "What if I'm not happy with what I get?",
+            "如果我对得到的东西不满意怎么办？"
+          ],
+          [
+            "It's an express activity. You get in and you get out, and you go about your day.",
+            "这是一种快速的活动。你进去出来，然后继续你的一天。"
+          ],
+          [
+            "Someone accused him of stuffing his pants?",
+            "有人指控他塞东西在裤子里？"
+          ],
+          [
+            "Why would anyone want to buy ice cream from this guy?",
+            "为什么会有人想从这个人这里买冰淇淋？"
+          ]
+        ],
+        "grammar": [
+          [
+            "现在完成时",
+            "用于表达在过去发生但与现在有联系的动作或状态，常与\"never\"连用表示从未有过的经历。",
+            "I've never seen a statue with such an impressive crotch bulge."
+          ],
+          [
+            "动名词作宾语",
+            "动词的-ing形式可以作介词的宾语，通常表示行为本身。",
+            "Someone accused him of stuffing his pants?"
+          ]
+        ]
+      },
+      {
+        "video_id": "MOm7Gr-1BUc",
+        "title": "Nate Bargatze on How To Order Artisanal Coffee",
+        "url": "https://www.youtube.com/watch?v=MOm7Gr-1BUc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "喜剧演员Nate Bargatze分享了他不习惯点咖啡的趣事。他只点一种简单的冰咖啡加奶油，因为他觉得咖啡店的菜单太复杂，店员的问题也很多，让他感到非常紧张。他甚至表示如果咖啡点错了，他宁愿把它扔掉，去另一家星巴克重新点。最后，他讲了一次他在星巴克点冰咖啡，却被误以为是冰咖啡加生奶油的尴尬经历。",
+        "cards": "get rid of\n---\n--\n摆脱；处理掉\nI'll get rid of the one problem that I had.\n我将摆脱我遇到的一个问题。\n\na whole world\n---\n--\n一个全新的领域；一个复杂的世界\nI get very nervous when I order coffee because it's a whole world.\n我点咖啡的时候会很紧张，因为它是一个全新的领域。\n\nnot taking questions right now\n---\n--\n（幽默表达）现在不接受提问\nSometimes they're like, \"You want heavy cream or half and half?\" and I'll go, \"I'm sorry, I'm not taking questions right now.\"\n有时他们会问：“你要重奶油还是半脂奶？”我会说：“抱歉，我现在不接受提问。”\n\ndidn't care for that\n---\n--\n不喜欢；不赞同\nYou know everybody looked at me when you said that? I didn't care for that.\n你知道你那样说的时候，所有人都看着我吗？我可不喜欢那样。\n\nwaving cars down\n---\n--\n招手示意汽车停下\nStarbucks is like waving cars down on the street.\n星巴克就像在街上招手拦车。\n\nnut job\n---\n--\n疯子；怪人（非正式，略带贬义）\nYou think I'm just some nut job?\n你以为我只是个疯子吗？\n\nbuoy\n---\n--\n浮标\nIt's like a buoy in an ocean that everybody sees.\n它就像大洋中的一个浮标，所有人都看得见。",
+        "pronunciation": [
+          {
+            "word": "get rid of",
+            "phonetic": "/ɡɛt rɪd əv/",
+            "description": "'get rid'连读，'of'中的'o'弱读成/ə/"
+          },
+          {
+            "word": "a whole world",
+            "phonetic": "/ə hoʊl wɜːrld/",
+            "description": "'whole'中的'w'不发音，'world'发音时要注意/ɜːr/和/l/的结合，舌尖抵住上颚"
+          },
+          {
+            "word": "not taking questions right now",
+            "phonetic": "/nɑːt ˈteɪkɪŋ ˈkwɛstʃənz raɪt naʊ/",
+            "description": "'t'发音清晰，'questions'中的'tion'发/tʃən/，'right now'自然连读"
+          },
+          {
+            "word": "didn't care for that",
+            "phonetic": "/ˈdɪdənt kɛr fɔːr ðæt/",
+            "description": "'didn't'中的第二个'd'常被弱化甚至省略，'care for'连读"
+          },
+          {
+            "word": "waving cars down",
+            "phonetic": "/ˈweɪvɪŋ kɑːrz daʊn/",
+            "description": "'waving'中的'v'发音，'cars'中的'r'发音，'down'中的双元音/aʊ/饱满"
+          },
+          {
+            "word": "nut job",
+            "phonetic": "/nʌt dʒɑːb/",
+            "description": "'nut'中的'u'发/ʌ/短促音，'job'中的'o'发/ɑː/音"
+          },
+          {
+            "word": "buoy",
+            "phonetic": "/ˈbuːi/",
+            "description": "'buoy'发音为'boo-ee'，不是'boy'"
+          }
+        ],
+        "sentences": [
+          [
+            "That's all I changed it to.",
+            "我只把它改成了那样。"
+          ],
+          [
+            "They can't do cream with ice, that's against the law.",
+            "他们不能用加冰的奶油，那是违法的。（幽默说法）"
+          ],
+          [
+            "Guess we have to call her now, don't we?",
+            "看来我们现在得给她打电话了，不是吗？"
+          ],
+          [
+            "I will walk out of here as if that's exactly what I ordered.",
+            "我会走出这里，假装那正是我点的。"
+          ],
+          [
+            "This is the most I can talk about this.",
+            "关于这事我能说的就这么多了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "as if",
+            "用于引导一个虚拟语气从句，表示“仿佛，好像”，通常用于描述与现实不符或不太可能发生的情况。",
+            "I will walk out of here as if that's exactly what I ordered."
+          ],
+          [
+            "should have + 过去分词",
+            "表示过去应该做但没有做的事情，常带有后悔或遗憾的意味。",
+            "At that point, I should have said, \"What's going on right now?\""
+          ]
+        ]
+      }
+    ]
   }
 ]
