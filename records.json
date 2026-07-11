@@ -18237,5 +18237,189 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-11",
+    "topic": "Meeting friends for brunch",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "st21dIMaGMs",
+        "title": "Key &amp; Peele - Continental Breakfast",
+        "url": "https://www.youtube.com/watch?v=st21dIMaGMs",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段Key & Peele短片以一个酒店客人享用免费欧陆式早餐为主要内容。这位客人以一种夸张而富有诗意的方式，将早餐中的每一件食物都比作一次欧洲国家的旅行，沉浸在假想的“美食之旅”中，并用戏剧性的语言表达他的“愉悦”。短片结尾揭示，他可能已经在此酒店居住了很久，而前台接待员也暗示了这种长期存在。",
+        "cards": "continental breakfast\n---\n--\n欧陆式早餐（通常指酒店提供的简单早餐，包括面包、咖啡、果汁等）\nFrom 6 AM to 10 AM every morning there's a free continental breakfast.\n每天早上六点到十点都有免费的欧陆式早餐。\n\nhelp yourself\n---\n--\n（口语）自己取用，随意吃/拿\nYou can just help yourself, sir.\n先生，您可以自己随意取用。\n\nEuropean style\n---\n--\n欧式风格\nInteresting, European style.\n有意思，欧式风格。\n\nforbidden fruit\n---\n--\n禁果（指不应拥有或渴望的事物）\nThe forbidden fruit.\n那禁果。\n\nbuckle up\n---\n--\n（口语）系好安全带；（引申义）准备好迎接挑战或紧张刺激的体验\nBuckle up. Let's see where we shall go next.\n系好安全带。让我们看看接下来要去哪里。\n\na delight to the senses\n---\n--\n感官的愉悦\nA delight to the senses.\n感官的愉悦。\n\nindefinitely\n---\n--\n无限期地，不确定地\nI will be staying indefinitely.\n我将无限期地住下去。",
+        "pronunciation": [
+          {
+            "word": "continental breakfast",
+            "phonetic": "/ˌkɒntɪˈnɛntəl ˈbrɛkfəst/",
+            "description": "注意“continental”的重音在第三音节“-nen-”，以及“breakfast”中的“ea”发音为 /ɛ/ 而非 /iː/。"
+          },
+          {
+            "word": "help yourself",
+            "phonetic": "/hɛlp jərˈsɛlf/",
+            "description": "在快速口语中，“p”和“y”可能会连读，听起来像“hel-pyourself”。"
+          },
+          {
+            "word": "European style",
+            "phonetic": "/ˌjʊərəˈpiːən staɪl/",
+            "description": "注意“European”的重音在第三音节“-pee-”，并且“Eu”发音为/jʊə/或/jə/。"
+          },
+          {
+            "word": "forbidden fruit",
+            "phonetic": "/fərˈbɪdn fruːt/",
+            "description": "“forbidden”重音在第二音节“-bid-”，而不是第一音节。"
+          },
+          {
+            "word": "buckle up",
+            "phonetic": "/ˈbʌkl ʌp/",
+            "description": "“buckle”中的“ckle”发音为 /kl/，而不是 /kəl/。"
+          },
+          {
+            "word": "a delight to the senses",
+            "phonetic": "/ə dɪˈlaɪt tuː ðə ˈsɛnsɪz/",
+            "description": "“delight”的“de”发音为 /dɪ/，不是 /diː/；“senses”的“es”发音为 /ɪz/。"
+          },
+          {
+            "word": "indefinitely",
+            "phonetic": "/ɪnˈdɛfɪnətli/",
+            "description": "重音在第二音节“-def-”，注意多个音节的清晰发音。"
+          }
+        ],
+        "sentences": [
+          [
+            "You will be in room 237.",
+            "你将入住237号房间。"
+          ],
+          [
+            "You can just help yourself, sir.",
+            "先生，您可以自己随意取用。"
+          ],
+          [
+            "Well, aren't you a tiny plum.",
+            "哟，你可真是个小李子啊。（用于形容小而可爱的食物，带有一点拟人色彩）"
+          ],
+          [
+            "Not a spoon, not a fork, but something in between, a fopoon.",
+            "既不是勺子，也不是叉子，而是介于两者之间的东西，一个“叉勺”（合成词）。"
+          ],
+          [
+            "It all comes with the room.",
+            "这所有的一切都包含在房费里。"
+          ]
+        ],
+        "grammar": [
+          [
+            "反射代词",
+            "用于指代与主语相同的宾语。",
+            "\"You can just help yourself, sir.\""
+          ],
+          [
+            "比喻/拟人",
+            "将非人类事物描述成人或赋予其人类特征，或用一件事物来暗指另一件事物。",
+            "\"All of the Europine countries lay before me. Where should I fly to first?\""
+          ]
+        ]
+      },
+      {
+        "video_id": "XN-u3q3wgtA",
+        "title": "Eating With Your Rich Friends",
+        "url": "https://www.youtube.com/watch?v=XN-u3q3wgtA",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位富有的主人Van Horn邀请了一群同样富有且古怪的朋友（包括钻石女王、篮球明星、公主、科技亿万富翁和一位鬼魂）共进晚餐。唯一的普通人Grant对高昂的消费感到担忧，试图暗示大家节省开支，比如分账、点面包或喝水。然而，其他客人对此毫无察觉，继续点着昂贵的香槟、松露菜肴，并谈论着他们的巨额财富和特权，让Grant感到非常无奈和尴尬。",
+        "cards": "vittles\n---\n--\n（旧式）食物，伙食\n--\nOh, thank you all for joining me for an evening of conversation and vittles.\n--\n噢，谢谢大家今晚能来和我一起聊天、吃吃喝喝。\n\nquite the establishment\n---\n--\n（非常）气派的场所\n--\nThis is quite the establishment, Van Horn.\n--\nVan Horn，这地方真够气派的。\n\nspirits\n---\n--\n烈酒；（引申义）鬼魂\n--\nCocktails before wine? Oh, I do love spirits.\n--\n先喝鸡尾酒再喝葡萄酒？哦，我确实喜欢烈酒。（鬼魂双关：我爱鬼魂）\n\ntake it easy on the old wallet\n---\n--\n（口语）省着点花钱，对钱包手下留情\n--\nI just don't make as much money as you, so if we could take it easy on the old wallet, that'd be great.\n--\n我赚的钱没你们那么多，所以如果我们能省着点花，那真是太好了。\n\nmarketing scheme\n---\n--\n营销策略/计划\n--\nYou know what, Diane, champagne, it's actually a marketing scheme.\n--\n你知道吗，黛安，香槟实际上是个营销策略。\n\ntruffles\n---\n--\n松露\n--\nAll I know is I want truffles on everything.\n--\n我只知道我什么东西都要加松露。\n\ncredit risk\n---\n--\n信用风险\n--\nI have a debit card and the card they give you when you're a credit risk.\n--\n我有一张借记卡，还有一张在你信用不良时他们给你的卡。\n\nbe on\n---\n--\n（口语）处于兴奋状态；表现，表演\n--\nCarnegie, you don't always have to be on, you know.\n--\n卡内基，你没必要一直表现得那么活跃，你知道的。",
+        "pronunciation": [
+          {
+            "word": "vittles",
+            "phonetic": "/ˈvɪtəlz/",
+            "description": "注意不是发/wɪ/而是/vɪ/的音，/t/在后面弱化成/d/或/t/，/s/清脆。"
+          },
+          {
+            "word": "establishment",
+            "phonetic": "/ɪˈstæblɪʃmənt/",
+            "description": "注意重音在第二个音节，/t/在词尾不爆破。"
+          },
+          {
+            "word": "spirits",
+            "phonetic": "/ˈspɪrɪts/",
+            "description": "/spɪ/发音要清晰，/rɪts/连读。"
+          },
+          {
+            "word": "wallet",
+            "phonetic": "/ˈwɒlɪt/",
+            "description": "/wa/的音要短促，/lɪt/连贯。"
+          },
+          {
+            "word": "marketing",
+            "phonetic": "/ˈmɑːrkɪtɪŋ/",
+            "description": "美式发音/mɑːrkɪtɪŋ/，英式发音/mɑːkɪtɪŋ/。"
+          },
+          {
+            "word": "scheme",
+            "phonetic": "/skiːm/",
+            "description": "/sk/发音连贯，/iː/长音。"
+          },
+          {
+            "word": "truffles",
+            "phonetic": "/ˈtrʌfəlz/",
+            "description": "/tr/发音，/ʌ/短促，/fəlz/连贯。"
+          },
+          {
+            "word": "credit",
+            "phonetic": "/ˈkrɛdɪt/",
+            "description": "/krɛ/发音，/dɪt/连贯。"
+          },
+          {
+            "word": "risk",
+            "phonetic": "/rɪsk/",
+            "description": "/rɪ/发音，/sk/连贯，注意/s/和/k/的组合。"
+          },
+          {
+            "word": "on",
+            "phonetic": "/ɒn/ (BrE) /ɑːn/ (AmE)",
+            "description": "短促清晰的/o/音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Oh, thank you all for joining me for an evening of conversation and vittles.",
+            "噢，谢谢大家今晚能来和我一起聊天、吃吃喝喝。"
+          ],
+          [
+            "This is quite the establishment, Van Horn.",
+            "Van Horn，这地方真够气派的。"
+          ],
+          [
+            "I just don't make as much money as you, so if we could take it easy on the old wallet, that'd be great.",
+            "我赚的钱没你们那么多，所以如果我们能省着点花，那真是太好了。"
+          ],
+          [
+            "I'm actually great with just water.",
+            "我其实喝水就挺好。"
+          ],
+          [
+            "Carnegie, you don't always have to be on, you know.",
+            "卡内基，你没必要一直表现得那么活跃，你知道的。"
+          ]
+        ],
+        "grammar": [
+          [
+            "\"quite the + noun\" 结构",
+            "用于强调某个事物是多么显著、令人印象深刻或非同寻常。通常带有某种惊叹或讽刺的语气。",
+            "This is quite the establishment, Van Horn. (0:39)"
+          ],
+          [
+            "\"make money\"",
+            "表示赚钱、挣钱。这是英语中表达收入或通过工作获得金钱的常用动词短语。",
+            "I just don't make as much money as you. (0:59)"
+          ]
+        ]
+      }
+    ]
   }
 ]
