@@ -19465,5 +19465,87 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "topic": "daily life vlog",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "yj3iBWQWnDs",
+        "title": "°.𐙚⋆Cozy day in my life🌸aesthetic vlog, skincare, art supplies unboxing🎀🎐matcha latte, journaling…🍧",
+        "url": "https://www.youtube.com/watch?v=yj3iBWQWnDs",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频记录了博主一天的生活。她首先整理了房间，包括用粘毛滚筒清理枕头。接着，她展示了她的晨间护肤流程和自制的抹茶拿铁早餐。随后，她开箱并试用了收到的艺术马克笔和彩铅，并在笔记本上进行了创作。视频的后半段，她去马德里市中心闲逛，欣赏了日落，参观了一家文具店，最后在一家氛围感十足的咖啡馆享用了肉桂卷。",
+        "cards": "super messy room\n---\n--\n乱七八糟的房间\nwoke up today to this beautiful weather but a super messy room :)\n今天醒来天气很好，但房间乱七八糟的 :)\n\nlint remover roll\n---\n--\n粘毛滚筒\nI'll use this lint remover roll for the first time.\n我将第一次使用这个粘毛滚筒。\n\nsuper satisfying\n---\n--\n非常令人满意/解压\nit's super satisfying ^^\n这真的超级解压^^\n\nbe constant with\n---\n--\n坚持做（某事）\nsince I started being constant with my skincare routine I've seen good results\n自从我开始坚持我的护肤程序后，我看到了很好的效果。\n\nobsessed with\n---\n--\n对...着迷；沉迷于...\nlately I've been obsessed with matcha latte\n最近我一直迷恋抹茶拿铁。\n\nalternate\n---\n--\n（使）交替；轮流\nso I alternate them\n所以我交替使用它们。\n\nbe kind enough to do something\n---\n--\n好心/好意做某事\nArrtx was kind enough for sending me their markers to try them. (Note: \"for sending me\" is slightly informal; \"to send me\" is more standard, but \"for sending\" can be heard)\nArrtx好心地给我寄来了他们的马克笔让我试用。\n\nexquisite\n---\n--\n精致的；精美的\nended up getting their exquisite cinnamon roll\n最后买了他们精致的肉桂卷。",
+        "pronunciation": [
+          {
+            "word": "super messy room",
+            "phonetic": "/ˈsuːpər ˈmɛsi ruːm/",
+            "description": "\"messy\" 的 \"e\" 音发得短促，像 \"梅西\"。"
+          },
+          {
+            "word": "lint remover roll",
+            "phonetic": "/lɪnt rɪˈmuːvər roʊl/",
+            "description": "\"lint\" 的 \"i\" 音发得短促。"
+          },
+          {
+            "word": "super satisfying",
+            "phonetic": "/ˈsuːpər ˈsætɪsˌfaɪɪŋ/",
+            "description": "\"satisfying\" 重音在第一个音节，\"fa\" 发 \"fai\" 的音。"
+          },
+          {
+            "word": "be constant with",
+            "phonetic": "/bi ˈkɒnstənt wɪð/",
+            "description": "\"constant\" 的 \"o\" 发 \"a\" 的音，像 \"康斯坦特\"。"
+          },
+          {
+            "word": "obsessed with",
+            "phonetic": "/əbˈsɛst wɪð/",
+            "description": "\"obsessed\" 的重音在第二个音节，\"ss\" 发 \"s\" 的音。"
+          },
+          {
+            "word": "alternate",
+            "phonetic": "/ˈɔːltərˌneɪt/",
+            "description": "重音在第一个音节，\"a\" 发 \"ɔː\" 的音，像 \"奥尔特内特\"。"
+          },
+          {
+            "word": "be kind enough to do something",
+            "phonetic": "/bi kaɪnd ɪˈnʌf tu du ˈsʌmθɪŋ/",
+            "description": "\"enough\" 的 \"ou\" 发 \"ʌ\" 的音，像 \"伊纳夫\"。"
+          },
+          {
+            "word": "exquisite",
+            "phonetic": "/ˈɛkskwɪzɪt/",
+            "description": "重音在第一个音节，\"qu\" 发 \"kw\" 的音，像 \"埃克斯奎兹特\"。"
+          }
+        ],
+        "sentences": [
+          [
+            "so let's start with some quick organization",
+            "让我们开始快速整理一下。"
+          ],
+          [
+            "one is my personal and the other is for work",
+            "一个是我的私人电脑，另一个是工作用的。"
+          ],
+          [
+            "I would love to know your skincare essentials",
+            "我很想知道你的护肤必需品。"
+          ],
+          [
+            "I don't know why every time I want to test any colors I paint flowers",
+            "不知道为什么每次我想试颜色的时候我都会画花。"
+          ],
+          [
+            "personalising a candle can be a fun activity to do with your friends",
+            "和朋友一起个性化定制蜡烛会是一个有趣的活动。"
+          ]
+        ],
+        "grammar": []
+      }
+    ]
   }
 ]
