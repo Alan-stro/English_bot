@@ -20404,5 +20404,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "topic": "Working from home day",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "AgIggrkBFcU",
+        "title": "Working From Home: How to Stay Focused",
+        "url": "https://www.youtube.com/watch?v=AgIggrkBFcU",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频主要讨论了在居家办公环境中如何保持专注。作者指出，在家工作时，工作与生活界限模糊，加上各种干扰，导致人们难以集中精力。为解决此问题，他提出了三点建议：首先，明确意图，遵循“三条法则”聚焦最重要的任务；其次，主动消除干扰，如将手机放在够不着的地方，关闭不必要的电脑应用，甚至断开网络；最后，通过将大任务拆解为小步骤、设定短时间工作周期等方法，降低对困难任务的抵触情绪，从而更容易开始并保持工作动力。",
+        "cards": "bleed into one another\n---\n--\n失去界限；相互混淆\n英文例句: Ever since the days began to bleed into one another in an undifferentiated cycle of light and dark.\n中文例句: 自从白天和黑夜在模糊不清的循环中开始相互混淆。\n\n--\n---\nimpassioned calls to action\n--\n充满激情的行动号召\n英文例句: Shaya's impassioned calls to action failed to stir you.\n中文例句: 沙亚充满激情的行动号召未能激励你。\n\n--\n---\nteeming with distractions\n--\n充满干扰\n英文例句: I would wager that your environment is absolutely teeming with distractions.\n中文例句: 我敢打赌你的环境充满了干扰。\n\n--\n---\nprocrastinate on\n--\n拖延（某事）\n英文例句: They also cause you to procrastinate on the work that you really should be doing.\n中文例句: 它们也导致你拖延那些你真正应该做的工作。\n\n--\n---\ntax our higher brain functions\n--\n考验我们的高级大脑功能\n英文例句: Because it requires us to really tax our higher brain functions, we are naturally resistant to doing it.\n中文例句: 因为这需要我们真正考验高级大脑功能，所以我们自然会抵触去做它。\n\n--\n---\nnovelty bias\n--\n新奇偏见\n英文例句: Our brains also have what's called a built-in novelty bias.\n中文例句: 我们的大脑也有一种内在的“新奇偏见”。\n\n--\n---\naversion to starting\n--\n对开始某事感到厌恶/抵触\n英文例句: I've eliminated my brain's aversion to starting by choosing a manageable time for my timer.\n中文例句: 我通过为我的计时器选择一个可控的时间，消除了大脑对开始的抵触。",
+        "pronunciation": [
+          {
+            "word": "bleed into one another",
+            "phonetic": "/bliːd ˈɪntuː wʌn əˈnʌðər/",
+            "description": "注意 \"into one\" 连读，\"another\" 的第一个 'a' 是弱读。"
+          },
+          {
+            "word": "impassioned calls to action",
+            "phonetic": "/ɪmˈpæʃənd kɔːlz tuː ˈækʃən/",
+            "description": "\"Impassioned\" 中重音在第二音节，/ʃ/ 音要清晰。"
+          },
+          {
+            "word": "teeming with distractions",
+            "phonetic": "/ˈtiːmɪŋ wɪð dɪˈstrækʃənz/",
+            "description": "\"Teeming\" 的 /iː/ 是长音，\"with\" 的 /ð/ 是浊辅音，\"distractions\" 重音在第二音节。"
+          },
+          {
+            "word": "procrastinate on",
+            "phonetic": "/prəʊˈkræstɪneɪt ɒn/",
+            "description": "\"Procrastinate\" 中重音在第二音节，\"on\" 的 /ɒn/ 是短音。"
+          },
+          {
+            "word": "tax our higher brain functions",
+            "phonetic": "/tæks aʊər ˈhaɪər breɪn ˈfʌŋkʃənz/",
+            "description": "\"Tax\" /æ/ 音要到位，\"functions\" 的 /ŋkʃ/ 音要连贯。"
+          },
+          {
+            "word": "novelty bias",
+            "phonetic": "/ˈnɒvəlti ˈbaɪəs/",
+            "description": "\"Novelty\" 重音在第一音节，\"bias\" 的 /aɪ/ 是双元音。"
+          },
+          {
+            "word": "aversion to starting",
+            "phonetic": "/əˈvɜːrʒən tuː ˈstɑːrtɪŋ/",
+            "description": "\"Aversion\" 重音在第二音节，/ɜːr/ 是卷舌音，\"to\" 弱读。"
+          }
+        ],
+        "sentences": [
+          [
+            "This is really dramatic, isn't it?",
+            "这真的太戏剧化了，不是吗？"
+          ],
+          [
+            "I've heard this a lot lately.",
+            "我最近经常听到这个。"
+          ],
+          [
+            "You found yourself bouncing between mostly useless busywork tasks.",
+            "你发现自己总是在做一些大多是无用的“瞎忙活”。"
+          ],
+          [
+            "How is this even possible?",
+            "这怎么可能呢？"
+          ],
+          [
+            "I would wager that your environment is absolutely teeming with distractions.",
+            "我敢打赌你的环境充满了干扰。"
+          ]
+        ],
+        "grammar": [
+          [
+            "语法点",
+            "解释",
+            "视频例子"
+          ],
+          [
+            "not to mention",
+            "用于引入额外信息，通常是更重要或更令人惊讶的事实，以增加强调。",
+            "The lack of separation between your work and your personal life, not to mention lots of additional distractions floating around, means that your home is kind of like the final boss of difficult workspaces."
+          ],
+          [
+            "Present Perfect Continuous",
+            "用于描述从过去某个时间开始，一直持续到现在，并且可能还会继续下去的动作或状态，强调过程和持续性。",
+            "Personally, I've been setting my phone to do not disturb mode for most of the day."
+          ]
+        ]
+      },
+      {
+        "video_id": "cWW7Q4eJr8w",
+        "title": "Working from Home: How to Plan Your Day",
+        "url": "https://www.youtube.com/watch?v=cWW7Q4eJr8w",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这个视频讨论了如何在工作和生活中提高生产力，强调“每分钟行动数”（APM）不仅在于行动量，更在于行动的计划性和目的性。作者分享了日常工作规划的技巧，包括设定可实现的目标，利用时间分块法（time-boxing）来安排任务。他还介绍了如何通过卡片和列表（Kanban方法）进行长期项目管理，并分享了朋友Martin的“厨房系统”，这是一个基于轻重缓急的独特任务优先级管理方法，以避免任务堆积和拖延。",
+        "cards": "actions per minute (APM)\n---\n--\n中文核心释义：每分钟行动数（游戏术语，引申为生产力）\n英文例句：When I think about being productive, I have to think about a concept that's usually talked about in the realm of video games: actions per minute.\n中文例句：当我思考如何提高生产力时，我不得不想到一个通常在视频游戏领域讨论的概念：每分钟行动数。\n\ndig into\n---\n--\n中文核心释义：深入研究；开始吃\n英文例句：Today, we're going to dig into how you can effectively plan and prioritize your work.\n中文例句：今天，我们将深入探讨如何有效规划和优先安排你的工作。\n\neclipse\n---\n--\n中文核心释义：使黯然失色，盖过；日食，月食\n英文例句：I know that I am guilty of continually allowing my intentions to eclipse my abilities.\n中文例句：我知道我总是有意无意地让我的意图盖过我的能力。\n\npaint a perfect picture\n---\n--\n中文核心释义：描绘一个完美的画面（常用于否定或疑问句，表示“不尽如人意”）\n英文例句：Realize that the due dates in your task manager may not paint a perfect picture of what you should actually do today.\n中文例句：请认识到，任务管理器中的截止日期可能无法完美描绘你今天实际应该做的事情。\n\ncogs in a machine\n---\n--\n中文核心释义：机器中的齿轮（比喻微不足道、易被替代的个体）\n英文例句：Some people feel like time-boxing kind of boxes them in too much, makes them feel too much like cogs in a machine.\n中文例句：有些人觉得时间分块法束缚了他们太多，让他们觉得自己就像机器里的齿轮。\n\ntime-boxing / time-blocking\n---\n--\n中文核心释义：时间分块法（一种时间管理策略，将时间分配给特定任务）\n英文例句：This strategy is called time-boxing, or time-blocking.\n中文例句：这种策略被称为时间分块法。\n\nback burner\n---\n--\n中文核心释义：次要地位，搁置\n英文例句：Everything goes in regardless of category, and, um, they're all based off of the kitchen metaphor: putting something on the back burner.\n中文例句：所有事情都放进去，不分类别，它们都基于厨房的隐喻：把东西放在次要地位。\n\nbird's-eye view\n---\n--\n中文核心释义：鸟瞰图；概览\n英文例句：You always have an accurate bird's-eye view of how things are going.\n中文例句：你总能对事情的进展有一个准确的概览。",
+        "pronunciation": [
+          {
+            "word": "actions per minute (APM)",
+            "phonetic": "/ˈækʃənz pɜːr ˈmɪnɪt/",
+            "description": "`akshens per minit` (注意 `minute` 的重音在第一个音节)"
+          },
+          {
+            "word": "dig into",
+            "phonetic": "/dɪɡ ˈɪntuː/",
+            "description": "`dig intou` (注意 `g` 和 `i` 的连读)"
+          },
+          {
+            "word": "eclipse",
+            "phonetic": "/ɪˈklɪps/",
+            "description": "`iklips` (注意重音在第二个音节，`e` 发 /ɪ/ 音)"
+          },
+          {
+            "word": "paint a perfect picture",
+            "phonetic": "/peɪnt ə ˈpɜːrfɪkt ˈpɪktʃər/",
+            "description": "`peint e per-fikt pik-cher` (注意 `t` 和 `a` 的连读，以及 `perfect` 中 `er` 的卷舌音)"
+          },
+          {
+            "word": "cogs in a machine",
+            "phonetic": "/kɒɡz ɪn ə məˈʃiːn/",
+            "description": "`kogz in e me-shin` (注意 `machine` 的重音在第二个音节)"
+          },
+          {
+            "word": "time-boxing / time-blocking",
+            "phonetic": "/ˈtaɪm ˌbɒksɪŋ / ˈtaɪm ˌblɒkɪŋ/",
+            "description": "`taim boksing / taim blok-ing` (注意 `time` 的长 `i` 音，`box` 和 `block` 的短 `o` 音)"
+          },
+          {
+            "word": "back burner",
+            "phonetic": "/ˈbæk ˈbɜːrnər/",
+            "description": "`bak ber-ner` (注意 `back` 的短 `a` 音，`burner` 中 `er` 的卷舌音)"
+          },
+          {
+            "word": "bird's-eye view",
+            "phonetic": "/ˈbɜːrdz aɪ vjuː/",
+            "description": "`berdz ai vyo` (注意 `bird's` 中 `ir` 的卷舌音，`view` 的长 `u` 音)"
+          }
+        ],
+        "sentences": [
+          [
+            "When I think about being productive, I have to think about a concept that's usually talked about in the realm of video games.",
+            "当我思考如何提高生产力时，我不得不想到一个通常在视频游戏领域讨论的概念。"
+          ],
+          [
+            "If there's no plan behind those actions, no greater vision ensuring that each movement is the right one, then, well, you're just wasting energy.",
+            "如果这些行动背后没有计划，没有更宏大的愿景来确保每个行动都是正确的，那么，你只是在浪费精力。"
+          ],
+          [
+            "I know that I am guilty of continually allowing my intentions to eclipse my abilities.",
+            "我知道我总是有意无意地让我的意图超出我的能力范围。"
+          ],
+          [
+            "You can often procrasti-work a little bit by answering your emails or doing other little small tasks first, but eventually you're going to run out of tiny things to do.",
+            "你经常会通过先回复邮件或做一些其他小任务来“拖延性工作”，但最终你会把所有小事都做完。"
+          ],
+          [
+            "Martin's kitchen system is a great example of this, and it's also a great example of how taking a novel, creative approach to solving a problem can yield great results.",
+            "马丁的厨房系统就是个很好的例子，它也很好地说明了采取新颖、有创意的方法来解决问题能带来很棒的结果。"
+          ]
+        ],
+        "grammar": [
+          [
+            "现在分词短语作状语",
+            "现在分词短语可以放在句末，用来解释主句的后果、结果或伴随动作。",
+            "With their free plan you get access to new daily challenges every single day, giving you new challenges every single day so you make building your problem-solving skills a daily habit."
+          ]
+        ]
+      }
+    ]
   }
 ]
