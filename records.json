@@ -21444,5 +21444,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "topic": "Watering my house plants",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "VaTkzYv8sMo",
+        "title": "5 Watering Mistakes You&#39;re Probably Making",
+        "url": "https://www.youtube.com/watch?v=VaTkzYv8sMo",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频讲述了园艺浇水的五大常见错误。首先，不要在错误的时间浇水，最佳时间是清晨。其次，不要直接从上方给植物浇水，因为这会浪费水，并可能传播病害。第三，避免浇水过多或过少，要根据土壤湿度和植物需求来调整。第四，不要对所有植物都采用相同的浇水方式，因为不同生长阶段和不同类型的植物有不同的需求。最后，不使用覆盖物（mulch）是浪费水分和不保护土壤的一个大错误。视频还介绍了多种浇水工具，帮助园丁高效浇水。",
+        "cards": "get cracking\n---\n--\n中文核心释义\n开始工作；赶紧行动\n英文例句\nSo let's go ahead and get cracking.\n中文例句\n那我们赶紧开始吧。\n\nshallow-rooted\n---\n--\n中文核心释义\n根系浅的\n英文例句\nBeans are a pretty shallow-rooted plant.\n中文例句\n豆子是根系较浅的植物。\n\nturgid\n---\n--\n中文核心释义\n（因充满水分而）膨胀的，饱满的\n英文例句\nThey're going to be nice and turgid or full of water as the day progresses.\n中文例句\n随着时间推移，它们会变得饱满，充满水分。\n\nevaporatively cool off\n---\n--\n中文核心释义\n蒸发散热\n英文例句\nIf it's windy, it's going to evaporatively cool off the surface of the soil.\n中文例句\n如果风大的话，土壤表面会蒸发散热。\n\nsusceptible to\n---\n--\n中文核心释义\n易受…影响的；对…敏感的\n英文例句\nPlants that are susceptible to disease, tomatoes, things like that.\n中文例句\n容易生病的植物，比如番茄之类的。\n\noverblown\n---\n--\n中文核心释义\n夸大其词的；过分渲染的\n英文例句\nThis mistake is slightly overblown.\n中文例句\n这个错误有点被夸大了。\n\npermeate\n---\n--\n中文核心释义\n渗透；弥漫\n英文例句\nIt takes a little bit of time for water to permeate them.\n中文例句\n水需要一些时间才能渗透进去。\n\na whole host of\n---\n--\n中文核心释义\n一大群；许多\n英文例句\nThere's a whole host of benefits outside of watering.\n中文例句\n除了浇水之外，还有很多其他好处。",
+        "pronunciation": [
+          {
+            "word": "get cracking",
+            "phonetic": "/ɡɛt ˈkrækɪŋ/",
+            "description": "注意\"cracking\"中\"ack\"的发音，类似于\"爱克\""
+          },
+          {
+            "word": "shallow-rooted",
+            "phonetic": "/ˈʃæloʊ ˈruːtɪd/",
+            "description": "\"shallow\"中\"ll\"发音清晰，\"rooted\"中\"oo\"发音为长\"u\""
+          },
+          {
+            "word": "turgid",
+            "phonetic": "/ˈtɜːrdʒɪd/",
+            "description": "\"ur\"发音类似于\"厄\"，\"gid\"中的\"g\"发音清晰"
+          },
+          {
+            "word": "evaporatively cool off",
+            "phonetic": "/ɪˈvæpəreɪtɪvli kuːl ɒf/",
+            "description": "\"evaporatively\"重音在\"rap\"，\"cool off\"中\"off\"的\"o\"是短音"
+          },
+          {
+            "word": "susceptible to",
+            "phonetic": "/səˈsɛptəbəl tuː/",
+            "description": "\"susceptible\"重音在\"cep\"，\"b\"和\"t\"发音清晰"
+          },
+          {
+            "word": "overblown",
+            "phonetic": "/ˌoʊvərˈbloʊn/",
+            "description": "\"over\"的\"o\"发音为长\"o\"，\"blown\"中\"ow\"为长\"o\"音"
+          },
+          {
+            "word": "permeate",
+            "phonetic": "/ˈpɜːrmieɪt/",
+            "description": "\"per\"发音类似于\"泼\"，\"meate\"中\"eate\"发音为\"ieɪt\""
+          },
+          {
+            "word": "a whole host of",
+            "phonetic": "/ə hoʊl hoʊst ʌv/",
+            "description": "\"whole\"中\"wh\"不发音，\"host\"的\"o\"为长\"o\"音，\"of\"弱读为/ʌv/"
+          }
+        ],
+        "sentences": [
+          [
+            "How do you keep this garden well-watered and make sure you don't make any classic watering mistakes?",
+            "你怎样才能让花园得到充分浇水，并确保不犯任何典型的浇水错误呢？"
+          ],
+          [
+            "The best time to water your plants is when the plants need water.",
+            "最佳的浇水时间是当植物需要水的时候。"
+          ],
+          [
+            "It's not the best idea to water directly over the top of your plants.",
+            "直接从上方给植物浇水不是最好的主意。"
+          ],
+          [
+            "You can oftentimes think you watered well enough.",
+            "你常常会以为你已经浇足水了。"
+          ],
+          [
+            "There's a whole host of benefits outside of watering.",
+            "除了浇水之外，还有很多其他好处。"
+          ]
+        ],
+        "grammar": [
+          [
+            "动名词作主语",
+            "动名词可以充当句子的主语，表示一个动作或活动。",
+            "Watering at the wrong time of day."
+          ],
+          [
+            "动词不定式表示目的",
+            "动词不定式（to + 动词原形）可以表示动作的目的。",
+            "...to allow me to demonstrate different ways of watering."
+          ]
+        ]
+      },
+      {
+        "video_id": "GaqRNa1s6IM",
+        "title": "3 Simple Houseplant Care Tips to Keep Your Plants Healthy",
+        "url": "https://www.youtube.com/watch?v=GaqRNa1s6IM",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频介绍了三个简单实用的室内植物养护技巧，旨在帮助植物爱好者避免过度照护导致植物死亡。这些技巧包括在天气适宜时将植物移到室外一段时间以增强其活力，以及为度假或需要减少浇水而设计的植物护理方法，如使用储水盘、覆盖土壤和使用自动浇水器。视频最后还提供了接收网购植物后的初期处理建议，强调需要让植物逐渐适应新环境。",
+        "cards": "love our plants to death\n---\n--\n因为过度溺爱（植物），反而害了它们\nWhen it comes to caring for our houseplants, most of us... love our plants to death.\n当我们照顾室内植物时，我们大多数人…因为过度溺爱反而害了它们。\n\nbear bones, dead simple\n---\n--\n极其简单\nWe're going over three bear bones, dead simple, so basic they almost shouldn't be mentioned tips.\n我们将介绍三个极其简单，基础到几乎不值一提的技巧。\n\nperk back up\n---\n--\n重新振作；恢复活力\nGive it that environmental stress, and it's going to perk back up.\n给它施加一些环境压力，它就会重新恢复活力。\n\nslatted shade\n---\n--\n有板条遮蔽的阴凉处\nI've left these outside... in this slatted shade area, and they've just been absolutely loving it.\n我把它们放在外面…在这个有板条遮蔽的阴凉处，它们非常喜欢。\n\nbuffer that plant\n---\n--\n为植物提供缓冲/保护\nIf you are on vacation, that's just a great tip to have to water less and buffer that plant.\n如果你在度假，这是一个很好的小技巧，可以减少浇水并为植物提供缓冲。\n\nwicking action\n---\n--\n毛细作用\nYou will get some wicking action coming up.\n你会看到一些毛细作用向上渗透。\n\nacclimated to\n---\n--\n适应（环境）\nGet them acclimated to your environment.\n让它们适应你的环境。\n\nharden off\n---\n--\n（使植物）锻炼适应户外环境\nIt's kind of like hardening off a seedling outdoors.\n这有点像在户外锻炼幼苗适应环境。",
+        "pronunciation": [
+          {
+            "word": "love our plants to death",
+            "phonetic": "/lʌv aʊər plænts tuː dɛθ/",
+            "description": "“death”的“th”音是舌尖轻触上齿，气流从缝隙中挤出，声带不振动。"
+          },
+          {
+            "word": "perk back up",
+            "phonetic": "/pɜːrk bæk ʌp/",
+            "description": "“perk”中的“r”要卷舌，“back”的“ck”音要轻而短促。"
+          },
+          {
+            "word": "slatted shade",
+            "phonetic": "/ˈslætɪd ʃeɪd/",
+            "description": "“slatted”重音在前，注意“ed”发/ɪd/音。"
+          },
+          {
+            "word": "buffer that plant",
+            "phonetic": "/ˈbʌfər ðæt plænt/",
+            "description": "“buffer”的“er”音卷舌，“that”的“th”音是舌尖轻触上齿，气流从缝隙中挤出，声带振动。"
+          },
+          {
+            "word": "wicking action",
+            "phonetic": "/ˈwɪkɪŋ ˈækʃən/",
+            "description": "“wicking”中的“ck”和“ng”音要注意，不要发成“king”。"
+          },
+          {
+            "word": "acclimated to",
+            "phonetic": "/ˈæk.lə.meɪ.tɪd tuː/",
+            "description": "“acclimated”重音在第二音节，中间的“l”音清晰。"
+          },
+          {
+            "word": "harden off",
+            "phonetic": "/ˈhɑːrdən ɔːf/",
+            "description": "“harden”中的“r”要卷舌，结尾是轻微的/n/音。"
+          }
+        ],
+        "sentences": [
+          [
+            "We shouldn't be stressing about our houseplants, they should actually be relaxing us, right?",
+            "我们不应该为室内植物而感到压力，它们应该让我们放松，对吧？"
+          ],
+          [
+            "Unless there's some super obvious problem like root rot or a disease or a pest, if it's just generally looking weak, something you can do when the weather's good is just bring it outdoors for a week or so.",
+            "除非有像根腐病、疾病或虫害这种非常明显的问题，如果它只是看起来整体虚弱，那么在天气好的时候，你可以把它搬到户外待上一周左右。"
+          ],
+          [
+            "Now, is this the best solution? No, but if you're gone for a couple days and the plant needed a water, then this can be a great one to just give it a little bit of buffer.",
+            "那么，这是最好的解决方案吗？不，但如果你离开几天，而且植物需要浇水，那么这可以是一个很好的方法，给它一点缓冲。"
+          ],
+          [
+            "Less light = less photosynthesis = less water.",
+            "更少的光照 = 更少的光合作用 = 更少的水分消耗。"
+          ],
+          [
+            "The only thing I did is I put them here, I put them right here in my backyard on my slatted sort of awning.",
+            "我唯一做的就是把它们放在这里，放在我家后院的板条雨篷下。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Conditional Sentence Type 1",
+            "描述真实或可能发生的情况及其结果。结构：If + 主语 + 一般现在时，主语 + will + 动词原形。",
+            "If you have a weak or sickly looking houseplant... something you can do when the weather's good is just bring it outdoors for a week or so."
+          ],
+          [
+            "Passive Voice",
+            "当动作的承受者比执行者更重要或执行者不明确时使用。",
+            "The temperature's changing all the time, they're getting jostled around."
+          ]
+        ]
+      }
+    ]
   }
 ]
