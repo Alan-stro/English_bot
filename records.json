@@ -21618,5 +21618,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "topic": "Get ready with me",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "35dEtiWj9L0",
+        "title": "Get Ready With Me: feat. Olivia Rodrigo | Glossier",
+        "url": "https://www.youtube.com/watch?v=35dEtiWj9L0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频展示了歌手Olivia Rodrigo的日常美妆流程。她首先涂抹防晒霜和粉底，然后使用遮瑕膏遮盖瑕疵。接着，她使用了自己与Glossier合作的眼影盘和眼线液，并用睫毛夹和睫毛膏完成了眼部妆容。最后，她使用眉笔和眉胶修饰眉毛，并涂上自己与Glossier合作的唇膏和香水，准备出门与妈妈共进午餐。",
+        "cards": "minimal skin-care routine\n---\n--\n精简的护肤流程\n英文例句：I have a very minimal skin-care routine, I try not to do too much.\n中文例句：我的护肤流程非常精简，我尽量不使用太多产品。\n\nreacts really poorly\n---\n--\n反应非常糟糕\n英文例句：And usually if I do a lot my skin kind of reacts really poorly, so better to keep it simple for me.\n中文例句：通常如果我使用太多产品，我的皮肤会反应非常糟糕，所以对我来说保持简单更好。\n\nhang out with\n---\n--\n和...一起出去玩/消磨时间\n英文例句：I think I'm going to hang out with my mom.\n中文例句：我想我今天要和我妈妈一起出去。\n\ninduct\n---\n--\n使（某人）正式就任；吸收（某人）为成员\n英文例句：Going to Canada tomorrow to induct Alanis Morissette into the Hall of Fame there.\n中文例句：我明天要去加拿大，让艾拉妮丝·莫莉赛特入选那里的名人堂。\n\nall-time hero\n---\n--\n永远的偶像/英雄\n英文例句：I love Alanis so much, she's like my all-time hero.\n中文例句：我非常喜欢艾拉妮丝，她简直是我永远的偶像。\n\nsun-kissed\n---\n--\n晒成健康肤色的\n英文例句：It makes you look sun-kissed.\n中文例句：它会让你看起来拥有健康肤色。\n\ngo-to product\n---\n--\n首选产品，常用产品\n英文例句：It's like my go-to product.\n中文例句：这就像我的首选产品。\n\ncome home from\n---\n--\n从...回家\n英文例句：I'd come home from school or work.\n中文例句：我以前放学或下班回家。",
+        "pronunciation": [
+          {
+            "word": "minimal",
+            "phonetic": "/ˈmɪnɪməl/",
+            "description": "重音在第一个音节，注意/ɪ/的短音。"
+          },
+          {
+            "word": "reacts",
+            "phonetic": "/riˈækts/",
+            "description": "重音在第二个音节，注意“re-”发/riː/的音。"
+          },
+          {
+            "word": "hang out with",
+            "phonetic": "/hæŋ aʊt wɪð/",
+            "description": "hang out 是一个整体，with的/ð/发浊辅音。"
+          },
+          {
+            "word": "induct",
+            "phonetic": "/ɪnˈdʌkt/",
+            "description": "重音在第二个音节，注意/ʌ/的短音。"
+          },
+          {
+            "word": "all-time",
+            "phonetic": "/ɔːl taɪm/",
+            "description": "all-time是一个复合词，注意all的/ɔː/音。"
+          },
+          {
+            "word": "sun-kissed",
+            "phonetic": "/ˈsʌn kɪst/",
+            "description": "重音在第一个音节，/ʌ/是短促的“啊”音，kissed的/ɪ/也是短音。"
+          },
+          {
+            "word": "go-to",
+            "phonetic": "/ˈɡoʊ tuː/",
+            "description": "两个音节都清晰，go的/oʊ/是双元音。"
+          },
+          {
+            "word": "come home from",
+            "phonetic": "/kʌm hoʊm frʌm/",
+            "description": "come的/ʌ/是短促的“啊”音，home的/oʊ/是双元音，from的/ʌ/也是短促的“啊”音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Hey, what's up? I'm Olivia and today I am going to show you my beauty routine with my set from Glossier.",
+            "嘿，最近怎么样？我是奥利维亚，今天我将向大家展示我使用Glossier套装的美容日常。"
+          ],
+          [
+            "Sometimes I do forget.",
+            "有时候我确实会忘记。"
+          ],
+          [
+            "And usually if I do a lot my skin kind of reacts really poorly, so better to keep it simple for me.",
+            "通常如果我使用太多产品，我的皮肤会反应非常糟糕，所以对我来说保持简单更好。"
+          ],
+          [
+            "It's hard to do eyeliner under pressure.",
+            "在压力下画眼线很难。"
+          ],
+          [
+            "I always tell them the story of when I was born.",
+            "我总是告诉他们我出生时的故事。"
+          ]
+        ],
+        "grammar": [
+          [
+            "虚拟语气（Conditional Sentence Type 1）",
+            "用于描述未来可能发生的情况及其结果。",
+            "And usually if I do a lot (condition) my skin kind of reacts really poorly (result)."
+          ],
+          [
+            "强调助动词 \"do\"",
+            "在肯定句中使用 \"do\" （或 \"does\", \"did\"）来表示强调。",
+            "Sometimes I do forget. (强调“我确实会忘记”)"
+          ]
+        ]
+      },
+      {
+        "video_id": "V3VNVw8QX_c",
+        "title": "Get Ready With Me (NO HANDS EDITION)",
+        "url": "https://www.youtube.com/watch?v=V3VNVw8QX_c",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，两位主持人挑战用非传统工具完成日常的早晨活动。他们通过转盘来决定每项任务（刷牙、漱口、使用止汗剂、准备早餐、冲咖啡）需要使用的工具，包括筷子、夹子和长柄夹具。尽管过程中充满了笨拙和混乱，甚至造成了一些小事故，但他们最终都以幽默的方式完成了挑战。",
+        "cards": "pissing myself\n---\n--\n中文核心释义：吓尿了；或引申为非常紧张/害怕。在视频中是幽默的夸张表达。\n英文例句：I thought I was done pissing myself, but I was mistaken.\n中文例句：我以为我已经不会再吓尿了，但我错了。\n\ngone through (one's) day\n---\n--\n中文核心释义：度过一天；完成一天的事务。\n英文例句：Have you ever gone through your day and done things?\n中文例句：你有没有过这样的一天，就是你做完了一些事情？\n\nsuck (colloquial)\n---\n--\n中文核心释义：很糟糕，很烂。\n英文例句：What if your hands sucked?\n中文例句：如果你的手很笨拙怎么办？\n\nchildproof as hell\n---\n--\n中文核心释义：极其儿童友好（即很难打开或操作，以防儿童误用）。\"as hell\"是口语中加强语气的表达。\n英文例句：Dude, this is childproof as hell.\n中文例句：老兄，这简直是儿童防护级别的。\n\nnerve-racking\n---\n--\n中文核心释义：令人紧张不安的。\n英文例句：This is nerve-racking.\n中文例句：这真是太紧张了。\n\nfumble\n---\n--\n中文核心释义：笨拙地处理；失误。\n英文例句：And then you just fumbled it right at the end!\n中文例句：然后你就在最后关头搞砸了！\n\ngoing for style points\n---\n--\n中文核心释义：追求花哨（而非实用或直接的结果）。\n英文例句：I'm going for style points.\n中文例句：我追求的是花哨（技巧）。\n\nwell-oiled machine\n---\n--\n中文核心释义：运转良好的机器；指某事物运作顺畅高效。\n英文例句：Dude, we're like a well-oiled machine.\n中文例句：老兄，我们就像一台运转良好的机器。",
+        "pronunciation": [
+          {
+            "word": "pissing myself",
+            "phonetic": "/ˈpɪsɪŋ maɪˈsɛlf/",
+            "description": "注意“pissing”中的/ɪ/音和“myself”中的/aɪ/音，以及连读。"
+          },
+          {
+            "word": "gone through your day",
+            "phonetic": "/ɡɒn θruː jɔː deɪ/",
+            "description": "注意“through”中的/θr/音，以及“gone through”的连读。"
+          },
+          {
+            "word": "suck",
+            "phonetic": "/sʌk/",
+            "description": "/ʌ/音类似中文“啊”的短促音，不是“u”的音。"
+          },
+          {
+            "word": "childproof as hell",
+            "phonetic": "/ˈtʃaɪldˌpruːf æz hɛl/",
+            "description": "“childproof”重音在第一个音节， “as hell”中的“hell”发/ɛ/音。"
+          },
+          {
+            "word": "nerve-racking",
+            "phonetic": "/ˈnɜːrvˌrækɪŋ/",
+            "description": "注意“nerve”中的/ɜːr/音和“racking”中的/æ/音。"
+          },
+          {
+            "word": "fumble",
+            "phonetic": "/ˈfʌmbəl/",
+            "description": "/ʌ/音类似中文“啊”的短促音，不是“u”的音。"
+          },
+          {
+            "word": "going for style points",
+            "phonetic": "/ˈɡoʊɪŋ fɔːr staɪl pɔɪnts/",
+            "description": "注意“style”中的/aɪ/音和“points”中的/ɔɪ/音。"
+          },
+          {
+            "word": "well-oiled machine",
+            "phonetic": "/wɛl ɔɪld məˈʃiːn/",
+            "description": "“well-oiled”中的/ɔɪ/音，以及“machine”的重音在第二个音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "I thought I was done pissing myself, but I was mistaken.",
+            "我以为我已经不会再吓尿了，但我错了。"
+          ],
+          [
+            "Have you ever gone through your day and done things?",
+            "你有没有过这样的一天，就是你度过一天并做了一些事情？"
+          ],
+          [
+            "I didn't get really in the back.",
+            "（刷牙时）我没怎么刷到后面。"
+          ],
+          [
+            "Dude, this is childproof as hell.",
+            "老兄，这简直是儿童防护级别的。"
+          ],
+          [
+            "I don't need it, it's just nice.",
+            "我不需要它，但有它挺好的。"
+          ]
+        ],
+        "grammar": [
+          [
+            "虚拟语气 \"What if...\"",
+            "用于提出假想或可能性。",
+            "What if your hands sucked? What if you only had chopsticks? (如果你的手很笨拙怎么办？如果你只有筷子怎么办？)"
+          ],
+          [
+            "口语化强调 \"as hell\"",
+            "在口语中用于加强形容词或副词的语气，表示“非常”、“极其”。",
+            "This is childproof as hell. (这简直是儿童防护级别。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
