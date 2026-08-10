@@ -23152,5 +23152,164 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-10",
+    "topic": "Making my pour-over coffee",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "AI4ynXzkSQo",
+        "title": "The Ultimate V60 Technique",
+        "url": "https://www.youtube.com/watch?v=AI4ynXzkSQo",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这个视频提供了一个关于如何用Hario V60冲煮咖啡的详细指南。视频首先列出了所需的设备，包括V60、滤纸、电子秤、水壶、咖啡豆和过滤水。接着，讲解了具体的冲煮技术，包括咖啡与水的比例（推荐60克/升）、研磨度、滤纸的预湿润、咖啡粉的布粉和预浸泡（Bloom），以及分段注水（先快速注入60%的水量，再缓慢注入剩余40%），并在不同阶段进行搅拌或摇晃以确保均匀萃取。最后，视频强调了水温和研磨度对萃取和风味的重要性，并建议通过调整研磨度来优化咖啡的口感。",
+        "cards": "elevate\n---\n--\n提高，改善\nThe speaker designed this technique to just elevate what you're doing a little bit more.\n演讲者设计这项技巧是为了稍微提高你所做的事情。\n\n--\n---\nheat retention\n--\n保温\nPlastic V60s do a great job from a heat retention perspective.\n塑料V60在保温方面做得很好。\n\n--\n---\ntake all the guesswork out of it\n--\n消除所有猜测，让事情变得确定\nA digital scale is going to take all the guesswork out of it and make your brews more repeatable.\n数字秤将消除所有猜测，让你的冲煮更具可重复性。\n\n--\n---\ntransparency on your ingredients\n--\n对你的原料清晰了解\nGreat technique is just going to give you transparency on your ingredients.\n好的技巧只会让你对你的原料有清晰的了解。\n\n--\n---\napproachable\n--\n（价格等）平易近人的，容易获得的\nElectric burr grinders are pretty approachable priced now.\n现在电动磨豆机的价格相当亲民。\n\n--\n---\nevenly saturate\n--\n均匀浸湿\nCreating a well in the middle of the grounds is helpful to make sure that we're evenly saturating all the grounds.\n在咖啡粉中间挖一个凹坑有助于确保咖啡粉被均匀浸湿。\n\n--\n---\ndiminish\n--\n减少，减弱\nIf you're in a cafe, you may only want to wait 30 seconds as the returns do diminish a little bit beyond that.\n如果你在咖啡馆里，你可能只想等30秒，因为再久一点效果就会减弱。\n\n--\n---\nunderextracting\n--\n萃取不足\nPour too aggressively and you create channels and pockets through which water seems to run very quickly, essentially underextracting the coffee.\n如果冲煮过于猛烈，你会产生通道和空隙，水会非常快地流过，本质上是咖啡萃取不足。",
+        "pronunciation": [
+          {
+            "word": "elevate",
+            "phonetic": "/ˈɛlɪveɪt/",
+            "description": "注意重音在第一个音节，v 的发音"
+          },
+          {
+            "word": "heat retention",
+            "phonetic": "/hiːt rɪˈtɛnʃən/",
+            "description": "注意 retention 的重音在第二个音节"
+          },
+          {
+            "word": "take all the guesswork out of it",
+            "phonetic": "/teɪk ɔːl ðə ˈɡɛswɜːrk aʊt ɒv ɪt/",
+            "description": "\"guesswork\" 中 work 的发音，\"out of it\" 连读"
+          },
+          {
+            "word": "transparency on your ingredients",
+            "phonetic": "/trænsˈpærənsi ɒn jʊər ɪnˈɡriːdiənts/",
+            "description": "transparency 重音在第二个音节，ingredients 重音在第二个音节"
+          },
+          {
+            "word": "approachable",
+            "phonetic": "/əˈproʊtʃəbl/",
+            "description": "注意重音在第二个音节，ch 的发音"
+          },
+          {
+            "word": "evenly saturate",
+            "phonetic": "/ˈiːvnli ˈsætʃəreɪt/",
+            "description": "evenly 重音在第一个音节，saturate 重音在第一个音节"
+          },
+          {
+            "word": "diminish",
+            "phonetic": "/dɪˈmɪnɪʃ/",
+            "description": "重音在第二个音节，注意 \"mi\" 的短音"
+          },
+          {
+            "word": "underextracting",
+            "phonetic": "/ˌʌndərɪkˈstræktɪŋ/",
+            "description": "under 和 extracting 分开理解，extracting 重音在第二个音节"
+          }
+        ],
+        "sentences": [
+          [
+            "Today, we're going to be talking about how to brew with the Hario V60, how to get the best results you can through a simple, repeatable technique that will give you a delicious cup of coffee.",
+            "今天，我们将讨论如何使用Hario V60冲煮咖啡，如何通过简单、可重复的技术获得最好的冲煮效果，从而得到一杯美味的咖啡。"
+          ],
+          [
+            "I have designed this technique to work in a cafe as well as at home.",
+            "我设计这项技术是为了在咖啡馆和家庭都能使用。"
+          ],
+          [
+            "Great technique is just going to give you transparency on your ingredients.",
+            "好的技巧只会让你对你的原料有清晰的了解。"
+          ],
+          [
+            "If you find that coffee to be empty, hollow, a little acidic and unpleasant, go a little finer.",
+            "如果你觉得那杯咖啡口感空洞、缺乏风味、有点酸涩且不愉悦，那就把研磨度调细一点。"
+          ],
+          [
+            "This is my ultimate technique; this is what works the best for me.",
+            "这是我的终极技巧；这是对我最有效的方法。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**whether... or (not)**",
+            "表示“是否”、“无论…还是…”的选择",
+            "to work whether you have a beautiful pouring kettle or whether you just have a regular kettle (0:27)"
+          ],
+          [
+            "**Adverb \"solely\"**",
+            "表示“仅仅地”、“唯一地”，强调限定",
+            "changing your extraction solely through changing your grind (1:15)"
+          ]
+        ]
+      },
+      {
+        "video_id": "1oB1oDrDkHM",
+        "title": "A Better 1 Cup V60 Technique",
+        "url": "https://www.youtube.com/watch?v=1oB1oDrDkHM",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频介绍了制作一杯V60咖啡的优化技巧。主讲人详细讲解了咖啡豆的用量（15克咖啡豆配250克水），强调了咖啡的研磨度应比多数人预期的更细。他演示了如何分步注水，每次50克，并间隔停顿以确保均匀萃取，强调了塑料滤杯的预热和使用刚烧开的水的重要性。视频还解释了为何采用分段注水（pulsed pour）和低位圆周注水比一次性注水或高位注水效果更好，可以避免通道效应，提升咖啡风味。",
+        "cards": "consistent piece of criticism\n---\n--\n持续的批评意见\n英文例句：I did get one consistent piece of criticism.\n中文例句：我确实收到了一致的批评意见。\n\njustified criticism\n---\n--\n合理的批评\n英文例句：And I think that was probably justified criticism.\n中文例句：我认为那可能是合理的批评。\n\ngo back to the drawing board\n---\n--\n从头开始；重新计划\n英文例句：We went back to the drawing board and we have ended up I think with a really fun, really easy technique.\n中文例句：我们重新开始，最终我认为找到了一种非常有趣、非常简单的技术。\n\ncrossover with\n---\n--\n与...有共通之处；与...交叉\n英文例句：This technique actually has quite a lot of crossover with the original technique.\n中文例句：这项技术与原来的技术实际上有很多共通之处。\n\nobsess over\n---\n--\n对...过度痴迷；过度关注\n英文例句：Don't obsess over every second, over every gram.\n中文例句：不要执着于每一秒，执着于每一克。\n\ndial in\n---\n--\n精确调整；找到最佳设置\n英文例句：Do make sure you dial in that grind though.\n中文例句：不过，一定要精确调整好研磨粗细。\n\nnight and day\n---\n--\n天壤之别；截然不同\n英文例句：The taste, night and day.\n中文例句：味道，简直是天壤之别。",
+        "pronunciation": [
+          {
+            "word": "consistent",
+            "phonetic": "/kənˈsɪstənt/",
+            "description": "注意重音在第二个音节，不要读成 /kɒnsɪstənt/"
+          },
+          {
+            "word": "criticism",
+            "phonetic": "/ˈkrɪtɪsɪzəm/",
+            "description": "注意第二个 /ɪ/ 音很弱，甚至可以省略，不要把所有音节都读得很重"
+          },
+          {
+            "word": "justified",
+            "phonetic": "/ˈdʒʌstɪfaɪd/",
+            "description": "注意“just”中的 /ʌ/ 音，以及后面的 /faɪd/"
+          },
+          {
+            "word": "obsess",
+            "phonetic": "/əbˈses/",
+            "description": "注意重音在第二个音节，不要把“ob”读成中文“奥”的音"
+          }
+        ],
+        "sentences": [
+          [
+            "It was a difficult technique to get great results from with a smaller amount of coffee.",
+            "对于少量咖啡而言，这种技术难以获得好的结果。"
+          ],
+          [
+            "The maths, we're going to keep relatively simple today.",
+            "数学计算方面，我们今天会保持相对简单。"
+          ],
+          [
+            "It takes the least amount of work to get it hot to the point that it won't drop the temperature.",
+            "它只需最少的工作量就能达到足够热度，使其温度不会下降。"
+          ],
+          [
+            "Don't obsess over every second, over every gram.",
+            "不要执着于每一秒，执着于每一克。"
+          ],
+          [
+            "We found that once you were kind of in the ballpark of the technique, the coffee tasted pretty good.",
+            "我们发现，只要你的技术大致到位，咖啡的味道就相当不错。"
+          ]
+        ],
+        "grammar": [
+          [
+            "不定式短语作目的状语",
+            "\"to the point that it won't drop the temperature\" 解释了“get it hot”的目的和程度。",
+            "It takes the least amount of work to get it hot **to the point that it won't drop the temperature**."
+          ],
+          [
+            "比较级从句",
+            "\"The higher... the less...\" 引导的比较级从句，表示“越…越…”。",
+            "**The higher you pour from, then the less agitation you actually create** in the coffee."
+          ]
+        ]
+      }
+    ]
   }
 ]
