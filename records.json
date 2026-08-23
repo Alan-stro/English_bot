@@ -25047,5 +25047,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "topic": "Coffee brewing routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "vQVTNscQY0c",
+        "title": "Coffee Brewing Methods: French Press vs Pour Over vs AeroPress and more!",
+        "url": "https://www.youtube.com/watch?v=vQVTNscQY0c",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频全面介绍了多种在家冲泡咖啡的常见方法，包括法压壶、手冲（如V60、Chemex）、Clever Dripper、Aeropress、摩卡壶、Cezve/Ibrik，以及滴滤咖啡机和胶囊咖啡机。视频详细讲解了每种方法的冲泡过程、各自的优缺点，并展示了如何操作。最后，视频强调了无论使用哪种冲泡工具，咖啡豆的品质、新鲜度和烘焙程度才是决定最终口感的关键因素。",
+        "cards": "brewing method\n---\n--\n冲泡方法\n英文例句：In this video, we will give you a short but hopefully complete overview of the most common coffee brewing methods.\n中文例句：在这段视频中，我们将简要但希望能全面介绍最常见的咖啡冲泡方法。\n\nget asked a lot\n---\n--\n经常被问到\n英文例句：These two questions we get asked a lot.\n中文例句：这两个问题我们经常被问到。\n\nopt for\n---\n--\n选择\n英文例句：You can buy it relatively cheap if you don't opt for more fancy versions like we have.\n中文例句：如果你不选择更花哨的版本，你可以相对便宜地买到它，就像我们有的那样。\n\npercolate through\n---\n--\n滤过\n英文例句：Water percolate through the coffee bed extracting all the flavors along the way.\n中文例句：水通过咖啡粉床，在过程中提取所有风味。\n\nunderlying theme\n---\n--\n潜在主题；核心思想\n英文例句：I quickly notice the underlying theme behind many articles and essays: Animals.\n中文例句：我很快注意到许多文章和散文背后的潜在主题：动物。\n\ndial in\n---\n--\n（调整设备以达到）最佳效果；校准\n英文例句：You need to learn how to dial in espresso.\n中文例句：你需要学习如何调整意式浓缩咖啡机。\n\nlabor-intensive\n---\n--\n劳动密集型的；费力的\n英文例句：Cleaning and maintenance is very important and more labor-intensive.\n中文例句：清洁和维护非常重要，且劳动强度更大。",
+        "pronunciation": [
+          {
+            "word": "brewing method",
+            "phonetic": "/ˈbruːɪŋ ˈmɛθəd/",
+            "description": "\"brewing\" 中 \"ew\" 发长音 /uː/，\"method\" 中的 \"th\" 发浊辅音 /ð/。"
+          },
+          {
+            "word": "get asked a lot",
+            "phonetic": "/ɡɛt æskt ə lɒt/",
+            "description": "\"asked\" 结尾的 /kt/ 读清楚，\"a lot\" 连读时 \"a\" 弱读。"
+          },
+          {
+            "word": "opt for",
+            "phonetic": "/ɒpt fɔːr/",
+            "description": "\"opt\" 的 /t/ 读清楚，\"for\" 发 /fɔːr/ 而不是 /fɔː/。"
+          },
+          {
+            "word": "percolate through",
+            "phonetic": "/ˈpɜːrkəleɪt θruː/",
+            "description": "\"percolate\" 重音在第一音节，\"through\" 的 \"th\" 发清辅音 /θ/，且与 \"r\" 连读。"
+          },
+          {
+            "word": "underlying theme",
+            "phonetic": "/ˌʌndərˈlaɪɪŋ θiːm/",
+            "description": "\"underlying\" 重音在 \"ly\"，\"theme\" 的 \"th\" 发清辅音 /θ/，长音 /iː/。"
+          },
+          {
+            "word": "dial in",
+            "phonetic": "/ˈdaɪəl ɪn/",
+            "description": "\"dial\" 的 /aɪ/ 是双元音，\"in\" 和前面连读。"
+          },
+          {
+            "word": "labor-intensive",
+            "phonetic": "/ˈleɪbər ɪnˈtɛnsɪv/",
+            "description": "\"labor\" 重音在第一音节，\"intensive\" 重音在第二音节，\"in\" 和 \"tensive\" 要连贯。"
+          }
+        ],
+        "sentences": [
+          [
+            "What's the best way to brew coffee at home or what coffee maker should I buy?",
+            "在家冲泡咖啡最好的方法是什么，或者我应该买哪种咖啡机？"
+          ],
+          [
+            "Questions are simple, but the answer is complicated and somehow personal because as you can see on the table, there are so many options out there.",
+            "问题很简单，但答案很复杂，而且有些私人化，因为正如你所看到的，市面上有太多选择了。"
+          ],
+          [
+            "In this video, we will give you a short but hopefully complete overview of the most common coffee brewing methods.",
+            "我们将为您简要但希望能全面概述最常见的咖啡冲泡方法。"
+          ],
+          [
+            "Coffee usually get from French Press is of a higher body.",
+            "法压壶冲泡的咖啡通常口感更醇厚。"
+          ],
+          [
+            "What they all have in common is that you pour hot water over a coffee mass in the brewer.",
+            "它们的共同点是你将热水倒在冲泡器中的咖啡粉上。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Quantifiers \"so many\"",
+            "用来强调数量之多。",
+            "there are **so many** options out there."
+          ],
+          [
+            "Present Perfect Passive Voice",
+            "强调动作的结果，而不是执行者。",
+            "These two questions we **get asked a lot**."
+          ],
+          [
+            "Conditional Sentence Type 1",
+            "描述未来可能发生的情况及其结果。",
+            "You can buy it relatively cheap **if you don't opt for** more fancy versions like we have."
+          ]
+        ]
+      },
+      {
+        "video_id": "xUoFhcQBiZY",
+        "title": "How To Make The Best Coffee, According To Science",
+        "url": "https://www.youtube.com/watch?v=xUoFhcQBiZY",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "本视频深入探讨了制作完美咖啡的科学原理。首先，视频解释了不同咖啡豆（如阿拉比卡和罗布斯塔）中生物碱、酸和糖的含量差异如何影响其风味和苦涩度。接着，探讨了烘焙程度对咖啡因含量的实际影响（发现差异不大，更多取决于测量方式）。然后，视频详细介绍了不同冲泡方法（如滴滤和意式浓缩）如何通过化学和物理动力学影响咖啡的风味和质地。最后，视频强调了水质中的矿物质（尤其是镁离子）和水温在萃取咖啡风味中的关键作用，并根据流体力学原理建议了最佳的咖啡研磨粗细以避免过萃或萃取不足，从而帮助观众冲泡出最合心意的咖啡。",
+        "cards": "debunk\n---\n--\n揭穿（迷思、观念或信念）的虚假或空洞\nIt gets kind of hard to separate coffee fact from myth, which we're here to debunk.\n将咖啡的事实与迷思区分开来变得有点困难，我们正是要揭穿这些迷思。\n\nastringent\n---\n--\n（味道）涩的，收敛性的\nYou can bet that these compounds give coffee its astringent or sour taste.\n你可以肯定这些化合物让咖啡尝起来又涩又酸。\n\nflavor profile\n---\n--\n风味特征；口味特征\nSo picking the perfect bean for the flavor profile you want in your final cup is pretty vital.\n所以，选择适合你最终咖啡杯风味特征的完美咖啡豆非常重要。\n\ndial in\n---\n--\n精确调整；准确设定\nIf you really want to dial in particular coffee flavors, you might want to take a hard look at your water source too.\n如果你真的想精确调整特定的咖啡风味，你可能也要认真审视一下你的水源。\n\npulverizing\n---\n--\n将…磨成粉；粉碎\nBut pulverizing your coffee into literal dust might not be the way to go, at least according to mathematics.\n但将咖啡磨成粉末可能不是最佳选择，至少根据数学原理是这样。\n\nadditive effect\n---\n--\n累加效应；相加作用\nCoffee scientists think that bitter and sour compounds have an additive effect.\n咖啡科学家认为苦味和酸味化合物具有累加效应。\n\nhit the spot\n---\n--\n恰到好处；正合心意（通常指食物或饮料）\nBut if your coffee hits the spot, there's no science that can tell you you're wrong.\n但如果你的咖啡正合心意，没有任何科学能告诉你这是错的。",
+        "pronunciation": [
+          {
+            "word": "debunk",
+            "phonetic": "/diːˈbʌŋk/",
+            "description": "重点是第一个音节的/diː/和第二个音节的重音/bʌŋk/。"
+          },
+          {
+            "word": "astringent",
+            "phonetic": "/əˈstrɪndʒənt/",
+            "description": "注意重音在第二个音节，-gent发/dʒənt/。"
+          },
+          {
+            "word": "flavor profile",
+            "phonetic": "/ˈfleɪvər ˈproʊfaɪl/",
+            "description": "两个单词，第一个单词重音在/fleɪ/，第二个单词重音在/proʊ/。"
+          },
+          {
+            "word": "dial in",
+            "phonetic": "/ˈdaɪəl ɪn/",
+            "description": "“dial”中/aɪ/和/əl/的发音，以及与“in”的连读。"
+          },
+          {
+            "word": "pulverizing",
+            "phonetic": "/ˈpʌlvəraɪzɪŋ/",
+            "description": "重音在第一个音节，-izing发/aɪzɪŋ/。"
+          },
+          {
+            "word": "additive effect",
+            "phonetic": "/ˈædətɪv ɪˈfɛkt/",
+            "description": "“additive”重音在第一个音节，注意“v”的发音；“effect”重音在第二个音节。"
+          },
+          {
+            "word": "hit the spot",
+            "phonetic": "/hɪt ðə spɒt/",
+            "description": "注意“hit”和“the”的连读，以及“spot”中/ɒ/的发音。"
+          }
+        ],
+        "sentences": [
+          [
+            "It gets kind of hard to separate coffee fact from myth.",
+            "将咖啡的事实与迷思区分开来变得有点困难。"
+          ],
+          [
+            "Brewing a beautiful cup of liquid gold may be an art form, but it's also very much a science.",
+            "冲泡一杯金色的液体咖啡可能是一种艺术形式，但它也是一门不折不扣的科学。"
+          ],
+          [
+            "As you frantically Google how to jam as much caffeine into your system as possible, you may have read that lighter roast pack more of a caffeine punch than darker ones.",
+            "当你疯狂地在谷歌上搜索如何尽可能多地摄入咖啡因时，你可能读到过，浅烘焙咖啡比深烘焙咖啡含有更多的咖啡因。"
+          ],
+          [
+            "If you really want to dial in particular coffee flavors, you might want to take a hard look at your water source too.",
+            "如果你真的想精确调整特定的咖啡风味，你可能也要认真审视一下你的水源。"
+          ],
+          [
+            "All this said, the perfect cup of coffee is the one you like the best.",
+            "话虽如此，最完美的咖啡就是你最喜欢的那一杯。"
+          ]
+        ],
+        "grammar": [
+          [
+            "get + 形容词",
+            "表示状态的改变，意为“变得……”，强调过程或结果。",
+            "It gets kind of hard to separate coffee fact from myth."
+          ],
+          [
+            "比较句型：A may be... but it's also very much a...",
+            "用于指出某事物可能具有某种特性，但同时也非常具有另一种特性，通常用于强调后者。",
+            "Brewing a beautiful cup of liquid gold may be an art form, but it's also very much a science."
+          ]
+        ]
+      }
+    ]
   }
 ]
