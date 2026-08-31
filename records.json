@@ -26279,5 +26279,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "topic": "daily life vlog",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "yAfg37UwxAE",
+        "title": "a cozy day in the life",
+        "url": "https://www.youtube.com/watch?v=yAfg37UwxAE",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频记录了博主一天的生活，从下雨天在家里听唱片、煮咖啡开始，之后进行视频剪辑工作。下午博主外出参加了Aesop的香水发布会和艺术展览。晚上回家后，他点上香薰、泡茶，放松地看Netflix并回复评论，结束了充实的一天。",
+        "cards": "get up close to\n---\n--\n近距离接触\n英文例句：It lets me get up close to the rain.\n中文例句：这个窗户让我能近距离感受雨水。\n\ndrawn to\n---\n--\n被……吸引\n英文例句：I've always been drawn to analog stuff.\n中文例句：我一直对模拟设备情有独钟。\n\non point\n---\n--\n非常到位；完美\n英文例句：Mainly because Aesop's events are always so on point.\n中文例句：主要是因为Aesop的活动总是非常到位。\n\nwind down\n---\n--\n放松；舒缓\n英文例句：A short night routine on how I wind down.\n中文例句：一个简短的夜间日常，展示我如何放松下来。\n\nsorted\n---\n--\n整理好；安排妥当\n英文例句：For me, I need to get all my work stuff sorted before I can relax.\n中文例句：对我来说，我需要先把所有工作整理好才能放松。\n\nhits different\n---\n--\n感受独特；别有风味（口语表达，表示某事物以一种特别的方式被体验到）\n英文例句：Having tea at night just hits different.\n中文例句：晚上喝茶就是感觉不一样。\n\ncall it a night\n---\n--\n（口语）结束夜晚的活动；收工\n英文例句：Replying to comments before I call it a night.\n中文例句：回复完评论我就结束今天的活动了。\n\nstaring aimlessly\n---\n--\n漫无目的地凝视\n英文例句：Staring aimlessly brings me peace somehow.\n中文例句：漫无目的地凝视总能带给我一些平静。",
+        "pronunciation": [
+          {
+            "word": "get up close to",
+            "phonetic": "/ɡɛt ʌp kloʊs tuː/",
+            "description": "\"get up\" 连读，\"close\" 浊化，\"to\" 弱读"
+          },
+          {
+            "word": "drawn to",
+            "phonetic": "/drɔːn tuː/",
+            "description": "\"drawn\" 注意 /ɔː/ 音，\"to\" 弱读"
+          },
+          {
+            "word": "on point",
+            "phonetic": "/ɒn pɔɪnt/",
+            "description": "\"on\" 和 \"point\" 的 /ɔɪ/ 音要清晰"
+          },
+          {
+            "word": "wind down",
+            "phonetic": "/wɪnd daʊn/",
+            "description": "\"wind\" 和 \"down\" 都要发饱满，注意 /aʊ/ 音"
+          },
+          {
+            "word": "sorted",
+            "phonetic": "/ˈsɔːrtɪd/",
+            "description": "\"sorted\" 的 /tɪd/ 听起来像 \"ted\""
+          },
+          {
+            "word": "hits different",
+            "phonetic": "/hɪts ˈdɪfərənt/",
+            "description": "\"hits\" 末尾 /s/ 要清晰，\"different\" 中间 /ər/ 弱读"
+          },
+          {
+            "word": "call it a night",
+            "phonetic": "/kɔːl ɪt ə naɪt/",
+            "description": "\"call it a\" 连读，\"a\" 弱读"
+          },
+          {
+            "word": "staring aimlessly",
+            "phonetic": "/ˈstɛərɪŋ ˈeɪmləsli/",
+            "description": "\"staring\" 注意 /ɛər/ 音，\"aimlessly\" 的 /s/ 要清脆"
+          }
+        ],
+        "sentences": [
+          [
+            "I thought why not share this cozy day with you.",
+            "我想何不与你们分享这个舒适的一天呢。"
+          ],
+          [
+            "It might seem like a lot of effort for just a cup of coffee.",
+            "对于一杯咖啡来说，这可能看起来要花很多精力。"
+          ],
+          [
+            "Couldn't think of a better venue for this launch.",
+            "想不出比这更好的发布会场地了。"
+          ],
+          [
+            "How do you guys usually wind down?",
+            "你们通常如何放松下来？"
+          ],
+          [
+            "Or what's on your watchlist lately?",
+            "或者你最近的待看片单上有什么？"
+          ]
+        ],
+        "grammar": [
+          [
+            "动词不定式作主语补足语",
+            "动词不定式可以用来补充说明主语的状态、目的或结果。",
+            "It lets me get up close to the rain. (它让我能近距离感受雨水。)"
+          ],
+          [
+            "Nothing beats...",
+            "\"Nothing beats...\" 是一个非常地道的表达方式，表示没有比某事物更好的了，强调其优越性。",
+            "Nothing beats that first sip. (没什么能比得上第一口的味道。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "Zb8L0YGDzQI",
+        "title": "Living Alone Diaries | What I Eat in a Day (simple &amp; easy meals to cook)",
+        "url": "https://www.youtube.com/watch?v=Zb8L0YGDzQI",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频记录了博主一天的生活。她早上醒来，和狗狗打招呼，然后洗漱，并清洁了公寓。接着她制作了包括鳕鱼子在内的早餐，并制作了草莓牛奶和酸奶脆片作为零食。下午她去看了公寓，并参加了健身课程。晚上她准备了辣酱肉和生菜包肉作为晚餐，最后享受了自制的酸奶脆片，并和狗狗一起玩耍。",
+        "cards": "tuck in\n---\n--\n依偎，舒服地躺着\n英文例句：Always tucked in next to me haha.\n中文例句：我的狗狗总是依偎在我旁边，哈哈。\n\nswiffer away\n---\n--\n用 Swiffer 清除（灰尘或毛发）\n英文例句：Swiffering away all the dust and fur in the apartment.\n中文例句：用 Swiffer 清除公寓里所有的灰尘和毛发。\n\npollack roe\n---\n--\n鳕鱼子\n英文例句：I'm pretty new to eating pollack roe.\n中文例句：我吃鳕鱼子还不太习惯。\n\nstomach growl\n---\n--\n肚子咕咕叫（通常指饿了）\n英文例句：My stomach growl!\n中文例句：我肚子咕咕叫了！\n\nobsessed with\n---\n--\n对……着迷/痴迷\n英文例句：And that's when I became obsessed with it.\n中文例句：从那时起我就对它着迷了。\n\nset aside\n---\n--\n把……放在一边；留出，搁置\n英文例句：I'm gonna set this aside for now.\n中文例句：我暂时先把这个放在一边。\n\nhangry\n---\n--\n因饥饿而暴躁易怒的\n英文例句：...you come home and you're just hangry.\n中文例句：……你回到家又饿又气。",
+        "pronunciation": [
+          {
+            "word": "tuck in",
+            "phonetic": "/tʌk ɪn/",
+            "description": "\"tuck\" 读作 \"塔克\"，\"in\" 读作 \"因\"，注意连读。"
+          },
+          {
+            "word": "swiffer away",
+            "phonetic": "/ˈswɪfər əˈweɪ/",
+            "description": "\"swiffer\" 读作 \"撕围夫儿\"，\"away\" 读作 \"啊喂\"，注意 \"r\" 和 \"a\" 的连读。"
+          },
+          {
+            "word": "pollack roe",
+            "phonetic": "/ˈpɑːlək roʊ/",
+            "description": "\"pollack\" 读作 \"趴拉克\"，\"roe\" 读作 \"肉\"。"
+          },
+          {
+            "word": "stomach growl",
+            "phonetic": "/ˈstʌmək ɡraʊl/",
+            "description": "\"stomach\" 读作 \"斯塔马克\"，\"growl\" 读作 \"格饶奥\"，注意 \"l\" 的发音。"
+          },
+          {
+            "word": "obsessed with",
+            "phonetic": "/əbˈsɛst wɪð/",
+            "description": "\"obsessed\" 读作 \"噢布塞斯特\"，\"with\" 读作 \"维斯\"（或 \"维兹\"），注意 \"s\" 和 \"w\" 的连读。"
+          },
+          {
+            "word": "set aside",
+            "phonetic": "/sɛt əˈsaɪd/",
+            "description": "\"set\" 读作 \"赛特\"，\"aside\" 读作 \"啊塞德\"，注意 \"t\" 和 \"a\" 的连读。"
+          },
+          {
+            "word": "hangry",
+            "phonetic": "/ˈhæŋɡri/",
+            "description": "\"hang\" 读作 \"汉格\"，\"gry\" 读作 \"瑞\"，重音在前。"
+          }
+        ],
+        "sentences": [
+          [
+            "Always tucked in next to me haha.",
+            "总是依偎在我旁边哈哈。"
+          ],
+          [
+            "Swiffering away all the dust and fur in the apartment.",
+            "用 Swiffer 清除公寓里所有的灰尘和毛发。"
+          ],
+          [
+            "I'm pretty new to eating roe.",
+            "我吃鱼子酱还不太习惯。"
+          ],
+          [
+            "I just completely realized I forgot to put in my cherry tomatoes in my breakfast.",
+            "我刚刚才完全意识到我早餐忘了放樱桃番茄了。"
+          ],
+          [
+            "This is perfect for those days when you just had like a really long day from work or school and you come home and you're just hangry.",
+            "这非常适合那些你在工作或学校度过了漫长的一天，回到家又饿又气的时候。"
+          ]
+        ],
+        "grammar": [
+          [
+            "现在分词作状语",
+            "描述伴随动作或状态，通常放在句首或句尾。",
+            "`Swiffering away all the dust and fur in the apartment.` (0:23)"
+          ],
+          [
+            "be new to doing something",
+            "表示对某事不熟悉或初次尝试。",
+            "`I'm pretty new to eating roe.` (1:24)"
+          ],
+          [
+            "had + (a) + 形容词 + day",
+            "表达经历了一个某种类型的日子。",
+            "`...when you just had like a really long day from work or school...` (7:26)"
+          ]
+        ]
+      }
+    ]
   }
 ]
