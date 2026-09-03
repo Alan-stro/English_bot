@@ -26637,5 +26637,181 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-03",
+    "topic": "Making simple dinner",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "f2ZVll9zMMs",
+        "title": "Just add ground beef to the potatoes! Simple dinner recipe!",
+        "url": "https://www.youtube.com/watch?v=f2ZVll9zMMs",
+        "target_level": "B2",
+        "actual_level": "B1",
+        "from_whitelist": false,
+        "summary": "这段视频展示了如何制作一道美味的烤土豆肉末奶酪焗饭和一份清爽的茴香苹果沙拉。首先将土豆切片调味后烤制，同时将肉末、洋葱、香料和番茄碎炒熟。然后将炒好的肉末铺在烤好的土豆上，撒上马苏里拉奶酪，再次烤制至金黄。最后，制作了一份由茴香、青苹果、西芹和核桃组成的沙拉，淋上柠檬橄榄油酱汁，搭配主菜。",
+        "cards": "season with\n---\n--\n用…调味\n英文例句：Season with Salt and Black pepper.\n中文例句：用盐和黑胡椒调味。\n\nminced meat\n---\n--\n肉末\n英文例句：Simply pour the minced meat over the potatoes.\n中文例句：简单地把肉末倒在土豆上。\n\ncrushed tomato\n---\n--\n番茄碎\n英文例句：Add 1 cup Crushed tomato.\n中文例句：加入1杯番茄碎。\n\nmandoline\n---\n--\n曼陀林切片器\n英文例句：Thinly slice 1 large fennel bulb on a mandoline.\n中文例句：用曼陀林切片器将一个大茴香头切成薄片。\n\nthinly slice\n---\n--\n薄切\n英文例句：If you don't have a mandolin just use a sharp knife and cut as thin as possible.\n中文例句：如果你没有曼陀林切片器，就用锋利的刀尽可能切薄。\n\nfennel fronds\n---\n--\n茴香叶（茴香球茎上的细叶）\n英文例句：Add fennel fronds or roughly chopped parsley leaves.\n中文例句：加入茴香叶或大致切碎的欧芹叶。\n\nextra-virgin olive oil\n---\n--\n特级初榨橄榄油\n英文例句：1/4 cup extra-virgin olive oil.\n中文例句：1/4杯特级初榨橄榄油。\n\ndeliciously browned\n---\n--\n美味地烤成棕色\n英文例句：Bake 10 minutes or until deliciously browned.\n中文例句：烘烤10分钟，或直到美味地烤成棕色。",
+        "pronunciation": [
+          {
+            "word": "season with",
+            "phonetic": "/ˈsiːzən wɪð/",
+            "description": "season的s发/z/音，with的th发/ð/音，注意连读。"
+          },
+          {
+            "word": "minced meat",
+            "phonetic": "/mɪnst miːt/",
+            "description": "minced的-ed发/t/音，meat发长音/iː/。"
+          },
+          {
+            "word": "crushed tomato",
+            "phonetic": "/krʌʃt təˈmeɪtoʊ/",
+            "description": "crushed的-ed发/t/音，tomato在美式英语中重音在第二音节。"
+          },
+          {
+            "word": "mandoline",
+            "phonetic": "/ˈmændəlɪn/",
+            "description": "重音在第一个音节/mæn/。"
+          },
+          {
+            "word": "thinly slice",
+            "phonetic": "/ˈθɪnli slaɪs/",
+            "description": "thinly的th发/θ/音（舌尖轻触上齿，送气），slice的i发长音/aɪ/。"
+          },
+          {
+            "word": "fennel fronds",
+            "phonetic": "/ˈfɛnəl frɒndz/",
+            "description": "fennel重音在第一个音节，fronds的fr是连读辅音，ds发/dz/音。"
+          },
+          {
+            "word": "extra-virgin olive oil",
+            "phonetic": "/ˈɛkstrə ˈvɜːrdʒɪn ˈɒlɪv ɔɪl/",
+            "description": "多个词的组合，注意每个词的重音和词间连读。"
+          },
+          {
+            "word": "deliciously browned",
+            "phonetic": "/dɪˈlɪʃəsli braʊnd/",
+            "description": "deliciously的重音在第二个lɪ，browned的ow发/aʊ/音，结尾的-ed发/d/音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Hello Everyone 👋",
+            "大家好👋"
+          ],
+          [
+            "Season with Salt and Black pepper",
+            "用盐和黑胡椒调味"
+          ],
+          [
+            "Fry over medium heat for 3-4 minutes",
+            "用中火煎3-4分钟"
+          ],
+          [
+            "Simply pour the minced meat over the potatoes",
+            "简单地把肉末倒在土豆上"
+          ],
+          [
+            "Bake 10 minutes or until deliciously browned",
+            "烘烤10分钟，或直到美味地烤成棕色"
+          ]
+        ],
+        "grammar": [
+          [
+            "祈使句用于指示",
+            "烹饪视频中常用祈使句来给出简明直接的指令。",
+            "\"Bake at 380°F/190°C for 20 minutes.\""
+          ],
+          [
+            "副词的使用",
+            "副词在烹饪说明中常用于精确描述动作的执行方式（如“薄切”或“美味地烤焦”），使指令更具体。",
+            "\"thinly slice 1 large fennel bulb\", \"until deliciously browned\""
+          ]
+        ]
+      },
+      {
+        "video_id": "5xw0VstkpIA",
+        "title": "Incredible! Quick Dinner Ready in 10 Minutes!  Simple and Delicious Tortilla Recipe",
+        "url": "https://www.youtube.com/watch?v=5xw0VstkpIA",
+        "target_level": "B2",
+        "actual_level": "B1",
+        "from_whitelist": false,
+        "summary": "本视频展示了一种简单的墨西哥饼肉馅做法。首先，在锅中炒香洋葱和大蒜，然后加入牛肉碎并调味。接着，将墨西哥饼放入平底锅，铺上一层马苏里拉奶酪，再盖上炒好的牛肉碎和另一层奶酪，最后用另一个墨西哥饼封口。将饼两面煎至金黄酥脆，奶酪融化，即可切开享用。",
+        "cards": "sauté\n---\n--\n（用少量油）快速煎炒\n英文例句：Sauté the onions and garlic until translucent.\n中文例句：将洋葱和大蒜用少量油煎炒至半透明。\n\n--\n---\nground beef\n--\n牛肉碎\n英文例句：Add the ground beef to the pan and fry until browned.\n中文例句：将牛肉碎加入锅中，翻炒至变色。\n\n--\n---\npaprika\n--\n辣椒粉 (通常指甜椒粉)\n英文例句：Season the ground beef with salt, black pepper, and paprika.\n中文例句：用盐、黑胡椒和辣椒粉给牛肉碎调味。\n\n--\n---\nfinely chop\n--\n切碎、剁碎\n英文例句：You need to finely chop the onion and garlic for this recipe.\n中文例句：这个食谱需要你把洋葱和大蒜切得很碎。\n\n--\n---\nflip over\n--\n翻转（尤指在烹饪中将食物翻面）\n英文例句：After frying one side for 3 minutes, flip over the tortilla.\n中文例句：一面煎三分钟后，将墨西哥饼翻面。\n\n--\n---\ntortilla\n--\n（墨西哥）玉米饼，墨西哥薄饼\n英文例句：Use one tortilla as the base and another as the lid for this dish.\n中文例句：用一个墨西哥饼做底，另一个做这个菜的盖子。\n\n--\n---\nmozzarella cheese\n--\n马苏里拉奶酪（一种易融化的奶酪）\n英文例句：Sprinkle mozzarella cheese generously over the meat filling.\n中文例句：在肉馅上撒上大量的马苏里拉奶酪。",
+        "pronunciation": [
+          {
+            "word": "sauté",
+            "phonetic": "/soʊˈteɪ/",
+            "description": "注意重音在第二个音节，发“搜-特诶”的音，不要读成“萨特”。"
+          },
+          {
+            "word": "ground beef",
+            "phonetic": "/ɡraʊnd biːf/",
+            "description": "“ground”中的“ou”发/aʊ/音，不要与“grand”混淆。"
+          },
+          {
+            "word": "paprika",
+            "phonetic": "/ˈpæprɪkə/",
+            "description": "重音在第一个音节，中间的“ri”发/rɪ/音。"
+          },
+          {
+            "word": "finely chop",
+            "phonetic": "/ˈfaɪnli tʃɒp/",
+            "description": "“finely”的“i”发/aɪ/音，类似“fain-ly”。"
+          },
+          {
+            "word": "flip over",
+            "phonetic": "/flɪp ˈoʊvər/",
+            "description": "“flip”中的“i”发/ɪ/音，“over”重音在第一个音节。"
+          },
+          {
+            "word": "tortilla",
+            "phonetic": "/tɔːrˈtiːjə/",
+            "description": "“tortilla”的“t”发/t/音，第二个“i”发/iː/音，结尾发/jə/的音。"
+          },
+          {
+            "word": "mozzarella cheese",
+            "phonetic": "/ˌmɒtsəˈrɛlə tʃiːz/",
+            "description": "“mozzarella”重音在第三个音节“rel”，结尾的“a”发/ə/音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Fry for about 2 minutes.",
+            "翻炒大约两分钟。"
+          ],
+          [
+            "Fry for 3-5 minutes.",
+            "翻炒三到五分钟。"
+          ],
+          [
+            "Flip over and fry for another 2-3 minutes.",
+            "翻面后再煎制两到三分钟。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**语法点**",
+            "**解释**",
+            "**视频例子**"
+          ],
+          [
+            "---",
+            "---",
+            "---"
+          ],
+          [
+            "**祈使句 (Imperative Sentence)**",
+            "祈使句用于发出命令、指示、请求或建议，通常省略主语“you”，动词使用原形。",
+            "\"Fry for about 2 minutes.\" (翻炒大约两分钟。) \"Flip over and fry for another 2-3 minutes.\" (翻面后再煎制两到三分钟。)"
+          ],
+          [
+            "**量词 (Quantifiers) 的使用**",
+            "量词用于表示名词的数量。对于可数名词和不可数名词，会使用不同的量词或搭配。在烹饪中，通常会使用具体的度量单位（如克、毫升）或常见的食物量词。",
+            "\"½ Onion\" (半个洋葱) \"3 cloves of garlic\" (三瓣大蒜) \"200g Ground beef\" (200克牛肉碎) \"10g Parsley or green onion\" (10克欧芹或小葱)"
+          ]
+        ]
+      }
+    ]
   }
 ]
