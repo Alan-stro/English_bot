@@ -26813,5 +26813,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "topic": "Walking my dog routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "jNgUS-lYrks",
+        "title": "STOP Your Dog From Pulling To Other Dogs!",
+        "url": "https://www.youtube.com/watch?v=jNgUS-lYrks",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频提供了狗狗在有其他狗狗在场时如何保持专注力的训练技巧。训练师强调了在狗狗激动时不要让它们与其他狗狗互动，而是要将它们的注意力拉回到自己身上。视频通过两个不同训练水平的狗狗的案例，展示了如何通过奖励、掌控牵引绳以及进行简单的指令练习，逐步提高狗狗的专注力，并最终实现“脱离食物”的奖励方式。",
+        "cards": "easier said than done\n---\n--\n说起来容易做起来难\n英文例句：Your dog needs more focus, and that's easier said than done.\n中文例句：你的狗需要更多专注力，但这说起来容易做起来难。\n\ndistracted by\n---\n--\n被...分心\n英文例句：If you have a dog that's distracted by other dogs when you're out on a walk then this is the video for you.\n中文例句：如果你的狗在散步时容易被其他狗分心，那么这个视频很适合你。\n\nmaintain focus\n---\n--\n保持专注\n英文例句：Young Kiki is working hard to maintain focus.\n中文例句：小Kiki正在努力保持专注。\n\nrehearse (a behavior)\n---\n--\n反复练习（某种行为）；预演\n英文例句：If I let them rehearse, I'm meaningless, I'm going to go play with that other puppy.\n中文例句：如果我让它们反复练习（这种行为），我就是无关紧要的，它们会去和那只小狗玩。\n\ndefault behavior\n---\n--\n默认行为\n英文例句：The default behavior is just to ignore that other dog until they're specifically given permission.\n中文例句：默认行为就是忽略那只狗，直到它们得到明确的允许。\n\ntake control of\n---\n--\n控制，掌控\n英文例句：When we need to take control of our dogs, it's crucial that they are absolutely 100% fine with us reaching in and taking a hold of their collar.\n中文例句：当我们确实需要控制我们的狗时，关键在于它们能完全接受我们伸手抓住它们的项圈。\n\nweaning off\n---\n--\n逐渐断绝；摆脱\n英文例句：Weaning off of food, when, how, all of these questions can be so confusing.\n中文例句：逐渐摆脱对食物的依赖，何时以及如何做，所有这些问题都可能令人困惑。\n\nin the vicinity\n---\n--\n在附近\n英文例句：Maybe with a dog in the vicinity, she may not be that keen but let's give it a try.\n中文例句：也许附近有狗，她可能不太感兴趣，但我们还是试试吧。",
+        "pronunciation": [
+          {
+            "word": "easier said than done",
+            "phonetic": "/ˈiːziər sɛd ðæn dʌn/",
+            "description": "注意 \"said\" 的发音是 /sɛd/ 而不是 /seɪd/，\"than\" 中的 /ð/ 是浊辅音。"
+          },
+          {
+            "word": "distracted by",
+            "phonetic": "/dɪˈstræktɪd baɪ/",
+            "description": "注意 \"distracted\" 的重音在第二个音节，末尾的 /d/ 要轻读。"
+          },
+          {
+            "word": "maintain focus",
+            "phonetic": "/meɪnˈteɪn ˈfoʊkəs/",
+            "description": "\"maintain\" 重音在第二个音节，\"focus\" 重音在第一个音节。"
+          },
+          {
+            "word": "rehearse",
+            "phonetic": "/rɪˈhɜːrs/",
+            "description": "注意重音在第二个音节 /hɜːrs/，不要读成 /rɪˈhɪrs/。"
+          },
+          {
+            "word": "default behavior",
+            "phonetic": "/dɪˈfɔːlt bɪˈheɪviər/",
+            "description": "\"default\" 的 /fɔːlt/ 音，\"behavior\" 的重音在第二个音节。"
+          },
+          {
+            "word": "take control of",
+            "phonetic": "/teɪk kənˈtroʊl ʌv/",
+            "description": "\"control\" 重音在第二个音节，\"of\" 弱读为 /ʌv/。"
+          },
+          {
+            "word": "weaning off",
+            "phonetic": "/ˈwiːnɪŋ ɔːf/",
+            "description": "\"weaning\" 中 /ea/ 发 /iː/ 的长音，注意连读。"
+          },
+          {
+            "word": "in the vicinity",
+            "phonetic": "/ɪn ðə vɪˈsɪnəti/",
+            "description": "\"vicinity\" 的重音在第二个音节 /sɪn/，注意 /th/ 音的轻读。"
+          }
+        ],
+        "sentences": [
+          [
+            "Your dog needs more focus, and that's easier said than done.",
+            "你的狗需要更多专注力，但这说起来容易做起来难。"
+          ],
+          [
+            "I want to be their buddy.",
+            "我想成为它们的朋友。"
+          ],
+          [
+            "The default behavior is just to ignore that other dog until they're specifically given permission.",
+            "默认行为就是忽略那只狗，直到它们得到明确的允许。"
+          ],
+          [
+            "This is a big deal.",
+            "这很重要/这是件大事。"
+          ],
+          [
+            "What did I get out of this?",
+            "我从中学到了什么？"
+          ]
+        ],
+        "grammar": [
+          [
+            "**条件状语从句 (If...then)**",
+            "视频中频繁使用\"if...then...\"结构来解释在特定条件下应采取的训练方法。",
+            "\"If you have a dog that's distracted by other dogs...then this is the video for you.\""
+          ],
+          [
+            "**动名词作宾语 (Verb-ing as object)**",
+            "视频中提到\"let them rehearse\"和\"keeping Lucy in a stationary position\"，动词后面接动名词表示正在进行的动作。",
+            "\"If I let them rehearse, I'm meaningless...\" 和 \"I am working on keeping Lucy in a stationary position at my side...\""
+          ]
+        ]
+      },
+      {
+        "video_id": "lG3OtNr86Jc",
+        "title": "Don’t Walk Your Puppy Outside Until You See This",
+        "url": "https://www.youtube.com/watch?v=lG3OtNr86Jc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频强调了在带新领养小狗出门遛弯前，进行室内基础训练的重要性。主讲人提出了三个不立即出门遛弯的原因：需要先进行牵引绳训练、避免不好的社交影响、以及保护幼犬未发育完全的身体。她示范了如何在低干扰的室内环境，利用食物奖励教导小狗在左侧坐下和松绳行走，并强调了逐步增加难度和保持高预期，避免让小狗重演不良行为。",
+        "cards": "big believer\n---\n--\n坚信者；坚信…的人\n英文例句：I'm a big believer that you should train your puppy how to walk on a loose leash with good leash manners before you actually take to show on the road.\n中文例句：我坚信，在真正带着小狗出门遛弯之前，你应该训练它如何用正确的牵引方式松绳行走。\n\ngo into\n---\n--\n被用于；被投入\n英文例句：There's actually a lot of training that goes into teaching your dogs how to actually walk well on a leash.\n中文例句：实际上，要教会你的狗如何正确地用牵引绳行走，需要投入大量的训练。\n\nshield from\n---\n--\n保护…不受（伤害）\n英文例句：I want to be careful that I'm shielding her from any of the bad things that could happen to her socially before she's ready to deal with that.\n中文例句：我需要小心地保护她免受任何可能发生的社交不良影响，直到她准备好应对这些。\n\nbeat her to the punch\n---\n--\n抢先一步；捷足先登\n英文例句：My goal here is that my dog learns to sit at my left-hand side for as long as I want her to, but because she's a puppy and she doesn't know this yet, I need to kind of beat her to the punch a little bit.\n中文例句：我的目标是让我的狗学会在我左侧坐下，坐多久都行，但因为她还小，不懂这些，我需要稍微抢先一步。\n\nrun the risk\n---\n--\n冒…的风险\n英文例句：It's really important that when you're practicing this that you do have a line or a leash on your puppy because as you start to increase distractions, you're going to run the risk of the puppy just getting up and leaving your side.\n中文例句：在练习时，给小狗系上牵引绳或训练绳非常重要，因为当你开始增加干扰时，你会有小狗突然站起来离开你身边的风险。\n\nwhy on earth\n---\n--\n究竟为什么；到底为什么\n英文例句：You sure as heck shouldn't be going for a walk around the block and wondering why on earth it's such a disaster.\n中文例句：你当然不应该带着狗去街区遛弯，然后还在困惑这到底为什么会变成一场灾难。\n\noverface\n---\n--\n让（人、动物）面对超越其能力或经验的挑战\n英文例句：They don't have a good realistic understanding of expectations, and then they plop their puppy in a situation that overfaces them.\n中文例句：他们对预期没有一个良好的现实理解，然后就把他们的小狗置于一个让它们感到力不从心的境地。",
+        "pronunciation": [
+          {
+            "word": "big believer",
+            "phonetic": "/bɪɡ bɪˈliːvər/",
+            "description": "“believer”的重音在第二音节，注意“v”是唇齿音，而非“w”的唇圆音。"
+          },
+          {
+            "word": "go into",
+            "phonetic": "/ɡoʊ ˈɪntuː/",
+            "description": "“go”和“into”连读时，“o”和“i”容易模糊，注意清晰发音。"
+          },
+          {
+            "word": "shield from",
+            "phonetic": "/ʃiːld frɒm/",
+            "description": "“shield”的“sh”是舌尖音，与“s”不同。“from”的“f”是唇齿音。"
+          },
+          {
+            "word": "beat her to the punch",
+            "phonetic": "/biːt hɜːr tuː ðə pʌntʃ/",
+            "description": "“her”通常弱读，听起来像“beat ’er to the punch”。"
+          },
+          {
+            "word": "run the risk",
+            "phonetic": "/rʌn ðə rɪsk/",
+            "description": "“run”和“the”连读时，注意舌尖轻轻触碰齿龈。"
+          },
+          {
+            "word": "why on earth",
+            "phonetic": "/waɪ ɒn ɜːrθ/",
+            "description": "“earth”的“th”是舌尖抵住上齿轻吐气，发摩擦音，而不是“s”或“f”音。"
+          },
+          {
+            "word": "overface",
+            "phonetic": "/ˈoʊvərˌfeɪs/",
+            "description": "重音在第一个音节，中间的“v”是唇齿音，“face”的“ce”是轻微的“s”音。"
+          }
+        ],
+        "sentences": [
+          [
+            "1.  I'm a big believer that you should train your puppy how to walk on a loose leash with good leash manners before you actually take to show on the road and take them for a walk.",
+            "我坚信，在真正带着小狗出门遛弯之前，你应该训练它如何用正确的牵引方式松绳行走。"
+          ],
+          [
+            "2.  I want to be careful that I'm shielding her from any of the bad things that could happen to her socially before she's ready to deal with that.",
+            "我需要小心地保护她免受任何可能发生的社交不良影响，直到她准备好应对这些。"
+          ],
+          [
+            "3.  My goal here is that my dog learns to sit at my left-hand side for as long as I want her to, but because she's a puppy and she doesn't know this yet, I need to kind of beat her to the punch a little bit.",
+            "我的目标是让我的狗学会在我左侧坐下，坐多久都行，但因为她还小，不懂这些，我需要稍微抢先一步。"
+          ],
+          [
+            "4.  It's really important that when you're practicing this that you do have a line or a leash on your puppy because as you start to increase distractions, you're going to run the risk of the puppy just getting up and leaving your side.",
+            "在练习时，给小狗系上牵引绳或训练绳非常重要，因为当你开始增加干扰时，你会有小狗突然站起来离开你身边的风险。"
+          ],
+          [
+            "5.  Don't let your puppies fool you that when they're being wonderful in a living room like this that magically they can go outside and be perfect outdoors.",
+            "不要让你的小狗欺骗你，觉得它们在这种客厅环境表现很好，就好像在外面也能奇迹般地表现完美。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "解释：被动语态用于强调动作的承受者而不是执行者，或在执行者不重要/未知时使用。",
+            "视频例子：...could be easily influenced by things that happen around them. (它可能很容易受到周围事物的影响。)"
+          ],
+          [
+            "动词短语“set up to be”",
+            "解释：表示为某事做好准备或安排好成为某种状态。",
+            "视频例子：I want to set her up to be successful. (我想让她成功。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
