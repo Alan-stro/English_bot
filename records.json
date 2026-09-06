@@ -27156,5 +27156,98 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "Packing for a Weekend Trip",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "58HdRSTAFec",
+        "title": "European Travel Skills: Packing Light - Rick Steves&#39; Europe Travel Guide",
+        "url": "https://www.youtube.com/watch?v=58HdRSTAFec",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，Rick Steves分享了欧洲旅行的轻装打包秘诀。他强调轻装出行的重要性，建议使用可背可提的旅行包，并示范了衣物和旅行必需品的选择。他还鼓励旅行者在当地购买日用品，并介绍了如何在欧洲使用双电压电子设备和不同类型的插头适配器。",
+        "cards": "essential\n---\n--\n基本的；必要的\nPacking light is essential for happy travel.\n轻装出行是愉快旅行的必要条件。\n\nunwieldy\n---\n--\n笨重的；难以操控的\nLarge, unwieldy suitcases are bad for this kind of travel.\n这种旅行不适合大而笨重的行李箱。\n\njustify\n---\n--\n证明……有道理；为……辩护\nWill I use this swimming mask enough to justify carrying it around?\n我是否会经常使用这个泳镜，以至于值得带着它到处走？\n\nscenario\n---\n--\n情况；局面\nDon't pack for the worst scenario. Pack for the best scenario.\n不要为最坏的情况做准备。为最好的情况打包。\n\nvirtually\n---\n--\n几乎；实际上\nYou can get virtually everything in Europe.\n在欧洲你几乎可以买到所有东西。\n\nodds and ends\n---\n--\n零碎物品；杂物\nAnd a miscellaneous stuff bag full of odds and ends.\n还有一个装满了各种零碎杂物的杂物包。\n\ndual-voltage\n---\n--\n双电压的\nAll of these are dual-voltage; they work just fine in Europe.\n所有这些都是双电压的；它们在欧洲使用完全没问题。\n\nprongs\n---\n--\n（插头或插座的）插脚\nIn Britain, you use the adapter with the three rectangular prongs.\n在英国，你使用带有三个长方形插脚的适配器。",
+        "pronunciation": [
+          {
+            "word": "essential",
+            "phonetic": "/ɪˈsɛnʃl/",
+            "description": "注意重音在第二个音节“sen”，不要读成“e-sen-tial”"
+          },
+          {
+            "word": "unwieldy",
+            "phonetic": "/ʌnˈwiːldi/",
+            "description": "“wiel”发“wee”的音，不是“why-ldy”"
+          },
+          {
+            "word": "justify",
+            "phonetic": "/ˈdʒʌstɪfaɪ/",
+            "description": "重音在第一个音节“jus”"
+          },
+          {
+            "word": "scenario",
+            "phonetic": "/sɪˈnɛərioʊ/",
+            "description": "注意重音在第二个音节“ne”"
+          },
+          {
+            "word": "virtually",
+            "phonetic": "/ˈvɜːrtʃuəli/",
+            "description": "“tu”发“chu”的音，不是“tur-al-ly”"
+          },
+          {
+            "word": "odds and ends",
+            "phonetic": "/ˌɒdz ən ˈɛndz/",
+            "description": "“odds”的“s”和“ends”的“s”都是/z/音，连读时注意“and”常弱读成“an”"
+          },
+          {
+            "word": "dual-voltage",
+            "phonetic": "/ˌduːəl ˈvoʊltɪdʒ/",
+            "description": "“dual”的“u”发“oo”的音，重音在“volt”"
+          },
+          {
+            "word": "prongs",
+            "phonetic": "/prɒŋz/",
+            "description": "“o”发短音/ɒ/，不是长音“o”"
+          }
+        ],
+        "sentences": [
+          [
+            "Packing light is essential for happy travel.",
+            "轻装出行是愉快旅行的必要条件。"
+          ],
+          [
+            "Have you ever met anybody who after five trips brags, \"Every year I pack heavier\"?",
+            "你见过旅行五次之后，每次都炫耀自己行李越来越重的人吗？"
+          ],
+          [
+            "Pack for the best scenario, and if you need something more, buy it over here.",
+            "为最好的情况打包，如果需要更多东西，就在当地买。"
+          ],
+          [
+            "The thing that determines when I need to do my laundry is when I run out of socks and underwear.",
+            "决定我何时需要洗衣服的是袜子和内衣用完的时候。"
+          ],
+          [
+            "These days there's Wi-Fi just about everywhere.",
+            "现在几乎到处都有无线网络。"
+          ]
+        ],
+        "grammar": [
+          [
+            "动名词作主语",
+            "动名词可以作为句子的主语，表示行为本身。",
+            "Packing light is essential for happy travel."
+          ],
+          [
+            "enough to do something",
+            "表示“足够做某事”，修饰动词时通常放在动词之后，修饰形容词或副词时放在其之后。",
+            "Will I use this swimming mask enough to justify carrying it around?"
+          ]
+        ]
+      }
+    ]
   }
 ]
