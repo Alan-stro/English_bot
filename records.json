@@ -27776,5 +27776,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-10",
+    "topic": "Coffee date with friends",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "CQbHdPKNGQg",
+        "title": "Broke Date | Anwar Jibawi",
+        "url": "https://www.youtube.com/watch?v=CQbHdPKNGQg",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频讲述了两个兄弟为了帮助其中一人约会，谎称他们很富有。他们把公寓打扮成一家高档餐厅，由另一位兄弟扮演服务员和厨师。然而，他们的谎言逐渐被约会对象揭穿，最终她发现他们实际上很穷，而她自己也一直假装富有。",
+        "cards": "broke\n---\n--\n没钱的；破产的\n英文例句：You told her you're broke, right?\n中文例句：你告诉她你破产了，对吧？\n\nhole in the wall\n---\n--\n（形容餐厅、酒吧等）小而不起眼但通常很好的地方\n英文例句：It's like this hole in the wall.\n中文例句：它就像一个不起眼的小餐馆。\n\npower meeting\n---\n--\n权力会议；高层会议\n英文例句：Actually, I have a power meeting in the same restaurant with the CEO of Microsoft.\n中文例句：其实，我正好和微软的首席执行官在同一家餐厅有个重要会议。\n\nhelp out\n---\n--\n帮助；帮忙\n英文例句：Can you help me out for once?\n中文例句：你能不能帮我一次？\n\nexquisite\n---\n--\n精致的；精美的\n英文例句：The food is exquisite.\n中文例句：食物很美味。\n\nfake an accent\n---\n--\n伪装口音\n英文例句：He faked an accent.\n中文例句：他装了口音。\n\nget over it\n---\n--\n（从不愉快或困难中）恢复过来；克服\n英文例句：Who cares? It's 15 grand, like, get over it.\n中文例句：谁在乎？才1万5千块，放宽心吧。",
+        "pronunciation": [
+          {
+            "word": "broke",
+            "phonetic": "/broʊk/",
+            "description": "注意/oʊ/双元音的发音，嘴型从圆到扁"
+          },
+          {
+            "word": "hole in the wall",
+            "phonetic": "/hoʊl ɪn ðə wɔl/",
+            "description": "\"hole\"的/oʊ/，\"wall\"的/ɔ/音，连读\"in the\""
+          },
+          {
+            "word": "power meeting",
+            "phonetic": "/ˈpaʊər ˈmiːtɪŋ/",
+            "description": "\"power\"的/aʊ/音，\"meeting\"的/iː/音要长"
+          },
+          {
+            "word": "help out",
+            "phonetic": "/hɛlp aʊt/",
+            "description": "\"help\"的/ɛ/音，\"out\"的/aʊ/音"
+          },
+          {
+            "word": "exquisite",
+            "phonetic": "/ɪkˈskwɪzɪt/",
+            "description": "重音在第二个音节/skwɪz/，注意/ɪ/的短促音"
+          },
+          {
+            "word": "fake an accent",
+            "phonetic": "/feɪk ən ˈæksɛnt/",
+            "description": "\"fake\"的/eɪ/音，\"accent\"重音在第一个音节"
+          },
+          {
+            "word": "get over it",
+            "phonetic": "/ɡɛt ˈoʊvər ɪt/",
+            "description": "\"get\"的/ɛ/，\"over\"的/oʊ/，连读\"over it\""
+          }
+        ],
+        "sentences": [
+          [
+            "You told her you're broke, right?",
+            "你告诉她你破产了，对吧？"
+          ],
+          [
+            "It's like this hole in the wall.",
+            "它就像一个不起眼的小餐馆。"
+          ],
+          [
+            "Can you help me out for once?",
+            "你能不能帮我一次？"
+          ],
+          [
+            "It's a small island by France.",
+            "这是一个法国旁边的小岛。"
+          ],
+          [
+            "The food is exquisite.",
+            "食物很美味。"
+          ]
+        ],
+        "grammar": [
+          [
+            "直接引语和间接引语的混用",
+            "在对话中，当一个人转述另一个人说的话时，有时会直接引用，有时会使用间接引语，甚至两者混用，以增加口语的自然感和强调效果。",
+            "\"You told her you're broke, right?\" (直接引语) 与 “He faked an accent.” (间接引语) 并存。当男生问女生，“So how was your meeting today? My what?” 女生直接回答，“Your meeting with Microsoft.” 并没有转换为间接引语。"
+          ],
+          [
+            "What about...",
+            "用于询问关于某事或某个人的信息，或提出替代方案。",
+            "\"What about the movies?\""
+          ]
+        ]
+      },
+      {
+        "video_id": "C1xwCUMbcCc",
+        "title": "Casually Explained: First Dates",
+        "url": "https://www.youtube.com/watch?v=C1xwCUMbcCc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频以轻松幽默的方式，提供了关于首次约会的建议。它涵盖了从如何邀请别人、选择约会地点和活动，到约会时如何表现以及如何结束约会等方方面面。视频强调不要假装，真诚地表达自己，并用生动有趣的例子说明了约会中可能遇到的尴尬和内心戏。",
+        "cards": "nosy bystander\n---\n--\n爱管闲事的路人\n英文例句：For guys, for girls, and for any nosy bystanders who can't mind their own business.\n中文例句：这个咖啡馆里总是有爱管闲事的路人，喜欢偷听别人的谈话。\n\nat the very least\n---\n--\n至少；最低限度\n英文例句：The other person is saying they like you, or at the very least you're passably better than a vacant time slot.\n中文例句：我迟到了，但至少我给他们打了电话。\n\npassably better\n---\n--\n勉强更好；还算过得去\n英文例句：The other person is saying they like you, or at the very least you're passably better than a vacant time slot.\n中文例句：这部电影还算过得去，但与续集相比，它勉强更好。\n\nreminiscent of\n---\n--\n让人想起…的\n英文例句：Unless you interpret that with multiple layers of euphemism, it's a bit cliché for a first date and a bit too reminiscent of its old-school origin.\n中文例句：他那古怪的幽默感总是让人想起我高中时的一个朋友。\n\nrepertoire\n---\n--\n（某人）全部的技能/剧目/活动范围\n英文例句：It doesn't hurt to eventually try to expand your repertoire.\n中文例句：为了吸引新客户，公司需要扩大其产品范围。\n\nnitty-gritty\n---\n--\n核心细节；实质内容\n英文例句：Now that brings us to the real nitty-gritty of a first date, which is how you're supposed to act.\n中文例句：我们已经讨论了理论，现在该深入到这个项目的核心细节了。\n\nmultiplicity of reasons\n---\n--\n许多原因\n英文例句：This is a terrible idea for a multiplicity of reasons.\n中文例句：我们取消了野餐，因为有很多原因，比如天气不好和朋友们的时间不凑巧。\n\nlet someone down softly\n---\n--\n委婉地拒绝/伤害某人\n英文例句：Get out of there and let them down softly with a text pretending it's you when it's really them.\n中文例句：他不得不委婉地拒绝她，因为他不想伤害她的感情。",
+        "pronunciation": [
+          {
+            "word": "nosy bystander",
+            "phonetic": "/ˈnoʊzi ˈbaɪˌstændər/",
+            "description": "“nosy”中s发/z/音，不是/s/。"
+          },
+          {
+            "word": "at the very least",
+            "phonetic": "/æt ðə ˈvɛri liːst/",
+            "description": "“least”的“ea”发长/i:/音。"
+          },
+          {
+            "word": "passably better",
+            "phonetic": "/ˈpæsəbli ˈbɛtər/",
+            "description": "“passably”重音在第一个音节。"
+          },
+          {
+            "word": "reminiscent of",
+            "phonetic": "/ˌrɛmɪˈnɪsənt ɒv/",
+            "description": "“reminiscent”重音在第三个音节，并注意“of”在此处常弱读为/əv/或/ɒv/。"
+          },
+          {
+            "word": "repertoire",
+            "phonetic": "/ˈrɛpərtwɑːr/",
+            "description": "重音在第一个音节，末尾的-oire发/wɑːr/。"
+          },
+          {
+            "word": "nitty-gritty",
+            "phonetic": "/ˈnɪti ˈɡrɪti/",
+            "description": "两个词的t都发/t/音，不是/d/音。"
+          },
+          {
+            "word": "multiplicity of reasons",
+            "phonetic": "/ˌmʌltɪˈplɪsəti ɒv ˈriːzənz/",
+            "description": "“multiplicity”重音在“pli”音节。"
+          },
+          {
+            "word": "let someone down softly",
+            "phonetic": "/lɛt ˈsʌmwʌn daʊn ˈsɔːftli/",
+            "description": "“softly”的o发/ɔː/音，而不是/ɒ/或/əʊ/。"
+          }
+        ],
+        "sentences": [
+          [
+            "1.  Casually Explained: First Dates are very exciting, but also stressful for everyone involved.",
+            "随意解释一下：第一次约会既令人兴奋，也让所有参与者都感到压力。"
+          ],
+          [
+            "2.  But you either get a yes or a no, and it's as simple as that.",
+            "你要么得到同意，要么得到拒绝，就这么简单。"
+          ],
+          [
+            "3.  On the other hand, if you've been platonic friends for five years hoping your next haircut is the one that will tip them over the edge.",
+            "另一方面，如果你已经做了五年柏拉图式的朋友，希望你的下一次理发能让他们心动。"
+          ],
+          [
+            "4.  How you talk about something is way more important than what you're talking about.",
+            "你如何谈论一件事远比你谈论什么更重要。"
+          ],
+          [
+            "5.  You just have to triangulate those perspectives and Sigmund Freud yourself deep in their psyche to figure it out.",
+            "你只需要综合这些视角，深入他们的心理进行弗洛伊德式的分析，才能弄清楚。"
+          ]
+        ],
+        "grammar": [
+          [
+            "1.  **祈使句用于建议**",
+            "视频中多处使用祈使句来给出建议，这在口语中很常见，语气可以是建议、命令或指示。",
+            "\"Don't make shit up to try to sound cool...\" (不要为了听起来酷而胡编乱造……)"
+          ],
+          [
+            "2.  **too...to...结构**",
+            "表示“太……而不能……”，强调否定性结果。",
+            "\"It's a bit too reminiscent of its old-school origin.\" (它有点过于让人想起它老派的起源。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
