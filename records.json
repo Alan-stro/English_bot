@@ -28669,5 +28669,106 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-16",
+    "topic": "My evening skincare routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "Q529pFQ2QNE",
+        "title": "My Updated Evening Skincare Routine - Unwind With Me",
+        "url": "https://www.youtube.com/watch?v=Q529pFQ2QNE",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "Hyram在视频中分享了他更新后的夜间护肤程序，强调由于身处丹佛的干燥气候和个人压力，他的日常护肤着重于深层保湿和损伤修复。他介绍了Krave Beauty的卸妆啫喱、他自家的洁面产品，以及来自Dermatica的定制处方护肤品，特别提到了其在抗衰老和色素沉着方面的益处。最后，他使用了SkinFix多重脂质屏障肽霜和Tatcha唇膜，并分享了Dermatica的折扣码和一些关于他心理健康的简短更新。",
+        "cards": "put in the work\n---\n--\n努力，付出努力\n英文例句：I'm putting in the work.\n中文例句：我正在努力工作。\n\ntoxic trait\n---\n--\n不良特质，有害特质\n英文例句：My new toxic trait is impersonating straight guys and I really need to stop.\n中文例句：我最近新养成的坏习惯是模仿直男，我真的需要停止。\n\nsum it up\n---\n--\n总结，概括\n英文例句：I can sum it up in just three letters: D-R-Y.\n中文例句：我可以三个字母概括：干。\n\nin the mood for\n---\n--\n想做某事，有兴致做某事\n英文例句：But yeah, definitely in the mood for some damage repair.\n中文例句：但没错，我绝对想做些修复损伤的护肤。\n\nwithout further ado\n---\n--\n不再赘述，不再拖延\n英文例句：But without further ado, let's just jump into this skincare routine.\n中文例句：但话不多说，我们这就开始这个护肤程序吧。\n\nsetting the bar higher\n---\n--\n提高标准，设定更高的目标\n英文例句：They just keep setting the bar higher and higher, I swear.\n中文例句：我发誓，他们总是不断提高标准。\n\ngoing through it\n---\n--\n经历困境，承受艰难\n英文例句：A lot of people I know are just really going through it right now.\n中文例句：我认识的很多人现在都过得很艰难。\n\nlet's face it\n---\n--\n面对现实吧，让我们承认吧\n英文例句：I'm just getting older. Like, let's face it.\n中文例句：我只是年纪越来越大。面对现实吧。",
+        "pronunciation": [
+          {
+            "word": "put in the work",
+            "phonetic": "/pʊt ɪn ðə wɜːrk/",
+            "description": "\"put\"的t和\"in\"的i连读，\"the\"读/ðə/，\"work\"的r要卷舌。"
+          },
+          {
+            "word": "toxic trait",
+            "phonetic": "/ˈtɒksɪk treɪt/",
+            "description": "\"toxic\"的s发/s/音，\"trait\"的tr是送气音，注意不要读成/tʃ/。"
+          },
+          {
+            "word": "sum it up",
+            "phonetic": "/sʌm ɪt ʌp/",
+            "description": "\"sum\"的m和\"it\"的i连读，\"it\"的t和\"up\"的u连读，注意t的发音比较轻或为flap t。"
+          },
+          {
+            "word": "in the mood for",
+            "phonetic": "/ɪn ðə muːd fɔːr/",
+            "description": "\"mood\"的oo发长音/uː/，\"for\"的r要卷舌。"
+          },
+          {
+            "word": "without further ado",
+            "phonetic": "/wɪˈðaʊt ˈfɜːrðər əˈduː/",
+            "description": "\"without\"的th发/ð/音，\"further\"的th发/ð/音，\"ado\"的a发/ə/，oo发长音/uː/。"
+          },
+          {
+            "word": "setting the bar higher",
+            "phonetic": "/ˈsetɪŋ ðə bɑːr ˈhaɪər/",
+            "description": "\"setting\"的ng发/ŋ/音，\"the\"读/ðə/，\"bar\"的r要卷舌，\"higher\"的h要发音，不要省略。"
+          },
+          {
+            "word": "going through it",
+            "phonetic": "/ˈɡoʊɪŋ θruː ɪt/",
+            "description": "\"going\"的ng发/ŋ/音，\"through\"的th发/θ/音，t和it连读。"
+          },
+          {
+            "word": "let's face it",
+            "phonetic": "/lets feɪs ɪt/",
+            "description": "\"let's\"的s发/s/音，\"face\"的ce发/s/音，\"face\"的s和\"it\"连读，t音轻发。"
+          }
+        ],
+        "sentences": [
+          [
+            "I'm putting in the work.",
+            "我正在努力。"
+          ],
+          [
+            "My new toxic trait is impersonating straight guys and I really need to stop.",
+            "我最近新养成的坏习惯是模仿直男，我真的需要停止。"
+          ],
+          [
+            "I can sum it up in just three letters: D-R-Y. Dry!",
+            "我可以用三个字母概括：干！"
+          ],
+          [
+            "But yeah, definitely in the mood for some damage repair.",
+            "但没错，我绝对想做些损伤修复。"
+          ],
+          [
+            "They just keep setting the bar higher and higher, I swear.",
+            "我发誓，他们总是不断提高标准。"
+          ],
+          [
+            "A lot of people I know are just really going through it right now.",
+            "我认识的很多人现在都过得很艰难。"
+          ],
+          [
+            "I'm just getting older. Like, let's face it.",
+            "我只是年纪越来越大。面对现实吧。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Phrasal Verbs",
+            "动词短语是英语中由动词和介词或副词组合而成的词组，常具有不同于原动词的特定含义。",
+            "视频中频繁使用如 \"sum it up\", \"put in the work\", \"going through it\", \"break down\", \"follow up with\" 等。"
+          ],
+          [
+            "Adverbial phrase \"to the point where\"",
+            "这是一个表示程度的状语短语，意为“到了…的程度/地步”。",
+            "It's to the point where I even have eczema on my hands right now."
+          ]
+        ]
+      }
+    ]
   }
 ]
