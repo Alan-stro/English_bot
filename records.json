@@ -29297,5 +29297,169 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-20",
+    "topic": "Grocery shopping haul",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "lUwUVVqJt1c",
+        "title": "Doctor Reveals &quot;Healthiest&quot; Grocery Store Items",
+        "url": "https://www.youtube.com/watch?v=lUwUVVqJt1c",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，一位医生分享了他在亚马逊生鲜超市购物的健康饮食心得。他推荐了多种新鲜水果（如浆果、猕猴桃）和蔬菜（如绿叶蔬菜、青豆、红薯），并强调了它们富含维生素、抗氧化剂和纤维等营养成分。他还给出了关于酱料、面包、鱼罐头和酸奶等产品的选择建议，鼓励观众关注食物的营养价值，并根据个人健康状况进行调整，而不是盲目追求“健康食物”的标签。",
+        "cards": "go to town on\n---\n--\n尽情地吃；大量使用\nLike, I want to go to town on these strawberries.\n我想要尽情地吃这些草莓。\n\nload up on\n---\n--\n大量购买；大量摄入\nSo load up on those frozen berries.\n所以多买些冷冻浆果吧。\n\nwake-up call\n---\n--\n警钟；提醒\nThis was my wake-up call.\n这是给我敲响的警钟。\n\nlargely untrue\n---\n--\n基本上不真实的\nAnd this is largely untrue for the huge majority of people.\n这对绝大多数人来说基本上是不真实的。\n\ncomplex carbs\n---\n--\n复合碳水化合物\nSweet potatoes are the way to get your complex carbs in.\n红薯是摄入复合碳水化合物的好方法。\n\nmonitor caloric intake\n---\n--\n监测卡路里摄入量\nYou just have to be careful if you are monitoring your caloric intake.\n如果你正在监测卡路里摄入量，你必须小心。\n\nunderrated meat\n---\n--\n被低估的肉类\nA lot of people treat it as an underrated meat.\n许多人认为它是一种被低估的肉类。\n\ncrack open a can\n---\n--\n打开一个罐头\nI crack open a can and have some.\n我打开一个罐头吃点。",
+        "pronunciation": [
+          {
+            "word": "go to town on",
+            "phonetic": "/ɡoʊ tə taʊn ɒn/",
+            "description": "\"go to\" 中的 /t/ 和 \"town\" 的 /n/ 之间有连读，\"on\" 中的 /ɒ/ 读作像 \"啊\" 的短音。"
+          },
+          {
+            "word": "load up on",
+            "phonetic": "/loʊd ʌp ɒn/",
+            "description": "\"load\" 中的 /d/ 和 \"up\" 中的 /ʌ/ 有连读，\"up\" 的 /p/ 和 \"on\" 的 /ɒ/ 有连读。"
+          },
+          {
+            "word": "wake-up call",
+            "phonetic": "/weɪk ʌp kɔːl/",
+            "description": "\"wake\" 和 \"up\" 连读，\"call\" 中的 /ɔː/ 类似 \"哦\" 的长音。"
+          },
+          {
+            "word": "largely untrue",
+            "phonetic": "/ˈlɑːrdʒli ʌnˈtruː/",
+            "description": "\"largely\" 中 \"ge\" 的发音类似 \"zh\"，\"untrue\" 的 \"un\" 是非重读音节。"
+          },
+          {
+            "word": "complex carbs",
+            "phonetic": "/ˈkɒmpleks kɑːrbz/",
+            "description": "\"complex\" 重音在第一音节，\"carbs\" 的 /ɑː/ 读作像 \"啊\" 的长音，/rbz/ 连在一起发音。"
+          },
+          {
+            "word": "monitor caloric intake",
+            "phonetic": "/ˈmɒnɪtər kəˈlɔːrɪk ˈɪnteɪk/",
+            "description": "\"monitor\" 重音在第一音节，\"caloric\" 重音在第二音节，\"intake\" 重音在第一音节。"
+          },
+          {
+            "word": "underrated meat",
+            "phonetic": "/ˌʌndərˈreɪtɪd miːt/",
+            "description": "\"underrated\" 重音在第三音节，\"meat\" 中的 /iː/ 读作像 \"衣\" 的长音。"
+          },
+          {
+            "word": "crack open a can",
+            "phonetic": "/kræk ˈoʊpən ə kæn/",
+            "description": "\"crack\" 和 \"open\" 之间连读，\"open\" 的 /n/ 和 \"a\" 连读，\"can\" 中的 /æ/ 读作短促的 \"艾\" 音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Like, I want to go to town on these strawberries.",
+            "我想要尽情地吃这些草莓。"
+          ],
+          [
+            "This was my wake-up call.",
+            "这是给我敲响的警钟。（指某事让人幡然醒悟）"
+          ],
+          [
+            "So load up on those frozen berries.",
+            "所以多买些冷冻浆果吧。（指大量购买或储备）"
+          ],
+          [
+            "We're celebrating, it's okay to have some pie.",
+            "我们在庆祝，吃点派没关系。"
+          ],
+          [
+            "I crack open a can and have some.",
+            "我打开一个罐头吃点。"
+          ]
+        ],
+        "grammar": [
+          [
+            "动词短语 (Phrasal Verbs)",
+            "动词和介词或副词组合，形成一个新意义的短语。",
+            "\"load up on those frozen berries\"（多买些冷冻浆果），\"crack open a can\"（打开一个罐头）。这些短语在日常口语中非常常见。"
+          ],
+          [
+            "tend to",
+            "表示“倾向于”、“往往会”，用于表达普遍的趋势或习惯。",
+            "\"I do say that the other ones tend to be a little bit more nutritious.\"（我确实认为其他的（绿叶蔬菜）往往更有营养。）"
+          ]
+        ]
+      },
+      {
+        "video_id": "SzR-uGszyWw",
+        "title": "Shopping for SHREDS | CUTTING grocery haul",
+        "url": "https://www.youtube.com/watch?v=SzR-uGszyWw",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频是一位健身达人在超市分享减脂期的购物攻略。他推荐了黄瓜、草莓、蓝莓等低卡路里、高饱腹感的食物，以及红薯、鸡胸肉、茅屋芝士和希腊酸奶等优质碳水和蛋白质来源。他还强调要避免不健康的零食区，选择无氢化油的产品，并详细解释了热量赤字和可持续减脂的重要性。",
+        "cards": "shredded\n---\n--\n（身材）非常精瘦的\n英文例句：This video is about shopping to get shredded.\n中文例句：这个视频是关于如何购物以获得精瘦身材的。\n\ncut (on a cut)\n---\n--\n（健身）减脂期；处于减脂期\n英文例句：I've been on a cut for the last six weeks.\n中文例句：我过去六周一直在减脂期。\n\nstumbled upon\n---\n--\n偶然发现\n英文例句：Something I've stumbled upon is going to change your lives.\n中文例句：我偶然发现的一些东西将改变你们的生活。\n\ncaloric deficit\n---\n--\n热量赤字\n英文例句：If you want to drop weight, ultimately, you have to be in a caloric deficit.\n中文例句：如果你想减肥，最终，你必须处于热量赤字状态。\n\nmuscle atrophy\n---\n--\n肌肉萎缩\n英文例句：To avoid muscle atrophy, what you guys need to ensure is still consume your proteins.\n中文例句：为了避免肌肉萎缩，你们需要确保仍然摄入蛋白质。\n\nincorporate\n---\n--\n包含，纳入\n英文例句：Start incorporating more of these foods, meal by meal by meal.\n中文例句：开始将这些食物一餐一餐地纳入饮食中。",
+        "pronunciation": [
+          {
+            "word": "shredded",
+            "phonetic": "/ˈʃrɛdɪd/",
+            "description": "'sh'发音像中文的“施”，短'e'音"
+          },
+          {
+            "word": "stumbled upon",
+            "phonetic": "/ˈstʌmbəld əˈpɒn/",
+            "description": "'u'发音像中文的“啊”，'b'不发音；upon中'o'发音像“奥”"
+          },
+          {
+            "word": "caloric deficit",
+            "phonetic": "/kəˈlɒrɪk ˈdɛfɪsɪt/",
+            "description": "'caloric'重音在第二个音节，'deficit'重音在第一个音节"
+          },
+          {
+            "word": "muscle atrophy",
+            "phonetic": "/ˈmʌsəl ˈætrəfi/",
+            "description": "'muscle'中's'发/s/音，'u'发/ʌ/音；'atrophy'重音在第一个音节，'ph'发/f/音"
+          },
+          {
+            "word": "incorporate",
+            "phonetic": "/ɪnˈkɔːrpəreɪt/",
+            "description": "重音在第二个音节，'o'发/ɔː/音"
+          }
+        ],
+        "sentences": [
+          [
+            "This is all about the cut.",
+            "这都是关于减脂期的。"
+          ],
+          [
+            "This is practically no calories.",
+            "这几乎没有什么卡路里。"
+          ],
+          [
+            "I like to have more meals that are sweet potato throughout the day.",
+            "我喜欢全天多吃红薯类的餐食。"
+          ],
+          [
+            "If you're on a deep cut, that's where you're weighing your food.",
+            "如果你在深度减脂，你需要称量你的食物。"
+          ],
+          [
+            "A word of advice, guys, if you're on a cut, simply avoid aisles like this.",
+            "给大家一个忠告，如果你在减脂期，就直接避开像这样的货架。"
+          ]
+        ],
+        "grammar": [
+          [
+            "\"all about\"短语",
+            "解释：用于强调某个事物的主要内容、重点或核心目的。",
+            "视频例子：\"This is all about the cut.\" (0:08)"
+          ],
+          [
+            "结果状语从句",
+            "解释：使用\"so... that...\"连接，表示结果。",
+            "视频例子：\"so that you can ultimately ensure that you are in that deficit.\" (15:05)"
+          ]
+        ]
+      }
+    ]
   }
 ]
