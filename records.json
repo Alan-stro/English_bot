@@ -29461,5 +29461,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-21",
+    "topic": "Picking up takeout food",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "UlwVdyMvyjI",
+        "title": "Hidden Cams Catch Food Being Transported in Unsafe Conditions",
+        "url": "https://www.youtube.com/watch?v=UlwVdyMvyjI",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频揭露了亚特兰大地区一些餐馆和餐饮服务商在高温天气下，使用非冷藏车辆从食品批发商（如Restaurant Depot和Sysco）运输肉类、鸡肉和蔬菜等易腐食品，违反了FDA的食品安全规定。食品安全专家警告称，这会迅速滋生沙门氏菌和大肠杆菌等有害细菌，即使烹饪后仍可能导致食物中毒。尽管各机构表示违规者可能承担责任，但目前并没有常态化的“最后一公里”配送检查机制来监管这一问题。",
+        "cards": "food distributors\n---\n--\n食品经销商\n英文例句：Our hidden cameras spotted foods being loaded into unrefrigerated vehicles at major food distributors.\n中文例句：我们的隐蔽摄像头拍到，在主要食品经销商处，食物被装载到未冷藏的车辆中。\n\nperishable foods\n---\n--\n易腐食品\n英文例句：FDA rules require most perishable foods to be kept at 41 degrees or below.\n中文例句：FDA 规定，大多数易腐食品必须保持在 41 华氏度或以下。\n\nharmful bacteria\n---\n--\n有害细菌\n英文例句：This helps to prevent the growth of harmful bacteria like salmonella and e.coli.\n中文例句：这有助于防止沙门氏菌和大肠杆菌等有害细菌的生长。\n\none-time exception\n---\n--\n一次性例外\n英文例句：The owner later told us this delivery was a one-time exception and not how they usually transport food.\n中文例句：店主后来告诉我们，这次送货是一次性例外，并非他们通常的食物运输方式。\n\nlast-mile deliveries\n---\n--\n最后一公里配送\n英文例句：No agency regularly inspects these last-mile deliveries.\n中文例句：没有机构定期检查这些最后一公里配送。\n\nbe held liable\n---\n--\n承担责任\n英文例句：Distributors and restaurants can be held liable if they're caught transporting food at unsafe temperatures.\n中文例句：如果经销商和餐馆被发现以不安全的温度运输食物，他们可能被追究责任。\n\nget away with it\n---\n--\n逍遥法外；逃脱惩罚\n英文例句：Violators often get away with it and don't have to pay the higher cost of using refrigerated vehicles.\n中文例句：违规者经常逍遥法外，不必承担使用冷藏车辆的更高成本。",
+        "pronunciation": [
+          {
+            "word": "food distributors",
+            "phonetic": "/fuːd dɪˈstrɪbjʊtərz/",
+            "description": "\"distributors\"重音在第二个音节“trib”，注意/ɪ/和/ʌ/音。"
+          },
+          {
+            "word": "perishable foods",
+            "phonetic": "/ˈpɛrɪʃəbl fuːdz/",
+            "description": "\"perishable\"重音在第一个音节“per”，注意/ɪ/和/ə/音。"
+          },
+          {
+            "word": "harmful bacteria",
+            "phonetic": "/ˈhɑːrmfʊl bækˈtɪəriə/",
+            "description": "\"bacteria\"重音在第二个音节“tir”，注意/æ/和/ɪə/音。"
+          },
+          {
+            "word": "one-time exception",
+            "phonetic": "/wʌn taɪm ɪkˈsɛpʃən/",
+            "description": "\"exception\"重音在第二个音节“cep”，注意/ɪk/的发音。"
+          },
+          {
+            "word": "last-mile deliveries",
+            "phonetic": "/læst maɪl dɪˈlɪvəriz/",
+            "description": "\"deliveries\"重音在第二个音节“liv”，注意/ɪ/音的清晰度。"
+          },
+          {
+            "word": "be held liable",
+            "phonetic": "/biː hɛld ˈlaɪəbl/",
+            "description": "\"liable\"重音在第一个音节“li”，注意/aɪə/的发音。"
+          },
+          {
+            "word": "get away with it",
+            "phonetic": "/ɡɛt əˈweɪ wɪð ɪt/",
+            "description": "\"away\"重音在第二个音节，\"with it\"连读。"
+          }
+        ],
+        "sentences": [
+          [
+            "FDA rules require most perishable foods to be kept at 41 degrees or below.",
+            "FDA 规定，大多数易腐食品必须保持在 41 华氏度或以下。"
+          ],
+          [
+            "This delivery was a one-time exception and not how they usually transport food.",
+            "这次送货是一次性例外，并非他们通常的食物运输方式。"
+          ],
+          [
+            "How quickly can pathogens grow in this kind of condition?",
+            "在这种条件下，病原体能以多快的速度生长？"
+          ],
+          [
+            "They double in size every 20 minutes.",
+            "它们每20分钟体积就增加一倍。"
+          ],
+          [
+            "Distributors and restaurants can be held liable if they're caught transporting food at unsafe temperatures.",
+            "如果经销商和餐馆被发现以不安全的温度运输食物，他们可能被追究责任。"
+          ]
+        ],
+        "grammar": [
+          [
+            "不定式作目的状语",
+            "表示动作的目的",
+            "FDA rules require most perishable foods to be kept at 41 degrees or below, **to prevent** the growth of harmful bacteria."
+          ],
+          [
+            "被动语态",
+            "强调动作的承受者而非执行者",
+            "Distributors and restaurants can **be held liable** if they're caught transporting food at unsafe temperatures."
+          ]
+        ]
+      },
+      {
+        "video_id": "ILvUUYWX228",
+        "title": "Driving a Mercedes to pick up food vouchers",
+        "url": "https://www.youtube.com/watch?v=ILvUUYWX228",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频采访了Darlena Cunha，她讲述了自己家庭从舒适生活到需要政府援助的经历。她的丈夫在双胞胎女儿出生前失业，导致家庭陷入经济困境，不得不申请妇女、婴儿和儿童营养计划（WIC）来购买婴儿配方奶粉。Darlena解释了她没有出售家中奔驰车的原因，并强调贫困是一种境况，而非道德评判，许多寻求援助的人都是努力工作的美国公民，贫困本身就是一种昂贵的负担。",
+        "cards": "fell on hard times\n---\n--\n遭遇困境；经济上陷入困顿\nThe writer and her family fell on hard times, and she had to pick up public assistance.\n作者和她的家人陷入了困境，她不得不领取公共援助。\n\nstable relationship\n---\n--\n稳定的关系\nYou were a local television producer, you college educated, you were in a stable relationship.\n你曾是一名当地的电视制片人，受过大学教育，有一段稳定的关系。\n\non government assistance\n---\n--\n领取政府援助\nOver within a matter of just a few months, you found yourself on government assistance.\n在短短几个月内，你发现自己需要依靠政府援助。\n\npink slip\n---\n--\n解雇通知书（口语，非正式）\nTwo weeks before we went to give birth, he lost his job. He saw a pink slip.\n在我们分娩前两周，他失业了。他收到了一张解雇通知书。\n\nupside down on your home\n---\n--\n房屋贷款倒挂（指房产价值低于抵押贷款余额）\nWe also found ourselves facing a mortgage on a house that was now worth about half what we had paid for it. You were upside down on your home.\n我们还发现自己面临着一套房子的抵押贷款，而这套房子现在的价值只有我们当初支付的一半。你的房子出现了贷款倒挂。\n\nsticking point\n---\n--\n症结；争论点；难以解决的问题\nIt's just been a sticking point with the article, and I want people to know that we were on WIC.\n这只是文章的一个症结，我想让人们知道我们当时是在领WIC。\n\nglossed over\n---\n--\n（被）轻描淡写地带过；（被）掩盖\nI was working at the time, which I think is also being glossed over.\n我当时也在工作，我认为这一点也被轻描淡写地带过了。\n\nbeater\n---\n--\n（口语）破旧的汽车；老旧的工具（通常指仍能使用的）\nWe can pay totally off, but it's a beater and it's going to break down every two seconds.\n我们可以全款买一辆，但那会是一辆破车，每两秒就会出故障。",
+        "pronunciation": [
+          {
+            "word": "fell on hard times",
+            "phonetic": "/fel ɒn hɑːrd taɪmz/",
+            "description": "\"fell on\" 连读，\"hard\" 和 \"times\" 的发音清晰，注意 /ɑːr/ 和 /aɪ/ 音。"
+          },
+          {
+            "word": "stable relationship",
+            "phonetic": "/ˈsteɪbl rɪˈleɪʃənʃɪp/",
+            "description": "\"stable\" 注意 /eɪ/ 音，\"relationship\" 重音在第二个音节，/leɪ/。"
+          },
+          {
+            "word": "on government assistance",
+            "phonetic": "/ɒn ˈɡʌvərnmənt əˈsɪstəns/",
+            "description": "\"government\" 的 'n' 音常弱化，\"assistance\" 重音在第二个音节。"
+          },
+          {
+            "word": "pink slip",
+            "phonetic": "/pɪŋk slɪp/",
+            "description": "\"pink\" 的 /ŋk/ 音和 \"slip\" 的 /lɪp/ 音要发清楚。"
+          },
+          {
+            "word": "upside down on your home",
+            "phonetic": "/ˌʌpsaɪd ˈdaʊn ɒn jʊər hoʊm/",
+            "description": "\"upside down\" 重音在 \"down\"，\"home\" 的 /oʊ/ 音。"
+          },
+          {
+            "word": "sticking point",
+            "phonetic": "/ˈstɪkɪŋ pɔɪnt/",
+            "description": "\"sticking\" 的 /ɪŋ/ 音，\"point\" 的 /ɔɪ/ 音。"
+          },
+          {
+            "word": "glossed over",
+            "phonetic": "/ɡlɒst ˈoʊvər/ (英式) 或 /ɡlɔːst ˈoʊvər/ (美式)",
+            "description": "\"glossed\" 结尾的 /t/ 音在连读时可能弱化或变为 /d/，但要保持自然衔接。"
+          },
+          {
+            "word": "beater",
+            "phonetic": "/ˈbiːtər/",
+            "description": "\"beater\" 注意 /iː/ 长音，与 \"bitter\" 区分。"
+          }
+        ],
+        "sentences": [
+          [
+            "Over within a matter of just a few months, you found yourself on government assistance.",
+            "在短短几个月内，你发现自己需要依靠政府援助。"
+          ],
+          [
+            "Two weeks before we went to give birth, he lost his job. He saw a pink slip.",
+            "在我们分娩前两周，他失业了。他收到了一张解雇通知书。"
+          ],
+          [
+            "I needed a car to drive 90 miles one way and 90 miles back the other way.",
+            "我需要一辆车单程开90英里，然后返程再开90英里。"
+          ],
+          [
+            "I had to supplement with formula and then switch over to formula.",
+            "我不得不补充配方奶粉，然后完全改用配方奶粉。"
+          ],
+          [
+            "It's expensive to be poor.",
+            "贫穷是要付出高昂代价的（或者说，贫穷的成本很高）。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Would have + past participle",
+            "表示过去本可以做某事，但实际未做；或对过去某事的假设性结果。",
+            "...we would have had to buy a new car because I was working at the time... (如果我们卖了奔驰，就不得不买新车。)"
+          ],
+          [
+            "Present Continuous Passive Voice (being + past participle)",
+            "用于描述正在发生或持续的被动动作。",
+            "...which I think is also being glossed over. (我当时也在工作，我认为这一点也正在被轻描淡写地带过。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
