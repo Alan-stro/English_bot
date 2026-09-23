@@ -29809,5 +29809,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "topic": "Daily dog walk",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "0kLNC8t9UXE",
+        "title": "Woman Attacked on a Daily Walk! | Part 2",
+        "url": "https://www.youtube.com/watch?v=0kLNC8t9UXE",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，法官Judy正在审理一起与宠物狗相关的租赁纠纷。房东夫妇称租客违反了禁止养狗的租约，而租客则辩称狗是男友的，只是暂时在她家待几个小时。法官Judy通过疫苗接种证明上的信息，揭示了狗实际上是租客所有，且她填写了旧的虚假地址。最终，法官判房东胜诉。",
+        "cards": "sign a lease\n---\n--\n签署租约\nDid you sign a lease?\n你签了租约吗？\n\nprohibit a dog\n---\n--\n禁止养狗\nDoes the lease prohibit a dog unless approved by the landlord?\n租约是否禁止养狗，除非获得房东批准？\n\nevict\n---\n--\n驱逐（房客）；赶走（某人）\nShe would be evicted.\n她会被赶走。\n\non notice\n---\n--\n收到正式通知；被告知\nYou are now on notice that based upon her own statement...\n你现在被告知，根据她自己的陈述...\n\na lot of bologna\n---\n--\n一派胡言；废话\nA lot of bologna.\n一派胡言。\n\nin violation of the lease\n---\n--\n违反租约\nShe's in violation of the lease.\n她违反了租约。\n\nsurveillance camera\n---\n--\n监控摄像头\nPut up a surveillance camera.\n装个监控摄像头。",
+        "pronunciation": [
+          {
+            "word": "sign a lease",
+            "phonetic": "/saɪn ə liːs/",
+            "description": "'sign' 的 /g/ 不发音，与 'a' 连读；'lease' 的 /iː/ 是长元音，注意发音饱满。"
+          },
+          {
+            "word": "prohibit a dog",
+            "phonetic": "/proʊˈhɪbɪt ə dɔːɡ/",
+            "description": "'prohibit' 重音在 /hɪb/，'t' 与 'a' 连读，'dog' 的 /ɔː/ 是圆唇的后元音。"
+          },
+          {
+            "word": "evict",
+            "phonetic": "/ɪˈvɪkt/",
+            "description": "重音在 /vɪkt/，注意结尾 /kt/ 音。"
+          },
+          {
+            "word": "on notice",
+            "phonetic": "/ɒn ˈnoʊtɪs/",
+            "description": "'notice' 的 /ɪ/ 是短元音。"
+          },
+          {
+            "word": "a lot of bologna",
+            "phonetic": "/ə lɒt əv bəˈloʊni/",
+            "description": "'lot of' 连读，听起来像 'lot-ta'；'bologna' 重音在 /loʊ/，发音像 'baloney'。"
+          },
+          {
+            "word": "in violation of the lease",
+            "phonetic": "/ɪn ˌvaɪəˈleɪʃən əv ðə liːs/",
+            "description": "'violation' 重音在 /leɪ/；'of' 的 /f/ 常弱读成 /v/ 并与 'the' 连读。"
+          },
+          {
+            "word": "surveillance camera",
+            "phonetic": "/sərˈveɪləns ˈkæmərə/",
+            "description": "'surveillance' 重音在 /veɪ/；'camera' 重音在 /kæ/。"
+          }
+        ],
+        "sentences": [
+          [
+            "I guarantee you she can't get insurance on this dog because the dog is a pitbull.",
+            "我向你保证，她无法为这只狗购买保险，因为这只狗是比特犬。"
+          ],
+          [
+            "If it's at your house, you're responsible for it.",
+            "如果它在你家，你就要负责。"
+          ],
+          [
+            "But I didn't think that I needed to put the dog on the lease for a couple of hours.",
+            "但我没觉得我需要把狗写在租约上，因为只是几个小时。"
+          ],
+          [
+            "He asked for that purpose, can I please put the dog under my address 'cause he's never home.",
+            "他因此问我，能不能把狗放在我的地址下，因为他从不在家。"
+          ],
+          [
+            "Whoever's stupid enough to have that kind of dog deserves whatever they get.",
+            "任何蠢到养那种狗的人都活该。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Adverbial Clause of Condition (using 'unless')",
+            "'Unless' 引导条件状语从句，意为 'if not'。",
+            "Does the lease prohibit a dog unless approved by the landlord? (0:03)"
+          ],
+          [
+            "Present Simple for Facts and Habits",
+            "用于陈述普遍事实、习惯或规律。",
+            "Nobody gives insurance on a pitbull. (0:19)"
+          ]
+        ]
+      },
+      {
+        "video_id": "WVYJVAi1bW0",
+        "title": "5 Mistakes People Make When Teaching A Puppy To Walk On Leash",
+        "url": "https://www.youtube.com/watch?v=WVYJVAi1bW0",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频提供了关于幼犬牵引绳训练的实用建议，强调在幼犬16周大之前应专注于基础技能而非直接进行牵引绳行走训练。视频指出，许多人常犯的错误包括过早开始、挑战难度过高，以及使用不恰当的设备。为了提高训练效果，训练者应调整训练的距离、干扰和时长（即“3D”原则），保持适当的训练速度，并利用转向技巧来吸引幼犬的注意力。此外，视频建议在训练初期使用平扣项圈而非胸背带，以提供更清晰的指令，并通过有计划的结束（如自动坐下或玩玩具）来保持幼犬的积极性。",
+        "cards": "foundational exercises\n---\n--\n中文核心释义\n基础练习；基本功训练\n英文例句\nBefore that four-month mark, you should be really focusing on some foundational exercises with your puppy.\n中文例句\n在四个月大之前，你应该真正专注于对你的小狗进行一些基础训练。\n\n--\n---\nbuilding block exercises\n--\n中文核心释义\n奠基练习；基础构建练习\n英文例句\nThese are the building block exercises that are going to help your puppy to be successful when you do get out and start working on that leash walking training.\n中文例句\n这些都是基础构建练习，它们将帮助你的小狗在出门开始进行牵引绳行走训练时取得成功。\n\n--\n---\nshort, sweet, successful\n--\n中文核心释义\n短小精悍且成功（指训练等）\n英文例句\nAnd we want to turn these training sessions into short, sweet, successful bits of training.\n中文例句\n我们希望将这些训练课程变成短小精悍且成功的训练片段。\n\n--\n---\ndemotivate\n--\n中文核心释义\n打击积极性；使失去动力\n英文例句\nThe last thing we want to do is demotivate our puppy by training them when they're too full or not interested in the treats or reward anymore.\n中文例句\n我们最不希望做的事情就是，在小狗吃得太饱或对零食或奖励失去兴趣时进行训练，从而打击它们的积极性。\n\n--\n---\nbe mindful of\n--\n中文核心释义\n留意；注意\n英文例句\nI want you to be very mindful of the distractions in the environment so that you can help your puppy to make good choices.\n中文例句\n我希望你非常留意环境中的干扰，这样你就能帮助你的小狗做出正确的选择。\n\n--\n---\nbattle of wills\n--\n中文核心释义\n意志的较量；意志之战\n英文例句\nWith a harness, it can become a battle of wills where the dog's getting really bad information about what we want them to do.\n中文例句\n使用胸背带，这可能会变成一场意志的较量，小狗会收到关于我们想让它们做什么的非常糟糕的信息。\n\n--\n---\nditch the harness\n--\n中文核心释义\n放弃使用胸背带（这里指在特定训练中）\n英文例句\nDitch the harness! If you have a dog in training who's just learned to walk on leash without pulling, then you need to be giving them better information.\n中文例句\n放弃使用胸背带！如果你的狗狗在训练中刚刚学会不拉牵引绳走路，那么你需要给它们更好的信息。",
+        "pronunciation": [
+          {
+            "word": "foundational exercises",
+            "phonetic": "/faʊnˈdeɪʃənəl ˈɛksərsaɪzɪz/",
+            "description": "foundational (发音时注意-da-和-tion-的音，避免读成“方大tion”); exercises (注意-x-的发音和复数-s-的发音)"
+          },
+          {
+            "word": "building block exercises",
+            "phonetic": "/ˈbɪldɪŋ blɑːk ˈɛksərsaɪzɪz/",
+            "description": "building (注意-l-的发音); block (注意-ck-的短促发音); exercises (同上)"
+          },
+          {
+            "word": "short, sweet, successful",
+            "phonetic": "/ʃɔːrt, swiːt, səkˈsɛsfəl/",
+            "description": "short (注意-or-的发音); sweet (注意-ee-的音); successful (重音在第二个音节“cess”，避免重音前移，两个“s”的发音要清晰)"
+          },
+          {
+            "word": "demotivate",
+            "phonetic": "/diːˈmoʊtɪveɪt/",
+            "description": "demotivate (重音在第二个音节“mo”，避免重音前移)"
+          },
+          {
+            "word": "be mindful of",
+            "phonetic": "/biː ˈmaɪndfəl ʌv/",
+            "description": "mindful (注意-ndf-音的连读); of (这里的-f-发/v/音，与后面-ʌv/连读)"
+          },
+          {
+            "word": "battle of wills",
+            "phonetic": "/ˈbætl ʌv wɪlz/",
+            "description": "battle (注意轻声的-tle-部分，舌尖触上齿龈); wills (注意-l-和-s-的连读)"
+          },
+          {
+            "word": "ditch the harness",
+            "phonetic": "/dɪtʃ ðə ˈhɑːrnɪs/",
+            "description": "ditch (注意-tch-的发音，类似中文“七”的声母); harness (注意-r-的发音和-s-的清音)"
+          }
+        ],
+        "sentences": [
+          [
+            "When you take your puppy for a walk, does it look like this?",
+            "当你带着小狗散步时，是这样的吗？"
+          ],
+          [
+            "Then we need to talk about your walking on leash training and some changes that you can make when it comes to this really important skill.",
+            "那么我们需要谈谈你的牵绳行走训练以及你在这个非常重要的技能上可以做出的一些改变。"
+          ],
+          [
+            "You don't need to be doing any real walking on leash training with your puppy until they're about 16 weeks old.",
+            "你不需要对小狗进行真正的牵引绳行走训练，直到它们大约16周大。"
+          ],
+          [
+            "The last thing we want to do is demotivate our puppy by training them when they're too full or not interested in the treats or reward anymore.",
+            "我们最不希望做的事情就是，在小狗吃得太饱或对零食或奖励失去兴趣时进行训练，从而打击它们的积极性。"
+          ],
+          [
+            "I want you to walk like you're late for something.",
+            "我希望你走路时就像你迟到了什么事情一样（指快步走）。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Gerund after \"when it comes to\"",
+            "\"when it comes to\"后面跟动名词，表示“当涉及到……时”。",
+            "Then we need to talk about your walking on leash training and some changes that you can make when it comes to this really important skill."
+          ],
+          [
+            "Verb \"demotivate\"",
+            "动词 \"demotivate\" 指“使失去动力，打击积极性”，是“motivate”（激励）的反义词。",
+            "The last thing we want to do is demotivate our puppy by training them when they're too full or not interested in the treats or reward anymore."
+          ]
+        ]
+      }
+    ]
   }
 ]
