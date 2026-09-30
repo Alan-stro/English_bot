@@ -31012,5 +31012,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "topic": "Mailing a package",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "XxCha4Kez9c",
+        "title": "How the US Postal Service reads terrible handwriting",
+        "url": "https://www.youtube.com/watch?v=XxCha4Kez9c",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频介绍了美国邮政服务中远程编码中心（REC）的工作，特别是在犹他州盐湖城唯一的REC。当机器无法识别信封上的手写地址时，图像会被发送到REC，由员工手动输入地址信息，以确保邮件的准确投递。视频还提到了该中心邮件处理量的巨大变化，以及员工所使用的特殊键盘和编码规则，强调了这项工作对邮政系统效率的重要性。",
+        "cards": "processed automatically\n---\n--\n中文核心释义\n自动处理\n英文例句\nAlmost all the letters that get sent in the United States are processed automatically.\n中文例句\n在美国，几乎所有寄出的信件都是自动处理的。\n\noptical character recognition (OCR)\n---\n--\n中文核心释义\n光学字符识别\n英文例句\nCameras and computers take a picture of the front of the envelope, read the address with optical character recognition.\n中文例句\n摄像头和电脑会拍下信封正面，通过光学字符识别技术读取地址。\n\npretty much everything\n---\n--\n中文核心释义\n几乎所有，差不多一切\n英文例句\nThat deals with pretty much everything, even their handwritten letters.\n中文例句\n这几乎处理了所有事情，甚至包括手写的信件。\n\nblurred and ran\n---\n--\n中文核心释义\n(墨水) 模糊并渗开\n英文例句\nOr the envelope got a bit damp and the ink blurred and ran.\n中文例句\n或者信封有点潮湿，墨水模糊并渗开了。\n\nturn scrawl into actual addresses\n---\n--\n中文核心释义\n将潦草的字迹变成实际地址\n英文例句\nAnd it's the job of the folks here to turn scrawl and blurred ink into actual addresses.\n中文例句\n这里的人的工作是将潦草和模糊的墨迹变成实际的地址。\n\nmail volumes are low\n---\n--\n中文核心释义\n邮件量低\n英文例句\nMail volumes are low in the middle of summer.\n中文例句\n夏季中期邮件量较低。\n\nkeep up the pace\n---\n--\n中文核心释义\n跟上速度/节奏\n英文例句\nIt would be an average of four seconds for each one to keep up the pace.\n中文例句\n每个需要平均四秒钟才能跟上速度。",
+        "pronunciation": [
+          {
+            "word": "processed automatically",
+            "phonetic": "/ˈprɒsɛst ˌɔːtəˈmætɪkli/",
+            "description": "\"processed\"的d不发音，与\"automatically\"连读，重音在\"mat\"和\"tom\"上。"
+          },
+          {
+            "word": "optical character recognition",
+            "phonetic": "/ˈɒptɪkəl ˈkærəktər ˌrɛkəɡˈnɪʃən/",
+            "description": "\"character\"的ch发/k/音，\"recognition\"的c发/k/音，重音在\"op\"和\"nish\"上。"
+          },
+          {
+            "word": "pretty much everything",
+            "phonetic": "/ˈprɪti mʌtʃ ˈɛvriθɪŋ/",
+            "description": "\"much\"和\"everything\"之间连读，\"th\"是摩擦音，不是/s/或/f/。"
+          },
+          {
+            "word": "blurred and ran",
+            "phonetic": "/blɜːrd ænd ræn/",
+            "description": "\"blurred\"中的-ed不发音，类似/d/的浊辅音。\"ran\"发/æ/音，嘴巴张大。"
+          },
+          {
+            "word": "scrawl",
+            "phonetic": "/skrɔːl/",
+            "description": "'aw'发/ɔː/音，类似中文“噢”的音。"
+          },
+          {
+            "word": "volumes",
+            "phonetic": "/ˈvɒljuːmz/",
+            "description": "'o'发/ɒ/音，不是/oʊ/。"
+          },
+          {
+            "word": "pace",
+            "phonetic": "/peɪs/",
+            "description": "'a'发/eɪ/音，不是/a:/。"
+          }
+        ],
+        "sentences": [
+          [
+            "Almost all the letters that get sent in the United States are processed automatically.",
+            "在美国，几乎所有寄出的信件都是自动处理的。"
+          ],
+          [
+            "That deals with pretty much everything, even their handwritten letters.",
+            "这几乎处理了所有事情，甚至包括手写的信件。"
+          ],
+          [
+            "It's the job of the folks here to turn scrawl and blurred ink into actual addresses.",
+            "这里的人的工作是将潦草和模糊的墨迹变成实际的地址。"
+          ],
+          [
+            "It makes it a whole lot faster than typing out the entire thing.",
+            "这比把整个内容都打出来要快得多。"
+          ],
+          [
+            "And you did an incredible job for just learning these rules right now.",
+            "你在刚学完这些规则的情况下，做得非常出色。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "描述动作的承受者，而不是施动者，常用于强调结果或当施动者不重要时。",
+            "Almost all the letters that get sent in the United States are processed automatically."
+          ],
+          [
+            "动词短语 \"deal with\"",
+            "表示处理、解决或应对某事。",
+            "That deals with pretty much everything, even their handwritten letters."
+          ],
+          [
+            "\"It's the job of X to Y\" 句型",
+            "表达某人的职责或任务。",
+            "And it's the job of the folks here to turn scrawl and blurred ink into actual addresses."
+          ]
+        ]
+      },
+      {
+        "video_id": "DoY7SxrzNTc",
+        "title": "How Customs At JFK Searches 1 Million Mail Packages A Day",
+        "url": "https://www.youtube.com/watch?v=DoY7SxrzNTc",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "美国海关及边境保卫局（CBP）每天在肯尼迪国际机场检查约100万个国际包裹，以防止非法物品进入美国。他们的检查策略包括情报收集、非侵入性检查（如警犬嗅探和X光机）和人工检查。视频展示了CBP官员如何识别走私毒品（通过化学测试分级）和假冒商品（通过品牌标识和包装异常），并解释了这些非法物品被销毁或用于“受控运输”以追踪接收者的过程。",
+        "cards": "tasked with\n---\n--\n中文核心释义\n负责做某事；被分配做某事\n英文例句（贴合视频语境）\nThe US Customs and Border Protection, or CBP, is tasked with screening all of them.\n中文例句\n这个团队负责在截止日期前完成项目。\n\n--\n\nnarrows down\n---\n--\n中文核心释义\n缩小范围；筛选\n英文例句（贴合视频语境）\nThis is how CBP narrows down a million packages to the ones that will get flagged for further inspection.\n中文例句\n我们需要缩小候选人名单，才能做出决定。\n\n--\n\nsniff out\n---\n--\n中文核心释义\n（狗）嗅出；发现（隐藏的事物）\n英文例句（贴合视频语境）\nThese dogs are trained to sniff out seven different drugs.\n中文例句\n侦探擅长嗅出案件中的线索。\n\n--\n\nantidote\n---\n--\n中文核心释义\n解毒剂；解药\n英文例句（贴合视频语境）\nOfficers have the antidote Narcan on hand.\n中文例句\n这种药用作常见过敏反应的解毒剂。\n\n--\n\ndilapidated\n---\n--\n中文核心释义\n破旧的；失修的\n英文例句（贴合视频语境）\nThen you look at the dilapidated boxes.\n中文例句\n那个老旧的、破旧的房子最终被拆除了。\n\n--\n\nco-mingling\n---\n--\n中文核心释义\n（尤指不同类别物品）混杂，混合\n英文例句（贴合视频语境）\nA third thing is co-mingling. The high-end manufacturers never co-mingle their products.\n中文例句\n为了保持品牌形象，他们从不混杂不同系列的产品。\n\n--\n\ntop secret\n---\n--\n中文核心释义\n绝密的；最高机密的\n英文例句（贴合视频语境）\nWhile most of the narcotics and counterfeit goods will be sent to a top secret incinerator to be destroyed.\n中文例句\n这份绝密文件只允许少数官员查看。",
+        "pronunciation": [
+          {
+            "word": "tasked with",
+            "phonetic": "/tæsk wɪð/",
+            "description": "'tasked'的尾音/k/和/t/要轻读，'with'中的/ð/音舌尖轻触上齿，避免发成/v/或/s/。"
+          },
+          {
+            "word": "narrows down",
+            "phonetic": "/ˈnærəʊz daʊn/",
+            "description": "'narrows'中的's'发/z/音。"
+          },
+          {
+            "word": "sniff out",
+            "phonetic": "/snɪf aʊt/",
+            "description": "'sniff'中的'f'音要清晰。"
+          },
+          {
+            "word": "antidote",
+            "phonetic": "/ˈæntɪdəʊt/",
+            "description": "重音在第一个音节，'an'发/æ/音。"
+          },
+          {
+            "word": "dilapidated",
+            "phonetic": "/dɪˈlæpɪdeɪtɪd/",
+            "description": "重音在第三个音节，'la'发/læ/音。"
+          },
+          {
+            "word": "co-mingling",
+            "phonetic": "/ˌkoʊˈmɪŋɡlɪŋ/",
+            "description": "重音在第二个音节，'co'发/koʊ/音。"
+          },
+          {
+            "word": "top secret",
+            "phonetic": "/tɒp ˈsiːkrɪt/",
+            "description": "'top'中的'o'发/ɒ/音，'secret'重音在第一个音节。"
+          }
+        ],
+        "sentences": [
+          [
+            "About one million packages arrive at John F. Kennedy International Airport every day.",
+            "大约每天有100万个包裹抵达约翰·F·肯尼迪国际机场。"
+          ],
+          [
+            "Just like travelers have to go through customs, so do international packages.",
+            "就像旅客必须通过海关一样，国际包裹也必须如此。"
+          ],
+          [
+            "The worst part is, you don't know what's in these capsules.",
+            "最糟糕的是，你不知道这些胶囊里装的是什么。"
+          ],
+          [
+            "Every day is a sense of importance because of the fact that we're taking out these particular drugs from the street.",
+            "每一天都意义重大，因为我们正在把这些毒品从街头清除。"
+          ],
+          [
+            "This is where it's all coming from, and it hits the street, and it destroys lives.",
+            "这就是所有这些（非法物品）的来源，它们流入街头，毁掉生命。"
+          ]
+        ],
+        "grammar": [
+          [
+            "被动语态",
+            "解释：当强调动作的承受者而非执行者时使用。",
+            "视频例子：CBP is tasked with screening all of them. (CBP被赋予筛选所有包裹的任务。)"
+          ],
+          [
+            "倒装句式",
+            "解释：为了强调或保持句子平衡而将谓语动词或部分谓语移到主语之前。在视频中，\"so do\"常用于表示与前一句内容相同的情况。",
+            "视频例子：Just like travelers have to go through customs, so do international packages. (就像旅客必须通过海关一样，国际包裹也必须如此。)"
+          ]
+        ]
+      }
+    ]
   }
 ]
