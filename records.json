@@ -32211,5 +32211,184 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "topic": "daily life vlog",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "DZP5ZL-JxSQ",
+        "title": "Speak English Naturally With Me | Easy Comprehensible Input Vlog",
+        "url": "https://www.youtube.com/watch?v=DZP5ZL-JxSQ",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这段视频记录了两个年轻人在越南胡志明市（又称西贡）的城市探索。他们描述了当地的特色小板凳、街头交通、天气和各种建筑。视频中还穿插了关于城市历史和地标的介绍，并提供了英语学习的口语和发音练习。",
+        "cards": "Comprehensible input\n---\n--\n可理解性输入\nLet's describe everything around us with comprehensible input.\n让我们用可理解性输入来描述我们周围的一切。\n\nIndulge heavily\n---\n--\n尽情享受，沉迷于\nVietnamese food is some of my favorite food, and we have been indulging heavily.\n越南菜是我最喜欢的食物之一，我们一直都在尽情享用。\n\nHunch\n---\n--\n预感，直觉\nI don't know, I just got a hunch.\n我不知道，我只是有一种预感。\n\nNoise pollution\n---\n--\n噪音污染\nAlthough, I will say one thing, there is a lot of noise pollution.\n不过，我得说一件事，这里有很多噪音污染。\n\nBurn to a crisp\n---\n--\n烤焦，晒黑得厉害\nYou can sit on top and not burn to a crisp.\n你可以坐在上面，不会被晒得焦黑。\n\nConscious of my health\n---\n--\n注意健康\nNow that I'm older, I want to be more conscious of my health and body.\n现在我年纪大了，我想更多地关注我的健康和身体。\n\nExtended periods of time\n---\n--\n长时间\nIt is like a little uncomfortable to sit like that for extended periods of time.\n长时间那样坐着会有点不舒服。\n\nRenamed\n---\n--\n重新命名\nHo Chi Minh City was renamed from Saigon to Ho Chi Minh City.\n胡志明市从西贡更名为胡志明市。",
+        "pronunciation": [
+          {
+            "word": "Comprehensible",
+            "phonetic": "ˌkɒmprɪˈhɛnsəbl",
+            "description": "注意重音在第三个音节 /hɛn/，/s/ 发 /s/ 音。"
+          },
+          {
+            "word": "Indulge",
+            "phonetic": "ɪnˈdʌldʒ",
+            "description": "注意 /dʒ/ 音和重音在第二个音节 /'dʌldʒ/。"
+          },
+          {
+            "word": "Hunch",
+            "phonetic": "hʌntʃ",
+            "description": "注意 /ʌ/ 像“哈”的短音和结尾的 /tʃ/ 音。"
+          },
+          {
+            "word": "Pollution",
+            "phonetic": "pəˈluːʃ(ə)n",
+            "description": "注意重音在第二个音节 /'luː/，/ʃ/ 音。"
+          },
+          {
+            "word": "Crisp",
+            "phonetic": "krɪsp",
+            "description": "注意 /ɪ/ 像“伊”的短音，结尾 /sp/ 音清晰。"
+          },
+          {
+            "word": "Conscious",
+            "phonetic": "ˈkɒnʃəs",
+            "description": "注意 /ɒ/ 像“奥”的短音和 /ʃ/ 音。"
+          },
+          {
+            "word": "Extended",
+            "phonetic": "ɪkˈstɛndɪd",
+            "description": "注意重音在第二个音节 /'stɛnd/，结尾 /ɪd/ 的发音。"
+          },
+          {
+            "word": "Renamed",
+            "phonetic": "riːˈneɪmd",
+            "description": "注意 /re/ 的长音 /i:/，以及结尾 /md/ 的发音。"
+          }
+        ],
+        "sentences": [
+          [
+            "Today we have a clear and natural comprehensible input vlog.",
+            "今天我们有一个清晰自然的、可理解的输入视频日志。"
+          ],
+          [
+            "Vietnamese food is some of my favorite food, and we have been indulging heavily.",
+            "越南菜是我最喜欢的食物之一，我们一直都在尽情享用。"
+          ],
+          [
+            "Do you have any guesses? Honestly, I don't know, I just got a hunch.",
+            "你有什么猜测吗？说实话，我不知道，我只是有一种预感。"
+          ],
+          [
+            "It's not very busy and not crowded.",
+            "这里不是很忙，也不拥挤。"
+          ],
+          [
+            "The weather is a lot more bearable at night.",
+            "晚上的天气舒服多了。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Present Perfect Continuous",
+            "用于描述从过去开始并持续到现在的动作，强调动作的持续性。",
+            "Vietnamese food is some of my favorite food, and we **have been indulging** heavily."
+          ],
+          [
+            "Comparative Adjectives",
+            "用于比较两个事物在某一方面的差异。",
+            "These stools are very short. You can see how much **shorter** they are compared to a regular-sized stool."
+          ],
+          [
+            "Phrasal Verb",
+            "\"Open up\" (to become more open or available) 在视频中被用来形容纸箱被拆开并摊平。",
+            "We have cardboard boxes that **have been opened up** and flattened."
+          ]
+        ]
+      },
+      {
+        "video_id": "PrOrrItkYxk",
+        "title": "A Day in My Life in Canada (English Vlog)",
+        "url": "https://www.youtube.com/watch?v=PrOrrItkYxk",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频记录了博主在加拿大温哥华的一天。她从清晨起床、喂猫、做咖啡开始，完成了一些行政工作后，化妆、做头发并穿戴好赞助商提供的首饰。随后，她和丈夫出门处理一些事情，包括去银行、遛朋友的狗，以及签署新公寓的租约。他们搭乘公交车和城铁前往市中心，途中还遇到了一些小插曲，并在一家名叫Pokerrito的餐厅享用了午餐。最后，在夕阳下沿着海边散步回宠物托管的公寓，以洗澡和睡前的日常护理结束了充实的一天。",
+        "cards": "take you along\n---\n--\n中文核心释义\n带你一起，带着你（尤指在视频中记录并分享日常活动）\n英文例句\nI'm going to take you along throughout my day.\n中文例句\n我今天要带你一起体验我的生活。\n\nadmin work\n---\n--\n中文核心释义\n行政工作；日常琐事（尤指通过电脑完成的）\n英文例句\nI'm going to finish my coffee and reply to emails, make some edits, do whatever other admin work I have to do.\n中文例句\n我要喝完咖啡，回复邮件，做一些编辑工作，以及其他任何我需要做的行政琐事。\n\nput together\n---\n--\n中文核心释义\n打扮得体，整理得当；安排妥当，组合完成\n英文例句\nI want to look put together and classy.\n中文例句\n我想让自己看起来打扮得体又优雅。\n\nnon-stop\n---\n--\n中文核心释义\n不停地，持续不断地\n英文例句\nThese ones, I've been wearing non-stop for the past few days and I've had zero issues.\n中文例句\n这些耳环我过去几天一直戴着，没有任何问题。\n\ndeal with\n---\n--\n中文核心释义\n处理，应对；解决\n英文例句\nWe are now ready to go and deal with some things in the city I was talking about.\n中文例句\n我们现在准备好去处理我刚才说的一些城里的事情了。\n\nrunning late\n---\n--\n中文核心释义\n迟到，耽搁\n英文例句\nWe're running to the SkyTrain station because we're running a little late to our meeting with our landlord.\n中文例句\n我们正往城铁站跑，因为我们去见房东的会议要迟到了。\n\ncannot be bothered to\n---\n--\n中文核心释义\n懒得做，不想费事做（某事）\n英文例句\nI cannot be bothered to get out of the bathtub right now and put them away somewhere.\n中文例句\n我现在懒得从浴缸里出来把它们收起来。",
+        "pronunciation": [
+          {
+            "word": "take you along",
+            "phonetic": "/teɪk juː əˈlɔːŋ/",
+            "description": "注意 take 和 you 的连读，you 和 along 的连读。"
+          },
+          {
+            "word": "admin work",
+            "phonetic": "/ˈædmɪn wɜːrk/",
+            "description": "“admin” 重音在第一个音节，work 中的 /ɜː/ 是卷舌音。"
+          },
+          {
+            "word": "put together",
+            "phonetic": "/pʊt təˈɡɛðər/",
+            "description": "“put” 中的 /ʊ/ 音，\"together\" 重音在中间音节 /ɡɛð/，并与 put 连读。"
+          },
+          {
+            "word": "non-stop",
+            "phonetic": "/ˌnɒnˈstɒp/",
+            "description": "“non” 和 “stop” 中的 /ɒ/ 音，像英文单词 \"pot\" 中的元音。"
+          },
+          {
+            "word": "deal with",
+            "phonetic": "/diːl wɪð/",
+            "description": "“deal” 中的 /iː/ 是长音，注意 \"with\" 浊辅音 /ð/ 的发音，与前面 /l/ 连读。"
+          },
+          {
+            "word": "running late",
+            "phonetic": "/ˈrʌnɪŋ leɪt/",
+            "description": "“running” 的 /ʌ/ 像中文“啊”的短音，\"late\" 中的 /eɪ/ 是双元音。"
+          },
+          {
+            "word": "cannot be bothered to",
+            "phonetic": "/ˈkænɒt biː ˈbɒðərd tuː/",
+            "description": "“cannot” 的 /ɒ/ 音，\"bothered\" 的重音在第一个音节 /bɒ/，并且 /r/ 和 /d/ 音要轻读。"
+          }
+        ],
+        "sentences": [
+          [
+            "Good morning, let's spend the day together. I'm going to take you along throughout my day.",
+            "早上好，我们一起度过今天吧。我会全程带着你。"
+          ],
+          [
+            "I'm going to finish my coffee and reply to emails, make some edits, do whatever other admin work I have to do.",
+            "我要喝完咖啡，回复邮件，做一些编辑工作，以及其他任何我需要做的行政琐事。"
+          ],
+          [
+            "We are now ready to go and deal with some things in the city I was talking about.",
+            "我们现在准备好去处理我刚才说的一些城里的事情了。"
+          ],
+          [
+            "We're running to the SkyTrain station because we're running a little late to our meeting with our landlord.",
+            "我们正往城铁站跑，因为我们去见房东的会议要迟到了。"
+          ],
+          [
+            "I cannot be bothered to get out of the bathtub right now and put them away somewhere.",
+            "我现在懒得从浴缸里出来把它们收起来。"
+          ]
+        ],
+        "grammar": [
+          [
+            "Phrasal verb: put together",
+            "动词短语 \"put together\" 在这里表示“打扮得体，穿着整洁”，强调外观的精心打理和协调。",
+            "I want to look put together and classy."
+          ],
+          [
+            "Modal verb: might be",
+            "“might be” 表示一种可能性或不确定性，比“may be”更弱或更间接。",
+            "We might be five or ten minutes late to our meeting with our landlord."
+          ]
+        ]
+      }
+    ]
   }
 ]
