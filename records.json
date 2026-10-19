@@ -34115,5 +34115,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "topic": "Evening skincare routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "OrElyY7MFVs",
+        "title": "My Evidence-Based Skincare Routine",
+        "url": "https://www.youtube.com/watch?v=OrElyY7MFVs",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "该视频详细介绍了保持皮肤健康的四个基本要素：保湿、防晒、使用维A酸（Retinoid）和洁面。视频强调了每一步骤背后的科学依据，例如保湿如何维持皮肤屏障，防晒霜如何防止紫外线造成的损害和光老化，以及维A酸在促进胶原蛋白生长和细胞再生方面的益处。此外，视频还提供了选择护肤产品的实用建议，并引用皮肤科医生的观点，指出选择适合自己、价格合理且能长期坚持使用的产品，远比追求昂贵但效果不确定的产品更为重要。",
+        "cards": "solid\n---\n--\n可靠的；扎实的\nAll you need to know to get a really solid skincare routine going.\n所有你需要知道的，才能建立一个真正扎实的护肤流程。\n\ngo a little bit deeper into the details\n---\n--\n深入探讨细节\nBut okay, let's go a little bit deeper into the details.\n但是好的，我们来更深入地探讨细节。\n\nenlist the help of\n---\n--\n寻求……的帮助\nSo, I've enlisted the help of my friend and New York trained dermatologist, Dr. Usama Syed.\n因此，我请来了我的朋友，在纽约受训的皮肤科医生乌萨马·赛义德博士帮忙。\n\nbombarding us with\n---\n--\n不断地攻击/轰击（此处指持续暴露于）\nAnd it happens because the sun is constantly bombarding us with UV radiation that mutates the DNA in our skin cells.\n这种情况发生是因为太阳不断地用紫外线辐射轰击我们，这会使我们皮肤细胞中的 DNA 发生突变。\n\nstrip away\n---\n--\n剥夺；除去\nBecause that dries out your skin and strips away your natural protective layer of oils.\n因为那会使你的皮肤干燥，并剥去你天然的保护性油脂层。\n\nreplenish that layer\n---\n--\n补充那一层\nThey will replenish that layer of paste to help keep that barrier intact.\n它们会补充那一层膏状物，以帮助保持皮肤屏障的完整性。\n\nteeter on the edge of\n---\n--\n濒临；处于……的边缘\nIf it doesn't even teeter on the edge of making you feel a bit dry, you wonder whether you need a higher strength.\n如果它甚至没有让你感到有点干燥，你就会怀疑自己是否需要更强的强度。\n\na bit of a faff\n---\n--\n有点麻烦\nIt's a bit of a faff initially because technically a doctor has to review those images and prescribe it for you.\n一开始会有点麻烦，因为从技术上讲，医生必须审核那些图片并为你开处方。",
+        "pronunciation": [
+          {
+            "word": "solid",
+            "phonetic": "/ˈsɒlɪd/",
+            "description": "嗦-粒的, 注意 /ɒ/ 音，不要读成 /ɑː/ 或 /ɔː/"
+          },
+          {
+            "word": "enlist",
+            "phonetic": "/ɪnˈlɪst/",
+            "description": "因-裂斯特, 注意重音在第二音节，/ɪ/ 音短促"
+          },
+          {
+            "word": "bombarding",
+            "phonetic": "/bɒmˈbɑːdɪŋ/",
+            "description": "帮-巴丁, 注意第一个 b 不发音，重音在第二音节 /bɑː/"
+          },
+          {
+            "word": "strip away",
+            "phonetic": "/strɪp əˈweɪ/",
+            "description": "斯特瑞普-呃-喂, 注意 /ɪ/ 音和连读"
+          },
+          {
+            "word": "replenish",
+            "phonetic": "/rɪˈplɛnɪʃ/",
+            "description": "瑞-普莲-尼什, 注意重音在第二音节"
+          },
+          {
+            "word": "teeter",
+            "phonetic": "/ˈtiːtər/",
+            "description": "替特, 注意长 /iː/ 音"
+          },
+          {
+            "word": "faff",
+            "phonetic": "/fæf/",
+            "description": "法夫, 注意 /æ/ 音，类似中文的“啊”和“呃”之间"
+          }
+        ],
+        "sentences": [
+          [
+            "All you need is a few things.",
+            "你只需要几样东西。"
+          ],
+          [
+            "Let's go a little bit deeper into the details.",
+            "让我们更深入地探讨细节。"
+          ],
+          [
+            "I've enlisted the help of my friend and New York trained dermatologist.",
+            "我请来了我的朋友，一位在纽约受训的皮肤科医生帮忙。"
+          ],
+          [
+            "The problem is that there are millions of skincare products out there.",
+            "问题是市面上有数百万种护肤品。"
+          ],
+          [
+            "What are the actions that I can take right now, today, that my future self would be very glad for?",
+            "我现在、今天可以采取什么行动，能让未来的自己感到非常高兴？"
+          ]
+        ],
+        "grammar": [
+          [
+            "Present Participle as Complement",
+            "现在分词作补语，补充说明动词",
+            "makes our skin sag and look old. (makes是动词，skin是宾语，sag和look old是宾语补语。虽然视频里没有出现ing形式，但是这里是同一个知识点。)"
+          ],
+          [
+            "\"What... is\" structure",
+            "用于强调某事物的本质或定义",
+            "That's what the sun does to your skin if you regularly expose to it without any protection. (这就是如果你经常不加防护地暴露在阳光下，阳光会对你的皮肤造成的伤害。)"
+          ]
+        ]
+      },
+      {
+        "video_id": "U0svrc0TDQM",
+        "title": "Hailey Bieber&#39;s skincare routine for a super glowy complexion | Vogue France",
+        "url": "https://www.youtube.com/watch?v=U0svrc0TDQM",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，海莉·比伯向观众展示了她为出席在巴黎的Rhode品牌发布派对所做的化妆前护肤流程。她详细讲解了如何使用Rhode的Glazing Milk、Peptide Glazing Fluid和Barrier Restore Cream，并通过混合高光液与Glazing Milk来打造健康光泽的妆前底妆。最后，她还涂抹了该品牌新推出的有色润唇膏，强调了嘴唇的护理，并表示这就是她日常的妆前护肤步骤。",
+        "cards": "walk you guys through\n---\n--\n向（你们）详细讲解/展示\nI'm going to walk you guys through how I prep my skin before I get my makeup done.\n我将向你们详细展示我是如何在化妆前准备我的皮肤的。\n\nsoaks right into\n---\n--\n迅速渗入\nbecause it just soaks right into the skin.\n因为它能迅速渗入皮肤。\n\nsink in\n---\n--\n渗透，被吸收\nI feel like it really helps all of my other products sink in that I put on top of it.\n我觉得它真的能帮助我之后涂抹的所有产品渗透到皮肤里。\n\ngo in with\n---\n--\n开始使用，涂抹\nNext I go in with the Peptide Glazing Fluid.\n接着我开始涂抹胜肽光泽精华液。\n\ncreamy and rich\n---\n--\n柔滑丰润\nIt's so creamy and rich, so you really only need a tiny bit.\n它非常柔滑丰润，所以你只需要一点点。\n\ntear up\n---\n--\n流泪，湿润\nMy eyes are really sensitive, especially when I sleep, they tear up.\n我的眼睛很敏感，尤其是当我睡觉时，它们会湿润。\n\nthere you have it\n---\n--\n就是这样，大功告成\nAnd there you have it. That is how I prep my skin for my makeup.\n就是这样。这就是我化妆前准备皮肤的方法。",
+        "pronunciation": [
+          {
+            "word": "walk you guys through",
+            "phonetic": "/wɔːk juː ɡaɪz θruː/",
+            "description": "\"walk\" 的 \"l\" 不发音，\"through\" 的 \"th\" 是摩擦音，\"gh\" 不发音。"
+          },
+          {
+            "word": "soaks right into",
+            "phonetic": "/soʊks raɪt ˈɪntuː/",
+            "description": "\"soaks\" 的 \"s\" 发 /s/ 音，\"right\" 的 \"gh\" 不发音，和 \"into\" 的连读。"
+          },
+          {
+            "word": "sink in",
+            "phonetic": "/sɪŋk ɪn/",
+            "description": "\"sink\" 的 \"nk\" 发 /ŋk/ 音，和 \"in\" 连读。"
+          },
+          {
+            "word": "go in with",
+            "phonetic": "/ɡoʊ ɪn wɪð/",
+            "description": "\"go\" 和 \"in\" 连读，\"with\" 的 \"th\" 是浊摩擦音 /ð/。"
+          },
+          {
+            "word": "creamy and rich",
+            "phonetic": "/ˈkriːmi ænd rɪtʃ/",
+            "description": "\"creamy\" 的 \"ea\" 发 /iː/ 音，\"rich\" 的 \"ch\" 发 /tʃ/ 音。"
+          },
+          {
+            "word": "tear up",
+            "phonetic": "/tɪər ʌp/",
+            "description": "\"tear\" 发 /tɪər/ 音 (表示流泪，不是撕裂的 /tɛər/)，和 \"up\" 连读。"
+          },
+          {
+            "word": "there you have it",
+            "phonetic": "/ðɛər juː hæv ɪt/",
+            "description": "\"there\" 的 \"th\" 是浊摩擦音 /ð/，\"have\" 的 \"v\" 发 /v/ 音，和 \"it\" 连读。"
+          }
+        ],
+        "sentences": [
+          [
+            "I'm in Paris tonight getting ready to go to my Rhode party.",
+            "我今晚在巴黎，正准备去我的Rhode派对。"
+          ],
+          [
+            "I always like to do a more rich cream when I'm going to get my makeup done.",
+            "我在化妆前总是喜欢用更滋润的乳霜。"
+          ],
+          [
+            "These layers so nicely together, and are just really, really lovely prep for the skin.",
+            "这些产品层层叠加效果很好，是皮肤非常棒的妆前准备。"
+          ],
+          [
+            "I like to take like a really sheer, glowy highlighter or glow drops.",
+            "我喜欢用那种非常轻薄、有光泽的高光液或发光液。"
+          ],
+          [
+            "Usually if I had some more time and I wasn't rushing to get ready, I would probably do a mask.",
+            "通常如果我有更多时间，而且不赶着准备，我可能会敷个面膜。"
+          ]
+        ],
+        "grammar": [
+          [
+            "动词短语 (Phrasal verbs)",
+            "视频中频繁使用动词短语来描述动作和过程，使得表达更自然、口语化。",
+            "\"walk you guys through\", \"soaks right into\", \"sink in\", \"go in with\", \"tear up\", \"brush up\""
+          ],
+          [
+            "强调用法 (Emphasis with \"really\" and repetition)",
+            "说话者通过重复词语或使用 \"really\" 来强调某种感受或效果，使语气更具感染力。",
+            "\"really helps\", \"really, really lovely prep\", \"so juicy and dewy\""
+          ]
+        ]
+      }
+    ]
   }
 ]
