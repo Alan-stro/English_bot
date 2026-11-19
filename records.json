@@ -35815,5 +35815,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "topic": "My dog walking routine",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "92abvfkGMPI",
+        "title": "4 Quick Ways To Exercise Your Dog Without &quot;Walking&quot;",
+        "url": "https://www.youtube.com/watch?v=92abvfkGMPI",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频介绍了四种无需遛狗即可高效锻炼狗狗身心的方法：受限召回、拔河、捡球和技巧训练。这些方法不仅能消耗狗狗的精力，还能刺激它们的大脑，有助于减少不良行为。视频详细讲解了如何通过这些活动与狗狗互动，包括如何激发狗狗的兴趣，以及在训练中保持控制的关键技巧，帮助主人与狗狗建立更强的联系。",
+        "cards": "make the most of your time\n---\n--\n充分利用时间\n英文例句：When you have a puppy in training, it's really important to make the most of your time.\n中文例句：在训练幼犬时，充分利用时间非常重要。\n\ntake the edge off\n---\n--\n缓解压力；减轻不适\n英文例句：We really want to do things efficiently, do it as quickly as possible to take the edge off while they travel.\n中文例句：我们真的希望能高效地完成事情，尽可能快地做，以缓解它们旅行时的压力。\n\nnuisance behaviors\n---\n--\n令人讨厌的行为\n英文例句：For those of you who are dealing with nuisance behaviors... your pup may need a little bit more of an outlet.\n中文例句：对于那些正在处理惹人厌行为的人来说……你的狗狗可能需要更多的发泄方式。\n\nburn off energy\n---\n--\n消耗精力\n英文例句：I'm going to show you four quick ways to exercise your dog that have nothing to do with going for a walk so that you can exercise both their body and their brain.\n中文例句：我将向你展示四种快速消耗狗狗精力的方法，这些方法与遛狗无关，这样你既能锻炼它们的身体，也能锻炼它们的大脑。\n\nbuild value into something\n---\n--\n为……增添价值\n英文例句：Restrained recall is a great way to build value into something like teaching your dog their name.\n中文例句：受限召回是为教狗狗名字等训练增添价值的好方法。\n\ncompromise your control\n---\n--\n损害你的控制力\n英文例句：It's really important that when you're playing retrieve that you don't compromise your control by letting your dog be in a situation where they can take the toy and run off with it.\n中文例句：玩衔取游戏时，非常重要的一点是不要让狗狗处于能叼走玩具并跑掉的情况，从而损害你的控制力。\n\nproblem-solve\n---\n--\n解决问题\n英文例句：The other great part about trick training is it teaches your dog to problem-solve a little bit.\n中文例句：技巧训练的另一个好处是它能教会你的狗狗如何解决问题。",
+        "pronunciation": [
+          {
+            "word": "make the most of your time",
+            "phonetic": "/meɪk ðə moʊst əv yʊər taɪm/",
+            "description": "注意 'most of' 和 'your time' 的连读和弱读。"
+          },
+          {
+            "word": "take the edge off",
+            "phonetic": "/teɪk ði ɛdʒ ɔːf/",
+            "description": "'edge off' 连读，'edge' 的 /dʒ/ 音。"
+          },
+          {
+            "word": "nuisance behaviors",
+            "phonetic": "/ˈnjuːsəns bɪˈheɪvyərz/",
+            "description": "'nuisance' 重音在前，'behaviors' 重音在第二音节。"
+          },
+          {
+            "word": "burn off energy",
+            "phonetic": "/bɜːrn ɔːf ˈɛnərdʒi/",
+            "description": "'burn off' 连读，'energy' 重音在前。"
+          },
+          {
+            "word": "build value into something",
+            "phonetic": "/bɪld ˈvæljuː ˈɪntuː ˈsʌmθɪŋ/",
+            "description": "'build value' 连读，'value' 的发音。"
+          },
+          {
+            "word": "compromise your control",
+            "phonetic": "/ˈkɒmprəmaɪz yʊər kənˈtroʊl/",
+            "description": "'compromise' 重音在前，'control' 重音在第二音节。"
+          },
+          {
+            "word": "problem-solve",
+            "phonetic": "/ˈprɒbləm-sɒlv/",
+            "description": "'problem' 和 'solve' 自然连读，重音在前。"
+          }
+        ],
+        "sentences": [
+          [
+            "When you have a puppy in training, it's really important to make the most of your time.",
+            "在训练幼犬时，充分利用时间非常重要。"
+          ],
+          [
+            "A lot of times, a little extra exercise, taking, you know, burning off some of that energy, will reduce the likelihood of your dog making those bad choices.",
+            "很多时候，额外多做一点运动，消耗掉一些精力，会降低你的狗狗做出那些不良选择的可能性。"
+          ],
+          [
+            "The restrained recall is a really great way to get your dog motivated about some kind of command.",
+            "受限召回是让你的狗狗对某种指令产生动力的绝佳方式。"
+          ],
+          [
+            "Something that people often do is stuff the toy in the dog's face, trying to show them that they've got this really fun thing that the dog will probably want to play with.",
+            "人们常做的一件事是把玩具塞到狗狗面前，试图告诉它们这有个非常好玩的东西，狗狗可能就会想玩。"
+          ],
+          [
+            "In order to get her to bring the toy back to me quickly, I always want to move away from her to try and encourage that chase drive.",
+            "为了让她快速地把玩具带回给我，我总是要远离她，试图激发她的追逐欲望。"
+          ]
+        ],
+        "grammar": [
+          [
+            "**相对从句 (Relative Clause)**",
+            "用 'that' 引导的限制性定语从句，修饰名词。",
+            "`Loop your leash around a stationary object... that's not going to move.` (2:49)"
+          ],
+          [
+            "**\"No matter what\" 结构**",
+            "“No matter what + 名词短语 + 从句”表示“无论什么……”，引导一个让步状语从句。",
+            "`No matter what your dog's ability to listen, I want you to make sure that you have a leash or a line attached to them.` (2:38)"
+          ]
+        ]
+      },
+      {
+        "video_id": "gPMkBT_GGTs",
+        "title": "Why Your Dog Is Still Pulling on Leash And How To Fix It #73",
+        "url": "https://www.youtube.com/watch?v=gPMkBT_GGTs",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "视频中，Susan Garrett 指出人们在训练狗狗时常犯的最大错误是“堆积式训练”（lumping），即一次性给狗狗太多任务和干扰，导致它们不知所措。她通过教杂耍和骑自行车，以及见到名人的类比，形象地说明了这种训练方式对狗狗的负面影响。她建议采用“分拆式训练”（splitting），将遛狗行为分解成小步骤，使用“站台训练”等工具，每天短时间重复训练，并逐步引入外部环境的干扰，最终让狗狗学会更好地在牵引绳下行走。",
+        "cards": "look up to\n---\n--\n仰慕；敬重\n英文例句：Walking down the street with somebody you've always looked up to.\n中文例句：她一直很仰慕她的导师。\n\nfaced with\n---\n--\n面临；面对\n英文例句：That's the equivalent of what most dogs are faced with when they're being taught to walk on a leash by their owner.\n中文例句：我们面临着做出一个艰难的决定。\n\noverwhelm\n---\n--\n使不知所措；使难以承受\n英文例句：They overwhelm the dog.\n中文例句：太多的信息让他感到不知所措。\n\nambiguous\n---\n--\n模棱两可的；不明确的\n英文例句：That certain spot is pretty ambiguous.\n中文例句：他的回应很模糊，我不知道他是什么意思。\n\ncommitted to\n---\n--\n致力于；下定决心做某事\n英文例句：I'm committed to have my dog walk on leash better.\n中文例句：她致力于环保事业。\n\nstrategic\n---\n--\n有策略的；战略性的\n英文例句：If you are strategic about this, it won't take very long before you can do your entire loop.\n中文例句：这是一个战略性举动，旨在增加市场份额。\n\nfade\n---\n--\n逐渐消失；变淡\n英文例句：We're starting to fade that big target.\n中文例句：随着时间的推移，旧照片的颜色会逐渐褪色。\n\nideally\n---\n--\n理想地；最好\n英文例句：Ideally, you're not walking on a leash for seven days.\n中文例句：理想情况下，这个项目应该在一个月内完成。",
+        "pronunciation": [
+          {
+            "word": "look up to",
+            "phonetic": "/lʊk ʌp tuː/",
+            "description": "\"look\"的/ʊ/音要短促，\"up\"的/ʌ/音要轻，\"to\"通常弱读为/tə/。"
+          },
+          {
+            "word": "faced with",
+            "phonetic": "/feɪst wɪð/",
+            "description": "\"faced\"的尾音/t/要读出来，与\"with\"的/w/连读，不要漏掉\"with\"的/ð/音。"
+          },
+          {
+            "word": "overwhelm",
+            "phonetic": "/ˌoʊvərˈwɛlm/",
+            "description": "重音在第二个音节，注意/w/和/h/的结合发音。"
+          },
+          {
+            "word": "ambiguous",
+            "phonetic": "/æmˈbɪɡjuəs/",
+            "description": "重音在第二个音节/bɪɡ/，注意/ɡ/和/ju/的连读。"
+          },
+          {
+            "word": "committed to",
+            "phonetic": "/kəˈmɪtɪd tuː/",
+            "description": "重音在第二个音节/mɪt/，注意\"ed\"发/ɪd/，\"to\"通常弱读为/tə/。"
+          },
+          {
+            "word": "strategic",
+            "phonetic": "/strəˈtiːdʒɪk/",
+            "description": "重音在第二个音节/tiː/，注意/dʒ/的发音。"
+          },
+          {
+            "word": "fade",
+            "phonetic": "/feɪd/",
+            "description": "注意/eɪ/音和结尾的/d/要清晰。"
+          },
+          {
+            "word": "ideally",
+            "phonetic": "/aɪˈdiːəli/",
+            "description": "重音在第二个音节/diː/，注意/əli/的连读。"
+          }
+        ],
+        "sentences": [
+          [
+            "Imagine if you came to me and said, \"Hey Susan, could you teach me how to juggle?\"",
+            "想象一下，如果你来找我说，“嘿，Susan，你能教我怎么玩杂耍吗？”"
+          ],
+          [
+            "How successful do you think you'd be?",
+            "你觉得你会多成功？"
+          ],
+          [
+            "That's the equivalent of what most dogs are faced with when they're being taught to walk on a leash by their owner.",
+            "这相当于大多数狗狗在主人教它们遛狗时所面临的情况。"
+          ],
+          [
+            "Today, I'm going to share with you the number one mistake that people make when they're trying to teach their dogs to walk on a loose leash.",
+            "今天，我将和大家分享人们在教狗狗松绳遛狗时常犯的头号错误。"
+          ],
+          [
+            "I'm committed to have my dog walk on leash better.",
+            "我致力于让我的狗狗更好地在牵引绳下行走。"
+          ]
+        ],
+        "grammar": [
+          [
+            "虚拟语气 (Conditional Sentence Type 2)",
+            "用于表达与现在或将来事实相反或极不可能发生的假设。结构通常是 \"If + 主语 + 动词过去式, 主语 + would/could/might + 动词原形\"。",
+            "视频例子: \"Imagine if you *came* to me and said, 'Hey Susan, could you teach me how to juggle?' and I said, 'Sure, grab a bike.' How successful do you think you'd be?\""
+          ],
+          [
+            "动词短语 \"be faced with\"",
+            "意为“面临着（挑战、困难等）”，强调主体被动地遭遇某种情况。",
+            "视频例子: \"That's the equivalent of what most dogs *are faced with* when they're being taught to walk on a leash by their owner.\""
+          ]
+        ]
+      }
+    ]
   }
 ]
