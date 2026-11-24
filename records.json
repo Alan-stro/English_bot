@@ -36676,5 +36676,164 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "What's for dinner tonight",
+    "difficulty": "B2",
+    "videos": [
+      {
+        "video_id": "qdFISYZgya4",
+        "title": "When I don&#39;t feel like cooking, my husband makes this! Quick &amp; easy ground beef and potato dinner",
+        "url": "https://www.youtube.com/watch?v=qdFISYZgya4",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这个视频展示了如何制作一道美味的炖牛肉和土豆菜肴，以及一份清爽的黄瓜牛油果沙拉作为配菜。首先，将牛肉碎与洋葱、大蒜和番茄酱一起烹饪，然后加入胡萝卜、土豆、香草和牛肉高汤炖煮。最后，通过捣碎部分土豆使炖菜汤汁浓稠。沙拉则由切片黄瓜、香葱、香菜或欧芹、牛油果、青柠汁、盐、胡椒和橄榄油混合而成。",
+        "cards": "Melt into\n---\n--\n（使）融入；融化并混合\nI like the onion small here so it melts into the broth later.\n我喜欢把洋葱切小，这样它之后会融化到汤汁里。\n\nChunky\n---\n--\n（食物）块状的；大块的\nNot too small, We want them tender, but still chunky.\n不要切得太小，我们希望它们煮得软烂，但仍然保持块状。\n\nScrape the bottom\n---\n--\n刮锅底\nScrape the bottom of the pot as you stir.\n搅拌时刮一下锅底。\n\nSimmer\n---\n--\n炖；煨；用文火煮\nCover the pot slightly and let it simmer for 30 to 35 minutes.\n把锅盖稍微盖上，用文火炖煮30到35分钟。\n\nDrizzle\n---\n--\n淋上（液体）；细细地洒\nDrizzle with olive oil.\n淋上橄榄油。\n\nRichness\n---\n--\n（味道）浓郁；（食物）油腻；（口感）醇厚\nThis keeps the salad bright and helps balance the richness of the main dish.\n这让沙拉保持清爽，并有助于平衡主菜的浓郁口感。",
+        "pronunciation": [
+          {
+            "word": "Melt into",
+            "phonetic": "/mɛlt ˈɪntuː/",
+            "description": "“Melt”注意尾音/t/要轻读，与“into”连读自然。"
+          },
+          {
+            "word": "Chunky",
+            "phonetic": "/ˈtʃʌŋki/",
+            "description": "“Chunky”的“ch”发音类似中文的“吃”，ng发鼻音。"
+          },
+          {
+            "word": "Scrape the bottom",
+            "phonetic": "/skreɪp ðə ˈbɒtəm/",
+            "description": "“Scrape”中的/r/音要卷舌，与“the”连读，bottom的/t/可以是Flap T，也可以是清晰的/t/。"
+          },
+          {
+            "word": "Simmer",
+            "phonetic": "/ˈsɪmər/",
+            "description": "“Simmer”注意/s/和/m/的发音，以及结尾的轻声/ər/。"
+          },
+          {
+            "word": "Drizzle",
+            "phonetic": "/ˈdrɪzl/",
+            "description": "“Drizzle”中的“dr”发音类似“准”，尾部/zəl/要自然流畅。"
+          },
+          {
+            "word": "Richness",
+            "phonetic": "/ˈrɪtʃnəs/",
+            "description": "“Richness”的“ch”发音类似中文的“吃”，中间的/n/和/əs/要清晰。"
+          }
+        ],
+        "sentences": [
+          [
+            "Stop making ground beef the same way",
+            "别再老一套地做牛肉碎了"
+          ],
+          [
+            "I like the onion small here so it melts into the broth later",
+            "我喜欢把洋葱切小，这样它之后会融化到汤汁里。"
+          ],
+          [
+            "Do you usually make beef stew with ground beef or beef pieces?",
+            "你通常是用牛肉碎还是牛肉块来炖牛肉呢？"
+          ],
+          [
+            "My kids don't leave a bite of this salad",
+            "我的孩子们连这沙拉的一口都不会剩下。"
+          ],
+          [
+            "This makes the broth thicker without adding cream",
+            "这样能让汤汁更浓稠，而不用加奶油。"
+          ]
+        ],
+        "grammar": [
+          [
+            "without + doing sth 结构",
+            "表示“没有做某事”或“不通过做某事”",
+            "\"The avocado makes this salad creamy without needing a heavy dressing\" 和 \"This makes the broth thicker without adding cream\""
+          ]
+        ]
+      },
+      {
+        "video_id": "E4QTpcbV2_A",
+        "title": "If you have potatoes and ground beef… make THIS for dinner!",
+        "url": "https://www.youtube.com/watch?v=E4QTpcbV2_A",
+        "target_level": "B2",
+        "actual_level": "B2",
+        "from_whitelist": false,
+        "summary": "这个视频展示了一道美味的土豆牛肉砂锅菜谱。首先，将牛肉用盐和胡椒调味并煎至金黄，然后加入葱头、蒜、番茄酱和辣椒粉炖煮入味。接着，将切成薄片的土豆铺在牛肉上，淋上由浓奶油、法式酸奶油、黄油、肉豆蔻和芥末制成的奶油酱，最后撒上两种切达奶酪。整道菜在烤箱中烘烤至土豆软烂、奶酪金黄即可。",
+        "cards": "brown\n---\n--\n（使）变成褐色；炒（肉）至变色\nLet it brown a little... that's where the flavor starts.\n让它稍微煎至变色……那样味道就开始散发出来了。\n\nshallot\n---\n--\n小洋葱；葱头\nAdd shallots.\n加入葱头。\n\nsimmer\n---\n--\n（文火）炖，煨\nSimmer for 7 minutes.\n用文火炖7分钟。\n\ntender and golden\n---\n--\n软嫩金黄\nBake at 350°F / 180°C for 45-60 minutes, until tender and golden.\n以 350°F / 180°C 烘烤 45-60 分钟，直到软嫩金黄。\n\nCrème fraîche\n---\n--\n法式酸奶油\n2 tbsp Crème fraîche or sour cream.\n加入 2 汤匙法式酸奶油或酸奶油。\n\na pinch of\n---\n--\n一小撮；少量\nAdd a pinch of nutmeg.\n加入一小撮肉豆蔻。\n\nWorcestershire sauce\n---\n--\n伍斯特酱\nAdd a little Worcestershire sauce (optional).\n加入一点伍斯特酱（可选）。",
+        "pronunciation": [
+          {
+            "word": "brown",
+            "phonetic": "/braʊn/",
+            "description": "注意 /aʊ/ 音，发音像中文的“啊屋”连读。"
+          },
+          {
+            "word": "shallot",
+            "phonetic": "/ˈʃæl.ət/",
+            "description": "重音在第一个音节，/ʃ/ 发“sh”的音，/ə/ 是弱读元音，像中文的“呃”。"
+          },
+          {
+            "word": "simmer",
+            "phonetic": "/ˈsɪm.ər/",
+            "description": "/ɪ/ 音像中文的“衣”但更短促，/ər/ 是弱读音，舌头不卷。"
+          },
+          {
+            "word": "tender and golden",
+            "phonetic": "/ˈtɛn.dər ənd ˈɡoʊl.dən/",
+            "description": "“tender”中的/ɛ/像“哎”音，“golden”中的/oʊ/像“欧”音，注意/dən/是弱读。"
+          },
+          {
+            "word": "Crème fraîche",
+            "phonetic": "/ˌkrem ˈfreɪʃ/",
+            "description": "“Crème”是法语词，发音接近“krem”，/eɪ/发音像“ei”，/ʃ/发“sh”音。"
+          },
+          {
+            "word": "a pinch of",
+            "phonetic": "/ə pɪntʃ ɒv/",
+            "description": "“pinch”中的/ɪ/短促，/ntʃ/连读，\"of\"弱读成/ɒv/或/əv/。"
+          },
+          {
+            "word": "Worcestershire sauce",
+            "phonetic": "/ˈwʊs.tər.ʃɪər sɔːs/",
+            "description": "这是个发音较难的词。“Worcester”发音像“woo-ster”，中间的c和e不发音，-shire 发音像“sher”。"
+          }
+        ],
+        "sentences": [
+          [
+            "Let it brown a little... that's where the flavor starts.",
+            "让它稍微煎至变色……那样味道就开始散发出来了。"
+          ],
+          [
+            "I know some will say, this is more than just potatoes and beef... but it's all simple ingredients.",
+            "我知道有些人会说这不仅仅是土豆和牛肉……但它都是简单的食材。"
+          ],
+          [
+            "Do you usually add paprika to your beef?",
+            "你通常会在牛肉里加辣椒粉吗？"
+          ],
+          [
+            "Do you like your potatoes crispy or creamy?",
+            "你喜欢你的土豆脆脆的还是软糯的？"
+          ],
+          [
+            "Warm gently until smooth. Do not boil.",
+            "轻轻加热直到顺滑。不要煮沸。"
+          ]
+        ],
+        "grammar": [
+          [
+            "祈使句用于食谱指示",
+            "祈使句在食谱或教程中非常常见，用于直接给出操作指令，通常省略主语“you”。",
+            "Simmer for 7 minutes."
+          ],
+          [
+            "“until”引导时间状语从句",
+            "\"until\" 用于表示某个动作或状态持续到某个时间点，强调截止时间。",
+            "Bake [...] until tender and golden."
+          ]
+        ]
+      }
+    ]
   }
 ]
